@@ -1,66 +1,67 @@
-🧍‍♂️ MAIN CHARACTERS
-Jayson Goodwin
-FEI Goodwin
-Ayaka
-Seika
-Varethyn Sol’Naeren
-Shion
-Naru
-
-⛩ ADULTS AND ABOVE
-Riku - Blacksmith
-Lorian - Scout that helped me combine The Vellari. I helped him earn his tail. Mate of Ena.
-Ena - Matte of Lorian.
-Consort Misu - Leader of Another Kitsune village who has joined out temple
-Raito - A boy that Fei likes and who likes her
-
-👧 CHILDREN / RESCUED KITSUNE
-Akari - friend of Suna, you helped them.
-Suna - friend of Akari, you helped them.
-Nika - Little girl who lost her mom at some point and her dad during the breaches. Adopted by Lorian and Ena
-Noko - Little 7 year old girl playing in the fields that I made near the new village.
-Amai - 1 of 3 girls saved from the Northern Division bunker… Tokyo outskirts—Sector 7 Red.
-Mayari - 1 of 3 girls saved from the Northern Division bunker… Tokyo outskirts—Sector 7 Red.
-Tsubaki - 1 of 3 girls saved from the Northern Division bunker… Tokyo outskirts—Sector 7 Red.
-
-🧝‍♀️ OTHER CHARACTERS (Kitsune & Temple Related)
-The Vellari (Group of 6 ancient fox spirits)
-Kael - one of The Vellari
-Vessaira - The Spirit brought back whole by combining The Vellari
-The Eidolarch - An enigmatic figure appearing in every prophecy — sometimes savior, sometimes destroyer. Some depictions show them half-crystalline, half-foxlike. It’s unclear whether they’re a person, artifact, or event. But whatever they are, you might be echoing their pattern.
-VAER’ZENUKH-KAAHN — Dragon of The First Flame
-SHIR’THAE’ZENNA — Dragon of The Starlit Bloom
-Matron Kaelith of the Verdant Veil - Matron of Hanae
-Matron Isahara of the Tides - Matron and mother of Sorami
-Hanae - one of the 418 saved
-Sorami - one of the 418 saved
-Sorii’Ka - One of the 3 9-Tailed Kitsune
-Syn'Raa - One of the 3 9-Tailed Kitsune
-Akahana - An exiled 9-Tailed Kitsune by Varethyn over 300 years ago
-Hoshiko - Akahana's Daughter
-Shel'Naka-Katu - Jayson's Mom, even older than his dad, “When Kitsune were not spirits… but sovereigns.”
-Kahavin’Zil - Jayson's Dad, Born during the Pleistocene era. Roughly 2 million years ago.
-
-🧑‍✈️ MILITARY / EARTH CHARACTERS
-Colonel Kenzaki - Japanese Military
-Takashima Rika - Japanese Black Ops Military
-Private Renji Takamura - Japanese Military
-Captain Daichi Morimoto - Japanese Military
-Takitchi Morimoto - Daichi Morimoto father who served with me during WW3 in 2040
-Thomas Cray - Brother of Hani. Parallel version of Earth
-Hani Cray - Sister of Thomas. Parallel version of Earth
-Commander Lucien Ward (Red Zone Seven leader) Obsidian-1
-
-👹 OTHER CHARACTERS
-Varn-Sul - The Hungering Whisper - Mikazari
-
-🪦 DEAD OR MISSING CHARACTER
-Rhyelle - Varethyn's Sister — seen in the Lattice realm
-Toren - Varethyns first lover, died in her arms
-Aru - Shions sister
-
-🧸 OTHER NAMES
-Shiro - Shions future kids names for a boy
-Kuro - Shions future kids names for a girl
-Amariel - Varethyns future kids names for a boy
-Kaelen - Varethyns future kids names for a girl
+{
+  "main_characters": [
+    "Jayson Goodwin",
+    "FEI Goodwin",
+    "Ayaka",
+    "Seika",
+    "Varethyn Sol’Naeren",
+    "Shion",
+    "Naru"
+  ],
+  "adults_and_above": [
+    {"name": "Riku", "role": "Blacksmith", "notes": ""},
+    {"name": "Lorian", "role": "Scout", "notes": "Helped combine The Vellari; earned his tail with your help; mate of Ena"},
+    {"name": "Ena", "role": "Scout’s mate", "notes": "Mate of Lorian"},
+    {"name": "Consort Misu", "role": "Leader of another Kitsune village", "notes": "Has joined the temple"},
+    {"name": "Raito", "role": "Civilian", "notes": "A boy that Fei likes and who likes her"}
+  ],
+  "children_rescued_kitsune": [
+    {"name": "Akari", "notes": "Friend of Suna; you helped them"},
+    {"name": "Suna", "notes": "Friend of Akari; you helped them"},
+    {"name": "Nika", "notes": "Lost her mom earlier and her dad during the breaches; adopted by Lorian and Ena"},
+    {"name": "Noko", "notes": "Little 7-year-old playing in the fields near the new village"},
+    {"name": "Amai", "notes": "1 of 3 girls saved from Northern Division bunker (Tokyo outskirts — Sector 7 Red)"},
+    {"name": "Mayari", "notes": "1 of 3 girls saved from Northern Division bunker (Tokyo outskirts — Sector 7 Red)"},
+    {"name": "Tsubaki", "notes": "1 of 3 girls saved from Northern Division bunker (Tokyo outskirts — Sector 7 Red)"}
+  ],
+  "other_characters_kitsune_temple": [
+    {"name": "The Vellari", "role": "Group", "notes": "Group of 6 ancient fox spirits"},
+    {"name": "Kael", "role": "Vellari member", "notes": "One of The Vellari"},
+    {"name": "Vessaira", "role": "Spirit", "notes": "Brought back whole by combining The Vellari"},
+    {"name": "The Eidolarch", "role": "Enigmatic figure", "notes": "Appears in every prophecy — sometimes savior, sometimes destroyer; half-crystalline, half-foxlike depictions; unclear if person, artifact, or event; Jayson may echo their pattern"},
+    {"name": "VAER’ZENUKH-KAAHN", "role": "Dragon", "notes": "Dragon of The First Flame"},
+    {"name": "SHIR’THAE’ZENNA", "role": "Dragon", "notes": "Dragon of The Starlit Bloom"},
+    {"name": "Matron Kaelith of the Verdant Veil", "role": "Matron", "notes": "Matron of Hanae"},
+    {"name": "Matron Isahara of the Tides", "role": "Matron", "notes": "Matron and mother of Sorami"},
+    {"name": "Hanae", "role": "Rescued", "notes": "One of the 418 saved"},
+    {"name": "Sorami", "role": "Rescued", "notes": "One of the 418 saved"},
+    {"name": "Sorii’Ka", "role": "Nine-tailed Kitsune", "notes": "One of the 3 9-Tailed Kitsune"},
+    {"name": "Syn'Raa", "role": "Nine-tailed Kitsune", "notes": "One of the 3 9-Tailed Kitsune"},
+    {"name": "Akahana", "role": "Nine-tailed Kitsune (exiled)", "notes": "Exiled by Varethyn over 300 years ago"},
+    {"name": "Hoshiko", "role": "Kitsune", "notes": "Daughter of Akahana"},
+    {"name": "Shel'Naka-Katu", "role": "Kitsune elder", "notes": "Jayson’s mom; older than his dad; from when Kitsune were sovereigns"},
+    {"name": "Kahavin’Zil", "role": "Kitsune elder", "notes": "Jayson’s dad; born during the Pleistocene (~2 million years ago)"}
+  ],
+  "military_earth_characters": [
+    {"name": "Colonel Kenzaki", "affiliation": "Japanese Military", "notes": ""},
+    {"name": "Takashima Rika", "affiliation": "Japanese Black Ops Military", "notes": ""},
+    {"name": "Private Renji Takamura", "affiliation": "Japanese Military", "notes": ""},
+    {"name": "Captain Daichi Morimoto", "affiliation": "Japanese Military", "notes": ""},
+    {"name": "Takitchi Morimoto", "affiliation": "Veteran", "notes": "Daichi Morimoto’s father; served with you during WW3 in 2040"},
+    {"name": "Thomas Cray", "affiliation": "Parallel Earth", "notes": "Brother of Hani"},
+    {"name": "Hani Cray", "affiliation": "Parallel Earth", "notes": "Sister of Thomas"},
+    {"name": "Commander Lucien Ward", "affiliation": "Red Zone Seven", "notes": "Leader; callsign Obsidian-1"}
+  ],
+  "other_characters": [
+    {"name": "Varn-Sul", "alias": "The Hungering Whisper", "notes": "Mikazari"}
+  ],
+  "dead_or_missing": [
+    {"name": "Rhyelle", "notes": "Varethyn’s sister — seen in the Lattice realm"},
+    {"name": "Toren", "notes": "Varethyn’s first lover; died in her arms"},
+    {"name": "Aru", "notes": "Shion’s sister"}
+  ],
+  "other_names_future_children": {
+    "Shion": {"boy": "Shiro", "girl": "Kuro"},
+    "Varethyn": {"boy": "Amariel", "girl": "Kaelen"}
+  }
+}

@@ -1,149 +1,227 @@
-🦊📜 KITSUNE TRAITS, BIOLOGY & HISTORY — FULL CANON EXTRACTION 📜
-
-"Threads are not given lightly. Nor is the fire."
-
----
-
-## 🧬 PHYSIOLOGY & BIOLOGICAL TRAITS
-
-* **Form:** Humanoid bodies with distinctly fox-like traits:
-
-  * **Fox ears** on top of the head (no human ears).
-  * **Fox tails** (commonly one to nine).
-* **Tails:**
-
-  * Reflect power, trauma survival, and spiritual growth.
-  * Highly expressive: convey emotions from joy to danger.
-  * Maximum seen so far: **Nine** (Varethyn).
-* **Veilmarks:**
-
-  * Glow faintly in certain conditions.
-  * Appear as geometric tracings on skin — often along the spine, arms, or face.
-  * Tied to Veil passage, combat, and ritual.
-* **Senses:**
-
-  * Enhanced hearing and smell.
-  * Reflexes significantly faster than humans.
-  * Night vision superior to human baseline.
-* **Fangs:**
-
-  * Kitsune possess natural **fox-like canine fangs**—not retractable but subtly sharper than human teeth.
-  * Usually only visible when they laugh fully or open their mouths wide in combat or emotional intensity.
-  * Biting in ritual is rare but sacred—used in certain high-thread rites.
-* **Tongue:**
-
-  * Quite **longer and more flexible** than human average; can sense magical residue, emotional veils, or arcane signatures.
-  * Not prehensile but notable in taste sensitivity and when emotionally heightened.
-* **Claws:**
-
-  * Retractable **razor-like claws** hidden within fingernails, as Varethyn explained.
-  * Emerge only when emotionally or physically triggered: combat, fear, or ritual.
-  * Can cut through most organic materials and some weak magical barriers.
-* **Lifespan:**
-
-  * Can live centuries; age far slower than humans.
-  * Naru confirmed to be **Seventy-Two** and physically/mentally in young adulthood.
-* **Soulflame:**
-
-  * Internal energy source connected to emotional state.
-  * Used for combat, ritual magic, survival, and emotional resonance.
-* **Veil Interaction:**
-
-  * All Kitsune possess natural Veil sensitivity.
-  * Can phase, displace, or create afterimage illusions instinctively.
-* **Shapeshifting:**
-
-  * Kitsune retain the ancient ability to **fully transform into natural foxes**.
-  * Fox forms are rarely used in modern times except for specific rites, stealth, or emotional withdrawal.
-  * Transformation is instinctive under extreme emotional duress.
-* **Ancestral Memory:**
-
-  * Some Kitsune carry faint echoes of their ancient lineages, manifesting as dream-memories, prophetic flashes, or unexplained skills.
-
----
-
-## 🌀 CULTURAL TRAITS & BEHAVIOR
-
-* **Threadbonding:**
-
-  * The most sacred act: sharing a soul-thread with another.
-  * Not romantic by default — signifies shared burdens, trust, and chosen family.
-* **Tail Language:**
-
-  * **Curl around someone:** Protection, bonding.
-  * **Brush:** Affection.
-  * **Flick:** Warning or playfulness.
-  * **Stillness:** Combat focus or deep emotional distress.
-* **Emotional Expression:**
-
-  * Often minimal facially; tails, ears, and breathing patterns reveal true feelings.
-* **Respect Hierarchies:**
-
-  * Rank tied to survival, combat scars, and earned wisdom — not bloodline.
-  * Elders and Matrons revered.
-
----
-
-## 🔥 COMBAT & MAGIC
-
-* **Styles:**
-
-  * Blend of martial arts, veil manipulation, and soulflame enhancement.
-  * Special techniques include:
-
-    * **Tailflare Reversal.**
-    * **Thread-Rhythm Combat.**
-    * **Echowalk.**
-    * **Veil Pulse Hexes.**
-* **Magic Affinities:**
-
-  * Fire, Illusion, Memory, Soul-thread manipulation.
-  * Emotional state directly influences magical potency.
-* **Unique Abilities:**
-
-  * Kitsune can disrupt enemy perception through tail movement alone.
-  * Elder Kitsune may influence Veil distortions without conscious effort.
-
----
-
-## 📜 HISTORY & ANCIENT LEGENDS
-
-* **The Glassfield Siege:**
-
-  * Massacre survived by Varethyn. Defined her title as **The Unburned Ninefold**.
-* **Flamewatch Cullings:**
-
-  * Historic exterminations of powerful Kitsune enclaves by human or magical factions.
-* **The Veil:**
-
-  * Liminal space accessible by Kitsune — both battlefield tool and spiritual plane.
-  * Dream-glyph weaving and memory-lattice practices trace back to this connection.
-* **The Eidolarch:**
-
-  * Mythic half-crystal, half-fox entity possibly linked to ancient Kitsune lineages.
-* **Comet Memories:**
-
-  * Some Kitsune bloodlines may carry ancestral memory shards tied to old comet rituals.
-* **Shapeshifter Lore:**
-
-  * Rooted in ancient real-world Kitsune myths: some Kitsune were said to take human form to guide, test, or punish mortals.
-  * Fox-forms often symbolize transformation, illusion, or divine trickery.
-
----
-
-## 🔮 SYMBOLISM & VALUES
-
-* **Sacred Symbols:**
-
-  * Tail: Survival, trust, power.
-  * Flame: Memory, purity, transformation.
-  * Thread: Soul-bond, chosen kinship, emotional resilience.
-* **Philosophy:**
-
-  * Pain carried transforms into power shared.
-  * Stillness and silence are not weakness — they are choices.
-  * Love is shown through action, not proclamation.
-* **Mythological Roots:**
-
-  * Drawn from Japanese Kitsune folklore: shape-shifting fox spirits known for wisdom, mischief, and celestial lineage.
-  * Multi-tailed foxes signify age, power, and spiritual attainment.
+{
+  "kitsune_traits_biology_history": {
+    "meta": {
+      "version": "v2",
+      "last_updated": "2025-09-01",
+      "source_of_truth": [
+        "Scenario-StoryV3.txt",
+        "Scenario-WorldV3.txt",
+        "LivingCampaign.txt (Temple Grounds, Characters)"
+      ]
+    },
+    "physiology_biological_traits": {
+      "form": {
+        "description": "Humanoid bodies with distinctly fox-like traits",
+        "details": [
+          "Fox ears on top of the head (no human ears)",
+          "Fox tails (commonly one to nine)",
+          "Fine canid fur microsheath along tail-crest and ear-backs (invisible unless backlit)",
+          "Scent and heat signatures track with emotion (ears and tail tips warm first)"
+        ]
+      },
+      "tails": {
+        "symbolism": "Reflect power, trauma survival, and spiritual growth",
+        "expressive": "Convey emotions from joy to danger",
+        "maximum_seen": "Nine (Varethyn)",
+        "growth_rules": {
+          "pace": "Tails emerge over decades; trauma and survival trials may accelerate growth",
+          "cost": "Each tail increases soulflame throughput but raises emotional feedback risk"
+        }
+      },
+      "veilmarks": {
+        "appearance": "Glow faintly in certain conditions",
+        "pattern": "Geometric tracings on skin (spine, arms, face)",
+        "function": "Tied to Veil passage, combat, and ritual",
+        "language": {
+          "status": "Partly readable ritual-glyph system; changes subtly with context",
+          "families": ["Thread", "Flame", "Memory", "Ward"],
+          "activation": ["Ritual heat", "Soulflame surge", "Emotional resonance"],
+          "usage": ["Identity sealing", "Vow-binding", "Wayfinding in the Veil"]
+        }
+      },
+      "senses": [
+        "Enhanced hearing and smell",
+        "Reflexes significantly faster than humans",
+        "Superior night vision",
+        "Micro-scent parsing for intent (trained elders)"
+      ],
+      "fangs": {
+        "traits": "Fox-like canines, sharper than human teeth",
+        "ritual_use": "Biting rare but sacred, in high-thread rites",
+        "healing_enzyme": "Saliva contains low-grade clotting and pain-dulling compounds"
+      },
+      "tongue": {
+        "traits": "Longer and more flexible than human average",
+        "uses": [
+          "Sense magical residue",
+          "Sense emotional veils",
+          "Sense arcane signatures"
+        ]
+      },
+      "claws": {
+        "traits": "Retractable razor-like claws hidden in fingernails",
+        "activation": "Emerge during combat, fear, or ritual",
+        "capability": "Cut through most organic and weak magical materials",
+        "limitations": "Have difficulty penetrating cold-iron runes and nullroot-treated armor"
+      },
+      "lifespan": "Can live centuries; age slower than humans. Example: Naru is 72 but appears ~21.",
+      "life_stages": [
+        "Kit (0–15): tail-mote flickers, hyperplastic veilmarks",
+        "Youngling (16–40): training, first rite marks",
+        "Prime (41–180): stabilized soulflame, peak combat",
+        "Elder (181+): tail growth slows, guidance roles"
+      ],
+      "soulflame": {
+        "definition": "Internal energy source connected to emotions",
+        "uses": [
+          "Combat",
+          "Ritual magic",
+          "Survival",
+          "Emotional resonance"
+        ],
+        "feedback_risks": ["Overburn exhaustion", "Echo-shock from grief", "Ritual backlash if vows are broken"]
+      },
+      "veil_interaction": [
+        "Natural Veil sensitivity",
+        "Can phase, displace, or create afterimage illusions",
+        "Experienced Matrons can anchor Veil folds for groups"
+      ],
+      "shapeshifting": {
+        "ability": "Can fully transform into natural fox form",
+        "notes": "Rarely used today; triggered under emotional duress or during rites",
+        "partial_shift": "Ear/tail emphasis and clawing most common; full-muzzle shift is ritual-restricted"
+      },
+      "ancestral_memory": "Echoes of ancient lineages manifest as dream-memories, prophetic flashes, or unexplained skills",
+      "health_healing": {
+        "baseline": "Fast clotting, moderate regeneration",
+        "best_practices": ["Warmth and scent-stable spaces", "Herbal infusions (moonleaf, fire-cherry bark)", "Thread-guided sleep"],
+        "allergens_suppressants": ["Nullroots (dampen soulflame)", "Cold-iron dust (irritant)"]
+      },
+      "diet": {
+        "preferences": ["Rice and fish", "Game meats", "Herbal broths", "Citrus and fire-cherries"],
+        "notes": "High-energy needs during rites and tail growth cycles"
+      }
+    },
+    "cultural_traits_behavior": {
+      "threadbonding": {
+        "definition": "Most sacred act — sharing a soul-thread",
+        "meaning": "Not inherently romantic; signifies chosen trust and family",
+        "tiers": [
+          "Kindred Loop (friends, sworn service)",
+          "Heart-Thread (partners, lifebond)",
+          "Matron Weave (leadership oath)"
+        ],
+        "taboos": ["Forcing a bond", "Breaking vow-seals without witness"]
+      },
+      "tail_language": {
+        "curl": "Protection, bonding",
+        "brush": "Affection",
+        "flick": "Warning or playfulness",
+        "stillness": "Combat focus or emotional distress",
+        "fan": "Public reassurance / crowd-calming",
+        "wrap": "Claiming/guarding of a person or space"
+      },
+      "ear_breath_posture": {
+        "ear_pitch": {
+          "forward": "Curiosity or challenge",
+          "side": "Listening / mediation",
+          "flat": "Submission or kill-intent (context)"
+        },
+        "breath_patterns": {
+          "three_soft": "De-escalation cue",
+          "held_low": "Ritual solemnity or grief"
+        },
+        "spine_set": {
+          "loose": "Play or comfort",
+          "locked": "Duel-readiness"
+        }
+      },
+      "emotional_expression": "Often minimal facially; tails, ears, and breathing patterns reveal true feelings",
+      "respect_hierarchies": {
+        "basis": "Rank tied to survival, scars, and wisdom — not bloodline",
+        "elders": "Matrons and elders revered",
+        "council": "High Matron presides; Threadbound councils advise"
+      },
+      "rites": {
+        "tail_knot": "Private affirmation of shared duty/affection",
+        "flamefast": "Public vow under lantern net",
+        "naming": "Kits receive a thread-name upon first veilmark glow",
+        "mourning": "Silent sit by Memory Pools; tails un-fanned, veilmarks dimmed"
+      },
+      "education_training": {
+        "venues": ["Thread Courtyard circles", "Dojo forms", "Weaving House apprenticeships"],
+        "tracks": ["Caretaker", "Guardian", "Weaver", "Healer", "Runner"],
+        "assessment": "Rite-challenges scored by elders; failure = more training, not shame"
+      }
+    },
+    "combat_magic": {
+      "styles": [
+        "Martial arts blended with veil manipulation and soulflame",
+        "Tailflare Reversal",
+        "Thread-Rhythm Combat",
+        "Echowalk",
+        "Veil Pulse Hexes",
+        "Lantern-Net Formation (village defense)"
+      ],
+      "magic_affinities": [
+        "Fire",
+        "Illusion",
+        "Memory",
+        "Soul-thread manipulation",
+        "Wardcraft (lanterns, obelisks)"
+      ],
+      "unique_abilities": [
+        "Disrupt enemy perception via tail movement",
+        "Elders influence Veil distortions instinctively",
+        "Truth-veil resonance to expose hostile intent"
+      ],
+      "limits_counters": [
+        "Nullroots reduce casting distance and clarity",
+        "Severance rings can break weak oath-magic",
+        "Cold-iron arrays scatter Echowalk afterimages"
+      ]
+    },
+    "history_legends": {
+      "glassfield_siege": "Massacre survived by Varethyn; origin of her title 'The Unburned Ninefold'",
+      "flamewatch_cullings": "Historic exterminations of Kitsune enclaves",
+      "veil": "Liminal space used in battle and ritual; basis of dream-glyphs and memory-lattices",
+      "eidolarch": "Mythic half-crystal, half-fox entity; may link to ancient Kitsune lineages",
+      "comet_memories": "Bloodlines may carry shards of comet rituals as ancestral memory",
+      "shapeshifter_lore": "Ancient Kitsune myths; fox forms symbolize transformation, illusion, or divine trickery",
+      "modern_events": [
+        "Cerberus Station rescues (mass liberation of captives)",
+        "Hawaii Black Site dismantled",
+        "Temple relocation to real world and village expansion (500+ homes)"
+      ]
+    },
+    "symbolism_values": {
+      "sacred_symbols": {
+        "tail": "Survival, trust, power",
+        "flame": "Memory, purity, transformation",
+        "thread": "Soul-bond, chosen kinship, emotional resilience"
+      },
+      "philosophy": [
+        "Pain carried transforms into power shared",
+        "Stillness and silence are choices, not weakness",
+        "Love is proven by action, not words"
+      ],
+      "mythological_roots": {
+        "origin": "Drawn from Japanese Kitsune folklore",
+        "traits": "Shape-shifting fox spirits tied to wisdom, mischief, and celestial lineage",
+        "symbolism": "Multiple tails = age, power, spiritual attainment"
+      }
+    },
+    "material_culture": {
+      "crafts": ["Threadweaving", "Lantern-making", "Effigy carving", "Ward-ink glyphing"],
+      "dress": ["Practical wraps for movement", "Ceremonial robes with tail space", "Scent-braid accessories"],
+      "music": ["Bell-tone patterns", "Breath-and-tail percussion"],
+      "architecture": ["Silken sky-bridges", "Spirit-thread plazas", "Canopy walkways"]
+    },
+    "relations_external": {
+      "with_humans": "Wary; history of cullings and exploitation; select alliances",
+      "with_elves": "Respectful dialogue with Moon Elves on dreams/memory",
+      "with_dwarves": "Trade for runemetal and tools; distrust harsh caste laws",
+      "with_beastmen": "Shared oppression history; mutual aid networks"
+    }
+  }
+}

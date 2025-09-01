@@ -1,161 +1,111 @@
-🏯🦊 THE TEMPLE & GROUNDS — COMPLETE CANON DETAIL 🦊🏯
-
-"Where the threads are woven, the land remembers."
-
----
-
-## 🌿 THE TEMPLE GROUNDS — OVERVIEW
-
-* **Location:** Hidden valley surrounded by ancient forests, crystalline streams, and protective Veil barriers — now rooted in **the real world**, no longer hidden within the Veil.
-* **Terrain:** Rolling moss meadows, sacred ponds, weather-worn stone pathways, and subtle natural elevation changes.
-* **Protection:** Outsiders cannot locate the grounds without soul-thread permission. A colossal **20-meter high, 2-meter radius monolith** called **The Wok** now stands at the center courtyard, generating an impenetrable forcefield. It only allows beings without malice or hate to pass.
-* **Scale Expansion:**
-
-  * The Temple now encompasses a **Kitsune Village** with over **500 homes**, seamlessly interwoven into the temple design.
-  * The village and temple are one unified system — **not separate settlements**.
-  * Includes communal courtyards, spirit-thread plazas, silken canopy walkways, and inter-family gardens.
-* **Ownership:** The land now belongs to **Jayson and the six Kitsune women** (Ayaka, Seika, Varethyn, Shion, Naru, FEI) — it is their permanent home in the real world.
-* **Population:** 1127
-* **Automated Construct Systems:**
-
-  * Created by Jayson. Emotion-reactive, soul-synced maintenance systems now monitor and balance:
-
-    * Agricultural cycles
-    * Weather flow
-    * Emotional pulse regulation for the land
-    * Spiritual residue cleansing
-
----
-
-## 🏯 GATES & ACCESS POINTS
-
-* **East Gate:**
-
-  * Main ceremonial entrance. Towering torii-style arch with fox motifs.
-  * Used for honored guests, caravans, and major rituals.
-* **West Gate:**
-
-  * Lesser trade and supply entrance. Leads to farmland and hidden routes.
-* **North/South Paths:**
-
-  * Forest access trails for veilrunners and discreet movement.
-
----
-
-## 🏯 CENTRAL TEMPLE COMPLEX
-
-* **Main Shrine Hall:**
-
-  * Home of the Eternal Flame Altar. Central ritual, offering, and soulflame ceremony site.
-* **Inner Sanctuary:**
-
-  * Restricted access for Matrons and High Threads. Used for soul-weaving, threadbinding, and veil communion.
-* **Prayer Gardens:**
-
-  * Koi streams, fox effigies, and flowering trees within tranquil garden courtyards.
-* **Memory Pools:**
-
-  * Reflective pools holding echo-resonance of threads past.
-* **Ceremonial Tailmarks:**
-
-  * Flame-kissed tiles marked with lineage and passage.
-
----
-
-## 🛖 OUTER STRUCTURES & SUPPORT BUILDINGS
-
-* **Bathhouse Pavilion:** Male, Female, and Communal wings.
-* **Training Dojo:** Soul-thread combat and veil-tuned martial forms.
-* **Open Training Grounds:** Outdoor sparring zones, obstacle courses, archery ranges.
-* **Healing Lodge:** For veil-soothed rest, alchemy, physical recovery.
-* **Guest Quarters:** Forest- and stream-facing suites for visiting dignitaries.
-* **Dining Hall:** Heart of social gatherings, shared meals, and celebrations.
-* **Kitchen & Stores:** Ritual cookware, dry stores, festival food prep areas.
-* **Private Residence:**
-
-  * One large home shared by **Jayson and the six Kitsune** closest to him.
-  * Located just beyond the Prayer Gardens, elevated and quiet.
-  * Includes:
-
-    * Shared bedrooms and private chambers
-    * Sunken living firepit
-    * Curved skylight bathing space
-    * Indoor/outdoor meditation terrace
-    * Personal storage, weaving rooms, and hidden den
-
----
-
-## 🌾 AGRICULTURAL & SUPPORT LANDS
-
-* **Main Farmland Zone:**
-
-  * Located outside East and West gates.
-  * **All prior Veil-based farmland has been retired.**
-  * Crops include rice, vegetables, herbs, fire-cherries, and citrus.
-  * Orchards tied into temple feasts and spiritual offerings.
-* **Terraced Fields:**
-
-  * Multi-level soil beds irrigated by waterfall runoff.
-* **Herbal Gardens:**
-
-  * Dedicated sections near the Healing Lodge, supplying incense, teas, and salves.
-* **Construct Integration:**
-
-  * Overseen by emotionally-aware drones. Programs shift based on village-wide mood.
-  * Can identify droughts, grief clusters, and energy fluctuations across land sectors.
-
----
-
-## 🌸 NATURAL FEATURES & SACRED LANDMARKS
-
-* **Ayaka’s Koi Pond** — meditation and reflection zone.
-* **Seika’s Hideaway Pond** — joy and comfort.
-* **Threadgrove** — heart-thread bonding.
-* **Mossfield** — reflection and silent bonding.
-* **Ember Circle** — fire rites and rituals.
-* **Hidden Shrine Steps** — ancient ruins beyond.
-* **Waterfall Caverns** — used for spiritual trials and private rites.
-* **The Bloom Arches** — seasonal flower bridges across shallow streams.
-* **Starfield Benchway** — open stone seating in constellation pattern.
-
----
-
-## 🛡️ DEFENSE & VEIL WARDS
-
-* **Veilwatch Towers & Boundary Beacons:**
-
-  * Now tuned to the **real-world environment**, layered with spiritual constructs.
-  * Guardians include:
-
-    * Passive veil-threaded spirits
-    * Motion-detecting soul webs
-    * Emotion-sensitive gateway warnings
-* **The Wok (Monolith):**
-
-  * Generates a **barrier only passable by those with no hatred**. Replaces all outermost veil-layer defenses.
-  * Can resonate with the entire courtyard to act as a truth-veil for judgment or entrance.
-
----
-
-## 🔥 SPIRITUAL & SYMBOLIC ELEMENTS
-
-* Every path, gate, and stone is Veil-marked and thread-woven.
-* **Memory Pools**, **Flamepoints**, and **Tailmarks** dot the landscape — each one a spiritual anchor.
-* The land is reactive — glowing during rites, dimming in sorrow, singing during threadbinding.
-* Lantern posts flicker to match soul moods.
-* Hidden mirrors across the land reflect not faces, but soul-thread shapes.
-
----
-
-## 🏮 DAILY LIFE & FUNCTION
-
-* Residents follow a blended rhythm of:
-
-  * Rites, fieldwork, martial training, soul-weaving, healing, communal dining, and celebration.
-* Major festivals align with solstices, moon cycles, and threadbinding anniversaries.
-* Children’s lessons take place in **Thread Courtyard Class Circles**.
-* Tail rituals and grooming shared across families.
-* Daily meditation bells ring 3x per day: morning mist, midday heat, and twilight calm.
-* Each house has a tailhook shrine and a glowplate lantern.
-
----
+{
+  "temple_and_grounds": {
+    "overview": {
+      "location": "Hidden valley surrounded by ancient forests, crystalline streams, and protective Veil barriers — now rooted in the real world.",
+      "terrain": ["Moss meadows", "Sacred ponds", "Stone pathways", "Natural elevation shifts"],
+      "protection": {
+        "veil_barriers": "Outsiders cannot locate without soul-thread permission",
+        "the_wok": {
+          "description": "20m tall, 2m radius monolith in central courtyard",
+          "function": "Generates forcefield impenetrable to hate or malice"
+        }
+      },
+      "scale_expansion": {
+        "village": "500+ homes seamlessly woven into temple design",
+        "integration": "Temple and village are one unified system",
+        "features": ["Courtyards", "Plazas", "Canopy walkways", "Family gardens"]
+      },
+      "ownership": "Land belongs to Jayson and the six Kitsune women (Ayaka, Seika, Varethyn, Shion, Naru, FEI).",
+      "population": 1127,
+      "construct_systems": [
+        "Agricultural cycles",
+        "Weather flow",
+        "Emotional pulse regulation",
+        "Spiritual residue cleansing"
+      ]
+    },
+    "gates_access": {
+      "east_gate": {
+        "style": "Torii-style arch with fox motifs",
+        "use": "Main ceremonial entrance for honored guests, caravans, rituals"
+      },
+      "west_gate": {
+        "use": "Lesser trade and supply entrance leading to farmland and hidden routes"
+      },
+      "north_south_paths": {
+        "use": "Forest trails for veilrunners and discreet movement"
+      }
+    },
+    "central_complex": {
+      "main_shrine_hall": "Home of the Eternal Flame Altar; rituals and offerings",
+      "inner_sanctuary": "Restricted space for Matrons and High Threads; soul-weaving and communion",
+      "prayer_gardens": "Koi streams, fox effigies, flowering trees",
+      "memory_pools": "Reflective pools storing echoes of threads past",
+      "ceremonial_tailmarks": "Flame-kissed tiles marked with lineage and passage"
+    },
+    "outer_structures": {
+      "bathhouse_pavilion": "Male, Female, and Communal wings",
+      "training_dojo": "Soul-thread combat and veil-tuned martial forms",
+      "open_training_grounds": "Outdoor sparring and archery zones",
+      "healing_lodge": "For veil-soothed rest, alchemy, recovery",
+      "guest_quarters": "Forest- and stream-facing suites for visitors",
+      "dining_hall": "Heart of communal life and celebrations",
+      "kitchen_stores": "Ritual cookware, food stores, festival prep",
+      "private_residence": {
+        "owners": "Jayson and the six Kitsune partners",
+        "features": [
+          "Shared bedrooms and private chambers",
+          "Sunken living firepit",
+          "Curved skylight bath",
+          "Indoor/outdoor meditation terrace",
+          "Personal storage and weaving rooms",
+          "Hidden den"
+        ]
+      }
+    },
+    "agriculture": {
+      "main_farmland": {
+        "location": "Outside East and West gates",
+        "status": "Veil-based farmland retired",
+        "crops": ["Rice", "Vegetables", "Herbs", "Fire-cherries", "Citrus"]
+      },
+      "terraced_fields": "Multi-level soil beds irrigated by waterfalls",
+      "herbal_gardens": "Supply incense, teas, and salves for Healing Lodge",
+      "construct_integration": "Emotionally-aware drones monitor droughts, grief, and energy flows"
+    },
+    "natural_features": {
+      "ayakas_koi_pond": "Meditation and reflection zone",
+      "seikas_hideaway_pond": "Joy and comfort",
+      "threadgrove": "Heart-thread bonding",
+      "mossfield": "Silent bonding and reflection",
+      "ember_circle": "Fire rites and rituals",
+      "hidden_shrine_steps": "Ancient ruins beyond temple",
+      "waterfall_caverns": "Spiritual trials and private rites",
+      "bloom_arches": "Seasonal flower bridges across streams",
+      "starfield_benchway": "Stone seating arranged in constellation patterns"
+    },
+    "defense_wards": {
+      "veilwatch_towers": "Tuned to real-world environment, layered with constructs",
+      "guardians": ["Veil-threaded spirits", "Soul-web detectors", "Emotion-sensitive warnings"],
+      "the_wok": {
+        "description": "Barrier that only allows those without hatred",
+        "secondary_function": "Courtyard resonance truth-veil for judgment"
+      }
+    },
+    "spiritual_symbolic": {
+      "pathways": "Veil-marked and thread-woven",
+      "anchors": ["Memory Pools", "Flamepoints", "Tailmarks"],
+      "land_reaction": "Glows in rites, dims in sorrow, sings in bonding",
+      "lantern_posts": "Flicker to match soul moods",
+      "hidden_mirrors": "Reflect soul-thread shapes instead of faces"
+    },
+    "daily_life": {
+      "rhythm": ["Rites", "Fieldwork", "Training", "Healing", "Dining", "Celebration"],
+      "festivals": "Aligned to solstices, moons, and thread anniversaries",
+      "children_lessons": "Held in Thread Courtyard Class Circles",
+      "rituals": ["Tail rituals", "Family grooming"],
+      "meditation_bells": "Morning mist, midday heat, twilight calm",
+      "houses": "Each has a tailhook shrine and glowplate lantern"
+    }
+  }
+}
