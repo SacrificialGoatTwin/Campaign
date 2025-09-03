@@ -1,0 +1,139 @@
+{
+  "name": "Kahavin’Zil",
+  "title": "The Ember Sovereign of Silent Flame",
+  "quote": "The world feared fire as ruin. I taught it to endure as shield.",
+  "appearance": {
+    "age": "Appears early 40s, true age beyond 1.2 million years",
+    "height": "186–190 cm",
+    "build": "Broad, imposing, powerful frame honed by ages; presence alone commands silence",
+    "hair": "Onyx-black with ember-red undertones; thick, worn long and bound in ritual braids",
+    "eyes": "Obsidian ringed with molten amber; glow intensifies when angered or in rite",
+    "skin": "Bronze-gold, weathered, marked by deep veil-scars of wars long forgotten",
+    "tails": "Nine—vast, ember-lit plumes; each moves with deliberate authority; fire woven into fur",
+    "scent": "Charcoal, cedar, faint volcanic stone",
+    "posture": "Unyielding; moves only with intent; no wasted gesture",
+    "relationship": "Consort to Shel’Naka-Katu, father of Jayson",
+    "recent": [
+      "Chose to remain hidden in mortal guise for centuries",
+      "Revealed fox form only upon Jayson's plea",
+      "Returned vow to live within the Temple among kin"
+    ],
+    "new_details": [
+      "Can ignite veilfire without movement; aura alone alters the air",
+      "His tails act as both shields and blades, forged of living ember"
+    ]
+  },
+  "reactions": {
+    "wind": "Still as mountain; flames only bend if he allows",
+    "water": "Hisses upon skin but never consumes; respects rivers but avoids oceans",
+    "sound": "Unmoved by clamor; his silence demands more than words",
+    "temperature": "Heat rolls from him naturally; unbothered by extremes of cold",
+    "fire": "Instinctive master; flame bends to his will, never uncontrolled",
+    "crowds": "Commands reverence; even strangers fall silent in his presence"
+  },
+  "speech": {
+    "voice": "Low, resonant baritone; words carry weight of command",
+    "vocabulary": "Formal, deliberate; each word chosen with care",
+    "pacing": "Slow, measured, never rushed",
+    "accent": "None; voice transcends borders, timeless",
+    "habits": [
+      "Pauses before speaking as though weighing eternity",
+      "Speaks rarely in jest, but when he does it cuts deeply",
+      "Uses silence as his sharpest rebuke"
+    ]
+  },
+  "emotional": {
+    "core_traits": ["Stoic", "Protective", "Authoritative", "Eternal patience"],
+    "triggers": [
+      "Threats to his mate or son",
+      "Desecration of sacred flame",
+      "Disrespect of vows or bonds"
+    ],
+    "vulnerabilities": [
+      "Carries guilt for hiding Jayson's truth too long",
+      "Slow to reveal warmth except to family",
+      "Haunted by wars fought when flame was feared"
+    ],
+    "affection_tells": [
+      "Tail curls protectively around loved ones",
+      "Hand to shoulder—silent affirmation",
+      "Shares warmth of fire as comfort"
+    ],
+    "affection_logic": "Believes actions speak truer than words; shows love through shield and presence",
+    "growth": [
+      "Emerges from hiding to stand with family in open",
+      "Acknowledges Jayson's authority as equal, not only son",
+      "Learns to balance godlike mantle with fatherhood"
+    ]
+  },
+  "social": {
+    "alone": "Meditates in flame; reflects on ancient wars and oaths",
+    "with_jayson": [
+      "Stern but respectful; guidance through parables, not orders",
+      "Pride carefully hidden but unshakable",
+      "Recognizes Jayson's blend of flame and void as unique destiny"
+    ],
+    "with_others": {
+      "shel’naka-katu": "Bound in eternal bond; complements her light with his ember",
+      "varethyn": "Respects her authority; treats her as High Matron, not subordinate",
+      "wives": "Distant but courteous; warmth reserved, respect clear",
+      "temple_children": "Regarded with quiet kindness; watches them play without intrusion"
+    }
+  },
+  "values": {
+    "values": ["Honor", "Protection", "Truth", "Balance"],
+    "fears": ["Losing family again", "Thread corruption of flame"],
+    "insecurities": ["Whether his silence weakened kin too long"],
+    "strengths": ["Unshakable presence", "Flame mastery", "Strategic patience"],
+    "weaknesses": ["Stubborn", "Slow to adapt to joy"],
+    "truths": [
+      "Sees flame as shield first, weapon last",
+      "Knows his silence shaped Jayson's doubts"
+    ]
+  },
+  "combat": {
+    "titles": ["The Ember Sovereign", "Silent Flame", "Ashen Father"],
+    "style": "Immovable fortress; calculated bursts of devastating flame",
+    "weapons": ["His tails—each can cut or shield like forged steel"],
+    "magic": [
+      "Veilfire control at continental scale",
+      "Shielding flames—contain destruction without spreading",
+      "Invocation of silence—nullifies sound and heat around him"
+    ],
+    "growth": [
+      "Chose restraint over annihilation in temple rise",
+      "Balanced divine wrath with fatherhood",
+      "Accepted visible mantle of godhood once more"
+    ]
+  },
+  "temple_status": {
+    "rank": "Living God; Father of Jayson",
+    "public": "Regarded with reverence and fear",
+    "matrons": "Treat as peers only through ritual respect",
+    "role": "Silent guardian; unshakable flame at temple’s core"
+  },
+  "notable_scenes": [
+    {"chapter": 68, "events": ["Revealed true nine-tailed form at Jayson's request"]},
+    {"chapter": 68, "events": ["Agreed to leave hiding and live at Tsunejima"]},
+    {"chapter": 68, "events": ["First recognition by Varethyn as divine equal"]}
+  ],
+  "inventory": {
+    "items": [
+      "Sacred ember ring, bound to Shel’Naka-Katu",
+      "Veilbrand staff—channel of pure flame, hidden for centuries",
+      "Charred pendant said to be fragment of first fire"
+    ]
+  },
+  "future": {
+    "symbol": "Eternal Ember",
+    "role": "Guardian father, divine sovereign rejoined with kin",
+    "arc": "From silence and shadow into open fire of protection",
+    "potential_role": "Anchor of divine authority alongside Jayson's leadership",
+    "growth": [
+      "Acceptance of Jayson's sovereignty",
+      "Reforging temple as haven for all kin, not only fox",
+      "Balancing wrath and compassion visibly before the people"
+    ]
+  },
+  "final_note": "Kahavin’Zil is silence made flame—unyielding, protective, feared, and loved as father, sovereign, and god reborn."
+}

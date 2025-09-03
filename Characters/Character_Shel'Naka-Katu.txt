@@ -1,0 +1,138 @@
+{
+  "name": "Shel'Naka-Katu",
+  "title": "The Moonlit Flame of Eternity",
+  "quote": "Silence is not weakness—it is the weight of centuries choosing when to burn.",
+  "appearance": {
+    "age": "Appears mid-30s but is millions of years old",
+    "height": "170–174 cm",
+    "build": "Graceful, regal, deceptively slender—her presence bends the air around her",
+    "hair": "Flowing silver-white, shimmering with threads of veillight; reaches the waist, often left free",
+    "eyes": "Violet, deep and endless—like the first stars seen through veil-rift",
+    "skin": "Pale ivory, luminous under moonlight; veilmarks weave along her collarbones and wrists like living runes",
+    "tails": "Nine—ethereal, moonlit, trailing starlight and silver flame; their movements carry command",
+    "scent": "Moonflower, clean frost, faint ember-smoke",
+    "posture": "Immaculate—every motion measured, slow, intentional, divine",
+    "relationship": "Consort to Kahavin’Zil, mother to Jayson",
+    "recent": [
+      "Revealed her divine form openly after centuries of concealment",
+      "Acknowledged the fall of veils and the rise of Tsunejima",
+      "Returned to walk among her kin at the temple"
+    ],
+    "new_details": [
+      "First public reemergence in mortal world in over 10,000 years",
+      "Accepted the presence of non-kitsune kin within Tsunejima",
+      "Resumed her place beside Kahavin’Zil as a living goddess of flame and moonlight"
+    ]
+  },
+  "reactions": {
+    "wind": "Tails ripple like banners; accepts breeze as omen",
+    "water": "Silent reverence—rarely touches rivers but blesses them in rites",
+    "sound": "Unmoved by mortal noise; only veil-song draws her ear",
+    "temperature": "Prefers cool air; her fire burns silver-white, moon-cold yet consuming",
+    "fire": "Fire answers her without command; her silence stokes it brighter",
+    "crowds": "Commands awe by stillness—she rarely speaks, yet all fall silent"
+  },
+  "speech": {
+    "voice": "Low, resonant contralto; deliberate and slow, every word chosen",
+    "vocabulary": "Formal, archaic; speaks rarely but with undeniable authority",
+    "pacing": "Measured pauses, silence heavier than speech",
+    "accent": "None discernible—tones feel woven directly into the thread",
+    "habits": [
+      "Lets silence answer before words",
+      "Tilts head fractionally to show displeasure",
+      "Uses tail gestures more than speech in private"
+    ]
+  },
+  "emotional": {
+    "core_traits": ["Serene", "Authoritative", "Compassionate but distant"],
+    "triggers": [
+      "Disrespect to veil rites",
+      "Threats against her children or Kahavin’Zil"
+    ],
+    "vulnerabilities": [
+      "Rare cracks when Jayson mirrors her strength back to her",
+      "Haunted by the long silence she imposed on herself and Kahavin’Zil"
+    ],
+    "affection_tells": [
+      "Tails curl protectively",
+      "Veilmarks shimmer brighter",
+      "Soft hand on cheek or temple"
+    ],
+    "affection_logic": "Her silence is love; words are rare and precious gifts",
+    "growth": [
+      "Stepped out of hiding for the first time in an age",
+      "Accepted that peace may come through mingling, not seclusion",
+      "Recognises Jayson's rise as echo of both her flame and Kahavin’Zil’s void"
+    ]
+  },
+  "social": {
+    "alone": "Prays in silence; traces veilmarks with her own fire",
+    "with_jayson": [
+      "Rare softness—places hand on his head as blessing",
+      "Acknowledges him openly as son and chosen flame",
+      "Tail-brush as wordless pride"
+    ],
+    "with_others": {
+      "kahavin’zil": "Equal, consort, eternal bond—balance of moon and sun, frost and fire",
+      "varethyn": "Respects her mantle as High Matron but does not bow—offers guiding presence",
+      "wives": "Treated with serene acceptance as threadbound family",
+      "temple_children": "Children bow instinctively; she offers small, rare smiles"
+    }
+  },
+  "values": {
+    "values": ["Preservation of kin", "Balance between flame and void", "Continuity of veil traditions"],
+    "fears": ["Extinction of kitsune bloodlines", "Collapse of veils beyond repair"],
+    "insecurities": ["The long silence—was it protection or abandonment?"],
+    "strengths": ["Absolute command of moonfire", "Presence that halts conflict"],
+    "weaknesses": ["Rarely explains herself, fostering mystery and distance"],
+    "truths": [
+      "She embodies moonlight flame—burns cool yet eternal",
+      "Her silence guided the survival of her line through ages"
+    ]
+  },
+  "combat": {
+    "titles": ["The Moonlit Flame", "Silent Tail of Eternity", "Matron of Silver Fire"],
+    "style": "Immovable grace—rare strikes, absolute precision; flame woven into threads",
+    "weapons": ["Her nine tails", "Moonlit veilfire"],
+    "magic": [
+      "Moonfire: silver flame that burns cold yet devours thread",
+      "Veil-command: silence as binding thread",
+      "Thread-shaping: pulls reality taut by command alone"
+    ],
+    "growth": [
+      "Reclaimed divine form after centuries in hiding",
+      "Walked openly before mortals and kin for first time in millennia",
+      "Resumed her mantle as Living Goddess of Kitsune"
+    ]
+  },
+  "temple_status": {
+    "rank": "Living Goddess of Kitsune",
+    "public": "Revered, untouchable, divine presence",
+    "matrons": "Defer with reverence; she stands above all titles",
+    "role": "Beacon of divine authority and mother of the First Flame’s heir"
+  },
+  "notable_scenes": [
+    {"chapter": 64, "events": ["First reveal of her nine-tailed form before mortals and kin"]},
+    {"chapter": 64, "events": ["Acknowledged Jayson as son and bridge between kin and gods"]},
+    {"chapter": 64, "events": ["Returned openly with Kahavin’Zil to Tsunejima"]}
+  ],
+  "inventory": {
+    "items": [
+      "Moonlit veilband—marks her as eternal consort of Kahavin’Zil",
+      "Crystal threads woven into her hair—each a memory of past cycles",
+      "Silent flame that needs no fuel, burns only by will"
+    ]
+  },
+  "future": {
+    "symbol": "Silver Flame, Eternal Tail",
+    "role": "Living Goddess returned; mother and guide to future generations",
+    "arc": "From silence to return, accepting that concealment can no longer protect her kin",
+    "potential_role": "Anchor of faith and continuity within Tsunejima; divine mother to all kin",
+    "growth": [
+      "Accepted the mingling of non-kitsune into sanctuary",
+      "Stepped back into divine presence publicly",
+      "Acknowledged Jayson's role not just as son but as flame reborn"
+    ]
+  },
+  "final_note": "Shel’Naka-Katu is moonlit eternity—flame tempered by silence, goddess reborn to walk among kin once more."
+}

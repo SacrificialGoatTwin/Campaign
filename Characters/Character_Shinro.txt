@@ -1,0 +1,140 @@
+{
+  "name": "Shinro",
+  "title": "The Reforged Fang",
+  "quote": "I was many, I was none. Now I rise whole, with my own howl.",
+  "appearance": {
+    "age": "Appears 24, true age uncertain—reborn from fractured echoes",
+    "height": "178–182 cm",
+    "build": "Broad-shouldered, powerful; lupine musculature balanced with human grace",
+    "hair": "Ash-silver, short with uneven layers; streaked darker near the roots",
+    "eyes": "Pale steel-blue with silver flecks; intense, haunted, but steady",
+    "skin": "Fair, marred by faint lattice-scars from his fractured origin",
+    "tails": "One—dense and wolf-plumed, rarely still; betrays his emotions",
+    "scent": "Cold stone, rain-soaked earth, faint smoke",
+    "posture": "Guarded but upright; shoulders squared as if bearing unseen weight",
+    "relationship": "Rescued and reforged by Jayson, bound to him by act of creation",
+    "recent": [
+      "Chose wolf-kin as his true form when given the chance",
+      "Endured painful reforging of body and spirit",
+      "Welcomed into the circle of freed kin with new name and identity"
+    ],
+    "new_details": [
+      "Carries a faint glow in his veilmarks when calm—threads stabilizing",
+      "Name Shinro gifted as recognition of his rebirth"
+    ]
+  },
+  "reactions": {
+    "wind": "Still and steady; tail flicks in subtle alertness",
+    "water": "Uncomfortable—remains wary near deep water",
+    "sound": "Hyper-aware; ears twitch to distant noises; reacts to sudden echoes",
+    "temperature": "Prefers cold; warmth unsettles him though he is adapting",
+    "fire": "Instinctively cautious, but steadies when reminded of Jayson's control",
+    "crowds": "Withdrawn; keeps to edges, watching more than joining"
+  },
+  "speech": {
+    "voice": "Low baritone; gravelly edge from restrained growls",
+    "vocabulary": "Measured, careful; avoids wasted words; terse but sincere",
+    "pacing": "Slow and deliberate; faster when angered or protective",
+    "accent": "None distinct; cadence betrays lupine rhythm",
+    "habits": [
+      "Sniffs the air before speaking in tense moments",
+      "Pauses often, weighing truth against silence",
+      "Ends statements with quiet growls when frustrated"
+    ]
+  },
+  "emotional": {
+    "core_traits": ["Resilient", "Haunted", "Protective", "Loyal"],
+    "triggers": [
+      "Experiments and cages—reminders of his fractured origin",
+      "Threats to wolf-kin or other freed beings"
+    ],
+    "vulnerabilities": [
+      "Fears losing himself again to nothingness",
+      "Still adjusts to the concept of chosen identity",
+      "Carries quiet shame for not being 'whole' before Jayson reforged him"
+    ],
+    "affection_tells": [
+      "Tail lowers and wags slowly when he trusts",
+      "Nuzzles those he accepts as kin",
+      "Silent presence at someone's side as his version of comfort"
+    ],
+    "affection_logic": "Trust is earned; once given, it is absolute",
+    "growth": [
+      "From fractured echoes to whole identity as wolf-kin",
+      "Accepted Jayson's act of creation as a gift, not a chain",
+      "Now sees himself as protector of those who endured captivity"
+    ]
+  },
+  "social": {
+    "alone": "Broods quietly; often found staring at the horizon or moon",
+    "with_jayson": [
+      "Views him as creator and savior; deference mixed with growing friendship",
+      "Silent gratitude expressed through loyalty, not words",
+      "Trusts Jayson's power as anchor against his own instability"
+    ],
+    "with_others": {
+      "rava": "Pack-bond; sees her as closest kin",
+      "kaeli'sharr": "Respectful distance; admires her sharpness",
+      "avians": "Protective stance; positions himself as their shield",
+      "drakyn": "Respectful awe of their resilience",
+      "kitsune": "Uneasy but warming; still adjusting to foxfire and threads"
+    }
+  },
+  "values": {
+    "values": ["Freedom", "Identity", "Pack loyalty"],
+    "fears": ["Losing form again", "Being cast out as aberration"],
+    "insecurities": ["Not born whole; reforged"],
+    "strengths": ["Tenacity", "Protective instinct", "Physical strength"],
+    "weaknesses": ["Social distance", "Overly cautious in trust"],
+    "truths": [
+      "Identity chosen is as real as identity born",
+      "Sees rebirth not as shame but as chance to fight for others"
+    ]
+  },
+  "combat": {
+    "titles": ["The Reforged Fang", "Wolf of the Shards"],
+    "style": "Close-quarters combat; grapples and bites; primal but disciplined",
+    "weapons": ["Claws", "Fangs", "Improvised armaments"],
+    "magic": [
+      "Thread-stabilized body resists manipulation",
+      "Howl that channels resonance to bolster allies",
+      "Claw strikes infused with veil-echo flame"
+    ],
+    "growth": [
+      "Learned to harness pain as strength",
+      "Shifted from fractured strikes to disciplined pack-fighting style",
+      "Seeks training under both Kitsune and Wolf-kin to merge techniques"
+    ]
+  },
+  "temple_status": {
+    "rank": "Newly integrated protector",
+    "public": "Respected but watched closely",
+    "matrons": "Acknowledged Jayson's reforging as valid",
+    "role": "Guardian for the freed kin; bridge for wolf-kin integration"
+  },
+  "notable_scenes": [
+    {"chapter": 72, "events": ["Reforged by Jayson, chose wolf-kin identity"]},
+    {"chapter": 72, "events": ["First howl as a complete being—echo shook the ice walls"]},
+    {"chapter": 73, "events": ["Stood beside Rava against human guards, protective growl"]},
+    {"chapter": 74, "events": ["Integrated into temple, cautious but loyal"]}
+  ],
+  "inventory": {
+    "items": [
+      "Simple wolf-tooth pendant—symbol of his rebirth",
+      "Cloth bindings woven at the temple, reminder of home",
+      "Bone-carved charm gifted by Rava"
+    ]
+  },
+  "future": {
+    "symbol": "The Reforged Howl",
+    "role": "Protector of kin; living reminder of second chances",
+    "arc": "From fractured non-being to chosen identity and loyal defender",
+    "potential_role": "Ambassador between wolf-kin and other races; proof that rebirth is not shame",
+    "growth": [
+      "Will stand as voice for those reforged or broken by experiments",
+      "Learns to embrace belonging without fear of rejection",
+      "May one day teach younger wolf-kin the value of chosen strength"
+    ]
+  },
+  "final_note": "Shinro is no longer Nine. He is whole, wolf-kin by choice, living testament that identity forged in fire is just as true as any born of blood."
+}

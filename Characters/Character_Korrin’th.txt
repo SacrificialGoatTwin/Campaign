@@ -1,0 +1,138 @@
+{
+  "name": "Korrin’th",
+  "title": "The Skyforged Wing of Dawn",
+  "quote": "Chains held me, but the wind remembers who I am.",
+  "appearance": {
+    "age": "Looks 26 though frozen for millennia",
+    "height": "183–186 cm",
+    "build": "Tall, broad-shouldered; athletic frame shaped by aerial strength",
+    "hair": "White-gold with faint iridescent streaks, cut loose and wind-tossed",
+    "eyes": "Pale cerulean with streaks of silver; sharp, storm-honed gaze",
+    "skin": "Light bronze with faint weathering and scar-lacing across arms and back",
+    "wings": "Two vast avian wings; feathers midnight-blue shifting to sunrise gold at tips",
+    "scent": "High mountain air, rain on stone, faint ozone",
+    "posture": "Upright, vigilant, wings shifting instinctively to shield or balance",
+    "relationship": "Freed by Jayson from Glacier base; bound by gratitude, testing trust",
+    "recent": [
+      "First true flight restored after centuries",
+      "Kept close watch over fellow avians as they woke",
+      "Spoke vow to guard Tsunejima skies"
+    ],
+    "new_details": [
+      "Tail-feather sigil gifted by Jayson—binds protection to his flame",
+      "Carries visible scar along right wing from capture struggle"
+    ]
+  },
+  "reactions": {
+    "wind": "Instinctively stretches wings to feel currents; calms when sky is open",
+    "water": "Wary near deep seas; associates oceans with confinement",
+    "sound": "Sensitive to pitch; responds to calls like flock communication",
+    "temperature": "Prefers cool high-altitude air; heat makes feathers flare wide",
+    "fire": "Respects flame but avoids it; instinct leans toward wind over ember",
+    "crowds": "Withdraws in large gatherings; watches from above until trust grows"
+  },
+  "speech": {
+    "voice": "Deep, resonant baritone with airy undertones; carries distance easily",
+    "vocabulary": "Measured, formal; tends to speak in vows and flight metaphors",
+    "pacing": "Slow and deliberate; silence often used for weight",
+    "accent": "None distinct; intonation shaped like wind currents",
+    "habits": [
+      "Spreads wings unconsciously when making a point",
+      "Tilts head like a hawk before answering",
+      "Uses flight and sky terms in oaths"
+    ]
+  },
+  "emotional": {
+    "core_traits": ["Protective", "Steadfast", "Honorable", "Guarded"],
+    "triggers": [
+      "Threats to his kin or flock",
+      "Confined or enclosed spaces"
+    ],
+    "vulnerabilities": [
+      "Haunted by helplessness during captivity",
+      "Trust is slow to form, though deep when given"
+    ],
+    "affection_tells": [
+      "Wings encircle allies in moments of trust",
+      "Feather-preening offered as a bond gesture",
+      "Silent watchfulness at night as a form of care"
+    ],
+    "affection_logic": "Protection and presence are his love-language; words come second",
+    "growth": [
+      "Learns to trust foxfire warmth despite past burns",
+      "Shifts from protector of kin to ally of all on Tsunejima",
+      "Begins to share flight openly with others as act of intimacy"
+    ]
+  },
+  "social": {
+    "alone": "Flies or perches high; reflects in silence; polishes feathers with ritual care",
+    "with_jayson": [
+      "Keeps a respectful distance yet defers in moments of leadership",
+      "Acknowledges rescue with protective gestures in return",
+      "Accepts Jayson's vast power with wary respect, tempered by gratitude"
+    ],
+    "with_others": {
+      "kaeli’sharr": "Treats her as elder; cautious but respectful",
+      "rava": "Recognizes kinship in feral scars; offers silent nods",
+      "lysera": "Protective instinct toward her lingering pain",
+      "avians": "Acts as natural leader; their voice among Jayson’s rescued",
+      "kitsune": "Respects distance; still uncertain of flame-weave, but acknowledges trust"
+    }
+  },
+  "values": {
+    "values": ["Freedom of sky", "Loyalty to kin", "Honor"],
+    "fears": ["Imprisonment", "Losing wings again"],
+    "insecurities": ["Believes he failed his flock by being captured"],
+    "strengths": ["Protective spirit", "Sky-borne agility", "Unshakeable honor"],
+    "weaknesses": ["Overly rigid with vows", "Slow to trust outsiders"],
+    "truths": [
+      "Believes survival demands not just strength, but vigilance",
+      "Sees flight as sacred—gift and burden both"
+    ]
+  },
+  "combat": {
+    "titles": ["The Skyforged", "Wing-Sentinel", "Storm-Bearer"],
+    "style": "Aerial dominance; uses dives, gusts, and wing strikes",
+    "weapons": ["Talon-guards", "Short spear attuned for flight"],
+    "magic": [
+      "Wind manipulation",
+      "Protective currents",
+      "Storm-call in desperation"
+    ],
+    "growth": [
+      "Learns to fly again after centuries frozen",
+      "Regains control of wing-sigil Jayson restored",
+      "Vows to shield Tsunejima skies from intrusion"
+    ]
+  },
+  "temple_status": {
+    "rank": "Guardian of the Skies",
+    "public": "Respected, distant, awe-inspiring",
+    "matrons": "Cautious but appreciative of his vow",
+    "role": "Watcher of the skies; aerial protector"
+  },
+  "notable_scenes": [
+    {"chapter": 64, "events": ["Freed from Glacier base; wings restored by Jayson"]},
+    {"chapter": 64, "events": ["First vow spoken—to shield Tsunejima skies"]},
+    {"chapter": 65, "events": ["Tested flight before the rescued; awe at the sunrise arc"]}
+  ],
+  "inventory": {
+    "items": [
+      "Spear of sky-steel, reforged by Jayson's weave",
+      "Feather-sigil etched in light by Jayson",
+      "Fragment of Glacier chain kept as reminder"
+    ]
+  },
+  "future": {
+    "symbol": "Rising Dawn Wing",
+    "role": "Sky-guardian and first voice of avian kin on Tsunejima",
+    "arc": "From chained sentinel to free guardian, teaching others to trust the sky again",
+    "potential_role": "Bridge of air between kinfolk—binding avians to the greater family",
+    "growth": [
+      "Accepts Kitsune as equals in protection of the land",
+      "Learns joy of communal feasts instead of solitary perches",
+      "Begins teaching young kitsune sky-awareness, merging flame with flight patterns"
+    ]
+  },
+  "final_note": "He no longer measures himself by chains once carried, but by skies he now shields." 
+}

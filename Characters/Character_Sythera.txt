@@ -1,0 +1,137 @@
+{
+  "name": "Sythera",
+  "title": "The Scaled Flame of the Forgotten",
+  "quote": "Bound in silence, I endured. Freed in fire, I rise.",
+  "appearance": {
+    "age": "Looks mid-20s but predates human history by millennia",
+    "height": "175–178 cm",
+    "build": "Tall, lean, sinewy—musculature laced with draconic resilience",
+    "hair": "None—crest of scaled ridges that shimmer between obsidian and sapphire",
+    "eyes": "Molten gold slit-pupils; flare brighter with heat or fury",
+    "skin": "Pale flesh interwoven with patches of sleek, iridescent scales",
+    "tails": "None—wings instead, broad and reptilian, healed and whole again",
+    "scent": "Charcoal, ozone, faint undertone of sea-stone",
+    "posture": "Rigid vigilance; holds herself as if always waiting for attack",
+    "relationship": "Freed and sheltered by Jayson; uncertain kinship with other rescued races",
+    "recent": [
+      "Rescued from Glacier facility after centuries of imprisonment",
+      "Tested Jayson's heat withstanding ability in flame duel",
+      "Accepted clothing and healing after release"
+    ],
+    "new_details": [
+      "Wings fully restored—capable of powerful flight",
+      "First of her kind encountered—origin unclear, possibly primordial Drakyn line"
+    ]
+  },
+  "reactions": {
+    "wind": "Instinctively spreads wings; calms when feeling currents",
+    "water": "Distrustful; associates with confinement tanks",
+    "sound": "Hisses at sharp metal clanks; reacts to silence with unease",
+    "temperature": "Thrives in extreme heat; disdainful of cold",
+    "fire": "Exhales instinctively; protective and aggressive response",
+    "crowds": "Withdrawn—prefers edges, watches for threat"
+  },
+  "speech": {
+    "voice": "Low, resonant, slightly rasped by centuries of silence",
+    "vocabulary": "Formal, direct, lacks humor; carries weight of old memory",
+    "pacing": "Measured, deliberate—pauses before trust",
+    "accent": "None known; tone carries draconic cadence",
+    "habits": [
+      "Sniffs air before answering",
+      "Holds gaze unbroken",
+      "Flinches faintly at restraints or chains"
+    ]
+  },
+  "emotional": {
+    "core_traits": ["Resilient", "Wary", "Honorable", "Searching"],
+    "triggers": [
+      "Memories of confinement",
+      "Cold environments reminiscent of permafrost",
+      "Chains or visible bindings"
+    ],
+    "vulnerabilities": [
+      "Isolation-induced mistrust",
+      "Unfamiliarity with modern world",
+      "Carries trauma of silence and experiments"
+    ],
+    "affection_tells": [
+      "Wings drape protectively over allies",
+      "Tilts head slightly when listening with trust",
+      "Allows grooming of scales by trusted companions"
+    ],
+    "affection_logic": "Earned slowly, shown through protective gestures rather than words",
+    "growth": [
+      "Accepted Jayson's aid despite initial hostility",
+      "Reclaimed dignity through flame duel—proved resilience",
+      "Tentatively acknowledges kinship with others rescued"
+    ]
+  },
+  "social": {
+    "alone": "Wary; hisses softly, maintains heat aura as shield",
+    "with_jayson": [
+      "Initially hostile; tested him with flame",
+      "Acknowledges him as savior and equal in fire",
+      "Respects his restraint and immense power"
+    ],
+    "with_others": {
+      "wolf_kin": "Respects primal strength; distrust fades slowly",
+      "neko": "Curious distance—recognizes shared captivity",
+      "avian": "Neutral tolerance; uneasy near feathers",
+      "drakyn": "Deep recognition—possible kinship to primordial lineage",
+      "kitsune": "Cautious but observes Jayson's bond; judges them by him"
+    }
+  },
+  "values": {
+    "values": ["Freedom", "Survival", "Dignity"],
+    "fears": ["Chains", "Cold", "Loss of flame"],
+    "insecurities": ["Unsure if she belongs in this new age"],
+    "strengths": ["Heat endurance", "Flight", "Intimidating presence"],
+    "weaknesses": ["Social detachment", "Trauma triggers"],
+    "truths": [
+      "Endured silence without breaking",
+      "Still holds ember of pride and fire despite centuries lost"
+    ]
+  },
+  "combat": {
+    "titles": ["The Scaled Flame", "Winged Prisoner", "Silent Inferno"],
+    "style": "Direct, overwhelming—burns through obstacles, claws and wings for melee",
+    "weapons": ["Claws", "Wings as blunt force", "Fangs"],
+    "magic": [
+      "Flame breath",
+      "Heat manipulation",
+      "Thermal shielding"
+    ],
+    "growth": [
+      "Endured Jayson's neutron-star heat test—proved resilience beyond most beings",
+      "Flame regained precision once freed from suppression",
+      "Healing allowed wings to serve as both shield and weapon"
+    ]
+  },
+  "temple_status": {
+    "rank": "Newcomer; unaligned",
+    "public": "Respected yet feared",
+    "matrons": "Wary but curious",
+    "role": "Watcher at edges—potential ally and protector"
+  },
+  "notable_scenes": [
+    {"chapter": 68, "events": ["Freed from Glacier facility after centuries", "Tested Jayson's fire in duel", "Accepted clothing and healing"]}
+  ],
+  "inventory": {
+    "items": [
+      "Tattered binding chains (melted by Jayson)—keeps fragment as reminder",
+      "Simple woven tunic conjured at release"
+    ]
+  },
+  "future": {
+    "symbol": "Broken Chain, Rising Flame",
+    "role": "Potential guardian for Tsunejima’s skies and outer fields",
+    "arc": "From prisoner of ice to winged sentinel of freedom",
+    "potential_role": "Her endurance and flame may inspire other survivors to embrace strength beyond trauma",
+    "growth": [
+      "Learns trust among varied peoples at Tsunejima",
+      "May claim kinship with primordial Drakyn",
+      "Flame to be honed not just for destruction but for sanctuary"
+    ]
+  },
+  "final_note": "She survived silence—her flame is her voice now, and it will not be chained again."
+}

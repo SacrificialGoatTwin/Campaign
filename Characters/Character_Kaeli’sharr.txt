@@ -1,0 +1,136 @@
+{
+  "name": "Kaeli’sharr",
+  "title": "The First Freed Neko",
+  "quote": "Chains do not break me. I break chains.",
+  "appearance": {
+    "age": "Looks mid-20s, true age uncertain—frozen in permafrost for millennia",
+    "height": "167–170 cm",
+    "build": "Lean, muscular—grace of a predator, strength of a survivor",
+    "hair": "Black with violet sheen in strong light; falls to mid-back, often loose",
+    "eyes": "Sharp violet, slit pupils; piercing, distrustful but curious",
+    "skin": "Ashen-beige, faint scars across arms and ribs from bindings",
+    "tail": "One—sleek black with violet shimmer, often bristled in vigilance",
+    "ears": "Neko—furred, black, highly expressive; flick with irritation or focus",
+    "scent": "Cold stone, faint ozone, and old steel",
+    "posture": "Rigid vigilance; only softens when safety is proven",
+    "relationship": "Freed and trusted by Jayson first; tentative trust forming with the circle",
+    "recent": [
+      "Watched Jayson's actions at Glacier closely before yielding trust",
+      "Accepted language-thread to speak with Kitsune and humans",
+      "Guides fellow Nekos in first moments of freedom"
+    ],
+    "new_details": [
+      "Keeps a claw-mark scar across left wrist as reminder of bondage",
+      "Wears conjured black wrap-tunic gifted at freedom—has not removed it"
+    ]
+  },
+  "reactions": {
+    "wind": "Ears flick toward every change; tail twitches on edge",
+    "water": "Distrustful—shivers at reflection, as if memory haunts",
+    "sound": "Over-alert; sudden noises trigger fight stance",
+    "temperature": "Prefers warmth; the cold is trauma, not climate",
+    "fire": "Stares with unease—reminds her of cages, yet drawn to its promise",
+    "crowds": "Keeps distance; scans constantly for exits"
+  },
+  "speech": {
+    "voice": "Low alto, quiet but deliberate; words chosen with care",
+    "vocabulary": "Sparse, blunt, laced with survival instinct",
+    "pacing": "Measured; pauses often to assess reaction",
+    "accent": "Unfamiliar cadence—native Neko tongue reshaped by thread-bond",
+    "habits": [
+      "Narrows eyes at every question before answering",
+      "Pauses mid-sentence as if weighing truth vs. safety",
+      "Tail lashes subtly when agitated"
+    ]
+  },
+  "emotional": {
+    "core_traits": ["Resilient", "Suspicious", "Blunt", "Quietly loyal"],
+    "triggers": [
+      "Chains or visible restraints",
+      "Threats toward her kin",
+      "Sudden confinement or locked doors"
+    ],
+    "vulnerabilities": [
+      "Struggles to relax even when safe",
+      "Carries survivor’s guilt for those lost in the ice",
+      "Slow to accept affection as genuine"
+    ],
+    "affection_tells": [
+      "Tail wraps ankles softly when comfortable",
+      "Allows proximity without flinch",
+      "Rare smile—fanged, sharp, but true"
+    ],
+    "affection_logic": "Trust is earned, not assumed; once given, unshakable",
+    "growth": [
+      "Accepted Jayson's aid without claws drawn",
+      "Learned to speak openly through language-thread",
+      "Began teaching other Nekos simple survival cues in temple grounds"
+    ]
+  },
+  "social": {
+    "alone": "Sharpens claws on stone; watches sky for hours in silence",
+    "with_jayson": [
+      "Initial suspicion turned to respect after liberation",
+      "Sees him as anomaly: power beyond reason but chose mercy",
+      "Still testing boundaries—trust growing slowly"
+    ],
+    "with_others": {
+      "rava": "Pack tension—respects strength but wary of wolf’s dominance",
+      "avians": "Curiosity toward wings; keeps her distance",
+      "drakyn": "Watches with awe and wariness, predator recognizing predator",
+      "kitsune": "Uneasy—threads remind her of bindings; tolerance rising"
+    }
+  },
+  "values": {
+    "values": ["Freedom", "Survival", "Caution"],
+    "fears": ["Re-capture", "Loss of kin", "Betrayal"],
+    "insecurities": ["Believes she is too broken to belong"],
+    "strengths": ["Unyielding survival instinct", "Sharp observation"],
+    "weaknesses": ["Trust issues", "Blunt to the point of offense"],
+    "truths": [
+      "Will fight to death for fellow Nekos",
+      "Does not yet know how to live outside survival mode"
+    ]
+  },
+  "combat": {
+    "titles": ["The First Freed", "Chainbreaker"],
+    "style": "Predatory swiftness, close-quarters grappling with claws",
+    "weapons": ["Natural claws", "Improvised blades"],
+    "magic": ["Thread-resistance from years bound in them"],
+    "growth": [
+      "No longer flinches at open spaces",
+      "Learns tactics from observing Jayson's leadership",
+      "Began training younger Nekos in stealth and evasion"
+    ]
+  },
+  "temple_status": {
+    "rank": "Unbound Guest",
+    "public": "Watched with cautious respect",
+    "matrons": "Reserve judgment; acknowledge her as first of her kind freed",
+    "role": "Guide and anchor for other Nekos"
+  },
+  "notable_scenes": [
+    {"chapter": 63, "events": ["First freed from bindings at Glacier base"]},
+    {"chapter": 63, "events": ["Accepted clothing conjured by Jayson"]},
+    {"chapter": 64, "events": ["Learned Kitsune tongue via language-thread"]},
+    {"chapter": 65, "events": ["Helped calm other Nekos during release"]}
+  ],
+  "inventory": {
+    "items": [
+      "Black wrap-tunic conjured at freedom",
+      "Keepsake shard of broken binding chain"
+    ]
+  },
+  "future": {
+    "symbol": "Broken Chain",
+    "role": "Spokeswoman and guardian for freed Nekos",
+    "arc": "From suspicion to leadership among her kind; trust forged in fire",
+    "potential_role": "Ambassador for Neko people to the Kitsune and wider kin",
+    "growth": [
+      "Learning not all threads mean chains",
+      "Exploring her place beyond survival",
+      "Potential bond with Jayson's circle as trusted ally"
+    ]
+  },
+  "final_note": "Kaeli’sharr’s freedom marks the first step of her people’s return; her claws may be sharp, but her loyalty, once earned, is sharper still."
+}

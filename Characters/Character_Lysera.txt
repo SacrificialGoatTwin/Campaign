@@ -1,0 +1,136 @@
+{
+  "name": "Lysera",
+  "title": "The Scarred Howl of the North",
+  "quote": "Chains may bite, but my howl endures.",
+  "appearance": {
+    "age": "Looks mid-20s but has lived for centuries before the ice",
+    "height": "167–170 cm",
+    "build": "Lean, strong, wolf-born musculature; balance of predator and survivor",
+    "hair": "Ash-brown, shoulder-length, rough-cut; carries frost-bleached streaks",
+    "eyes": "Amber-gold, lupine intensity; soften rarely, usually fierce",
+    "skin": "Pale with faint scars across arms and ribs; frost-burn traces still visible",
+    "tails": "One—long, thick, wolf-plumed; bristle easily with emotion",
+    "scent": "Cold pine, iron, faint smoke of old firepits",
+    "posture": "Guarded; shoulders tense, stance always prepared for fight or flight",
+    "relationship": "Freed by Jayson from the Glacier facility",
+    "recent": [
+      "Submitted in combat only to be offered friendship",
+      "Witnessed the resurrection of her kin from dismemberment",
+      "Stood before the Living Gods of Kitsune in awe"
+    ],
+    "new_details": [
+      "Carries trauma memories forged into a claw-pendant by Jayson",
+      "Trust beginning to form through touch and submission rituals"
+    ]
+  },
+  "reactions": {
+    "wind": "Ears pivot, nostrils flare; instinctively lifts chin to test scents",
+    "water": "Keeps distance—wary of drowning; prefers snow and ice",
+    "sound": "Startles at metal clanks and cage noises; low growl response",
+    "temperature": "Thrives in cold; heat makes her restless and irritable",
+    "fire": "Associates with danger—instinctive recoil before recognition",
+    "crowds": "Deeply uneasy; tail stiff, body poised to defend or flee"
+  },
+  "speech": {
+    "voice": "Low contralto, edged with gravel; softens rarely",
+    "vocabulary": "Blunt, clipped; rarely wastes words; primal imagery",
+    "pacing": "Measured, deliberate; silence speaks louder than talk",
+    "accent": "Ancient lupine cadence—archaic words surface unexpectedly",
+    "habits": [
+      "Snarls under breath when unsettled",
+      "Uses scent and posture as much as words",
+      "Pauses before speaking, as if testing trust"
+    ]
+  },
+  "emotional": {
+    "core_traits": ["Loyal", "Scarred", "Wary", "Protective"],
+    "triggers": [
+      "Sounds of chains and cages",
+      "Threats to children or kin"
+    ],
+    "vulnerabilities": [
+      "Carries deep trauma from captivity",
+      "Struggles to distinguish dominance from cruelty",
+      "Feels displaced in a world far changed from her own"
+    ],
+    "affection_tells": [
+      "Allows grooming or licking as bond",
+      "Tail lowers but does not tuck when comfortable",
+      "Soft headbutts against shoulder of those she trusts"
+    ],
+    "affection_logic": "Submission is not weakness; to yield is to declare trust",
+    "growth": [
+      "Learned submission could be met with care, not exploitation",
+      "Beginning to accept gifts of food and clothing without suspicion",
+      "Now sleeps without binding claws to her own chest"
+    ]
+  },
+  "social": {
+    "alone": "Keeps vigil, pacing edges of camp; sleeps lightly, ears twitching",
+    "with_jayson": [
+      "First yielded in combat, then trusted him as friend",
+      "Accepted pendant carrying her memories as healing token",
+      "Conflicted—respects his strength but fears her own submission"
+    ],
+    "with_others": {
+      "rava": "Shared recognition as wolf-kin, but not pack-sisters",
+      "kaeli'sharr": "Respects her sharpness but keeps distance",
+      "avians": "Watches with suspicion, unused to wings and song",
+      "drakyn": "Intimidated by their flame and size"
+    }
+  },
+  "values": {
+    "values": ["Freedom", "Pack loyalty", "Survival"],
+    "fears": ["Being caged again", "Forgetting her people"],
+    "insecurities": ["Feels broken by captivity; doubts her worth"],
+    "strengths": ["Survivor’s will", "Instinctual fighter", "Keen senses"],
+    "weaknesses": ["Distrustful", "Slow to adapt to warmth and peace"],
+    "truths": [
+      "Her scars are proof of survival, not shame",
+      "Submission can be chosen, not forced"
+    ]
+  },
+  "combat": {
+    "titles": ["The Scarred Howl", "Winter Fang"],
+    "style": "Primal grappling and tooth-claw strikes; no wasted motion",
+    "weapons": ["Claws", "Fangs"],
+    "magic": [
+      "Instinctive frost-thread resonance",
+      "Aura that chills air when enraged"
+    ],
+    "growth": [
+      "Submitted without breaking—proof of resilience",
+      "Learns balance between feral rage and earned trust"
+    ]
+  },
+  "temple_status": {
+    "rank": "Rescued outsider, new kin",
+    "public": "Regarded with awe and pity; survivor of Glacier",
+    "matrons": "Watching carefully—acknowledge her pain but uncertain of her place",
+    "role": "Symbol of survival and new alliances"
+  },
+  "notable_scenes": [
+    {"chapter": 70, "events": ["Freed from chains in Glacier facility"]},
+    {"chapter": 70, "events": ["Submission ritual with Jayson—ended in friendship"]},
+    {"chapter": 70, "events": ["Witnessed resurrection of wolf-kin from dismembered remains"]},
+    {"chapter": 71, "events": ["First to speak of red skies before the Living Gods"]}
+  ],
+  "inventory": {
+    "items": [
+      "Claw pendant—threads of her trauma woven into token by Jayson",
+      "Simple clothing conjured after liberation"
+    ]
+  },
+  "future": {
+    "symbol": "Howl in the Snow",
+    "role": "Bridge between wolf-kin survivors and Kitsune",
+    "arc": "From scarred captive to trusted guardian of the new kin",
+    "potential_role": "Voice of remembrance; warns against repeating chains of cruelty",
+    "growth": [
+      "Learns to laugh again among kitsune",
+      "Reclaims submission as chosen intimacy, not forced pain",
+      "Becomes a protector of younger wolf-kin brought to Tsunejima"
+    ]
+  },
+  "final_note": "Her howl no longer echoes in cages—it rises in freedom, carrying both scar and song." 
+}

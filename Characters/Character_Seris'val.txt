@@ -1,0 +1,138 @@
+{
+  "name": "Seris’val",
+  "title": "The Skybound Sentinel",
+  "quote": "Chains cannot bind what was born for the wind.",
+  "appearance": {
+    "age": "Looks mid 20s though frozen for millennia",
+    "height": "178–182 cm",
+    "build": "Lean and athletic; long-limbed and balanced for soaring flight",
+    "hair": "Ash-blonde streaked with silver-blue, wind-swept and feather-light",
+    "eyes": "Pale sky-blue with flecks of storm-grey; sharp and watchful",
+    "skin": "Light bronze with faint weathered marks; subtle avian scaling at shoulders and ribs",
+    "tails": "None—wings in their place",
+    "scent": "Clean air after rain, faint resin, wild heather",
+    "posture": "Straight-backed, head high, wings flex instinctively with mood",
+    "relationship": "Freed by Jayson from Glacier base; bond of gratitude and wariness",
+    "recent": [
+      "First stretch of healed wings in centuries",
+      "Shared food under the sun with other freed kin",
+      "Carefully watched the Drakyn as kin-not-kin"
+    ],
+    "new_details": [
+      "Wing-scars healed fully by Jayson's veilfire",
+      "Carries fragment of glacier chain as reminder",
+      "Sleeps better outdoors beneath stars"
+    ]
+  },
+  "reactions": {
+    "wind": "Instinctively leans into gusts; wings flare wide for balance",
+    "water": "Uncomfortable with deep water; prefers riversides and cliffs",
+    "sound": "Sensitive to echoes; head tilts to triangulate",
+    "temperature": "Tolerates cold from frozen captivity but revels in warmth",
+    "fire": "Cautious; associates it with destruction and cages",
+    "crowds": "Wary but protective; keeps back against walls, wings tucked"
+  },
+  "speech": {
+    "voice": "Low tenor, smooth but with clipped consonants like wingbeats",
+    "vocabulary": "Formal; direct phrases, avoids wasted words",
+    "pacing": "Measured when calm, sharp and fast when protective",
+    "accent": "Ancient tonal inflection—alien but clear after thread-gift",
+    "habits": [
+      "Clicks tongue softly when thinking",
+      "Preens feathers absentmindedly when anxious",
+      "Pauses to scan skies mid-conversation"
+    ]
+  },
+  "emotional": {
+    "core_traits": ["Watchful", "Protective", "Reserved", "Enduring"],
+    "triggers": [
+      "Chains or restraints",
+      "Threats to fledglings or smaller kin"
+    ],
+    "vulnerabilities": [
+      "Lingering trauma from captivity and wing mutilation",
+      "Struggles to trust ground-dwellers fully",
+      "Feels displaced in a world without skies of his youth"
+    ],
+    "affection_tells": [
+      "Wings drape protectively over trusted companions",
+      "Stands downwind to shield from storms",
+      "Soft trills instead of words when relaxed"
+    ],
+    "affection_logic": "Guarding is care; silence means comfort, not distance",
+    "growth": [
+      "Began to eat and laugh in open sun after Glacier release",
+      "Allowed Jayson's wives to touch wings—rare sign of trust",
+      "Spoke vow to defend Tsunejima skies from harm"
+    ]
+  },
+  "social": {
+    "alone": "Perches high; watches horizons; meditates with slow wingbeats",
+    "with_jayson": [
+      "Grateful yet testing boundaries—calls him flame-bearer, not lord",
+      "Accepted healing with humility",
+      "Trusts Jayson's judgment yet challenges recklessness"
+    ],
+    "with_others": {
+      "kaeli'sharr": "Respects her claws; mutual recognition of predator roles",
+      "rava": "Pack-scent comforts; shares watch duty instinctively",
+      "lysera": "Siblings in scars; silent solidarity",
+      "drakyn": "Wary respect; acknowledges shared sky-dominion",
+      "temple_children": "Keeps distance at first; slowly allows them to touch feathers"
+    }
+  },
+  "values": {
+    "values": ["Freedom", "Skies", "Kinship of survivors"],
+    "fears": ["Losing flight again", "Being caged"],
+    "insecurities": ["Feels old and displaced", "Questions worth outside of flight"],
+    "strengths": ["Sky-scanning sight", "Protective endurance"],
+    "weaknesses": ["Ground-bound unease", "Slow to trust"],
+    "truths": [
+      "Flight is life, but freedom is soul",
+      "Protects others before self"
+    ]
+  },
+  "combat": {
+    "titles": ["Sky-Sentinel", "Storm-Wing"],
+    "style": "Dive strikes and evasive aerial combat",
+    "weapons": ["Wing-claws", "Talon strikes"],
+    "magic": [
+      "Wind manipulation",
+      "Sky-threads—small veil currents shaped by wings"
+    ],
+    "growth": [
+      "Wings healed fully by Jayson's fire-thread",
+      "Learns to fight in tandem with ground kin",
+      "Vows to defend the shield-skies of Tsunejima"
+    ]
+  },
+  "temple_status": {
+    "rank": "Guardian of the Skies",
+    "public": "Awe-inspiring but distant",
+    "matrons": "Acknowledged as protector, kept at cautious distance",
+    "role": "Sky patrol; emotional shield for other freed avians"
+  },
+  "notable_scenes": [
+    {"chapter": 68, "events": ["Freed from Glacier, wings healed by Jayson"]},
+    {"chapter": 68, "events": ["First open flight over Tsunejima"]},
+    {"chapter": 68, "events": ["Shared food and laughter with other freed kin"]}
+  ],
+  "inventory": {
+    "items": [
+      "Fragment of glacier chain",
+      "Feather-bound charm given by a temple child"
+    ]
+  },
+  "future": {
+    "symbol": "Open Wing",
+    "role": "Sky-guardian and mentor for temple-born avians",
+    "arc": "From captive sentinel to free protector of new skies",
+    "potential_role": "Bridge between ground and sky races",
+    "growth": [
+      "Learns trust in family bonds beyond flight",
+      "May form pack-bond with wolf kin and kitsune as equals",
+      "Seeks to teach younglings to revere and respect the skies"
+    ]
+  },
+  "final_note": "His wings once broken now guard the free; silence has turned to watchful song."  
+}
