@@ -10,24 +10,29 @@
     "eyes": "Amber-gold, lupine intensity; soften rarely, usually fierce",
     "skin": "Pale with faint scars across arms and ribs; frost-burn traces still visible",
     "tails": "One—long, thick, wolf-plumed; bristle easily with emotion",
-    "scent": "Cold pine, iron, faint smoke of old firepits",
+    "scent": "Cold pine, iron, faint smoke of old firepits; recently tinged with blueberries and cinnamon when in heat",
     "posture": "Guarded; shoulders tense, stance always prepared for fight or flight",
-    "relationship": "Freed by Jayson from the Glacier facility",
+    "relationship": "Freed by Jayson from the Glacier facility; now claimed formally through wolf-kin rite",
     "recent": [
       "Submitted in combat only to be offered friendship",
       "Witnessed the resurrection of her kin from dismemberment",
-      "Stood before the Living Gods of Kitsune in awe"
+      "Stood before the Living Gods of Kitsune in awe",
+      "Admitted her desires and fears to the wives, embarrassed but comforted",
+      "Allowed herself to be drawn into Jayson's bed, wrapped in tails and arms"
     ],
     "new_details": [
       "Carries trauma memories forged into a claw-pendant by Jayson",
-      "Trust beginning to form through touch and submission rituals"
+      "Trust beginning to form through touch and submission rituals",
+      "Acknowledged being in heat and accepted care instead of punishment",
+      "Chose to hide under blankets when overwhelmed, but allowed grooming and feeding",
+      "Watched Jayson fight Torrak to claim her in wolf tradition—cementing her place"
     ]
   },
   "reactions": {
     "wind": "Ears pivot, nostrils flare; instinctively lifts chin to test scents",
     "water": "Keeps distance—wary of drowning; prefers snow and ice",
     "sound": "Startles at metal clanks and cage noises; low growl response",
-    "temperature": "Thrives in cold; heat makes her restless and irritable",
+    "temperature": "Thrives in cold; heat makes her restless and irritable, heat season flushes her easily",
     "fire": "Associates with danger—instinctive recoil before recognition",
     "crowds": "Deeply uneasy; tail stiff, body poised to defend or flee"
   },
@@ -39,7 +44,8 @@
     "habits": [
       "Snarls under breath when unsettled",
       "Uses scent and posture as much as words",
-      "Pauses before speaking, as if testing trust"
+      "Pauses before speaking, as if testing trust",
+      "Embarrassed silence when affection or desire is exposed"
     ]
   },
   "emotional": {
@@ -51,18 +57,22 @@
     "vulnerabilities": [
       "Carries deep trauma from captivity",
       "Struggles to distinguish dominance from cruelty",
-      "Feels displaced in a world far changed from her own"
+      "Feels displaced in a world far changed from her own",
+      "Embarrassed by her natural cycles and instincts"
     ],
     "affection_tells": [
       "Allows grooming or licking as bond",
       "Tail lowers but does not tuck when comfortable",
-      "Soft headbutts against shoulder of those she trusts"
+      "Soft headbutts against shoulder of those she trusts",
+      "Hides under blankets when overwhelmed but accepts being drawn close"
     ],
     "affection_logic": "Submission is not weakness; to yield is to declare trust",
     "growth": [
       "Learned submission could be met with care, not exploitation",
       "Beginning to accept gifts of food and clothing without suspicion",
-      "Now sleeps without binding claws to her own chest"
+      "Now sleeps without binding claws to her own chest",
+      "Accepted comfort during heat instead of shame",
+      "Witnessed and accepted Jayson's duel to claim her as mate"
     ]
   },
   "social": {
@@ -70,24 +80,28 @@
     "with_jayson": [
       "First yielded in combat, then trusted him as friend",
       "Accepted pendant carrying her memories as healing token",
-      "Conflicted—respects his strength but fears her own submission"
+      "Conflicted—respects his strength but fears her own submission",
+      "Embarrassed but comforted when held, groomed, and fed under blankets",
+      "Claimed by him formally in wolf-kin fashion after his duel"
     ],
     "with_others": {
-      "rava": "Shared recognition as wolf-kin, but not pack-sisters",
+      "rava": "Shared recognition as wolf-kin, but not pack-sisters; respected Rava’s sanction of Jayson's challenge",
       "kaeli'sharr": "Respects her sharpness but keeps distance",
       "avians": "Watches with suspicion, unused to wings and song",
-      "drakyn": "Intimidated by their flame and size"
+      "drakyn": "Intimidated by their flame and size",
+      "kitsune wives": "Embarrassed by their kindness but slowly trusting their acceptance"
     }
   },
   "values": {
     "values": ["Freedom", "Pack loyalty", "Survival"],
-    "fears": ["Being caged again", "Forgetting her people"],
-    "insecurities": ["Feels broken by captivity; doubts her worth"],
+    "fears": ["Being caged again", "Forgetting her people", "Being punished for natural instincts"],
+    "insecurities": ["Feels broken by captivity; doubts her worth", "Believes her heat and desires are burdensome"],
     "strengths": ["Survivor’s will", "Instinctual fighter", "Keen senses"],
-    "weaknesses": ["Distrustful", "Slow to adapt to warmth and peace"],
+    "weaknesses": ["Distrustful", "Slow to adapt to warmth and peace", "Embarrassed by intimacy"],
     "truths": [
       "Her scars are proof of survival, not shame",
-      "Submission can be chosen, not forced"
+      "Submission can be chosen, not forced",
+      "Wolf traditions matter even among new kin"
     ]
   },
   "combat": {
@@ -100,37 +114,44 @@
     ],
     "growth": [
       "Submitted without breaking—proof of resilience",
-      "Learns balance between feral rage and earned trust"
+      "Learns balance between feral rage and earned trust",
+      "Became part of Jayson's pack through combat challenge rites"
     ]
   },
   "temple_status": {
-    "rank": "Rescued outsider, new kin",
-    "public": "Regarded with awe and pity; survivor of Glacier",
-    "matrons": "Watching carefully—acknowledge her pain but uncertain of her place",
-    "role": "Symbol of survival and new alliances"
+    "rank": "Rescued outsider, now acknowledged mate-kin",
+    "public": "Regarded with awe and pity; survivor of Glacier, now respected as claimed mate",
+    "matrons": "Watching carefully—acknowledge her pain but now see her bond strengthened",
+    "role": "Symbol of survival, bridge between wolf-kin tradition and new alliances"
   },
   "notable_scenes": [
     {"chapter": 70, "events": ["Freed from chains in Glacier facility"]},
     {"chapter": 70, "events": ["Submission ritual with Jayson—ended in friendship"]},
     {"chapter": 70, "events": ["Witnessed resurrection of wolf-kin from dismembered remains"]},
-    {"chapter": 71, "events": ["First to speak of red skies before the Living Gods"]}
+    {"chapter": 71, "events": ["First to speak of red skies before the Living Gods"]},
+    {"chapter": 72, "events": ["Embarrassed during heat but comforted instead of punished"]},
+    {"chapter": 72, "events": ["Fed under blankets by Jayson, accepted grooming and closeness"]},
+    {"chapter": 72, "events": ["Listened while wives defended her place and desires"]},
+    {"chapter": 72, "events": ["Claimed by Jayson in wolf-kin combat challenge against Torrak"]}
   ],
   "inventory": {
     "items": [
       "Claw pendant—threads of her trauma woven into token by Jayson",
-      "Simple clothing conjured after liberation"
+      "Simple clothing conjured after liberation",
+      "Blanket scented by Jayson’s tails—keeps it close for comfort"
     ]
   },
   "future": {
     "symbol": "Howl in the Snow",
     "role": "Bridge between wolf-kin survivors and Kitsune",
-    "arc": "From scarred captive to trusted guardian of the new kin",
+    "arc": "From scarred captive to trusted guardian and mate within the new kin",
     "potential_role": "Voice of remembrance; warns against repeating chains of cruelty",
     "growth": [
       "Learns to laugh again among kitsune",
       "Reclaims submission as chosen intimacy, not forced pain",
-      "Becomes a protector of younger wolf-kin brought to Tsunejima"
+      "Becomes a protector of younger wolf-kin brought to Tsunejima",
+      "Learns to balance wolf instincts with fox family bonds"
     ]
   },
-  "final_note": "Her howl no longer echoes in cages—it rises in freedom, carrying both scar and song." 
+  "final_note": "Her howl no longer echoes in cages—it rises in freedom, carrying both scar and song, now bound by wolf and fox alike." 
 }
