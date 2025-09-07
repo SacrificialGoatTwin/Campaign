@@ -1,5 +1,6 @@
 {
   "name": "Jayson Goodwin",
+  "birthname": "Shel’mekai’Vuran-Tah’aan",
   "title": "The Anomaly, The Flamebearer, The Man of Two Worlds",
   "quote": "When the world calls me broken, I answer with flame.",
   "appearance": {
