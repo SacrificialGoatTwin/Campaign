@@ -12,20 +12,24 @@
     "tails": "One—long, thick, wolf-plumed; bristle easily with emotion",
     "scent": "Cold pine, iron, faint smoke of old firepits; recently tinged with blueberries and cinnamon when in heat",
     "posture": "Guarded; shoulders tense, stance always prepared for fight or flight",
-    "relationship": "Freed by Jayson from the Glacier facility; now claimed formally through wolf-kin rite",
+    "relationship": "Freed by Jayson from the Glacier facility; now claimed formally through wolf-kin rite and acknowledged as his mate",
     "recent": [
       "Submitted in combat only to be offered friendship",
       "Witnessed the resurrection of her kin from dismemberment",
       "Stood before the Living Gods of Kitsune in awe",
       "Admitted her desires and fears to the wives, embarrassed but comforted",
-      "Allowed herself to be drawn into Jayson's bed, wrapped in tails and arms"
+      "Allowed herself to be drawn into Jayson's bed, wrapped in tails and arms",
+      "Shared a wolf-kin mating ritual under the moon with Jayson",
+      "Discussed future children and allowed playful intimacy without shame"
     ],
     "new_details": [
       "Carries trauma memories forged into a claw-pendant by Jayson",
       "Trust beginning to form through touch and submission rituals",
       "Acknowledged being in heat and accepted care instead of punishment",
       "Chose to hide under blankets when overwhelmed, but allowed grooming and feeding",
-      "Watched Jayson fight Torrak to claim her in wolf tradition—cementing her place"
+      "Watched Jayson fight Torrak to claim her in wolf tradition—cementing her place",
+      "Accepted scent-marking and ritual howling to affirm her bond",
+      "Cried in gratitude when gifted magic to manage her cycles, beginning to release old shame"
     ]
   },
   "reactions": {
@@ -72,7 +76,9 @@
       "Beginning to accept gifts of food and clothing without suspicion",
       "Now sleeps without binding claws to her own chest",
       "Accepted comfort during heat instead of shame",
-      "Witnessed and accepted Jayson's duel to claim her as mate"
+      "Witnessed and accepted Jayson's duel to claim her as mate",
+      "Chose Jayson as her mate and sealed it through wolf-kin rites",
+      "Released tears of relief when told her instincts were not shameful"
     ]
   },
   "social": {
@@ -82,7 +88,9 @@
       "Accepted pendant carrying her memories as healing token",
       "Conflicted—respects his strength but fears her own submission",
       "Embarrassed but comforted when held, groomed, and fed under blankets",
-      "Claimed by him formally in wolf-kin fashion after his duel"
+      "Claimed by him formally in wolf-kin fashion after his duel",
+      "Howled, scented, and bonded under the moon as mates",
+      "Joked about children, laughed despite herself, showing newfound ease"
     ],
     "with_others": {
       "rava": "Shared recognition as wolf-kin, but not pack-sisters; respected Rava’s sanction of Jayson's challenge",
@@ -101,7 +109,8 @@
     "truths": [
       "Her scars are proof of survival, not shame",
       "Submission can be chosen, not forced",
-      "Wolf traditions matter even among new kin"
+      "Wolf traditions matter even among new kin",
+      "Heat is natural, not weakness, when met with care"
     ]
   },
   "combat": {
@@ -115,7 +124,8 @@
     "growth": [
       "Submitted without breaking—proof of resilience",
       "Learns balance between feral rage and earned trust",
-      "Became part of Jayson's pack through combat challenge rites"
+      "Became part of Jayson's pack through combat challenge rites",
+      "Found strength in choosing her mate openly, not by pack coercion"
     ]
   },
   "temple_status": {
@@ -132,7 +142,10 @@
     {"chapter": 72, "events": ["Embarrassed during heat but comforted instead of punished"]},
     {"chapter": 72, "events": ["Fed under blankets by Jayson, accepted grooming and closeness"]},
     {"chapter": 72, "events": ["Listened while wives defended her place and desires"]},
-    {"chapter": 72, "events": ["Claimed by Jayson in wolf-kin combat challenge against Torrak"]}
+    {"chapter": 72, "events": ["Claimed by Jayson in wolf-kin combat challenge against Torrak"]},
+    {"chapter": 73, "events": ["Bond sealed by howling and scent-marking under the moon"]},
+    {"chapter": 73, "events": ["Accepted magic gift for her cycle, cried in gratitude"]},
+    {"chapter": 73, "events": ["Joked awkwardly about children, showing ease with Jayson’s humor"]}
   ],
   "inventory": {
     "items": [
@@ -150,8 +163,9 @@
       "Learns to laugh again among kitsune",
       "Reclaims submission as chosen intimacy, not forced pain",
       "Becomes a protector of younger wolf-kin brought to Tsunejima",
-      "Learns to balance wolf instincts with fox family bonds"
+      "Learns to balance wolf instincts with fox family bonds",
+      "Embraces matehood with pride, no longer seeing heat as shame"
     ]
   },
-  "final_note": "Her howl no longer echoes in cages—it rises in freedom, carrying both scar and song, now bound by wolf and fox alike." 
+  "final_note": "Her howl no longer echoes in cages—it rises in freedom, carrying both scar and song, now bound by wolf and fox alike."
 }
