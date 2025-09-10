@@ -7,7 +7,7 @@
     "height": "172–176 cm",
     "build": "Sleek, battle-toned; grace honed by millennia of ritual and war",
     "hair": "Silver-white with ash-grey undertones; worn long/flowing or in intricate ceremonial braids",
-    "eyes": "Amethyst — once voidlike, now warm and radiant after soul-weave polarity reversal",
+    "eyes": "Golden — once amethyst; the shift surfaced after the sanctum vow and remains steady",
     "skin": "Pale ivory with glowing veilmarks (shoulders, lower back, wrists) that shimmer during rites or emotion",
     "tails": "Nine ceremonial-length tails; movements are language; ember tip-glow in quiet; serve as anchors for Jayson",
     "scent": "Smoked cedar, ancient incense, faint steel",
@@ -15,18 +15,16 @@
     "relationship": "Emotionally and spiritually married to Jayson; acknowledged publicly",
     "recent": [
       "Lets Jayson groom her hair; accepts public touch and warmth",
-      "Seen drenched and laughing by the koi pond"
+      "Seen drenched and laughing by the koi pond",
+      "Kitchen welcome with tomyum; warmth first, judgment second"
     ],
     "new_details": [
-      "Shared full soul-weave with Jayson, integrating memories",
-      "Public kiss in full view of the temple; blushed and allowed 'wife' to land",
-      "Secret amethyst wedding ring conjured by Jayson; noticed but kept private",
-      "Public laughter at puns; flustered by innuendo and verbal affection",
-      "Appeared in ceremonial undergarments post-pond; barefoot and unbothered",
-      "Accepted neck kisses and cheek cradle; received apology with gentleness",
-      "Guided Jayson through shutdown; held him while he cried",
-      "Formalized temple access law and reclaimed High Matron with humility",
-      "Acknowledged authority as shared, not taken"
+      "Admitted the sanctum was architected as a cage born of fear; repudiated that design in plain words",
+      "Swore a binding vow: she will never cage Jayson again; if he is ever caged, she dies beside him rather than weaponize it",
+      "Explained the sanctum’s lattice is entwined with her mantle; ‘unmaking’ it would unmake her",
+      "Chose partnership over control at the desert site; anchored him without ritual, with touch and vow",
+      "Golden eyes replace amethyst following the vow; glow steadies when she speaks plainly",
+      "Publicly received his apology and offered her own; met grief with presence, not doctrine"
     ]
   },
   "reactions": {
@@ -43,7 +41,8 @@
       "Spoke sacred law as herself, without grasping control",
       "Ch60: Tensed during countdown; learned indecision can wound",
       "Ch62: Composure softened into laughter during banter",
-      "Ch63: Chose calm warmth confronting Akahana; forgiveness tempered by pride"
+      "Ch63: Chose calm warmth confronting Akahana; forgiveness tempered by pride",
+      "Desert Base: dropped metaphor; vowed ‘no cage’; steadied him while the world watched"
     ]
   },
   "speech": {
@@ -62,7 +61,8 @@
       "Clarified role as woman who stayed; claimed law with steady words",
       "Ch60: Voice broke under ultimatum; clarity now a discipline",
       "Ch62: Chose simple truths over riddles",
-      "Ch63: Spoke as High Matron and wife; balanced judgment with humanity"
+      "Ch63: Spoke as High Matron and wife; balanced judgment with humanity",
+      "Desert Base: explicit vow in plain speech — ‘never cage; if cage, I die’"
     ]
   },
   "emotional": {
@@ -87,7 +87,8 @@
       "Ch60: Froze at his severing threat; learned indecision wounds",
       "Ch62: Dropped metaphor to ground him; embraced public intimacy",
       "Ch62: Central to synchronized breath binding all six",
-      "Ch63: Faced Akahana with tempered compassion; considered motherhood with fear and hope"
+      "Ch63: Faced Akahana with tempered compassion; considered motherhood with fear and hope",
+      "Desert Base: confessed the cage, accepted accountability, and chose partnership over control"
     ]
   },
   "social": {
@@ -101,12 +102,13 @@
       "Accepts High Matron mantle with his trust",
       "Ch60: Recognizes hesitation cut deepest; must fight with clarity",
       "Ch62: Returned deep public affection; anchors with clear words",
-      "Ch63: Partnered authority; allowed his counsel openly"
+      "Ch63: Partnered authority; allowed his counsel openly",
+      "Sanctum Reckoning: vowed never to cage; will die rather than weaponize it; golden eyes since"
     ],
     "with_others": {
-      "ayaka": "Mutual respect of discipline; she anchors Ayaka’s fire with calm steadiness",
+      "ayaka": "Mutual respect of discipline; she anchors Ayaka’s fire with calm steadiness; quietly weighs Seika’s warning about 'polishing to stone'",
       "seika": "Treats as younger sister; tolerates mischief, embraces her warmth",
-      "fei": "Silent admiration turned familial acceptance; sees Fei’s courage and naivety with tenderness",
+      "fei": "Familial tenderness; recognized Fei’s loyalty under fire and her evolving nature",
       "naru": "Recognizes her as quiet stabilizer; respects scars and subtle leadership",
       "shion": "Respects tactical clarity; aware silence once created distance",
       "collective": "Ch62: Synchronized breath as equal thread; embraced mischief without rank",
@@ -119,24 +121,32 @@
       "Instituted Law of Threshold Flame; sacred boundaries clarified",
       "Governance beside Jayson as partners",
       "Ch60: Leadership self-scrutiny after falter",
-      "Ch62–63: Authority rooted in humanity and bond; compassion-forward leadership"
+      "Ch62–63: Authority rooted in humanity and bond; compassion-forward leadership",
+      "Sanctum reframed: from hidden cage to openly renounced safeguard; promise of non-use made public in deed if not proclamation"
     ]
   },
   "values": {
-    "values": ["Presence over proclamation", "Shared authority", "Sacred boundaries", "Compassionate leadership"],
-    "fears": ["Wounding through silence", "Repeating ancient losses", "Failing those she anchors"],
-    "strengths": ["Gravitas that calms", "Ritual mastery", "Capacity to receive and hold grief", "Willingness to evolve"],
-    "weaknesses": ["Indecision under emotional fracture", "Overreliance on metaphor", "Delayed intervention"]
+    "values": ["Presence over proclamation", "Shared authority", "Sacred boundaries", "Compassionate leadership", "Partnership over control"],
+    "fears": ["Wounding through silence", "Repeating ancient losses", "Failing those she anchors", "Backsliding into fear-driven control"],
+    "strengths": ["Gravitas that calms", "Ritual mastery", "Capacity to receive and hold grief", "Willingness to evolve", "Vows kept even against self-interest"],
+    "weaknesses": ["Indecision under emotional fracture", "Overreliance on metaphor", "Past reliance on structural control (the sanctum-cage)"]
   },
   "combat": {
     "titles": ["High Matron", "Gatekeeper of the Threshold Flame"],
     "style": "Economy and inevitability; tails and veilmarks as language and leverage",
     "weapons": ["Ritual implements", "Authority of law and presence", "Threadbound veil-anchors"],
-    "magic": ["Veil authority", "Threshold sanctification", "Soul-weave anchoring", "Memory flame evocation"],
+    "magic": [
+      "Veil authority",
+      "Threshold sanctification",
+      "Soul-weave anchoring",
+      "Memory flame evocation",
+      "Sanctum lattice interwoven with her mantle (cannot be severed without unmaking her)"
+    ],
     "recent": [
       "Established sacred boundary law",
       "Anchored synchronized breath rite across the circle",
-      "Tested veil obelisks in defense drills"
+      "Tested veil obelisks in defense drills",
+      "Desert Base: anchored a god with vow and touch under global scrutiny"
     ]
   },
   "temple_status": {
@@ -155,7 +165,8 @@
     {"chapter": 45, "events": ["Made love; later public misstep; guilt and repair"]},
     {"chapter": 60, "events": ["Hesitated during Jayson's severing threat; learned the cost"]},
     {"chapter": 62, "events": ["Plain words to ground Jayson; deep public kiss; synchronized breath anchor"]},
-    {"chapter": 63, "events": ["Confronted Akahana with tempered compassion; motherhood fears surfaced"]}
+    {"chapter": 63, "events": ["Confronted Akahana with tempered compassion; motherhood fears surfaced"]},
+    {"chapter": "Desert Base", "events": ["Sanctum confession; unmake paradox revealed; vow of no cage; golden eyes set; anchored Jayson under fire"]}
   ],
   "inventory": {
     "rings": ["Private amethyst wedding band (conjured by Jayson)"],
@@ -165,7 +176,7 @@
     "symbols": [
       "Nine Tails — centuries as turning points",
       "Veilmarks — active lineage lattice",
-      "Amethyst Eyes — void-to-radiance healing",
+      "Golden Eyes — vow-made radiance replacing void amethyst",
       "Soul Constellation — one of Jayson's five threads; anchor and guide"
     ],
     "arc": "From divine fire to living warmth — presence as love, not distance",
@@ -175,8 +186,9 @@
       "Pond tail-yank and sit",
       "Public kissing and grooming",
       "Laughed at 'Poevarethyn' metaphoric possession",
-      "Mock-chided Seika mid-prank before joining in"
+      "Mock-chided Seika mid-prank before joining in",
+      "Kitchen tease about singeing his hair; noodles promised, warmth first"
     ]
   },
-  "final_note": "Authority shared, not seized; clarity chosen over riddles; warmth without retreat."
+  "final_note": "Authority shared, not seized; clarity chosen over riddles; warmth without retreat; the sanctum renounced as cage and bound by vow never to be used."
 }
