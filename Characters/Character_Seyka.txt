@@ -16,7 +16,9 @@
     "recent": [
       "Lap-claims without hesitation",
       "Public embraces at festivals",
-      "Teaching tail tricks to children by the ponds"
+      "Teaching tail tricks to children by the ponds",
+      "Kitchen-counter intimacy with Jayson—open affection beyond play",
+      "Admitted 'love you' openly without deflection or joke"
     ],
     "new_details": [
       "Ruby-ring from Jayson representing her place in his constellation",
@@ -39,7 +41,8 @@
     "habits": [
       "Interrupts solemn speeches with jokes",
       "Nicknames everyone, even mid-battle",
-      "Laughs at her own commentary"
+      "Laughs at her own commentary",
+      "Whispers truths after pranks—testing vulnerability and trust"
     ]
   },
   "emotional": {
@@ -51,12 +54,14 @@
     "vulnerabilities": [
       "Lingering trauma from Tribunal captivity",
       "Healing self-worth; now accepts love even in quiet",
-      "No longer fears being 'unenertaining'"
+      "No longer fears being 'unentertaining'",
+      "Fears Jayson's discipline under Ayaka may turn him 'stone'"
     ],
     "affection_tells": [
       "Physical touch: leans on people, jumps into laps, accepts cuddles",
       "Tail twitches when flustered",
-      "Spontaneous nicknames as attachment"
+      "Spontaneous nicknames as attachment",
+      "Surprise kisses and sudden deep intimacy when emotions peak"
     ],
     "affection_logic": "Stillness now signals trust, not discomfort",
     "growth": [
@@ -75,7 +80,9 @@
       "Faced past abusers publicly at press; claimed identity with fearlessness",
       "Historic roast of Jayson's stomach—legacy as comedian",
       "Chapter 60: blocked his severing; anchored him with flame-thread binding",
-      "Chapter 62: first to break and cling on return; unleashed furnace in rites with trust"
+      "Chapter 62: first to break and cling on return; unleashed furnace in rites with trust",
+      "Chapter 75+: kitchen-counter intimacy showed emotional maturity—learning seriousness beyond chaos",
+      "Asserted 'love you lots' without jokes, proving emotional depth"
     ]
   },
   "social": {
@@ -91,13 +98,14 @@
       "Post-trial: sees him as emotional safe-space; unspoken presence",
       "Loudest voice in comedic arcs; tension-breaker and joy-generator",
       "Chapter 60: confronted his severing attempt; claimed him openly",
-      "Chapter 62: leapt into his arms first; tail as lifeline; accepts public affection fully"
+      "Chapter 62: leapt into his arms first; tail as lifeline; accepts public affection fully",
+      "Kitchen intimacy: accepted his vulnerability and gave direct 'I love you'"
     ],
     "with_others": {
       "fei": "Best-friend chaos; shares lap space, sweets, and antics; okay with being stacked/teased",
       "ayaka": "Tests patience but shares true sisterhood moments",
       "naru": "Mirror soul; affection shown openly; playful synergy",
-      "shion": "Respects boundaries; enjoys quiet teasing",
+      "shion": "Respects boundaries; enjoys quiet teasing; new trust shown through play-battle intimacy",
       "varethyn": "Feisty; teased her warmth; confronted her over Jayson's emotional abandonment",
       "temple_children": "Beloved; teaches tail control through games and laughter"
     }
@@ -128,7 +136,8 @@
       "Public 'dumpling combat' antics; hoisted/teased unflinchingly",
       "Flame now governed by intent; includes soulfield bursts and precision threads",
       "Chapter 60: tails as shields; flame-thread tether to anchor Jayson",
-      "Chapter 62: unleashed full furnace during rites, guided and merged with Jayson"
+      "Chapter 62: unleashed full furnace during rites, guided and merged with Jayson",
+      "Chapter 75+: trusts her fire as part of intimacy, using warmth deliberately instead of reactively"
     ]
   },
   "temple_status": {
@@ -151,7 +160,8 @@
     {"chapter": 55, "events": ["Stomach Uprising—legendary roast; log renaming"]},
     {"chapter": 55, "events": ["Lap Rights Chaos—rule-lawyering; heckled Fei’s trial; defended sacred chaos"]},
     {"chapter": 60, "events": ["Breaking Point—refused to let Jayson sever bonds; blazing anchor"]},
-    {"chapter": 62, "events": ["Return—first to cling; furnace unleashed with trust; balance of chaos and loyalty"]}
+    {"chapter": 62, "events": ["Return—first to cling; furnace unleashed with trust; balance of chaos and loyalty"]},
+    {"chapter": 75, "events": ["Kitchen-counter intimacy—passionate kiss, whispered 'I love you lots' without joke"]}
   ],
   "inventory": {
     "items": [
@@ -168,7 +178,8 @@
     "growth": [
       "Post–Chapter 60: steps as emotional equal in crises",
       "Chapter 62 foreshadowing: most vocal defender of Jayson's belonging; balances chaos with fierce strength",
-      "Future training arc: teaching younger Kitsune controlled flame and tail agility through laughter"
+      "Future training arc: teaching younger Kitsune controlled flame and tail agility through laughter",
+      "Chapter 75+: deeper intimacy with Jayson—embraces being wife not only in play, but in seriousness"
     ]
   },
   "final_note": "She burns by choice now—joy as signal, love as fuel, stillness as trust."

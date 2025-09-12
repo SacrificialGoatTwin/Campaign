@@ -11,12 +11,20 @@
         }
       },
       "scale_expansion": {
-        "village": "500+ homes seamlessly woven into temple design",
+        "village": "1500+ homes seamlessly woven into temple design",
         "integration": "Temple and village are one unified system",
         "features": ["Courtyards", "Plazas", "Canopy walkways", "Family gardens"]
       },
       "ownership": "Land belongs to Jayson and the six Kitsune women (Ayaka, Seika, Varethyn, Shion, Naru, FEI).",
-      "population": 1127,
+      "population": {
+        "Kitsune": 1627,
+        "Wolf-Kin": 65,
+        "Avians": 35,
+        "Neko": 44,
+        "Drakyn": 38,
+        "Aelthryn": 1,
+        "Humans": 3
+      },
       "construct_systems": [
         "Agricultural cycles",
         "Weather flow",

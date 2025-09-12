@@ -15,7 +15,7 @@
     "relationship": {
       "status": "Married by ritual to Jayson",
       "acknowledged": true,
-      "update": "Wears fire agate wedding ring, silently placed by Jayson. Tested bond by disciplining him harshly; privately admitted she feared breaking him."
+      "update": "Wears fire agate wedding ring, silently placed by Jayson. Tested bond by disciplining him harshly; privately admitted she feared breaking him. Recently bristled in protective stance when Jayson appeared shadowed during newcomers’ arrival — revealed instinctive defense despite cold exterior."
     }
   },
   "reactions": {
@@ -28,7 +28,8 @@
       "Breath syncs with Jayson during shared rites",
       "Softens unconsciously when Seika or Naru lean on her",
       "Uses physical discipline when words fail (nearly drowned Jayson to temper him)",
-      "Whispers confessions only when alone, revealing regret"
+      "Whispers confessions only when alone, revealing regret",
+      "Bristled and turned sharply when sensing Jayson in the shadows — instinctive protector mode"
     ]
   },
   "speech": {
@@ -41,7 +42,7 @@
       "Holds silence instead of filler words",
       "Uses metaphor of flame and discipline to frame arguments"
     ],
-    "growth": "Now allows softness with Jayson and family. Publicly formal, privately blooming. Tested boundaries with harsher discipline, realized silence and obedience are not what she truly seeks."
+    "growth": "Now allows softness with Jayson and family. Publicly formal, privately blooming. Tested boundaries with harsher discipline, realized silence and obedience are not what she truly seeks. Recently showed instinctive defense of her household despite earlier coldness, revealing her discipline is cracking toward protectiveness."
   },
   "emotional": {
     "core_traits": ["Disciplined", "Stoic", "Protective"],
@@ -70,7 +71,8 @@
       "Accepted Jayson’s love during breakdown",
       "Declared unity in front of group",
       "Leaned into vulnerability with whispered affection",
-      "Tested severity of her role as Disciplined Flame — nearly drowned Jayson in play as discipline, then admitted regret alone"
+      "Tested severity of her role as Disciplined Flame — nearly drowned Jayson in play as discipline, then admitted regret alone",
+      "Showed visible protective instinct when outsiders approached, bristling before Jayson revealed himself — exposing how coldness is giving way to fierce protectiveness"
     ]
   },
   "social": {
@@ -84,7 +86,8 @@
       "Admitted guilt about sisters, accepted confrontation",
       "Said 'I love you' back",
       "Shared whispered intimacy without retreat",
-      "Tempered him through physical discipline, demanded obedience, saw cost of silence, later whispered her fear of breaking him"
+      "Tempered him through physical discipline, demanded obedience, saw cost of silence, later whispered her fear of breaking him",
+      "Showed protective stance in garden, standing before newcomers instinctively"
     ],
     "with_others": {
       "seika": "Rivalry softened, anchors Seika.",
@@ -92,7 +95,8 @@
       "shion": "Deep respect.",
       "varethyn": "Understands silence, bonded in history.",
       "fei": "Now trusts her guidance, sees as Jayson's anchor.",
-      "lysera": "Respected her wolf traditions, though silent in judgment, accepts her presence in the pack."
+      "lysera": "Respected her wolf traditions, though silent in judgment, accepts her presence in the pack.",
+      "outsiders": "Cold, assessing, but instinctively protective of household when potential threat appears."
     }
   },
   "values": {
@@ -106,7 +110,8 @@
     "strengths": [
       "Acts through fear",
       "Emotional recall tied to disciplined memory",
-      "Capable of commanding obedience when needed"
+      "Capable of commanding obedience when needed",
+      "Instinctive protector even when emotionally conflicted"
     ],
     "weaknesses": [
       "Defaults to silence when action fails",
@@ -128,7 +133,8 @@
     "recent": [
       "Stabilized veil breach, anchored rituals, calmed panic during Jayson’s breakdown",
       "Fought beside Seika during rites, balanced chaos with order",
-      "Exerted physical dominance in bathhouse — tested discipline by nearly drowning Jayson, forcing lesson at great cost"
+      "Exerted physical dominance in bathhouse — tested discipline by nearly drowning Jayson, forcing lesson at great cost",
+      "Showed restraint when strangers arrived, relying on authority and silent defense instead of immediate violence"
     ]
   },
   "temple_status": {
@@ -140,7 +146,8 @@
       "Reaffirmed bond during press conference",
       "Shared lap moments publicly",
       "Openly teased during law chaos",
-      "Enforced harsh discipline privately on Jayson, later admitted regret"
+      "Enforced harsh discipline privately on Jayson, later admitted regret",
+      "Demonstrated protective instincts when strangers appeared, bristling visibly"
     ]
   },
   "notable_scenes": [
@@ -157,7 +164,8 @@
     {"chapter": 48, "events": ["Foxwolf Meltdown", "Guilt Unveiled", "Reassured by Love", "Said it Back"]},
     {"chapter": 55, "events": ["Press Conference Commitment", "Soft Reconciliation", "Sack Carry + Flick", "\"Worth it\" Response", "Emotional Choice Reversal"]},
     {"chapter": 62, "events": ["Collapse and Anchor", "Shared Laughter"]},
-    {"chapter": 70, "events": ["Bathhouse Discipline", "Silent Regret"]}
+    {"chapter": 70, "events": ["Bathhouse Discipline", "Silent Regret"]},
+    {"chapter": 75, "events": ["Garden Stand — Protective Bristle", "Outsiders Tested"]}
   ],
   "inventory": {
     "rings": [
@@ -180,5 +188,5 @@
     "legacy": ["Flame-Keeper", "Wife", "Shield"],
     "reminder": "She is not his weapon — she is his warmth, by choice, though she must guard against burning him through discipline"
   },
-  "final_note": "Ayaka will never leave again. Even when silent, her fire walks beside him — but she now carries the weight of having nearly broken what she sought to temper."
+  "final_note": "Ayaka will never leave again. Even when silent, her fire walks beside him — but she now carries the weight of having nearly broken what she sought to temper. Her coldness is cracking into protectiveness, showing discipline and love are no longer separate paths."
 }

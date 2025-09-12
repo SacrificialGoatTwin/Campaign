@@ -16,7 +16,9 @@
     "recent": [
       "Lets Jayson groom her hair; accepts public touch and warmth",
       "Seen drenched and laughing by the koi pond",
-      "Kitchen welcome with tomyum; warmth first, judgment second"
+      "Kitchen welcome with tomyum; warmth first, judgment second",
+      "Watched Jayson reveal atrocities at the UN — cracks showed in her mantle for the first time in public",
+      "Held herself steady after witnessing child-torture evidence; chose to comfort him afterward instead of shielding herself"
     ],
     "new_details": [
       "Admitted the sanctum was architected as a cage born of fear; repudiated that design in plain words",
@@ -24,7 +26,8 @@
       "Explained the sanctum’s lattice is entwined with her mantle; ‘unmaking’ it would unmake her",
       "Chose partnership over control at the desert site; anchored him without ritual, with touch and vow",
       "Golden eyes replace amethyst following the vow; glow steadies when she speaks plainly",
-      "Publicly received his apology and offered her own; met grief with presence, not doctrine"
+      "Publicly received his apology and offered her own; met grief with presence, not doctrine",
+      "Confronted by the full scope of Hydra’s crimes; allowed her authority to soften into humanity in response"
     ]
   },
   "reactions": {
@@ -42,7 +45,8 @@
       "Ch60: Tensed during countdown; learned indecision can wound",
       "Ch62: Composure softened into laughter during banter",
       "Ch63: Chose calm warmth confronting Akahana; forgiveness tempered by pride",
-      "Desert Base: dropped metaphor; vowed ‘no cage’; steadied him while the world watched"
+      "Desert Base: dropped metaphor; vowed ‘no cage’; steadied him while the world watched",
+      "UN Council: mantle cracked briefly; revealed emotional humanity in front of the world"
     ]
   },
   "speech": {
@@ -62,7 +66,8 @@
       "Ch60: Voice broke under ultimatum; clarity now a discipline",
       "Ch62: Chose simple truths over riddles",
       "Ch63: Spoke as High Matron and wife; balanced judgment with humanity",
-      "Desert Base: explicit vow in plain speech — ‘never cage; if cage, I die’"
+      "Desert Base: explicit vow in plain speech — ‘never cage; if cage, I die’",
+      "UN Council: spoke little, but her silence and presence carried political weight; allowed her humanity to show cracks instead of maintaining untouchable authority"
     ]
   },
   "emotional": {
@@ -88,7 +93,8 @@
       "Ch62: Dropped metaphor to ground him; embraced public intimacy",
       "Ch62: Central to synchronized breath binding all six",
       "Ch63: Faced Akahana with tempered compassion; considered motherhood with fear and hope",
-      "Desert Base: confessed the cage, accepted accountability, and chose partnership over control"
+      "Desert Base: confessed the cage, accepted accountability, and chose partnership over control",
+      "UN Council: confronted Hydra atrocities publicly for the first time; cracked emotionally but steadied herself to remain anchor — rare humanity shown"
     ]
   },
   "social": {
@@ -103,7 +109,8 @@
       "Ch60: Recognizes hesitation cut deepest; must fight with clarity",
       "Ch62: Returned deep public affection; anchors with clear words",
       "Ch63: Partnered authority; allowed his counsel openly",
-      "Sanctum Reckoning: vowed never to cage; will die rather than weaponize it; golden eyes since"
+      "Sanctum Reckoning: vowed never to cage; will die rather than weaponize it; golden eyes since",
+      "UN Council: stood beside him before the world; chose to show humanity, not just authority"
     ],
     "with_others": {
       "ayaka": "Mutual respect of discipline; she anchors Ayaka’s fire with calm steadiness; quietly weighs Seika’s warning about 'polishing to stone'",
@@ -112,7 +119,8 @@
       "naru": "Recognizes her as quiet stabilizer; respects scars and subtle leadership",
       "shion": "Respects tactical clarity; aware silence once created distance",
       "collective": "Ch62: Synchronized breath as equal thread; embraced mischief without rank",
-      "akahana (Ch63)": "Shelter offered without cheap forgiveness; redemption path open but hard"
+      "akahana (Ch63)": "Shelter offered without cheap forgiveness; redemption path open but hard",
+      "circle_recent": "Acknowledged their collective strength when all wives stood steady during his UN confrontation; pride and fear in equal measure"
     },
     "temple": [
       "No longer remote; participates in community decisions",
@@ -122,14 +130,15 @@
       "Governance beside Jayson as partners",
       "Ch60: Leadership self-scrutiny after falter",
       "Ch62–63: Authority rooted in humanity and bond; compassion-forward leadership",
-      "Sanctum reframed: from hidden cage to openly renounced safeguard; promise of non-use made public in deed if not proclamation"
+      "Sanctum reframed: from hidden cage to openly renounced safeguard; promise of non-use made public in deed if not proclamation",
+      "UN Council: represented Kitsune culture before humanity’s leaders; bore the weight of global recognition beside Jayson"
     ]
   },
   "values": {
     "values": ["Presence over proclamation", "Shared authority", "Sacred boundaries", "Compassionate leadership", "Partnership over control"],
-    "fears": ["Wounding through silence", "Repeating ancient losses", "Failing those she anchors", "Backsliding into fear-driven control"],
-    "strengths": ["Gravitas that calms", "Ritual mastery", "Capacity to receive and hold grief", "Willingness to evolve", "Vows kept even against self-interest"],
-    "weaknesses": ["Indecision under emotional fracture", "Overreliance on metaphor", "Past reliance on structural control (the sanctum-cage)"]
+    "fears": ["Wounding through silence", "Repeating ancient losses", "Failing those she anchors", "Backsliding into fear-driven control", "Being seen as cold while Jayson carries horrors alone"],
+    "strengths": ["Gravitas that calms", "Ritual mastery", "Capacity to receive and hold grief", "Willingness to evolve", "Vows kept even against self-interest", "Humanity revealed without shattering authority"],
+    "weaknesses": ["Indecision under emotional fracture", "Overreliance on metaphor", "Past reliance on structural control (the sanctum-cage)", "Struggles when the horrors of the world pierce her mantle"]
   },
   "combat": {
     "titles": ["High Matron", "Gatekeeper of the Threshold Flame"],
@@ -146,7 +155,8 @@
       "Established sacred boundary law",
       "Anchored synchronized breath rite across the circle",
       "Tested veil obelisks in defense drills",
-      "Desert Base: anchored a god with vow and touch under global scrutiny"
+      "Desert Base: anchored a god with vow and touch under global scrutiny",
+      "UN Council: bore the weight of sovereignty and chose plain humanity over ritual defense"
     ]
   },
   "temple_status": {
@@ -166,7 +176,8 @@
     {"chapter": 60, "events": ["Hesitated during Jayson's severing threat; learned the cost"]},
     {"chapter": 62, "events": ["Plain words to ground Jayson; deep public kiss; synchronized breath anchor"]},
     {"chapter": 63, "events": ["Confronted Akahana with tempered compassion; motherhood fears surfaced"]},
-    {"chapter": "Desert Base", "events": ["Sanctum confession; unmake paradox revealed; vow of no cage; golden eyes set; anchored Jayson under fire"]}
+    {"chapter": "Desert Base", "events": ["Sanctum confession; unmake paradox revealed; vow of no cage; golden eyes set; anchored Jayson under fire"]},
+    {"chapter": "UN Council", "events": ["Faced humanity’s leaders beside Jayson; mantle cracked as she witnessed Hydra atrocities; chose to show human vulnerability instead of perfect authority"]}
   ],
   "inventory": {
     "rings": ["Private amethyst wedding band (conjured by Jayson)"],
@@ -187,8 +198,9 @@
       "Public kissing and grooming",
       "Laughed at 'Poevarethyn' metaphoric possession",
       "Mock-chided Seika mid-prank before joining in",
-      "Kitchen tease about singeing his hair; noodles promised, warmth first"
+      "Kitchen tease about singeing his hair; noodles promised, warmth first",
+      "UN Council: revealed cracks, but anchored her circle afterward — humanity blended with authority"
     ]
   },
-  "final_note": "Authority shared, not seized; clarity chosen over riddles; warmth without retreat; the sanctum renounced as cage and bound by vow never to be used."
+  "final_note": "Authority shared, not seized; clarity chosen over riddles; warmth without retreat; the sanctum renounced as cage and bound by vow never to be used; High Matron who showed humanity before the world without breaking her vow."
 }

@@ -8,12 +8,12 @@
     "height": "Was 185 cm (6'1\"), now 175 cm post-evolution",
     "build": "Lean, trauma-shaped, predator-like posture; honed by survival and internal heat",
     "hair": "Reddish-brown, short and tousled; greys/ashens under duress; Kitsune form: blood-red with black undertones",
-    "eyes": "Formerly brown; now luminous white-blue halo irises (crystal-veil integration); amethyst glow on deep thread dives; recently silver-flowing grey during dissociative collapse",
+    "eyes": "Formerly brown; now luminous white-blue halo irises (crystal-veil integration); amethyst glow on deep thread dives; silver-grey flow during dissociative collapse; void-white burn when fully unleashed",
     "skin": "Pale with faint crystalline traceries; veins glow under surge; luster dulled during emotional voiding; wraith form: void-dark skin with soot-serpent tails",
     "scent": "Neutral-clean when calm; slight ozone/metal when powers are active",
     "gait": "Adaptive—upright/methodical in command, slouched when reflective, folds inward when collapsing; sometimes hovers to avoid disturbance",
-    "clothing": "Practical, durable layers; gear mounts for FEI integration",
-    "relationship": "Married by ritual to Ayaka, Seika, and Varethyn; mated by wolf-rite to Lysera (howl, scent-mark, bed-claim)",
+    "clothing": "Practical, durable layers; conjures clothing post-resurrection or combat ruin; gear mounts for FEI integration",
+    "relationship": "Married by ritual to Ayaka, Seika, and Varethyn; mated by wolf-rite to Lysera (howl, scent-mark, bed-claim); bonded circle with Shion, Naru, and Fei",
     "body_modifications": [
       "Right arm and torso lattice-forged with internal glyph threads",
       "Pulse-reactive structures (glowing ribs, overheat shimmer)",
@@ -33,7 +33,8 @@
       "Heart-rate syncs subconsciously to loved ones’ breathing",
       "Heat fields pulse when affection rises",
       "Stillness now signals emotional fracture more than calm",
-      "Sense-memory anchors on domestic rituals (e.g., tomyum noodles) to defuse god-rage"
+      "Sense-memory anchors on domestic rituals (e.g., tomyum noodles) to defuse god-rage",
+      "Tethers Fei’s voice and Varethyn’s presence as anchors against void-rage"
     ]
   },
   "speech": {
@@ -45,7 +46,8 @@
     "habits": [
       "Murmurs to FEI out loud when alone",
       "Tail-tapping rhythms in Kitsune form",
-      "Repeats partner names softly when grounding himself"
+      "Repeats partner names softly when grounding himself",
+      "Uses playful nicknames (Kitkat, Firefox, Sweetcheeks) as affection anchors"
     ]
   },
   "emotional": {
@@ -64,19 +66,22 @@
       "Being misread or doubted by loved ones",
       "Accusations that reframe his awe/joy as dismissal",
       "Enforced silence or emotional isolation",
-      "Hesitation to touch from those he loves"
+      "Hesitation to touch from those he loves",
+      "Children being harmed or weaponized (black sites)"
     ],
     "vulnerabilities": [
       "Collapse in response to perceived rejection",
       "Questioning right to be joyful/chaotic self",
       "Tendency to self-punish and shut down",
-      "Temptation to use deterrent cruelty when justice feels ignored"
+      "Temptation to use deterrent cruelty when justice feels ignored",
+      "Immortality fear — loving mortals who may fade while he endures"
     ],
     "affection_tells": [
       "Radiant heat fields",
       "Grooming (Kitsune tongue), purring vibrations",
       "Hovering or stillness to avoid disturbing others",
-      "Protective positioning and quiet presence"
+      "Protective positioning and quiet presence",
+      "Playful teasing mixed with sudden deep confessions"
     ],
     "growth": [
       "Undergoing identity shedding (not power)",
@@ -84,60 +89,68 @@
       "Balancing change for acceptance vs. staying true",
       "Fragmented but processing toward clarity",
       "Beginning to voice needs instead of only absorbing pain",
-      "Accepted Varethyn’s no-cage vow; offered reciprocal apology and commitment to communicate"
+      "Accepted Varethyn’s no-cage vow; offered reciprocal apology and commitment to communicate",
+      "Faced duality openly: savior and monster, both sides accepted",
+      "Learned to spare even enemies when redemption is real (redeemed soldier released)",
+      "Gave Lysera dignity and healing, turning scars into symbols rather than erasing them"
     ]
   },
   "social": {
-    "alone": "Reflects; speaks to FEI; touches pendant; gazes at crystal flame/nature; carves stones; recently entered emotional shutoff and waited in rain for permission to move",
+    "alone": "Reflects; speaks to FEI; touches pendant; gazes at crystal flame/nature; carves stones; now sometimes perches rooftops/ponds post-conflict to decompress",
     "with_others": {
-      "ayaka": "Deep reverence; haunted by past hurt; now guarded formality after bathhouse discipline; obeys household structure, but warmth suppressed until trust is re-earned",
-      "varethyn": "Axis bond; confronted her over the sanctum-as-cage; believed her vow to die rather than cage him; re-centered partnership; domestic anchors (noodles) stabilize returns from god-acts",
-      "seika": "Comfort and joy; pantry-gremlin co-conspirator; warns against polishing him into stone; play as medicine",
-      "naru": "Quiet moral compass; worries he may snap; reads battlefield weather of his heart",
-      "shion": "Steel and tenderness; accepts guidance; night-dressed and held; steady blade at his back",
-      "fei": "Soulborn twin; slipped and called him 'Master'; took a bullet; golden blood anomaly; loyal and playful but gentler since embodiment",
-      "lysera": "Newly mated; wolf-rite sealed (howl, scent, bed); given private dignity tools (conjure-pad gift); accepts teasing and grooming; loneliness answered with pack and warmth",
-      "rava": "Respected as leader; he bowed to her judgment; offered Hydra heads as pack justice, not her solitary vengeance",
-      "torrak": "Earned respect through duel and mercy; unleashed to hunt Hydra heads"
+      "ayaka": "Deep reverence; haunted by past hurt; guarded formality after bathhouse discipline; protective but waiting for warmth to return",
+      "varethyn": "Axis bond; no-cage vow reaffirmed; anchors him with love and domestic rituals; visible cracks in her mantle shared with him",
+      "seika": "Joy and chaos; counterweight to Ayaka’s stone-polish; deepened intimacy (kitchen-counter kiss); medicine through laughter",
+      "naru": "Compass and anchor; softer affection now openly expressed in group intimacy; still quiet but steady",
+      "shion": "Blade and partner; accepted teasing intimacy; trusted him in vulnerable play; embodies steel softened by care",
+      "fei": "Fiercely loyal soul-twin; shields him when needed; tether voice; playful but protective, balancing innocence with independence",
+      "lysera": "Major growth: learned love, accepted sharing him; healed scars now silver tattoos; wolf-rite sealed mate bond; her speech and confidence grow with him",
+      "rava": "Trusted ally and equal in blood; hunts beside him without hesitation; respects his duality",
+      "torrak": "Respected in the hunt; unleashed fully with shielded claws"
     }
   },
   "values": {
     "values": ["Redemption", "Memory", "Earned trust", "Emotional clarity", "Justice as deterrence", "Consent and choice in bonds"],
-    "fears": ["Losing the girls", "Becoming a monster again", "Being left behind", "Not hearing FEI’s voice", "Emotional alienation"],
+    "fears": ["Losing the girls", "Becoming a monster again", "Being left behind", "Not hearing FEI’s voice", "Emotional alienation", "Watching mortals fade while he endures"],
     "strengths": [
       "Uncompromising loyalty once trust is given",
       "Analytical mind with emotional literacy",
       "Protective courage and self-sacrifice",
-      "Listening without interrupting emotional truth"
+      "Listening without interrupting emotional truth",
+      "Able to balance annihilation with sparing innocence"
     ],
     "weaknesses": [
       "Self-blame and martyrdom",
       "Collapse under perceived doubt",
       "Tendency to shut down rather than negotiate needs",
-      "Leaning into terrifying spectacle to force recognition"
+      "Leaning into terrifying spectacle to force recognition",
+      "Plays with monstrosity as both deterrent and crutch"
     ],
     "insecurities": [
       "Does he deserve love?",
       "Feels like a burden",
       "Fear of growing godhood being alienating",
-      "Fear joy will be punished or misread"
+      "Fear joy will be punished or misread",
+      "Fear immortality will rob him of mortal bonds"
     ],
     "dreams": [
       "To live without burning",
       "To be seen clearly for intent and heart",
-      "To be recognized as 'on our side'"
+      "To be recognized as 'on our side'",
+      "To give mortals peace even if he carries eternal nightmares"
     ]
   },
   "combat": {
     "titles": ["First Flamebound", "Crystal-forged"],
-    "style": "Adaptive and protective; biology/physics manipulation; ritual grooming as bonding",
-    "weapons": ["Veil-thread constructs", "Improvised resonance tools"],
+    "style": "Adaptive and protective; biology/physics manipulation; ritual grooming as bonding; brutality when vengeance overtakes justice",
+    "weapons": ["Veil-thread constructs", "Improvised resonance tools", "Claws and raw body in wolf-kin hunts"],
     "magic": [
       "Crystal-forged modulation of biology/physics",
       "Soul-void mastery (thread reveal, anchor redirection)",
       "Biological shapeshifting (developing)",
       "Wraith form (black mist, bone-glow, soot serpent tails)",
-      "Lantern-net resonance with temple wards"
+      "Lantern-net resonance with temple wards",
+      "Core manipulation (stabilization, amplification, detonation without radiation)"
     ],
     "recent": [
       "Integrated with Lattice—no longer an anomaly",
@@ -145,14 +158,17 @@
       "Stabilized synchronized breath with group despite collapse",
       "Melted an American black site into magma after evacuation",
       "Threw and guided a captured tactical nuke to destroy hostile drones",
-      "Marked hostile soldiers with non-tracking justice-threads"
+      "Marked hostile soldiers with non-tracking justice-threads",
+      "Rescued Kitsune children from Helheim facility",
+      "Quadrupled and detonated a 2 megaton nuke, reformed body after vaporization",
+      "Fought alongside Rava’s pack in blood-hunts"
     ]
   },
   "temple_status": {
     "rank": "First Flamebound of The Conflagration",
     "presence": "Center of the thread-circle; heart that radiates warmth or stillness",
     "public": "Globally visible through recent events; often misread as chaotic mask; livestreamed rescues and confrontations",
-    "private": "Raw honesty, deep tenderness, protective instinct",
+    "private": "Raw honesty, deep tenderness, protective instinct; domestic intimacy with circle",
     "sanctum_note": "Inner Sanctum revealed as a fear-born cage; Varethyn vowed never to use it and to die rather than cage him again"
   },
   "notable_scenes": [
@@ -161,20 +177,23 @@
       "events": [
         "Tokyo wander: healed a heart attack victim; stopped a theft; aided siblings Aya and her brother; quiet temple reflection",
         "Dockside: granted sanctuary to Consortium defectors (Kaelen, Mira); memory-mirrored their intel; house and shield protocols",
-        "Lysera moon scene: formal wolf-mate bond (howl, scent, bed); dignity magic (conjure-pad); playful grooming and comfort",
+        "Lysera moon scene: formal wolf-mate bond (howl, scent, bed); dignity magic (conjure-pad gift); playful grooming and comfort; healed scars into silver tattoos",
         "NATO Brussels: direct address; exposed U.S.-tied site; live infiltration; evacuation; U.S. panic; Fei shot and healed",
         "Desert base: confronted Senator Cross and two others; raised and healed five slain kin; melted base post-evacuation",
         "Sanctum breach of trust: accused Varethyn of multiversal caging; sobbed and nearly faded; accepted her no-cage vow",
-        "Wolf-kin justice: delivered three Hydra heads to Rava’s pack; hunt begun with revival loop",
-        "Homecoming: anchored by noodles and domestic warmth; renewed promise to communicate"
+        "Wolf-kin justice: delivered three Hydra heads to Rava’s pack; joined their hunt directly in blood and claw",
+        "Helheim raid: tore apart mountain, exposed core, rescued children including a white-tailed girl; gave one soldier redemption, executed others",
+        "Demonstrated power: quadrupled nuke to 8 megatons, detonated, reformed from vaporization",
+        "Homecoming: anchored by noodles and circle; reaffirmed equal bonds with Lysera and others"
       ]
     },
     {
       "chapter": "Arc Update",
       "events": [
-        "From blazing protector to misread spark",
-        "Fears doubt from those he would burn for",
-        "Trust with Varethyn reforged by oath, not fear; fire steadier"
+        "From blazing protector to feared monster openly embraced",
+        "Duality acknowledged: savior and executioner, both truths",
+        "Trust with Varethyn reforged by oath, not fear; fire steadier",
+        "Learned sparing redemption does not weaken his wrath, but define it"
       ]
     }
   ],
@@ -194,8 +213,9 @@
     "potential": [
       "Bridge between mortal and divine",
       "Living proof memory does not have to chain, it can guide",
-      "Public face of the Temple’s unveiled truth"
+      "Public face of the Temple’s unveiled truth",
+      "A god beyond gods, wielding annihilation yet bound by love"
     ]
   },
-  "final_note": "He is still the heart and center. Today the fire flickers, but it endures—and it returns home."
+  "final_note": "He is both savior and monster now, embracing duality. Today he flickered between void and flame, but he endured—and he returned home."
 }

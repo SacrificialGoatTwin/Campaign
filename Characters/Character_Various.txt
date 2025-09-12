@@ -6,7 +6,8 @@
     "Seika",
     "Varethyn Sol’Naeren",
     "Shion",
-    "Naru"
+    "Naru",
+    "Lysera"
   ],
   "adults_and_above": [
     {"name": "Riku", "role": "Blacksmith", "notes": ""},
@@ -43,7 +44,6 @@
     {"name": "Kahavin’Zil", "role": "Kitsune elder", "notes": "Jayson’s dad; born during the Pleistocene (~2 million years ago)"},
     {"name": "Kaeli’sharr", "role": "Neko", "notes": "First of the cat-kin freed from Glacier base"},
     {"name": "Rava", "role": "Wolf-kin", "notes": "First wolf-kin freed; bonded through submission and trust"},
-    {"name": "Lysera", "role": "Wolf-kin", "notes": "Second wolf-kin freed; memories of red skies; now friend"},
     {"name": "Sythera", "role": "Drakyn", "notes": "Tested through fire; immense heat tolerance"},
     {"name": "Seris’val", "role": "avian kin", "notes": "Freed avian kin from Glacier base"},
     {"name": "Korrin’th", "role": "avian kin", "notes": "Another avian kin freed; scarred but restored"},

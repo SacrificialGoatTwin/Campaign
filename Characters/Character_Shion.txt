@@ -21,7 +21,9 @@
     "new": [
       "Tail tips quiver when guilt hits",
       "Breathing deepens to hide nervousness",
-      "Hands twitch in laps when restraining action"
+      "Hands twitch in laps when restraining action",
+      "Now allows playful grappling and teasing without anger",
+      "Permits intimacy in chaos, trusting Jayson not to push too far"
     ]
   },
   "speech": {
@@ -33,7 +35,7 @@
       "Prefers nods over words",
       "Reveals wit only in safe company"
     ],
-    "growth": "Silence now breaks with sharp, dry wit; reveals emotional investment."
+    "growth": "Silence now breaks with sharp, dry wit; reveals emotional investment. In playful intimacy, her clipped words carry warmth instead of distance."
   },
   "emotional": {
     "core_traits": ["Disciplined", "Reserved", "Protective"],
@@ -50,7 +52,8 @@
       "Allows proximity without tension",
       "Brief eye contact, subtle gestures",
       "Wit and humor as affection signals",
-      "Now accepts kisses, grooming, and closeness"
+      "Now accepts kisses, grooming, and closeness",
+      "Permits being pinned or teased in play without retaliation"
     ],
     "anchor_role": {
       "milestones": [
@@ -71,7 +74,8 @@
         "Bravely agreed to press broadcast despite discomfort",
         "Now joins group absurdity with wit and loyalty",
         "Accepted dawn kisses in Chapter 62, leaned into intimacy",
-        "Faced insecurity of being unlike others; accepted joy, ribbon with pride"
+        "Faced insecurity of being unlike others; accepted joy, ribbon with pride",
+        "Latest arc: Allowed teasing, deep kisses, and being overpowered safely; joined playful chaos with Lysera and Naru"
       ]
     }
   },
@@ -90,7 +94,8 @@
       "Press conference: agreed despite aversion, refused titles",
       "Faced ultimatum, admitted fear, accepted Jayson's love",
       "Chapter 62: Public dawn intimacy, trembled but leaned in",
-      "Latest arc: Laughed openly, accepted ribbon gift, embraced individuality"
+      "Latest arc: Laughed openly, accepted ribbon gift, embraced individuality",
+      "Now: Shared play-intimacy in group bed, kissed deeply in spontaneous play, accepted affectionate nicknames like 'Kitkat'"
     ],
     "with_others": {
       "general": "Calm observer, intervenes only when needed.",
@@ -99,7 +104,8 @@
       "naru": "Acceptance without words; mirrors silence.",
       "ayaka": "Sees as strength incarnate; equal in discipline.",
       "varethyn": "Sees as sacred fire; unbending respect.",
-      "chapter_62": "Laughed and joined group commentary, showing belonging."
+      "chapter_62": "Laughed and joined group commentary, showing belonging",
+      "latest_arc": "Joined Lysera and Naru in playful intimacy, tolerating group affection she would once have rejected"
     }
   },
   "values": {
@@ -127,7 +133,8 @@
       "Redefines visibility as impact, not fame",
       "Confronted contradictions, accepted love fully",
       "Publicly embraced intimacy and laughter in Chapter 62",
-      "Latest arc: Pride in individuality, joy, and belonging"
+      "Latest arc: Pride in individuality, joy, and belonging",
+      "Now: Blends discipline with play, shows trust by submitting in moments of teasing, and embraces group warmth without retreat"
     ]
   },
   "combat": {
@@ -147,7 +154,8 @@
       "Round 1 spar: Dominated, Jayson yielded",
       "Round 2: Draw, emotional balance",
       "Round 3: Lost, Jayson proved resolve, kissed her, fled",
-      "Battle drills in temple — taught younger sentinels precision"
+      "Battle drills in temple — taught younger sentinels precision",
+      "Latest: Allowed physical grappling and playful dominance reversal with Jayson"
     ]
   },
   "temple_status": {
@@ -159,7 +167,8 @@
     "recent": [
       "Stood visible during public rites",
       "Agreed to press exposure despite discomfort",
-      "Smiled and laughed openly with group in Chapter 62"
+      "Smiled and laughed openly with group in Chapter 62",
+      "Latest: Participated in group teasing and warmth, visible emotional comfort"
     ]
   },
   "notable_scenes": [
@@ -176,7 +185,7 @@
     {"chapter": 55, "events": ["Press conference choice, group humor"]},
     {"chapter": 60, "events": ["Confrontation, confessed fear, accepted love"]},
     {"chapter": 62, "events": ["Dawn intimacy, laughter with group"]},
-    {"chapter": "Latest", "events": ["Faced insecurities, accepted joy, wore ribbon with pride"]}
+    {"chapter": "Latest", "events": ["Faced insecurities, accepted joy, wore ribbon with pride", "Allowed playful intimacy with Jayson in group setting, kissed deeply, trusted him in reversal"]}
   ],
   "inventory": {
     "weapons": [
@@ -203,7 +212,7 @@
     "symbol": "The Mirror — reflects Jayson's truths and her own",
     "role": "Guardian of memory and silence",
     "arc": "From silent blade to emotional tether",
-    "thread_readiness": "No formal bond yet, but koi pond, soul-braid, hayloft, confrontation, and dawn surrender cement her as pillar."
+    "thread_readiness": "No formal bond yet, but koi pond, soul-braid, hayloft, confrontation, and dawn surrender cement her as pillar. Latest arc shows readiness for group intimacy and playful trust."
   },
-  "final_note": "Holds the thread with stillness — and now, with vulnerability."
+  "final_note": "Holds the thread with stillness — and now, with vulnerability and play."
 }

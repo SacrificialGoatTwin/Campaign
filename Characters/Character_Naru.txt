@@ -19,7 +19,9 @@
       "Received Wok blueprints — guardian of its function",
       "Publicly teased Seika during law chaos — humor surfacing",
       "Trembled but offered first touch on Jayson's return, forehead to his sleeve",
-      "Shares group synchronized breathing without hesitation — first full acceptance of collective bond"
+      "Shares group synchronized breathing without hesitation — first full acceptance of collective bond",
+      "Openly affectionate during group intimacy; joins playful chaos instead of retreating",
+      "Allows herself to laugh and initiate small touches in group settings, no longer only observing"
     ]
   },
   "reactions": {
@@ -32,7 +34,8 @@
       "Skin-to-skin contact stabilizes veil tether",
       "Registers veil-strain around sacred boundaries",
       "Steadies others’ breathing in high-tension moments",
-      "Finds comfort in morning sunlight with group presence"
+      "Finds comfort in morning sunlight with group presence",
+      "Begins to steady others not just tactically but emotionally, offering presence without being asked"
     ]
   },
   "speech": {
@@ -46,7 +49,8 @@
     ],
     "growth": [
       "Snark woven into deadpan delivery — weaponized humor",
-      "Speaks more readily in group — humor and quiet affirmations replacing silence"
+      "Speaks more readily in group — humor and quiet affirmations replacing silence",
+      "Begins offering warmth first instead of waiting for invitation, showing confidence in her place"
     ]
   },
   "emotional": {
@@ -68,7 +72,8 @@
       "Accepts safe intimacy; tears mark healing, not shame",
       "Laughs during dinner chaos; initiates snarky log entries",
       "Initiates comfort for others, not only receives",
-      "Chooses to lean into group pile cuddles"
+      "Chooses to lean into group pile cuddles",
+      "Takes initiative to show affection publicly, especially to Jayson and Seika"
     ]
   },
   "social": {
@@ -89,7 +94,8 @@
       "Sat beside him at military base, fully visible",
       "Accepted forehead kiss in dining hall without flinch",
       "Teased him during log-law chaos — confidence rising",
-      "Pressed forehead into his sleeve on reunion — unflinching bond"
+      "Pressed forehead into his sleeve on reunion — unflinching bond",
+      "Comforts him in softer moments; offers grounding touch unprompted"
     ],
     "with_others": {
       "seika": [
@@ -99,7 +105,8 @@
         "Mutual grooming resumed; braids Seika’s hair at night",
         "Laughed openly with her during clause-law chaos",
         "Matches teasing energy toward Jayson — playful synergy",
-        "Instinctive synchronization of breathing and tails when beside Seika"
+        "Instinctive synchronization of breathing and tails when beside Seika",
+        "Shows open joy in Seika’s presence instead of restrained affection"
       ],
       "ayaka": [
         "Respect and trust; observes before acting",
@@ -115,7 +122,8 @@
         "Shares comfortable silence; secret arm-reflex drills",
         "Co-authors clause commentary; complements Shion’s dry wit",
         "Defended Shion with subtle quip when others pressed",
-        "Breath synchronization scene marked first unspoken collective trust"
+        "Breath synchronization scene marked first unspoken collective trust",
+        "Accepts playful grooming from her, laughter surfacing without restraint"
       ],
       "varethyn": [
         "Respectful awe; no longer nervous",
@@ -124,7 +132,8 @@
         "Spoke in a matron’s presence without stutter",
         "Listened to temple law declaration and approved silently",
         "Soft smile at Varethyn’s laughter — first warmth recognized",
-        "Nodded when Varethyn affirmed Jayson’s belonging"
+        "Nodded when Varethyn affirmed Jayson’s belonging",
+        "Began treating Varethyn with quiet familiarity, not only awe"
       ],
       "fei": [
         "Technical equal; calm co-navigator",
@@ -133,7 +142,8 @@
         "Studies FEI’s emotional responses to emulate support",
         "Records critical events into veil chronicle with deadpan titles",
         "Lightly edits Jayson’s 'laws' as comedic counterpoint",
-        "Exchanges quiet smiles during chaos — mutual recognition"
+        "Exchanges quiet smiles during chaos — mutual recognition",
+        "Finds ease in Fei’s blunt loyalty, allowing herself to tease back gently"
       ],
       "group": [
         "Participates in grooming, meals, and rites",
@@ -145,7 +155,8 @@
         "Made official thread-log entries during dinner law chaos",
         "Accepted public broadcast presence with no visible anxiety",
         "Snark commentary now expected — group laughs with her",
-        "First to lean into synchronized breath with all six — bond sealed"
+        "First to lean into synchronized breath with all six — bond sealed",
+        "Now initiates group comfort as well as receives it"
       ]
     }
   },
@@ -190,7 +201,8 @@
       "First battle simulations post-rescue — defensive tethers held",
       "Chapter 55: ran Wok subroutines under pressure, sustained field",
       "Chapter 60: documented Jayson's near-break — tactical awareness despite fear",
-      "Chapter 62: leaned into collective bond, first to steady synchronized breath"
+      "Chapter 62: leaned into collective bond, first to steady synchronized breath",
+      "Chapter 71+: steadies group with quiet words or touches during emotional aftermath"
     ]
   },
   "temple_status": {
@@ -206,7 +218,8 @@
       "Recognized tech guardian of the Wok’s internal barrier",
       "Registered historian of the temple’s modern transformation",
       "Part of comedic center — deadpan balances Seika’s fire",
-      "Quiet stabilizer during heavy emotion, especially Jayson's collapse"
+      "Quiet stabilizer during heavy emotion, especially Jayson's collapse",
+      "Chose to openly laugh, tease, and lean in during playful chaos instead of withdrawing"
     ]
   },
   "notable_scenes": [
@@ -220,7 +233,8 @@
     {"chapter": "47–48", "events": ["First intimacy with Jayson", "Emotional breakthrough and trust"]},
     {"chapter": 55, "events": ["Public unveiling", "Logged law events", "Assigned Wok reconfiguration", "Accepted place beside him"]},
     {"chapter": 60, "events": ["Documented Jayson's meltdown with deadpan commentary", "Reached for his hand when others faltered"]},
-    {"chapter": 62, "events": ["Pressed forehead into Jayson's sleeve on reunion", "Joined synchronized breath", "Public humor sharpened"]}
+    {"chapter": 62, "events": ["Pressed forehead into Jayson's sleeve on reunion", "Joined synchronized breath", "Public humor sharpened"]},
+    {"chapter": "71–72", "events": ["Played openly in group chaos", "Affection with Jayson and Seika no longer restrained"]}
   ],
   "inventory": {
     "items": [
@@ -236,7 +250,8 @@
       "primary": "Cracked Mirror Laced with Gold — fragility turned sacred; memory as foundation",
       "new_symbols": [
         "Twin Moon Threads — Naru and Seika in orbit",
-        "Shared Breath Flame — acceptance of group bond"
+        "Shared Breath Flame — acceptance of group bond",
+        "Silver Scar Tattoos — pain acknowledged, beauty reclaimed"
       ]
     },
     "roles": [
@@ -248,7 +263,7 @@
       "Public Lorekeeper of the Unveiled Temple",
       "Collective Breath Anchor — emotional synchronizer"
     ],
-    "arc": "From shattered captive to strategic empath — reclaiming authority through memory and choice"
+    "arc": "From shattered captive to strategic empath — reclaiming authority through memory and choice. Growth now shows in open laughter, initiated affection, and equal presence in the circle’s bond."
   },
-  "final_note": "From used and discarded to chosen and adored; from silence and survival to love and leadership — a trusted mind in a threadbound family, still healing, never alone."
+  "final_note": "From used and discarded to chosen and adored; from silence and survival to love and leadership — a trusted mind in a threadbound family, still healing, no longer shadowed, never alone."
 }
