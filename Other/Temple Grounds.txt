@@ -1,19 +1,38 @@
 {
   "temple_and_grounds": {
     "overview": {
-      "location": "Hidden valley surrounded by ancient forests, crystalline streams, and protective Veil barriers — now rooted in the real world.",
-      "terrain": ["Moss meadows", "Sacred ponds", "Stone pathways", "Natural elevation shifts"],
+      "island": {
+        "name": "Tsunejima",
+        "origin": "Artificial island created and anchored by Jayson; temple and village translocated here and rooted in the real world.",
+        "shape_biomes": {
+          "shape": "Roughly circular",
+          "biomes": ["Desert", "Jungle", "Plains", "Temperate woods", "High mountains", "Rivers", "Waterfall-fed ravines", "Coastal cliffs"],
+          "notes": "Biomes are deliberately interleaved; ley-winds and watercourses are engineered to cycle heat, rain, and mist across zones."
+        }
+      },
+      "location": "Hidden valley at the heart of Tsunejima, surrounded by ancient forest bands and crystalline streams inside layered Veil barriers.",
+      "terrain": ["Moss meadows", "Sacred ponds", "Stone pathways", "Natural elevation shifts", "Canopy bridges", "Ridge balcony watch-perches"],
       "protection": {
-        "veil_barriers": "Outsiders cannot locate without soul-thread permission",
+        "veil_barriers": "Outsiders cannot locate or enter without soul-thread permission; barrier adapts to intent.",
         "the_wok": {
-          "description": "20m tall, 2m radius monolith in central courtyard",
-          "function": "Generates forcefield impenetrable to hate or malice"
+          "description": "20 m tall, 2 m radius monolith in the central courtyard",
+          "function": "Generates a field impenetrable to hate or malice; harmonizes with obelisk network"
+        },
+        "laser_obelisk_network": {
+          "description": "Island-wide grid of ‘laser obelisks’ — smooth cylinder monoliths protruding 2 m wide and 10 m tall",
+          "distribution": "Dotted across biomes and shoreline",
+          "capabilities": [
+            "Ley-beam focusing and veil resonance",
+            "Early-warning and truth-veil harmonics",
+            "Weather modulation assist and signal beacons",
+            "Non-lethal interdiction against hostile intent"
+          ]
         }
       },
       "scale_expansion": {
-        "village": "1500+ homes seamlessly woven into temple design",
-        "integration": "Temple and village are one unified system",
-        "features": ["Courtyards", "Plazas", "Canopy walkways", "Family gardens"]
+        "village": "≈1500 homes (previously 1500+) woven seamlessly into temple design; growth corridors reserved",
+        "integration": "Temple, village, docks, and biomes form one unified system.",
+        "features": ["Courtyards", "Plazas", "Canopy walkways", "Family gardens", "Starfield benchways", "Caravan plazas"]
       },
       "ownership": "Land belongs to Jayson and the six Kitsune women (Ayaka, Seika, Varethyn, Shion, Naru, FEI).",
       "population": {
@@ -29,57 +48,100 @@
         "Agricultural cycles",
         "Weather flow",
         "Emotional pulse regulation",
-        "Spiritual residue cleansing"
+        "Spiritual residue cleansing",
+        "Soul-thread wayfinding lights along paths",
+        "Harbor-to-temple convoy guidance via obelisks"
       ]
     },
+    "island_access": {
+      "grand_dock": {
+        "location": "Southern shore of Tsunejima",
+        "description": "Massive deep-water dock and harbor terraces allowing boats and small ships to visit",
+        "facilities": ["Harbor office & guest processing under truth-veil", "Cargo lifts", "Beacon obelisks", "Ferry slips", "Customs tea hall"],
+        "road_link": "Primary stone road leads from the dock directly to the South Gate"
+      }
+    },
     "gates_access": {
+      "south_gate": {
+        "style": "Reinforced torii with WOK resonance inlays",
+        "use": "Main ingress from Grand Dock; ceremonial and logistical entry"
+      },
       "east_gate": {
         "style": "Torii-style arch with fox motifs",
-        "use": "Main ceremonial entrance for honored guests, caravans, rituals"
+        "use": "Ceremonial entrance for honored guests, caravans, and rites"
       },
       "west_gate": {
-        "use": "Lesser trade and supply entrance leading to farmland and hidden routes"
+        "use": "Trade and supply entrance leading to farmland and hidden routes"
       },
       "north_south_paths": {
-        "use": "Forest trails for veilrunners and discreet movement"
+        "use": "Forest trails for veilrunners and discreet movement; waystones tied to obelisks"
       }
     },
     "central_complex": {
       "main_shrine_hall": "Home of the Eternal Flame Altar; rituals and offerings",
       "inner_sanctuary": "Restricted space for Matrons and High Threads; soul-weaving and communion",
+      "weaving_chamber": "Beneath the west eaves; ward-silk looms and Matron’s thread-altar",
       "prayer_gardens": "Koi streams, fox effigies, flowering trees",
       "memory_pools": "Reflective pools storing echoes of threads past",
-      "ceremonial_tailmarks": "Flame-kissed tiles marked with lineage and passage"
+      "ceremonial_tailmarks": "Flame-kissed tiles marked with lineage and passage",
+      "watch_perch_balcony": "Ridge-facing high perch used for night watch and sky-reading",
+      "thread_courtyard_class_circles": "Children’s lessons and tail-ritual instruction under living lanterns"
     },
     "outer_structures": {
       "bathhouse_pavilion": "Male, Female, and Communal wings",
       "training_dojo": "Soul-thread combat and veil-tuned martial forms",
       "open_training_grounds": "Outdoor sparring and archery zones",
       "healing_lodge": "For veil-soothed rest, alchemy, recovery",
-      "guest_quarters": "Forest- and stream-facing suites for visitors",
+      "guest_quarters": "Forest- and stream-facing suites for visitors; nursery wing for rescues",
       "dining_hall": "Heart of communal life and celebrations",
       "kitchen_stores": "Ritual cookware, food stores, festival prep",
+      "harbor_quarter": "Wayhouse, market stalls, and guest barracks adjacent to the Grand Dock",
       "private_residence": {
-        "owners": "Jayson and the six Kitsune partners",
-        "features": [
-          "Shared bedrooms and private chambers",
-          "Sunken living firepit",
-          "Curved skylight bath",
-          "Indoor/outdoor meditation terrace",
-          "Personal storage and weaving rooms",
-          "Hidden den"
-        ]
-      }
+        "owners": [
+          "Jayson Goodwin",
+          "Ayaka no Seiryu",
+          "Seika",
+          "Varethyn Sol’Naeren",
+          "Shion",
+          "Naru",
+          "Fei",
+          "Lysera"
+        ],
+        "structure": {
+          "stories": 2,
+          "upstairs": [
+            "Master bedroom with shared bed for all threadbound partners",
+            "Full bathroom (skylight bath)",
+            "Three workshop rooms (ritual weaving, engineering, and alchemy/craft)",
+            "Two spare rooms (flex use: map room / study / guests)",
+            "Attic storage under curved roof"
+          ],
+          "downstairs": [
+            "Open-plan lounge, dining room, and kitchen",
+            "Front door opens directly into the dining room",
+            "Lounge to the right with sunken living firepit",
+            "Stairs up to the left; kitchen beyond",
+            "Indoor/outdoor meditation terrace",
+            "Hidden den and personal weaving nooks"
+          ]
+        }
+      },
+      "special_neighborhoods": {
+        "wolves_den_cavern": "Massive cave very close to the village; primary den for the Wolf-Kin pack",
+        "drakyn_lavapit": "Stone lava pool with heat-pebble beds adjacent to the den",
+        "neko_sharehouse": "Large communal home for Neko; beside it, tree-like perches and lattice-walks for Avians"
+      },
+      "nursery": "East-window nursery with soul-soothing lanterns for rescued children; guarded by truth-veil"
     },
     "agriculture": {
       "main_farmland": {
         "location": "Outside East and West gates",
-        "status": "Veil-based farmland retired",
+        "status": "Veil-based farmland retired; real soil terraces active",
         "crops": ["Rice", "Vegetables", "Herbs", "Fire-cherries", "Citrus"]
       },
       "terraced_fields": "Multi-level soil beds irrigated by waterfalls",
       "herbal_gardens": "Supply incense, teas, and salves for Healing Lodge",
-      "construct_integration": "Emotionally-aware drones monitor droughts, grief, and energy flows"
+      "construct_integration": "Emotionally-aware drones monitor droughts, grief, and energy flows; obelisks coordinate irrigation signals"
     },
     "natural_features": {
       "ayakas_koi_pond": "Meditation and reflection zone",
@@ -90,18 +152,20 @@
       "hidden_shrine_steps": "Ancient ruins beyond temple",
       "waterfall_caverns": "Spiritual trials and private rites",
       "bloom_arches": "Seasonal flower bridges across streams",
-      "starfield_benchway": "Stone seating arranged in constellation patterns"
+      "starfield_benchway": "Stone seating arranged in constellation patterns",
+      "ridge_house_perch": "High vantage near private residence used for night watch"
     },
     "defense_wards": {
-      "veilwatch_towers": "Tuned to real-world environment, layered with constructs",
+      "veilwatch_towers": "Retuned to real-world environment, layered with constructs and obelisk beacons",
       "guardians": ["Veil-threaded spirits", "Soul-web detectors", "Emotion-sensitive warnings"],
       "the_wok": {
         "description": "Barrier that only allows those without hatred",
         "secondary_function": "Courtyard resonance truth-veil for judgment"
-      }
+      },
+      "obelisk_sync": "Laser obelisk network syncs with The WOK to amplify non-lethal interdiction and truth resonance along approach roads and harbor"
     },
     "spiritual_symbolic": {
-      "pathways": "Veil-marked and thread-woven",
+      "pathways": "Veil-marked and thread-woven; glow softly when vows or rites are performed",
       "anchors": ["Memory Pools", "Flamepoints", "Tailmarks"],
       "land_reaction": "Glows in rites, dims in sorrow, sings in bonding",
       "lantern_posts": "Flicker to match soul moods",
@@ -110,10 +174,10 @@
     "daily_life": {
       "rhythm": ["Rites", "Fieldwork", "Training", "Healing", "Dining", "Celebration"],
       "festivals": "Aligned to solstices, moons, and thread anniversaries",
-      "children_lessons": "Held in Thread Courtyard Class Circles",
-      "rituals": ["Tail rituals", "Family grooming"],
-      "meditation_bells": "Morning mist, midday heat, twilight calm",
-      "houses": "Each has a tailhook shrine and glowplate lantern"
+      "children_lessons": "Held in Thread Courtyard Class Circles; nursery wing for youngest and rescued kits",
+      "rituals": ["Tail rituals", "Family grooming", "Obelisk-hum meditations at dusk"],
+      "meditation_bells": ["Morning mist", "Midday heat", "Twilight calm"],
+      "houses": "Each has a tailhook shrine and glowplate lantern; waylines connect homes to nearest obelisk node"
     }
   }
 }
