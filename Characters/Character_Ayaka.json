@@ -1,0 +1,238 @@
+{
+    "name": "Ayaka no Seiryu",
+    "title": "The Storm-Forged Flame",
+    "quote": "Let the staff remember your intent — not your fear.",
+    "appearance": {
+        "age": "Looks mid 20s but actually 36,000+ years old",
+        "height": "168–172 cm",
+        "build": "Compact, lean — athletic without bulk. Defined by precise, coiled movement and honed strength.",
+        "hair": "Flame-colored — deep red with golden undertones. Falls in sharp layers to shoulders or longer, depending on ceremonial wear.",
+        "eyes": "Sharp, golden-brown with flecks of ember-red in strong light. Focused, intense, sometimes unreadable.",
+        "skin": "Lightly tanned with slight battle-scars along her limbs. Veilmark tracings visible on her spine and forearms under ritual conditions.",
+        "tails": "One — velvety soft but rarely displayed. Conveys emotions subtly.",
+        "scent": "Clean, natural — sandalwood, warm steel, and breath of fire.",
+        "posture": "Impeccable. Every gesture reflects discipline: no wasted motion, no unnecessary softness in public.",
+        "relationship": {
+            "status": "Married by ritual to Jayson",
+            "acknowledged": true,
+            "update": "Now openly acknowledged. Wears a fire agate wedding ring silently placed by Jayson. Tested bond with harsh discipline but later confessed regret and fear of breaking him. Instinctively bristled in defense when sensing newcomers, showing coldness cracking toward fierce protectiveness."
+        }
+    },
+    "reactions": {
+        "wind": "Holds stance even in harsh gusts; breathes through it without breaking focus.",
+        "water": "Moves with grace but is not comforted by it; more attuned to flame.",
+        "sound": "Responds more to tone than volume. Silence carries more weight with her than words.",
+        "temperature": "Unbothered by extremes; regulates body temperature instinctively through soulflame.",
+        "new": [
+            "Tail tip tremor betrays rare nerves",
+            "Breath syncs with Jayson during shared rites",
+            "Softens unconsciously when Seika or Naru lean on her",
+            "Uses physical discipline when words fail (nearly drowned Jayson to temper him) and later admitted regret privately",
+            "Whispers confessions only when alone, revealing guilt and fear",
+            "Bristled protectively when Jayson appeared shadowed during strangers’ arrival"
+        ]
+    },
+    "speech": {
+        "voice": "Low alto, smooth but clipped. Can carry sharp command or surprising gentleness.",
+        "vocabulary": "Minimalistic, tactical. Avoids unnecessary elaboration. Speaks more with actions than explanations.",
+        "pacing": "Slow, deliberate. Pauses are intentional — used to measure reactions.",
+        "accent": "Slight formal inflection from ritual upbringing.",
+        "habits": [
+            "Ends phrases with ritual cadence",
+            "Holds silence instead of filler words",
+            "Uses flame and discipline as metaphors in argument"
+        ],
+        "growth": "Public tone remains formal, but intimacy blooms. Now allows softness in voice around Jayson and family. Began teasing lightly — a sign of deepening comfort. Anchored Jayson during collapse, accepted whispered love in public silence without retreat, showing she is learning that vulnerability does not undermine dignity."
+    },
+    "emotional": {
+        "core_traits": [ "Disciplined", "Stoic", "Protective" ],
+        "beneath": [ "Guilt", "Compassion", "Longing for connection" ],
+        "triggers": [
+            "Memories of near-fatal choking incident",
+            "Being emotionally cornered without purpose",
+            "Fear of misjudging Jayson and hurting him",
+            "Her own over-discipline causing distance"
+        ],
+        "vulnerabilities": [
+            "Fear of losing control",
+            "Difficulty expressing affection without ritual",
+            "Hesitation around Jayson's unpredictable emotions",
+            "Realization that discipline can fracture bonds instead of strengthening them"
+        ],
+        "affection_tells": [
+            "Allows physical touch only when trust is absolute",
+            "Longer eye contact than necessary",
+            "Tail flicks or subtle lean toward comfort person"
+        ],
+        "growth": [
+            "Revealed ancient age (~36,000+), triggering hidden fear of rejection",
+            "Faced Jayson's overwhelmed reaction and guilt",
+            "Learned softness and strength can co-exist",
+            "Accepted Jayson's love during breakdowns",
+            "Declared unity publicly: 'Do you really think I would hide now?'",
+            "Whispered vulnerability back to him — leaning into affection",
+            "Allowed teasing (sack-carry, marshmallows, play) and responded with dry humor",
+            "Showed instinctive protection when strangers approached — coldness reshaped into fierce loyalty"
+        ]
+    },
+    "social": {
+        "alone": "Trains relentlessly. Meditates. Repeats kata to exhaustion.",
+        "with_jayson": [
+            "Public affection now tolerated and sometimes initiated",
+            "Relationship declared openly",
+            "Sat on his lap in public, accepting teasing",
+            "Noticed his emotional need behind tail gestures and did not pull away",
+            "Reacted with tears when shown awe instead of mockery",
+            "Accepted his chaos (fox-wolf meltdown, raspberries, CPR kisses) and laughed hysterically",
+            "Confessed guilt about sisters and let Jayson confront it",
+            "Heard 'I love you' many times and said it back",
+            "Allowed sack-carry and responded with flick and playful retaliation",
+            "Accepted whispered intimacy in dawn silence — let him kiss her neck and whisper into her ear without retreat",
+            "Bristled instinctively in the garden when strangers approached"
+        ],
+        "with_others": {
+            "seika": "Rivalry softened; anchors Seika’s chaos with calm.",
+            "naru": "Acknowledges technical value, subtle respect.",
+            "shion": "Deep professional respect.",
+            "varethyn": "Understands her silence; bonded in shared history.",
+            "fei": "Now trusts her guidance, sees her as Jayson's logical anchor.",
+            "lysera": "Respects wolf-kin rites; acknowledges pack belonging.",
+            "outsiders": "Cold, assessing, but protective if household feels threatened."
+        }
+    },
+    "values": {
+        "values": [ "Strength", "Honor", "Earned intimacy", "Loyalty through action" ],
+        "fears": [
+            "Hesitation destroying bonds",
+            "Becoming emotionally irrelevant",
+            "Being loved for role rather than self",
+            "Discipline tipping into cruelty"
+        ],
+        "strengths": [
+            "Acts through fear",
+            "Disciplined emotional recall",
+            "Command presence when needed",
+            "Instinctive protector even in conflict"
+        ],
+        "weaknesses": [
+            "Defaults to silence when words fail",
+            "Rarely asks for help",
+            "Misjudged Jayson's emotions, creating painful rift",
+            "Struggles balancing tenderness with discipline",
+            "Learning vulnerability can coexist with dignity"
+        ]
+    },
+    "combat": {
+        "titles": [ "Flame-Keeper of the Inner Circle" ],
+        "style": "Minimalist blade mastery, fire-dance combat, predictive motion.",
+        "weapons": [ "Ceremonial soulblade with etched lattice" ],
+        "magic": [
+            "Controlled soulflame projection — incinerates, cauterizes, sanctifies",
+            "Veil stance reinforcement",
+            "Flame-thread anchors"
+        ],
+        "recent": [
+            "Stabilized veil breach, anchored rituals, calmed panic during Jayson’s collapse",
+            "Balanced Seika’s chaos with structured form during rites",
+            "Tested discipline harshly in bathhouse, then confessed regret",
+            "Showed restraint and authority when strangers approached"
+        ]
+    },
+    "temple_status": {
+        "rank": "Commander of Vanguard Units",
+        "presence": "Irrefutable authority; her silence alone commands.",
+        "public": "Respected, feared, admired.",
+        "private": "Slowly blooming — smiles, jokes, affection accepted, but struggles with over-discipline.",
+        "recent": [
+            "Reaffirmed bond during press conference",
+            "Shared lap moments openly",
+            "Accepted group teasing without retreat",
+            "Admitted regret for over-discipline",
+            "Instinctively shielded household from outsiders"
+        ]
+    },
+    "notable_scenes": [
+        {
+            "chapter": 19,
+            "events": [ "Tail Heals", "Bath Confession" ]
+        },
+        {
+            "chapter": 25,
+            "events": [ "You may", "Tail Cradle" ]
+        },
+        {
+            "chapter": 30,
+            "events": [ "Foxpile Initiation", "Lantern Rite" ]
+        },
+        {
+            "chapter": 33,
+            "events": [ "Ring of Flames" ]
+        },
+        {
+            "chapter": 42,
+            "events": [ "Village Stand" ]
+        },
+        {
+            "chapter": 43,
+            "events": [ "Standoff Loyalty" ]
+        },
+        {
+            "chapter": 44,
+            "events": [ "Public Kiss" ]
+        },
+        {
+            "chapter": 45,
+            "events": [ "Anchor Fray Crisis", "Silent Reclaiming" ]
+        },
+        {
+            "chapter": 46,
+            "events": [ "Age Reveal" ]
+        },
+        {
+            "chapter": 47,
+            "events": [ "Field Confession" ]
+        },
+        {
+            "chapter": 48,
+            "events": [ "Foxwolf Meltdown", "Guilt Unveiled", "Reassured by Love", "Said it Back" ]
+        },
+        {
+            "chapter": 55,
+            "events": [ "Press Conference Commitment", "Soft Reconciliation", "Sack Carry + Flick", "\"Worth it\" Response", "Emotional Choice Reversal" ]
+        },
+        {
+            "chapter": 62,
+            "events": [ "Collapse and Anchor (dawn whisper, neck kiss)", "Shared Laughter" ]
+        },
+        {
+            "chapter": 70,
+            "events": [ "Bathhouse Discipline", "Silent Regret" ]
+        },
+        {
+            "chapter": 75,
+            "events": [ "Garden Stand — Protective Bristle", "Outsiders Tested" ]
+        }
+    ],
+    "inventory": {
+        "rings": [
+            "Soul-linked band spawning 4 others, prevents fading",
+            "Wedding ring with Fire Agate, flares in Jayson's presence"
+        ],
+        "items": [
+            "Spoon engraved 'Wife Mode: Engaged'",
+            "Ceremonial wraps (firethread-sealed)",
+            "Combat leathers (soul-woven)",
+            "Staff of Seiryu — ancestral relic, channels veilfire"
+        ]
+    },
+    "future": {
+        "symbol": "The Guarded Flame",
+        "role": "Keeper of Balance and Legacy",
+        "arc": "From lonely discipline to loving sword",
+        "flame": "Burns for others now",
+        "hesitation": "Faced and tempered; risk of over-discipline remains",
+        "legacy": [ "Flame-Keeper", "Wife", "Shield" ],
+        "reminder": "She is not his weapon — she is his warmth, by choice."
+    },
+    "final_note": "Ayaka will never leave again. Even in silence, her fire walks beside him. She now carries the weight of having nearly broken what she sought to temper — but cold discipline has given way to protective warmth."
+}

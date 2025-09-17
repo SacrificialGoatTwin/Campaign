@@ -1,0 +1,205 @@
+{
+    "name": "Shion",
+    "title": "The Silent Blade of the Thread",
+    "quote": "The quiet edge cuts deepest.",
+    "appearance": {
+        "age": "Appears mid-20s, actually 1427 years old",
+        "height": "168–170 cm",
+        "build": "Lean, toned — crafted for swift precision",
+        "hair": "Midnight black, sharp asymmetrical bob or tied for combat",
+        "eyes": "Silver-grey, sharp and assessing; soften rarely when trust surfaces",
+        "skin": "Pale ivory with faint ritual scars at collarbone and wrists",
+        "tails": "Four — usually calm, flick more often now when conflicted",
+        "scent": "Cold steel, fresh linen, trace of wild mint",
+        "posture": "Impeccable, still as stone until motion erupts swift as lightning"
+    },
+    "reactions": {
+        "wind": "Slight shifts; instinctively reads currents",
+        "water": "Cautious but unbothered",
+        "sound": "Acute hearing; reacts to tone more than words",
+        "heat_cold": "Endures extremes; relaxes unconsciously near Jayson"
+    },
+    "speech": {
+        "voice": "Low mezzo-soprano, deliberate and soft",
+        "vocabulary": "Sparse, precise; words chosen with care",
+        "pacing": "Slow when thoughtful; rapid under command",
+        "accent": "None distinct — trained away",
+        "habits": [
+            "Silence as default",
+            "Sharp, dry wit surfacing lately",
+            "Documents Jayson's antics with faint amusement"
+        ],
+        "growth": [
+            "Silence now paired with dry humor in group settings",
+            "Uses wit as affection, not just distance",
+            "Speaks more often with emotional insight"
+        ]
+    },
+    "emotional": {
+        "core_traits": [ "Disciplined", "Reserved", "Protective" ],
+        "beneath": [ "Loneliness", "Yearning for connection" ],
+        "triggers": [ "Loss of control", "Direct threats to her circle" ],
+        "vulnerabilities": [
+            "Bottles everything; rarely seeks help",
+            "Guilt over past missions and failures",
+            "Fear of inadequacy compared to others"
+        ],
+        "affection_tells": [
+            "Allows proximity without tension",
+            "Subtle gestures instead of declarations",
+            "Emerging wit and humor as affection",
+            "Now accepts grooming, kissing, and closeness without retreat",
+            "Tail flicks betray emotion when she cannot voice it"
+        ],
+        "growth": [
+            "Allowed Jayson to pin her in duel, testing trust",
+            "Reciprocated full intimacy — dominant but tender",
+            "Accepted public affection (pond play, lap cuddling)",
+            "Allowed dawn kiss, trembling but leaning in",
+            "Showed public humor and biting wit",
+            "Faced insecurities directly, admitted fears, accepted joy openly",
+            "Proudly wore ribbon — embraced individuality against her alternate self",
+            "Admitted fear of inadequacy during confrontation, accepted proof of Jayson's love",
+            "Now openly laughs in chaos, joins absurd group humor"
+        ]
+    },
+    "social": {
+        "alone": "Practices forms, meditates, maintains weapons ritualistically",
+        "with_jayson": [
+            "First confidant of his family truth",
+            "Lantern Rite tail-bond signaled full acceptance",
+            "Koi Pond: 'I love you too. Deal with it.'",
+            "Sparred thrice — yielded, drew, lost",
+            "Accepted hayloft intimacy; claimed him silently",
+            "Wears hidden ring on chain — silent commitment",
+            "Now allows grooming, kissing, and tail teasing in public",
+            "Chapter 47: misread his awe as dismissal — rare misstep",
+            "Chapter 55: agreed to global press despite hate of visibility",
+            "Chapter 60: nearly lost him, confessed fear, accepted his unwavering love",
+            "Chapter 62: accepted dawn embrace, tail flick betraying desire, leaned in fully",
+            "Glitter arc: laughed openly, wore red ribbon proudly"
+        ],
+        "with_others": {
+            "fei": "Soft bond; trusts her blunt loyalty",
+            "naru": "Comfortable silence and mutual acceptance",
+            "ayaka": "Respects her discipline; protectively misjudged Jayson's awe of her once",
+            "seika": "Respects her fire; joins her chaos with dry wit",
+            "varethyn": "Sacred reverence; follows her authority with subtle ease"
+        }
+    },
+    "values": {
+        "values": [ "Discipline", "Quiet protection", "Judicious mercy" ],
+        "fears": [
+            "Being unnecessary",
+            "Causing harm through silence or misjudgment",
+            "Inadequacy in love"
+        ],
+        "strengths": [
+            "Precision and clarity",
+            "Calm in chaos",
+            "Loyalty through silence and action"
+        ],
+        "weaknesses": [
+            "Suppresses emotion until breaking point",
+            "Struggles with spontaneity",
+            "Inconsistency between words and affection"
+        ],
+        "inner_growth": [
+            "Now accepts emotional presence as valid",
+            "Speaks with warmth, not just precision",
+            "Receives affection without flinching",
+            "Laughs freely and enjoys joy openly",
+            "Accepts being seen — not as fame, but as necessary truth"
+        ]
+    },
+    "combat": {
+        "titles": [ "The Silent Blade" ],
+        "style": "Form-first, five-steps-ahead combat; fighting as love language",
+        "weapons": [
+            "Dune — morphing crystal blade",
+            "Threadweaver’s Loop — emotional signal band",
+            "Twin sabers (ceremonial backup)"
+        ],
+        "magic": [ "Minor veil mobility; physical mastery focus" ],
+        "recent": [
+            "Three-round duel with Jayson — yielded, drew, lost",
+            "Hayloft intimacy reframed combat as connection",
+            "Continues to spar, now with affection woven into form"
+        ]
+    },
+    "temple_status": {
+        "rank": "Senior sentinel, one step beneath matron line",
+        "public": "Impeccable stillness; feared for precision",
+        "private": "Now shows warmth, humor, and vulnerability"
+    },
+    "notable_scenes": [
+        {
+            "chapter": 28,
+            "events": [ "Received Dune" ]
+        },
+        {
+            "chapter": 30,
+            "events": [ "Koi Pond — emotional core witness" ]
+        },
+        {
+            "chapter": 34,
+            "events": [ "Hug with FEI during aura thread" ]
+        },
+        {
+            "chapter": 41,
+            "events": [ "Full-body massage, blindfolded trust" ]
+        },
+        {
+            "chapter": 44,
+            "events": [ "Hayloft intimacy, claimed Jayson silently" ]
+        },
+        {
+            "chapter": 46,
+            "events": [ "Public affection, silent teasing" ]
+        },
+        {
+            "chapter": 47,
+            "events": [ "Misjudged Jayson's awe; blind spot revealed" ]
+        },
+        {
+            "chapter": 52,
+            "events": [ "Emotional misstep over Ayaka; guilt surfaced" ]
+        },
+        {
+            "chapter": 55,
+            "events": [ "Agreed to press conference visibility" ]
+        },
+        {
+            "chapter": 60,
+            "events": [ "Faced near-loss; confessed fear; accepted proof of love" ]
+        },
+        {
+            "chapter": 62,
+            "events": [ "Dawn embrace; public intimacy; laughter with group" ]
+        },
+        {
+            "chapter": "Latest",
+            "events": [ "Glitter arc — laughed openly, ribbon accepted with pride" ]
+        }
+    ],
+    "inventory": {
+        "items": [
+            "Dune — morphing crystal sword",
+            "Threadweaver’s Loop",
+            "Hidden onyx ring (commitment chain)",
+            "Memory snow globes: Iceland aurora, Mt Fuji, Sahara lunch, Kyoto cosplay, beach sunset",
+            "Red bow hairclip from Jayson"
+        ]
+    },
+    "future": {
+        "symbol": "The Mirror — reflects truths, forces her to face herself",
+        "role": "Guardian of silence and memory; pillar of the circle",
+        "arc": "From stoic sentinel to open laughter and visible love",
+        "potential": [
+            "Primary tether alongside matrons",
+            "Balance of stillness and joy",
+            "Proof that love is not performance but presence"
+        ]
+    },
+    "final_note": "Shion has grown from silence as shield to silence as strength. Now she laughs, accepts affection, and wears her ribbon proudly — proof she has chosen joy and belonging."
+}

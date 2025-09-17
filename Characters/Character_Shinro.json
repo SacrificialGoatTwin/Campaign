@@ -3,13 +3,13 @@
   "title": "The Reforged Fang",
   "quote": "I was many, I was none. Now I rise whole, with my own howl.",
   "appearance": {
-    "age": "Appears 24, true age uncertain—reborn from fractured echoes",
-    "height": "178–182 cm",
+    "age": "Appears 24, true age uncertainï¿½reborn from fractured echoes",
+    "height": "178ï¿½182 cm",
     "build": "Broad-shouldered, powerful; lupine musculature balanced with human grace",
     "hair": "Ash-silver, short with uneven layers; streaked darker near the roots",
     "eyes": "Pale steel-blue with silver flecks; intense, haunted, but steady",
     "skin": "Fair, marred by faint lattice-scars from his fractured origin",
-    "tails": "One—dense and wolf-plumed, rarely still; betrays his emotions",
+    "tails": "Oneï¿½dense and wolf-plumed, rarely still; betrays his emotions",
     "scent": "Cold stone, rain-soaked earth, faint smoke",
     "posture": "Guarded but upright; shoulders squared as if bearing unseen weight",
     "relationship": "Rescued and reforged by Jayson, bound to him by act of creation",
@@ -19,13 +19,13 @@
       "Welcomed into the circle of freed kin with new name and identity"
     ],
     "new_details": [
-      "Carries a faint glow in his veilmarks when calm—threads stabilizing",
+      "Carries a faint glow in his veilmarks when calmï¿½threads stabilizing",
       "Name Shinro gifted as recognition of his rebirth"
     ]
   },
   "reactions": {
     "wind": "Still and steady; tail flicks in subtle alertness",
-    "water": "Uncomfortable—remains wary near deep water",
+    "water": "Uncomfortableï¿½remains wary near deep water",
     "sound": "Hyper-aware; ears twitch to distant noises; reacts to sudden echoes",
     "temperature": "Prefers cold; warmth unsettles him though he is adapting",
     "fire": "Instinctively cautious, but steadies when reminded of Jayson's control",
@@ -45,7 +45,7 @@
   "emotional": {
     "core_traits": ["Resilient", "Haunted", "Protective", "Loyal"],
     "triggers": [
-      "Experiments and cages—reminders of his fractured origin",
+      "Experiments and cagesï¿½reminders of his fractured origin",
       "Threats to wolf-kin or other freed beings"
     ],
     "vulnerabilities": [
@@ -114,13 +114,13 @@
   },
   "notable_scenes": [
     {"chapter": 72, "events": ["Reforged by Jayson, chose wolf-kin identity"]},
-    {"chapter": 72, "events": ["First howl as a complete being—echo shook the ice walls"]},
+    {"chapter": 72, "events": ["First howl as a complete beingï¿½echo shook the ice walls"]},
     {"chapter": 73, "events": ["Stood beside Rava against human guards, protective growl"]},
     {"chapter": 74, "events": ["Integrated into temple, cautious but loyal"]}
   ],
   "inventory": {
     "items": [
-      "Simple wolf-tooth pendant—symbol of his rebirth",
+      "Simple wolf-tooth pendantï¿½symbol of his rebirth",
       "Cloth bindings woven at the temple, reminder of home",
       "Bone-carved charm gifted by Rava"
     ]

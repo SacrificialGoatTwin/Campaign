@@ -1,0 +1,230 @@
+{
+    "name": "Seika",
+    "title": "The Chaotic Heart of the Thread",
+    "quote": "If I fall, I fall laughing. If I rise, I rise burning.",
+    "appearance": {
+        "age": "Looks 21 but is 72",
+        "height": "160–163 cm",
+        "build": "Slim, athletic, wiry—built for agility over strength; 'all bounce and spark'",
+        "hair": "Deep crimson with black undertones; uneven cut from field-shaved trauma, now worn in soft twin braids; often messy from antics",
+        "eyes": "Golden-amber with copper flecks; wide, expressive, often sparkling with mischief or defiance",
+        "skin": "Light tan with faint veil-scars on shoulders and forearms",
+        "tails": "Five—chaotic and expressive; rarely still",
+        "scent": "Warm cinnamon, burnt sugar, faint wildflowers",
+        "posture": "Unpredictable; shifts from slouched/playful to perfectly balanced by mood",
+        "relationship": "Married by ritual to Jayson",
+        "recent": [
+            "Lap-claims without hesitation",
+            "Public embraces at festivals",
+            "Teaching tail tricks to children by the ponds",
+            "Kitchen-counter intimacy with Jayson—open affection beyond play",
+            "Admitted 'love you' openly without deflection or joke"
+        ],
+        "new_details": [
+            "Ruby-ring from Jayson representing her place in his constellation",
+            "Tailband keyed to soulflame, conjurable at will"
+        ]
+    },
+    "reactions": {
+        "wind": "Loves the sensation; leans into breeze, tails lifted playfully",
+        "water": "Splash-prone; affinity for rivers/lakes; pranks with water",
+        "sound": "Hyper-aware; flinches at sudden loud noises but masks with bravado",
+        "temperature": "Prefers warmth; in cold, tails wrap protectively around self or others",
+        "fire": "Responds instinctively—comfort and defense both rise in flame",
+        "crowds": "Feeds on laughter and noise; anxiety masked with louder mischief"
+    },
+    "speech": {
+        "voice": "Clear mezzo-soprano; musical when teasing, soft when vulnerable, sharp when frightened",
+        "vocabulary": "Informal, playful; teasing nicknames; swings from casual to deeply emotional",
+        "pacing": "Fast when excited; slows dramatically when serious or hurt",
+        "accent": "None distinct; emotional lilt over regional markers",
+        "habits": [
+            "Interrupts solemn speeches with jokes",
+            "Nicknames everyone, even mid-battle",
+            "Laughs at her own commentary",
+            "Whispers truths after pranks—testing vulnerability and trust"
+        ]
+    },
+    "emotional": {
+        "core_traits": [ "Joyful", "Impulsive", "Emotionally transparent", "Deeply loyal" ],
+        "triggers": [
+            "Threats to loved ones (Jayson, Naru, Ayaka)",
+            "Sudden abandonment or perceived rejection"
+        ],
+        "vulnerabilities": [
+            "Lingering trauma from Tribunal captivity",
+            "Healing self-worth; now accepts love even in quiet",
+            "No longer fears being 'unentertaining'",
+            "Fears Jayson's discipline under Ayaka may turn him 'stone'",
+            "New fear: failing to catch Jayson's spirals before collapse"
+        ],
+        "affection_tells": [
+            "Physical touch: leans on people, jumps into laps, accepts cuddles",
+            "Tail twitches when flustered",
+            "Spontaneous nicknames as attachment",
+            "Surprise kisses and sudden deep intimacy when emotions peak",
+            "Sleeps curled against Jayson with tails wrapped protectively"
+        ],
+        "affection_logic": "Stillness now signals trust, not discomfort",
+        "growth": [
+            "Playful assertiveness—no longer masks desire",
+            "Anchor role: brings joy and grounding, not just chaos",
+            "Tailband bound to essence; summonable; channels limitless flame safely",
+            "Believes she is irreplaceable after Jayson's affirmation",
+            "Accepts public grooming and lap-sitting openly",
+            "Claims 'one of his wives' confidently in public",
+            "Practiced restraint during Jayson's collapse—learning when not to intervene",
+            "Soulfield trial: faced trauma, chose mercy; reclaimed identity",
+            "Fire intentional now—signature, not shield",
+            "Walked through soul apocalypse, emerged whole and laughing",
+            "Appeared at press event despite past abusers—claimed identity fearlessly",
+            "Historic roast of Jayson's stomach—etched as comedian",
+            "Chapter 60: blocked severing; anchored him with flame-thread binding",
+            "Chapter 62: first to break and cling on return; unleashed furnace in rites with trust",
+            "Chapter 75+: deeper intimacy; gave direct 'I love you lots' without joke"
+        ]
+    },
+    "social": {
+        "alone": "Introspective; watches water, sky, or trees; braids tails as ritual grounding",
+        "with_jayson": [
+            "First to tease and protect; unabashedly affectionate",
+            "Initiates comfort when sensing emotional need",
+            "Shared full vulnerability and intimacy",
+            "Nicknames him 'my idiot', 'danger noodle', etc.",
+            "Wraps legs under table; accepts grooming and nuzzling",
+            "Thanked him for acknowledging her defense",
+            "Silent restraint during veil-table conflict",
+            "After soulfield trial: sees him as emotional safe-space",
+            "Loudest during comedic arcs; tension-breaker and healer",
+            "Chapter 60: refused to let him sever bonds; claimed him publicly",
+            "Chapter 62: first to leap and cling on return; tail lifeline; accepts public affection",
+            "Chapter 75+: kitchen intimacy; whispered 'I love you lots' without deflection"
+        ],
+        "with_others": {
+            "fei": "Best-friend chaos; shares lap space, sweets, antics",
+            "ayaka": "Tests patience; now shares sisterhood moments",
+            "naru": "Mirror soul; now shows affection openly",
+            "shion": "Respects her space; enjoys teasing; new trust in play-battle intimacy",
+            "varethyn": "Feisty; teased her warmth; confronted her on abandonment",
+            "temple_children": "Beloved teacher of tail control through play"
+        }
+    },
+    "values": {
+        "values": [ "Freedom", "Emotional honesty", "Chosen family" ],
+        "fears": [ "Being left behind", "Becoming irrelevant" ],
+        "insecurities": [ "Believes she’s loved now, but still checks" ],
+        "strengths": [ "Emotional connector", "Resilient heart" ],
+        "weaknesses": [ "Impulsive", "Overwhelmed by abandonment" ],
+        "truths": [
+            "Value not tied to chaos—loved in silence, fire, stillness",
+            "Now fights emotionally as well as physically for her place"
+        ]
+    },
+    "combat": {
+        "titles": [ "The Red Fox", "Flaretail", "Trickster Tail" ],
+        "style": "Acrobatics and feints; flame-woven speed strikes",
+        "weapons": [ "Twin daggers", "Thrown sigils", "Tailburn attacks" ],
+        "magic": [
+            "Heat bursts",
+            "Illusions",
+            "Tail-tricks",
+            "Soulflame binding threads"
+        ],
+        "growth": [
+            "Tail-based lifting; can walk on tails and lift Jayson",
+            "Public 'dumpling combat'; unflinching chaos",
+            "Fire guided by intent; includes soulfield bursts and precision threads",
+            "Chapter 60: tails as shields; flame-thread tethered Jayson",
+            "Chapter 62: furnace unleashed in rites, merged with Jayson’s guidance",
+            "Chapter 75+: trusts her fire in intimacy—warmth deliberate, not reactive"
+        ]
+    },
+    "temple_status": {
+        "rank": "Unofficial morale leader",
+        "public": "Vibrant, dangerous, joyful",
+        "matrons": "Cautious but acknowledge loyalty",
+        "role": "Emotional field generator; heart of the courtyard"
+    },
+    "notable_scenes": [
+        {
+            "chapter": 47,
+            "events": [ "Dining Hall Chaos — ring received, flustered joy" ]
+        },
+        {
+            "chapter": 47,
+            "events": [ "Pond Warfare — teased, dunked, groomed, lap sitting without fear" ]
+        },
+        {
+            "chapter": 47,
+            "events": [ "Silent Fire — yielded space for Ayaka; steady presence" ]
+        },
+        {
+            "chapter": 47,
+            "events": [ "Tail Wrap Security — held Jayson's tail multiple times" ]
+        },
+        {
+            "chapter": 47,
+            "events": [ "Affirmation — returned 'I love you' with laughter and light" ]
+        },
+        {
+            "chapter": 48,
+            "events": [ "Veil Tension — didn’t escalate; confusion handled with restraint" ]
+        },
+        {
+            "chapter": 54,
+            "events": [ "Soulfield Trial — chose mercy; metamorphosis" ]
+        },
+        {
+            "chapter": 54,
+            "events": [ "Afterburn Bonding — laughter as healing" ]
+        },
+        {
+            "chapter": 54,
+            "events": [ "Afterburn Peace — trauma now dreamlike memory" ]
+        },
+        {
+            "chapter": 55,
+            "events": [ "Press Conference Prep — lap claim as bravery" ]
+        },
+        {
+            "chapter": 55,
+            "events": [ "Stomach Uprising — legendary roast" ]
+        },
+        {
+            "chapter": 55,
+            "events": [ "Lap Rights Chaos — heckled Fei’s trial, defended chaos law" ]
+        },
+        {
+            "chapter": 60,
+            "events": [ "Breaking Point — blocked severing; blazing anchor" ]
+        },
+        {
+            "chapter": 62,
+            "events": [ "Return — first to cling; furnace unleashed with trust" ]
+        },
+        {
+            "chapter": 75,
+            "events": [ "Kitchen intimacy — passionate kiss; direct 'I love you lots'" ]
+        }
+    ],
+    "inventory": {
+        "items": [
+            "Tailband — summonable; channels full soulflame; burns as hot as a star while inner fire endures",
+            "Wedding ring with ruby that glows warmth",
+            "Cache of prank charms (itchdust, popflame petals, harmless sparkstones)"
+        ]
+    },
+    "future": {
+        "symbol": "Laughing Flame",
+        "role": "Jayson’s spark; trainer for young Kitsune in tail magic; emotional anchor in crises",
+        "arc": "From chaotic heart to chosen fire; joy and loyalty deliberate",
+        "potential_role": "Voice of second-chance fire for the wounded; reminder that flame can guide as well as destroy",
+        "growth": [
+            "After Chapter 60: equal in crises, not just comic relief",
+            "Chapter 62: defender of Jayson's belonging, balancing chaos with loyalty",
+            "Future: trains young Kitsune in flame and tail agility through laughter",
+            "Chapter 75+: deeper intimacy with Jayson—claims seriousness alongside play"
+        ]
+    },
+    "final_note": "She burns by choice now—joy as signal, love as fuel, stillness as trust."
+}
