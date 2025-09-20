@@ -25,31 +25,133 @@
     {"name": "Mayari", "notes": "1 of 3 girls saved from Northern Division bunker (Tokyo outskirts — Sector 7 Red)"},
     {"name": "Tsubaki", "notes": "1 of 3 girls saved from Northern Division bunker (Tokyo outskirts — Sector 7 Red)"}
   ],
-  "other_characters_kitsune_temple": [
-    {"name": "The Vellari", "role": "Group", "notes": "Group of 6 ancient fox spirits"},
-    {"name": "Kael", "role": "Vellari member", "notes": "One of The Vellari"},
-    {"name": "Vessaira", "role": "Spirit", "notes": "Brought back whole by combining The Vellari"},
-    {"name": "The Eidolarch", "role": "Enigmatic figure", "notes": "Appears in every prophecy — sometimes savior, sometimes destroyer; half-crystalline, half-foxlike depictions; unclear if person, artifact, or event; Jayson may echo their pattern"},
-    {"name": "VAER’ZENUKH-KAAHN", "role": "Dragon", "notes": "Dragon of The First Flame"},
-    {"name": "SHIR’THAE’ZENNA", "role": "Dragon", "notes": "Dragon of The Starlit Bloom"},
-    {"name": "Matron Kaelith of the Verdant Veil", "role": "Matron", "notes": "Matron of Hanae"},
-    {"name": "Matron Isahara of the Tides", "role": "Matron", "notes": "Matron and mother of Sorami"},
-    {"name": "Hanae", "role": "Rescued", "notes": "One of the 418 saved"},
-    {"name": "Sorami", "role": "Rescued", "notes": "One of the 418 saved"},
-    {"name": "Sorii’Ka", "role": "Nine-tailed Kitsune", "notes": "One of the 3 9-Tailed Kitsune"},
-    {"name": "Syn'Raa", "role": "Nine-tailed Kitsune", "notes": "One of the 3 9-Tailed Kitsune"},
-    {"name": "Akahana", "role": "Nine-tailed Kitsune (exiled)", "notes": "Exiled by Varethyn over 300 years ago"},
-    {"name": "Hoshiko", "role": "Kitsune", "notes": "Daughter of Akahana"},
-    {"name": "Shel'Naka-Katu", "role": "Kitsune elder", "notes": "Jayson’s mom; older than his dad; from when Kitsune were sovereigns"},
-    {"name": "Kahavin’Zil", "role": "Kitsune elder", "notes": "Jayson’s dad; born during the Pleistocene (~2 million years ago)"},
-    {"name": "Kaeli’sharr", "role": "Neko", "notes": "First of the cat-kin freed from Glacier base"},
-    {"name": "Rava", "role": "Wolf-kin", "notes": "First wolf-kin freed; bonded through submission and trust"},
-    {"name": "Sythera", "role": "Drakyn", "notes": "Tested through fire; immense heat tolerance"},
-    {"name": "Seris’val", "role": "avian kin", "notes": "Freed avian kin from Glacier base"},
-    {"name": "Korrin’th", "role": "avian kin", "notes": "Another avian kin freed; scarred but restored"},
-    {"name": "Shinro (formerly Nine)", "role": "Wolf-kin reborn", "notes": "Fragmented entity reshaped into wolf-kin"},
-    {"name": "Aelthryn", "role": "Unknown entity", "notes": "Singular being, enigmatic nature; origin unclear"}
-  ]
+    "other_characters_kitsune_temple": [
+        {
+            "name": "The Vellari",
+            "role": "Group",
+            "notes": "Group of 6 ancient fox spirits"
+        },
+        {
+            "name": "Kael",
+            "role": "Vellari member",
+            "notes": "One of The Vellari"
+        },
+        {
+            "name": "Vessaira",
+            "role": "Spirit",
+            "notes": "Brought back whole by combining The Vellari"
+        },
+        {
+            "name": "The Eidolarch",
+            "role": "Enigmatic figure",
+            "notes": "Appears in every prophecy — sometimes savior, sometimes destroyer; half-crystalline, half-foxlike depictions; unclear if person, artifact, or event; Jayson may echo their pattern"
+        },
+        {
+            "name": "VAER’ZENUKH-KAAHN",
+            "role": "Dragon",
+            "notes": "Dragon of The First Flame"
+        },
+        {
+            "name": "SHIR’THAE’ZENNA",
+            "role": "Dragon",
+            "notes": "Dragon of The Starlit Bloom"
+        },
+        {
+            "name": "Matron Kaelith of the Verdant Veil",
+            "role": "Matron",
+            "notes": "Matron of Hanae"
+        },
+        {
+            "name": "Matron Isahara of the Tides",
+            "role": "Matron",
+            "notes": "Matron and mother of Sorami"
+        },
+        {
+            "name": "Hanae",
+            "role": "Rescued",
+            "notes": "One of the 418 saved"
+        },
+        {
+            "name": "Sorami",
+            "role": "Rescued",
+            "notes": "One of the 418 saved"
+        },
+        {
+            "name": "Sorii’Ka",
+            "role": "Nine-tailed Kitsune",
+            "notes": "One of the 3 9-Tailed Kitsune"
+        },
+        {
+            "name": "Syn'Raa",
+            "role": "Nine-tailed Kitsune",
+            "notes": "One of the 3 9-Tailed Kitsune"
+        },
+        {
+            "name": "Akahana",
+            "role": "Nine-tailed Kitsune (exiled)",
+            "notes": "Exiled by Varethyn over 300 years ago"
+        },
+        {
+            "name": "Hoshiko",
+            "role": "Kitsune",
+            "notes": "Daughter of Akahana"
+        },
+        {
+            "name": "Shel'Naka-Katu",
+            "role": "Kitsune elder",
+            "notes": "Jayson’s mom; older than his dad; from when Kitsune were sovereigns"
+        },
+        {
+            "name": "Kahavin’Zil",
+            "role": "Kitsune elder",
+            "notes": "Jayson’s dad; born during the Pleistocene (~2 million years ago)"
+        },
+        {
+            "name": "Kaeli’sharr",
+            "role": "Neko",
+            "notes": "First of the cat-kin freed from Glacier base"
+        },
+        {
+            "name": "Rava",
+            "role": "Wolf-kin",
+            "notes": "First wolf-kin freed; bonded through submission and trust"
+        },
+        {
+            "name": "Sythera",
+            "role": "Drakyn",
+            "notes": "Tested through fire; immense heat tolerance"
+        },
+        {
+            "name": "Seris’val",
+            "role": "avian kin",
+            "notes": "Freed avian kin from Glacier base"
+        },
+        {
+            "name": "Korrin’th",
+            "role": "avian kin",
+            "notes": "Another avian kin freed; scarred but restored"
+        },
+        {
+            "name": "Shinro (formerly Nine)",
+            "role": "Wolf-kin reborn",
+            "notes": "Fragmented entity reshaped into wolf-kin"
+        },
+        {
+            "name": "Aelthryn",
+            "role": "Unknown entity",
+            "notes": "Singular being, enigmatic nature; origin unclear"
+        },
+        {
+            "name": "Kaelen",
+            "role": "Refugee",
+            "notes": "Ex Hydra"
+        },
+        {
+            "name": "Mira",
+            "role": "Refugee",
+            "notes": "Ex Hydra"
+        }
+    ],
   "military_earth_characters": [
     {"name": "Colonel Kenzaki", "affiliation": "Japanese Military", "notes": ""},
     {"name": "Takashima Rika", "affiliation": "Japanese Black Ops Military", "notes": ""},
@@ -68,8 +170,18 @@
     {"name": "Toren", "notes": "Varethyn’s first lover; died in her arms"},
     {"name": "Aru", "notes": "Shion’s sister"}
   ],
-  "other_names_future_children": {
-    "Shion": {"boy": "Shiro", "girl": "Kuro"},
-    "Varethyn": {"boy": "Amariel", "girl": "Kaelen"}
-  }
+    "other_names_future_children": {
+        "Shion": {
+            "boy": "Shiro",
+            "girl": "Kuro"
+        },
+        "Varethyn": {
+            "boy": "Amariel",
+            "girl": "Kaelen"
+        },
+        "Ayaka": {
+            "boy": "Ren",
+            "girl": "Hikari"
+        }
+    }
 }

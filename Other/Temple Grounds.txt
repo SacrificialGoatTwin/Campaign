@@ -36,13 +36,13 @@
       },
       "ownership": "Land belongs to Jayson and the six Kitsune women (Ayaka, Seika, Varethyn, Shion, Naru, FEI).",
       "population": {
-        "Kitsune": 1627,
+        "Kitsune": 1701,
         "Wolf-Kin": 65,
         "Avians": 35,
         "Neko": 44,
         "Drakyn": 38,
         "Aelthryn": 1,
-        "Humans": 3
+        "Humans": 6
       },
       "construct_systems": [
         "Agricultural cycles",
