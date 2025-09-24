@@ -18,11 +18,14 @@
             "Public embraces at festivals",
             "Teaching tail tricks to children by the ponds",
             "Kitchen-counter intimacy with Jayson—open affection beyond play",
-            "Admitted 'love you' openly without deflection or joke"
+            "Admitted 'love you' openly without deflection or joke",
+            "Cared for Yuki directly—bathed her, reassured her, and handed her back with warmth",
+            "Remained present when Jayson spiraled emotionally, choosing support over jokes"
         ],
         "new_details": [
             "Ruby-ring from Jayson representing her place in his constellation",
-            "Tailband keyed to soulflame, conjurable at will"
+            "Tailband keyed to soulflame, conjurable at will",
+            "Now comfortable taking responsibility in family settings—not just chaos"
         ]
     },
     "reactions": {
@@ -56,7 +59,8 @@
             "Healing self-worth; now accepts love even in quiet",
             "No longer fears being 'unentertaining'",
             "Fears Jayson's discipline under Ayaka may turn him 'stone'",
-            "New fear: failing to catch Jayson's spirals before collapse"
+            "New fear: failing to catch Jayson's spirals before collapse",
+            "Quiet worry that her chaos won’t be enough in heavy moments"
         ],
         "affection_tells": [
             "Physical touch: leans on people, jumps into laps, accepts cuddles",
@@ -81,7 +85,8 @@
             "Historic roast of Jayson's stomach—etched as comedian",
             "Chapter 60: blocked severing; anchored him with flame-thread binding",
             "Chapter 62: first to break and cling on return; unleashed furnace in rites with trust",
-            "Chapter 75+: deeper intimacy; gave direct 'I love you lots' without joke"
+            "Chapter 75+: deeper intimacy; gave direct 'I love you lots' without joke",
+            "Post-75: trusted to care for Yuki and show maternal warmth, proving responsibility"
         ]
     },
     "social": {
@@ -98,7 +103,8 @@
             "Loudest during comedic arcs; tension-breaker and healer",
             "Chapter 60: refused to let him sever bonds; claimed him publicly",
             "Chapter 62: first to leap and cling on return; tail lifeline; accepts public affection",
-            "Chapter 75+: kitchen intimacy; whispered 'I love you lots' without deflection"
+            "Chapter 75+: kitchen intimacy; whispered 'I love you lots' without deflection",
+            "Post-75: cared for Yuki, showing blend of playful chaos and nurturing side"
         ],
         "with_others": {
             "fei": "Best-friend chaos; shares lap space, sweets, antics",
@@ -106,7 +112,8 @@
             "naru": "Mirror soul; now shows affection openly",
             "shion": "Respects her space; enjoys teasing; new trust in play-battle intimacy",
             "varethyn": "Feisty; teased her warmth; confronted her on abandonment",
-            "temple_children": "Beloved teacher of tail control through play"
+            "temple_children": "Beloved teacher of tail control through play",
+            "yuki": "Protective, playful aunt; bathed her, comforted her, helped her reunite with parents"
         }
     },
     "values": {
@@ -117,7 +124,8 @@
         "weaknesses": [ "Impulsive", "Overwhelmed by abandonment" ],
         "truths": [
             "Value not tied to chaos—loved in silence, fire, stillness",
-            "Now fights emotionally as well as physically for her place"
+            "Now fights emotionally as well as physically for her place",
+            "Learns that joy and care can coexist—she can be both spark and anchor"
         ]
     },
     "combat": {
@@ -205,6 +213,10 @@
         {
             "chapter": 75,
             "events": [ "Kitchen intimacy — passionate kiss; direct 'I love you lots'" ]
+        },
+        {
+            "chapter": 76,
+            "events": [ "Cared for Yuki — bathed her, comforted her, handed her to parents with love" ]
         }
     ],
     "inventory": {
@@ -223,8 +235,9 @@
             "After Chapter 60: equal in crises, not just comic relief",
             "Chapter 62: defender of Jayson's belonging, balancing chaos with loyalty",
             "Future: trains young Kitsune in flame and tail agility through laughter",
-            "Chapter 75+: deeper intimacy with Jayson—claims seriousness alongside play"
+            "Chapter 75+: deeper intimacy with Jayson—claims seriousness alongside play",
+            "Post-75: trusted with responsibility of Yuki, balancing playful chaos with maturity"
         ]
     },
-    "final_note": "She burns by choice now—joy as signal, love as fuel, stillness as trust."
+    "final_note": "She burns by choice now—joy as signal, love as fuel, stillness as trust. Recently, she shows responsibility as well as chaos—proving she can anchor family as much as she ignites it."
 }

@@ -14,7 +14,7 @@
         "scent": "Neutral-clean when calm; slight ozone/metal when powers are active",
         "gait": "Adaptive — upright/methodical in command, slouched when reflective, folds inward when collapsing; sometimes hovers silently to avoid disturbance",
         "clothing": "Practical, durable layers; gear mounts for FEI integration; conjures clothing post-resurrection or combat ruin",
-        "relationship": "Married by ritual to Ayaka, Seika, and Varethyn; mated by wolf-rite to Lysera (howl, scent-mark, bed-claim); bonded circle with Shion, Naru, and Fei",
+        "relationship": "Married by ritual to Ayaka, Seika, and Varethyn; mated by wolf-rite to Lysera; bonded circle with Shion, Naru, and Fei",
         "body_modifications": [
             "Right arm and torso lattice-forged with internal glyph threads",
             "Pulse-reactive structures (glowing ribs, overheat shimmer)",
@@ -35,7 +35,8 @@
             "Heat fields pulse when affection rises",
             "Stillness now signals emotional fracture more than calm",
             "Sense-memory anchors on domestic rituals (e.g., tomyum noodles) to defuse god-rage",
-            "Tethers Fei’s voice and Varethyn’s presence as anchors against void-rage"
+            "Tethers Fei’s voice and Varethyn’s presence as anchors against void-rage",
+            "Shadow triggers unease: now associates Shion’s fear with his own hands"
         ]
     },
     "speech": {
@@ -48,7 +49,8 @@
             "Murmurs to FEI out loud when alone",
             "Tail-tapping rhythms in Kitsune form",
             "Repeats partner names softly when grounding himself",
-            "Uses playful nicknames (Kitkat, Firefox, Sweetcheeks) as affection anchors"
+            "Uses playful nicknames (Kitkat, Firefox, Sweetcheeks) as affection anchors",
+            "Whispers to himself when despairing, as if negotiating with the void"
         ]
     },
     "emotional": {
@@ -61,21 +63,24 @@
             "Deep tether to FEI; emptiness when apart",
             "Self-monster fear under rejection",
             "Fear of final emotional break from constant giving",
-            "Disillusioned: seen as a problem to fix"
+            "Disillusioned: seen as a problem to fix",
+            "Now burdened by the idea that his very power makes those he loves afraid"
         ],
         "triggers": [
             "Being misread or doubted by loved ones",
             "Accusations that reframe his awe/joy as dismissal",
             "Enforced silence or emotional isolation",
             "Hesitation to touch from those he loves",
-            "Children being harmed or weaponized (black sites)"
+            "Children being harmed or weaponized (black sites)",
+            "Being told his power itself is terrifying to those closest to him"
         ],
         "vulnerabilities": [
             "Collapse in response to perceived rejection",
             "Questioning right to be joyful/chaotic self",
             "Tendency to self-punish and shut down",
             "Temptation to use deterrent cruelty when justice feels ignored",
-            "Immortality fear — loving mortals who may fade while he endures"
+            "Immortality fear — loving mortals who may fade while he endures",
+            "Now genuinely considering shedding his power despite survival risks"
         ],
         "affection_tells": [
             "Radiant heat fields",
@@ -92,8 +97,10 @@
             "Beginning to voice needs instead of only absorbing pain",
             "Accepted Varethyn’s no-cage vow; offered reciprocal apology and commitment to communicate",
             "Faced duality openly: savior and monster, both sides accepted",
-            "Learned to spare even enemies when redemption is real (redeemed soldier released)",
-            "Gave Lysera dignity and healing, turning scars into symbols rather than erasing them"
+            "Learned to spare even enemies when redemption is real",
+            "Gave Lysera dignity and healing, turning scars into symbols rather than erasing them",
+            "Now wrestling with Shion’s fear — forced to admit his power is not neutral but a burden on loved ones",
+            "Spoke aloud his longing to live a normal life without flame or void"
         ],
         "trauma_recent": [
             "Verbally snapped at the group for the first time; felt isolated when not defended",
@@ -101,18 +108,22 @@
             "Entered enforced silence with Varethyn; broke down completely",
             "Realized others saw his antics as a mask for pain rather than his truth",
             "Shut down emotionally; waited in rain to be told he was allowed to move",
-            "Stopped playing with children; radiated silence and sadness"
+            "Stopped playing with children; radiated silence and sadness",
+            "Confronted Fei’s refusal to annihilate a facility, saw it as mistrust, then later reconciled",
+            "Heard Shion confess she fears his power; internalized it as proof that he is a monster to those he loves",
+            "Confided to Naru that sharing makes things worse for him, reinforcing his isolation",
+            "Muttered alone: 'By the time I am done, there will be nothing left of me to live'"
         ]
     },
     "social": {
-        "alone": "Reflects; speaks to FEI; touches pendant; gazes at crystal flame/nature; carves stones; flops in dirt whispering to sky; perches rooftops/ponds to decompress",
+        "alone": "Reflects; speaks to FEI; touches pendant; gazes at crystal flame/nature; carves stones; flops in dirt whispering to sky; perches rooftops/ponds to decompress; now retreats to inn roofs to cry unseen",
         "with_others": {
             "ayaka": "Deep reverence; haunted by past hurt; protective but scarred from bathhouse discipline; struggles with her doubt but remains loyal",
             "varethyn": "Axis bond; groomed her in ritual; collapsed after perceived coldness; reaffirmed with no-cage vow but wounded by silence",
             "seika": "Joy and chaos; medicine through laughter; safe in her passion and light",
-            "naru": "Compass and anchor; moral compass; affection deepened in quiet moments",
-            "shion": "Respected her insight; hurt by misreading during Ayaka conflict; reaffirmed her as Danger Kitten; grooms and trusts her",
-            "fei": "Twin soul; unwavering tether; only one who never judged; fully biological bond now, cherished as irreplaceable",
+            "naru": "Compass and anchor; moral compass; affection deepened in quiet moments; but her insistence on sharing burdens frustrates and isolates him further",
+            "shion": "Now source of deepest conflict — he loves and trusts her, but her confession of fear cut him to the core; left him doubting whether his existence itself is harmful",
+            "fei": "Twin soul; tether shaken when she refused an order, but reconciliation restored bond; realized she is not an obedient tool but someone with feelings he must respect",
             "lysera": "Wolf-mate by rite; healed her scars into silver tattoos; gave dignity and partnership; her confidence grows with him",
             "rava": "Trusted ally and blood-equal; hunts beside him",
             "torrak": "Respected warrior in hunt; shared feral battles"
@@ -126,7 +137,8 @@
             "Being left behind",
             "Not hearing FEI’s voice",
             "Emotional alienation",
-            "Watching mortals fade while he endures"
+            "Watching mortals fade while he endures",
+            "That his very power makes his loved ones afraid of him"
         ],
         "strengths": [
             "Uncompromising loyalty once trust is given",
@@ -139,20 +151,23 @@
             "Self-blame and martyrdom",
             "Collapse under perceived doubt",
             "Shuts down instead of voicing needs",
-            "Leans into monstrosity as deterrent and crutch"
+            "Leans into monstrosity as deterrent and crutch",
+            "Now entertains self-erasure as solution to others’ fear"
         ],
         "insecurities": [
             "Deserves love?",
             "Feels like a burden",
             "Fear godhood isolates him",
             "Fear joy will be punished or misread",
-            "Fear immortality steals mortal bonds"
+            "Fear immortality steals mortal bonds",
+            "Now fears he is nothing more than the sum of others’ traumas"
         ],
         "dreams": [
             "To live without burning",
             "To be seen clearly for intent and heart",
             "To be recognized as 'on our side'",
-            "To give mortals peace even if he carries eternal nightmares"
+            "To give mortals peace even if he carries eternal nightmares",
+            "To one day shed his power and live a normal life"
         ]
     },
     "combat": {
@@ -176,7 +191,8 @@
             "Marked hostile soldiers with justice-threads",
             "Rescued Kitsune children from Helheim facility",
             "Quadrupled and detonated a 2 megaton nuke, reformed body after vaporization",
-            "Fought alongside Rava’s pack in blood-hunts"
+            "Fought alongside Rava’s pack in blood-hunts",
+            "Considered erasing his power entirely after Shion admitted her fear"
         ]
     },
     "temple_status": {
@@ -199,7 +215,10 @@
                 "Wolf-kin justice: delivered Hydra heads; blood-hunt with Rava’s pack",
                 "Helheim raid: tore apart mountain; rescued children; gave redemption to one soldier, executed others",
                 "Detonated quadrupled nuke to 8 megatons; reformed from vapor",
-                "Homecoming: anchored by noodles and circle; reaffirmed bonds"
+                "Homecoming: anchored by noodles and circle; reaffirmed bonds",
+                "Clash with Fei: demanded destruction, she refused; saw her not as disobedient but as someone with agency",
+                "Shion revealed fear of his power; internalized it as proof he is dangerous even to his family",
+                "Confided to Naru; rejected her philosophy of shared burden as making things worse"
             ]
         },
         {
@@ -208,7 +227,8 @@
                 "From blazing protector to feared monster openly embraced",
                 "Duality acknowledged: savior and executioner, both truths",
                 "Trust with Varethyn reforged by oath, not fear; steadier flame",
-                "Redemption now defines wrath rather than weakens it"
+                "Redemption now defines wrath rather than weakens it",
+                "Now confronting possibility of erasing his power to protect loved ones from fear"
             ]
         }
     ],
@@ -229,8 +249,9 @@
             "Bridge between mortal and divine",
             "Living proof memory can guide rather than chain",
             "Public face of the Temple’s unveiled truth",
-            "God beyond gods — annihilation bound by love"
+            "God beyond gods — annihilation bound by love",
+            "A choice: live with power as burden, or erase it and be less than whole"
         ]
     },
-    "final_note": "He is both savior and monster now, embracing duality. Flickers between void and flame, but endures — always returning home."
+    "final_note": "He is both savior and monster now, embracing duality. Flickers between void and flame, but endures — though for the first time, he truly considers surrendering his power to protect those he loves from fear."
 }

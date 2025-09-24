@@ -32,24 +32,27 @@
         "growth": [
             "Silence now paired with dry humor in group settings",
             "Uses wit as affection, not just distance",
-            "Speaks more often with emotional insight"
+            "Speaks more often with emotional insight",
+            "Now speaks openly about fear and trauma — a massive step for her"
         ]
     },
     "emotional": {
         "core_traits": [ "Disciplined", "Reserved", "Protective" ],
         "beneath": [ "Loneliness", "Yearning for connection" ],
-        "triggers": [ "Loss of control", "Direct threats to her circle" ],
+        "triggers": [ "Loss of control", "Direct threats to her circle", "Overwhelming displays of Jayson's power" ],
         "vulnerabilities": [
             "Bottles everything; rarely seeks help",
             "Guilt over past missions and failures",
-            "Fear of inadequacy compared to others"
+            "Fear of inadequacy compared to others",
+            "Now revealed: Jayson's power evokes visions of past torment ('burning hands')"
         ],
         "affection_tells": [
             "Allows proximity without tension",
             "Subtle gestures instead of declarations",
             "Emerging wit and humor as affection",
             "Now accepts grooming, kissing, and closeness without retreat",
-            "Tail flicks betray emotion when she cannot voice it"
+            "Tail flicks betray emotion when she cannot voice it",
+            "Holding onto gifts (red ribbon, hairclip) as anchors of trust"
         ],
         "growth": [
             "Allowed Jayson to pin her in duel, testing trust",
@@ -60,7 +63,8 @@
             "Faced insecurities directly, admitted fears, accepted joy openly",
             "Proudly wore ribbon — embraced individuality against her alternate self",
             "Admitted fear of inadequacy during confrontation, accepted proof of Jayson's love",
-            "Now openly laughs in chaos, joins absurd group humor"
+            "Now openly laughs in chaos, joins absurd group humor",
+            "Latest: confessed fear of Jayson's power directly, risking fracture but proving honesty"
         ]
     },
     "social": {
@@ -77,7 +81,8 @@
             "Chapter 55: agreed to global press despite hate of visibility",
             "Chapter 60: nearly lost him, confessed fear, accepted his unwavering love",
             "Chapter 62: accepted dawn embrace, tail flick betraying desire, leaned in fully",
-            "Glitter arc: laughed openly, wore red ribbon proudly"
+            "Glitter arc: laughed openly, wore red ribbon proudly",
+            "Latest arc: admitted his power frightens her, exposing raw fracture in trust"
         ],
         "with_others": {
             "fei": "Soft bond; trusts her blunt loyalty",
@@ -92,24 +97,28 @@
         "fears": [
             "Being unnecessary",
             "Causing harm through silence or misjudgment",
-            "Inadequacy in love"
+            "Inadequacy in love",
+            "Now spoken aloud: losing control around Jayson's destructive power"
         ],
         "strengths": [
             "Precision and clarity",
             "Calm in chaos",
-            "Loyalty through silence and action"
+            "Loyalty through silence and action",
+            "Courage to voice buried fear"
         ],
         "weaknesses": [
             "Suppresses emotion until breaking point",
             "Struggles with spontaneity",
-            "Inconsistency between words and affection"
+            "Inconsistency between words and affection",
+            "Fear conflicting with love — cannot fully reconcile both"
         ],
         "inner_growth": [
             "Now accepts emotional presence as valid",
             "Speaks with warmth, not just precision",
             "Receives affection without flinching",
             "Laughs freely and enjoys joy openly",
-            "Accepts being seen — not as fame, but as necessary truth"
+            "Accepts being seen — not as fame, but as necessary truth",
+            "Latest: finally spoke fear of Jayson’s power aloud, shattering silence but deepening honesty"
         ]
     },
     "combat": {
@@ -130,7 +139,7 @@
     "temple_status": {
         "rank": "Senior sentinel, one step beneath matron line",
         "public": "Impeccable stillness; feared for precision",
-        "private": "Now shows warmth, humor, and vulnerability"
+        "private": "Now shows warmth, humor, and vulnerability, but also deep fear of Jayson's destructive scale"
     },
     "notable_scenes": [
         {
@@ -179,7 +188,11 @@
         },
         {
             "chapter": "Latest",
-            "events": [ "Glitter arc — laughed openly, ribbon accepted with pride" ]
+            "events": [
+                "Glitter arc — laughed openly, ribbon accepted with pride",
+                "Confessed fear of Jayson's power ('burning hands' memory)",
+                "Raw confrontation — love vs fear laid bare"
+            ]
         }
     ],
     "inventory": {
@@ -194,12 +207,13 @@
     "future": {
         "symbol": "The Mirror — reflects truths, forces her to face herself",
         "role": "Guardian of silence and memory; pillar of the circle",
-        "arc": "From stoic sentinel to open laughter and visible love",
+        "arc": "From stoic sentinel to open laughter and visible love, now struggling to balance love with fear",
         "potential": [
             "Primary tether alongside matrons",
             "Balance of stillness and joy",
-            "Proof that love is not performance but presence"
+            "Proof that love is not performance but presence",
+            "Embodiment of conflict: trust fractured but not broken"
         ]
     },
-    "final_note": "Shion has grown from silence as shield to silence as strength. Now she laughs, accepts affection, and wears her ribbon proudly — proof she has chosen joy and belonging."
+    "final_note": "Shion has grown from silence as shield to silence as strength. Now she laughs, accepts affection, but also revealed her deepest fear: Jayson's destructive power. This honesty may wound, but it proves her courage to face truth."
 }
