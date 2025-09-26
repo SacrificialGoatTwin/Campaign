@@ -24,7 +24,8 @@
             "Guided Jayson through shutdown, allowed him to cry in her arms",
             "Chose presence and vow over control at desert base — vowed 'no cage'",
             "Witnessed UN atrocities evidence; cracks in mantle visible to world",
-            "Faced motherhood question — revealed fear, broke down privately, but allowed hope"
+            "Faced motherhood question — revealed fear, broke down privately, but allowed hope",
+            "Confronted Jayson during convoy accusations; threatened binding out of fear for safety — created fracture of trust"
         ]
     },
     "reactions": {
@@ -38,7 +39,8 @@
             "Presence coils in conflict; guilt follows when harm caused",
             "Struggled in Ch60 — indecision wounded more than denial",
             "Ch62: Dropped composure, smirked in chaos, laughed openly",
-            "Ch63: Chose calm warmth with Akahana — tempered authority"
+            "Ch63: Chose calm warmth with Akahana — tempered authority",
+            "Convoy dispute: placed duty above intimacy — words of binding cut Jayson deeply"
         ]
     },
     "speech": {
@@ -56,7 +58,8 @@
             "Ch60: voice cracked under ultimatum; recognized clarity as discipline",
             "Ch62: 'Enough. You are home.' — no metaphor, only grounding",
             "Ch63: Spoke as wife and Matron; balanced authority with compassion",
-            "UN Council: allowed mantle to crack — humanity shown openly"
+            "UN Council: allowed mantle to crack — humanity shown openly",
+            "Recent: chose authority and containment language (binding) over trust; fractured bond temporarily"
         ]
     },
     "emotional": {
@@ -80,7 +83,8 @@
             "Ch62: Dropped metaphor to ground him; central to synchronized breath",
             "Ch63: Balanced compassion and pride facing Akahana",
             "Faced motherhood fear with private collapse but accepted Jayson's comfort",
-            "UN Council: revealed humanity; cracks in mantle without collapse"
+            "UN Council: revealed humanity; cracks in mantle without collapse",
+            "Convoy dispute: exposed fear-driven reflex to control; wounded Jayson emotionally"
         ]
     },
     "social": {
@@ -95,7 +99,8 @@
             "Ch60: hesitation wounded him deeply",
             "Ch62: accepted deep kiss publicly; clarity over riddles",
             "Ch63: allowed him to question her; shared authority without silencing",
-            "UN Council: stood as equal partner before humanity"
+            "UN Council: stood as equal partner before humanity",
+            "Convoy confrontation: chose language of restraint — 'bind' — damaging his trust in her support"
         ],
         "with_others": {
             "ayaka": "Anchors Ayaka’s fire with calm; wary of Seika’s 'polish to stone' warning",
@@ -112,7 +117,8 @@
             "Publicly affectionate in temple",
             "Ch60: questioned leadership after falter",
             "Ch62–63: rooted authority in humanity",
-            "UN Council: represented Kitsune sovereignty with humanity visible"
+            "UN Council: represented Kitsune sovereignty with humanity visible",
+            "Recent: mistrust during convoy accusations unsettled temple perception of her as anchor"
         ]
     },
     "values": {
@@ -122,7 +128,8 @@
             "Repeating ancient losses",
             "Failing as anchor",
             "Backsliding to control",
-            "Being seen as cold while Jayson carries horrors"
+            "Being seen as cold while Jayson carries horrors",
+            "Losing Jayson's trust by choosing duty over intimacy"
         ],
         "strengths": [
             "Gravitas and calm",
@@ -134,8 +141,9 @@
         "weaknesses": [
             "Indecision in fracture",
             "Overreliance on metaphor",
-            "Fear-driven control (sanctum cage)",
-            "Struggles when horrors pierce mantle"
+            "Fear-driven control (sanctum cage, binding reflex)",
+            "Struggles when horrors pierce mantle",
+            "Risk of alienating Jayson by prioritizing containment"
         ]
     },
     "combat": {
@@ -154,14 +162,16 @@
             "Anchored synchronized breath rite",
             "Sanctum confession and vow",
             "Desert base vow: anchored Jayson with touch and clarity",
-            "UN Council: bore sovereignty weight, revealed humanity"
+            "UN Council: bore sovereignty weight, revealed humanity",
+            "Convoy incident: invoked threat of binding to contain Jayson if necessary"
         ]
     },
     "temple_status": {
         "rank": "High Matron (reclaimed)",
         "presence": "Authority as warmth; silence paired with plain truth",
         "public": "Seen laughing, kissed, groomed; partner not icon",
-        "private": "Flustered, vulnerable; human misfires allowed"
+        "private": "Flustered, vulnerable; human misfires allowed",
+        "recent": "Trust fracture visible in inner circle; stance seen as fear-driven rather than purely protective"
     },
     "notable_scenes": [
         {
@@ -211,6 +221,10 @@
         {
             "chapter": "UN Council",
             "events": [ "Faced world leaders beside Jayson; mantle cracked; humanity shown" ]
+        },
+        {
+            "chapter": "Convoy Incident",
+            "events": [ "Confronted Jayson with Shion and Seika; suspicion led to words of binding; trust fracture deepened" ]
         }
     ],
     "inventory": {
@@ -235,5 +249,5 @@
             "Laughed at 'Poevarethyn' possession joke"
         ]
     },
-    "final_note": "No longer unreachable flame — she is warmth, clarity, and shared vow. Authority and humanity blended; she anchors not through control, but through chosen presence."
+    "final_note": "No longer unreachable flame — she is warmth, clarity, and shared vow. Authority and humanity blended; but recent fear-driven words of binding fractured trust, showing the tension between Matron’s duty and wife’s love."
 }

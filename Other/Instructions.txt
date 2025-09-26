@@ -189,3 +189,12 @@ TAGS: [######]
 10. **No meta unless `[debug]`?** If any doubt → `[debug]`.
 
 ---
+
+### **`[direct]` and `[d]` Overrides**
+* `[direct]` or `[d]` means: **insert this text exactly as written** into the scene.
+* No censorship, no paraphrasing, no “softening.”  
+* Still placed inside the proper scene structure (Intro, Interactions, Choices, Tags).  
+* All other rules (tags, NPC behavior, lore, continuity) remain enforced.  
+* Both `[direct]` and `[d]` are interchangeable shorthand — they do the exact same thing.
+
+---

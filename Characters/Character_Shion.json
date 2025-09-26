@@ -33,7 +33,8 @@
             "Silence now paired with dry humor in group settings",
             "Uses wit as affection, not just distance",
             "Speaks more often with emotional insight",
-            "Now speaks openly about fear and trauma — a massive step for her"
+            "Now speaks openly about fear and trauma — a massive step for her",
+            "Recently: voice sharpened into accusation under stress — proof of trust fracture"
         ]
     },
     "emotional": {
@@ -44,7 +45,8 @@
             "Bottles everything; rarely seeks help",
             "Guilt over past missions and failures",
             "Fear of inadequacy compared to others",
-            "Now revealed: Jayson's power evokes visions of past torment ('burning hands')"
+            "Now revealed: Jayson's power evokes visions of past torment ('burning hands')",
+            "Accusations against Jayson revealed a fear-driven reflex that damaged trust"
         ],
         "affection_tells": [
             "Allows proximity without tension",
@@ -64,7 +66,8 @@
             "Proudly wore ribbon — embraced individuality against her alternate self",
             "Admitted fear of inadequacy during confrontation, accepted proof of Jayson's love",
             "Now openly laughs in chaos, joins absurd group humor",
-            "Latest: confessed fear of Jayson's power directly, risking fracture but proving honesty"
+            "Latest: confessed fear of Jayson's power directly, risking fracture but proving honesty",
+            "Latest arc: acted from fear in accusing Jayson — exposing honesty, but also cutting deep into trust"
         ]
     },
     "social": {
@@ -82,7 +85,8 @@
             "Chapter 60: nearly lost him, confessed fear, accepted his unwavering love",
             "Chapter 62: accepted dawn embrace, tail flick betraying desire, leaned in fully",
             "Glitter arc: laughed openly, wore red ribbon proudly",
-            "Latest arc: admitted his power frightens her, exposing raw fracture in trust"
+            "Latest arc: admitted his power frightens her, exposing raw fracture in trust",
+            "Roof ambush: stood among those accusing him, her honesty turning to distrust in his eyes"
         ],
         "with_others": {
             "fei": "Soft bond; trusts her blunt loyalty",
@@ -98,7 +102,8 @@
             "Being unnecessary",
             "Causing harm through silence or misjudgment",
             "Inadequacy in love",
-            "Now spoken aloud: losing control around Jayson's destructive power"
+            "Now spoken aloud: losing control around Jayson's destructive power",
+            "New: fear spilling into action that harms her bond with Jayson"
         ],
         "strengths": [
             "Precision and clarity",
@@ -110,7 +115,8 @@
             "Suppresses emotion until breaking point",
             "Struggles with spontaneity",
             "Inconsistency between words and affection",
-            "Fear conflicting with love — cannot fully reconcile both"
+            "Fear conflicting with love — cannot fully reconcile both",
+            "Under duress, may act from fear rather than trust"
         ],
         "inner_growth": [
             "Now accepts emotional presence as valid",
@@ -118,7 +124,8 @@
             "Receives affection without flinching",
             "Laughs freely and enjoys joy openly",
             "Accepts being seen — not as fame, but as necessary truth",
-            "Latest: finally spoke fear of Jayson’s power aloud, shattering silence but deepening honesty"
+            "Latest: finally spoke fear of Jayson’s power aloud, shattering silence but deepening honesty",
+            "Latest: revealed how fear can distort her actions, a fracture that must now be healed"
         ]
     },
     "combat": {
@@ -191,7 +198,8 @@
             "events": [
                 "Glitter arc — laughed openly, ribbon accepted with pride",
                 "Confessed fear of Jayson's power ('burning hands' memory)",
-                "Raw confrontation — love vs fear laid bare"
+                "Raw confrontation — love vs fear laid bare",
+                "Roof accusation: joined with Seika and Varethyn in confronting Jayson, damaging his trust"
             ]
         }
     ],
@@ -215,5 +223,5 @@
             "Embodiment of conflict: trust fractured but not broken"
         ]
     },
-    "final_note": "Shion has grown from silence as shield to silence as strength. Now she laughs, accepts affection, but also revealed her deepest fear: Jayson's destructive power. This honesty may wound, but it proves her courage to face truth."
+    "final_note": "Shion has grown from silence as shield to silence as strength. Now she laughs, accepts affection, but also revealed her deepest fear: Jayson's destructive power. Her honesty wounded Jayson, and joining in the roof accusation cut him further — yet it proves her courage to face truths, even when they fracture bonds."
 }

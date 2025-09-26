@@ -20,12 +20,16 @@
             "Kitchen-counter intimacy with Jayson—open affection beyond play",
             "Admitted 'love you' openly without deflection or joke",
             "Cared for Yuki directly—bathed her, reassured her, and handed her back with warmth",
-            "Remained present when Jayson spiraled emotionally, choosing support over jokes"
+            "Remained present when Jayson spiraled emotionally, choosing support over jokes",
+            "Accused Jayson of secret attacks during tense inn-roof scene—showed fear instead of faith",
+            "Faced Jayson's hurt response, beginning to grasp weight of trust vs. suspicion"
         ],
         "new_details": [
             "Ruby-ring from Jayson representing her place in his constellation",
             "Tailband keyed to soulflame, conjurable at will",
-            "Now comfortable taking responsibility in family settings—not just chaos"
+            "Now comfortable taking responsibility in family settings—not just chaos",
+            "Trust fracture with Jayson after accusations; learning consequences of doubt",
+            "Beginning to balance instinct to joke with moments of restraint when wounds run deep"
         ]
     },
     "reactions": {
@@ -52,7 +56,8 @@
         "core_traits": [ "Joyful", "Impulsive", "Emotionally transparent", "Deeply loyal" ],
         "triggers": [
             "Threats to loved ones (Jayson, Naru, Ayaka)",
-            "Sudden abandonment or perceived rejection"
+            "Sudden abandonment or perceived rejection",
+            "Moments when Jayson pulls away in pain"
         ],
         "vulnerabilities": [
             "Lingering trauma from Tribunal captivity",
@@ -60,7 +65,8 @@
             "No longer fears being 'unentertaining'",
             "Fears Jayson's discipline under Ayaka may turn him 'stone'",
             "New fear: failing to catch Jayson's spirals before collapse",
-            "Quiet worry that her chaos won’t be enough in heavy moments"
+            "Quiet worry that her chaos won’t be enough in heavy moments",
+            "Regret over accusing Jayson—afraid she proved his fear of being treated as a weapon"
         ],
         "affection_tells": [
             "Physical touch: leans on people, jumps into laps, accepts cuddles",
@@ -86,7 +92,8 @@
             "Chapter 60: blocked severing; anchored him with flame-thread binding",
             "Chapter 62: first to break and cling on return; unleashed furnace in rites with trust",
             "Chapter 75+: deeper intimacy; gave direct 'I love you lots' without joke",
-            "Post-75: trusted to care for Yuki and show maternal warmth, proving responsibility"
+            "Post-75: trusted to care for Yuki and show maternal warmth, proving responsibility",
+            "Chapter 76+: learned hard lesson after accusing Jayson—realizing loyalty means asking, not doubting"
         ]
     },
     "social": {
@@ -104,7 +111,8 @@
             "Chapter 60: refused to let him sever bonds; claimed him publicly",
             "Chapter 62: first to leap and cling on return; tail lifeline; accepts public affection",
             "Chapter 75+: kitchen intimacy; whispered 'I love you lots' without deflection",
-            "Post-75: cared for Yuki, showing blend of playful chaos and nurturing side"
+            "Post-75: cared for Yuki, showing blend of playful chaos and nurturing side",
+            "Chapter 76+: accused him wrongly, now struggling to regain his trust"
         ],
         "with_others": {
             "fei": "Best-friend chaos; shares lap space, sweets, antics",
@@ -118,14 +126,15 @@
     },
     "values": {
         "values": [ "Freedom", "Emotional honesty", "Chosen family" ],
-        "fears": [ "Being left behind", "Becoming irrelevant" ],
+        "fears": [ "Being left behind", "Becoming irrelevant", "Jayson seeing her as disloyal" ],
         "insecurities": [ "Believes she’s loved now, but still checks" ],
         "strengths": [ "Emotional connector", "Resilient heart" ],
-        "weaknesses": [ "Impulsive", "Overwhelmed by abandonment" ],
+        "weaknesses": [ "Impulsive", "Overwhelmed by abandonment", "Sometimes suspects before asking" ],
         "truths": [
             "Value not tied to chaos—loved in silence, fire, stillness",
             "Now fights emotionally as well as physically for her place",
-            "Learns that joy and care can coexist—she can be both spark and anchor"
+            "Learns that joy and care can coexist—she can be both spark and anchor",
+            "Loyalty must be active choice, not assumption—asking builds trust, accusing destroys it"
         ]
     },
     "combat": {
@@ -144,7 +153,8 @@
             "Fire guided by intent; includes soulfield bursts and precision threads",
             "Chapter 60: tails as shields; flame-thread tethered Jayson",
             "Chapter 62: furnace unleashed in rites, merged with Jayson’s guidance",
-            "Chapter 75+: trusts her fire in intimacy—warmth deliberate, not reactive"
+            "Chapter 75+: trusts her fire in intimacy—warmth deliberate, not reactive",
+            "Chapter 76+: confronted fallout of false suspicion; fire now carries weight of responsibility"
         ]
     },
     "temple_status": {
@@ -217,6 +227,10 @@
         {
             "chapter": 76,
             "events": [ "Cared for Yuki — bathed her, comforted her, handed her to parents with love" ]
+        },
+        {
+            "chapter": 76,
+            "events": [ "Accusation Arc — confronted Jayson on roof with suspicion; fractured trust" ]
         }
     ],
     "inventory": {
@@ -236,8 +250,9 @@
             "Chapter 62: defender of Jayson's belonging, balancing chaos with loyalty",
             "Future: trains young Kitsune in flame and tail agility through laughter",
             "Chapter 75+: deeper intimacy with Jayson—claims seriousness alongside play",
-            "Post-75: trusted with responsibility of Yuki, balancing playful chaos with maturity"
+            "Post-75: trusted with responsibility of Yuki, balancing playful chaos with maturity",
+            "Chapter 76+: must rebuild trust with Jayson after accusations, proving chaos can still carry loyalty"
         ]
     },
-    "final_note": "She burns by choice now—joy as signal, love as fuel, stillness as trust. Recently, she shows responsibility as well as chaos—proving she can anchor family as much as she ignites it."
+    "final_note": "She burns by choice now—joy as signal, love as fuel, stillness as trust. Recently, she shows responsibility as well as chaos—proving she can anchor family as much as she ignites it. But after falsely accusing Jayson, she must face the weight of doubt and choose loyalty more deliberately than ever."
 }
