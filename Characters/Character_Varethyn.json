@@ -25,7 +25,9 @@
             "Chose presence and vow over control at desert base — vowed 'no cage'",
             "Witnessed UN atrocities evidence; cracks in mantle visible to world",
             "Faced motherhood question — revealed fear, broke down privately, but allowed hope",
-            "Confronted Jayson during convoy accusations; threatened binding out of fear for safety — created fracture of trust"
+            "Confronted Jayson during convoy accusations; threatened binding out of fear for safety — created fracture of trust",
+            "Ch305–307: Forced to experience one second of Jayson's full burden; collapsed under weight, admitted her word 'excuses' was pride and fear, not truth",
+            "Ch306: Publicly confessed failure, admitted fear-driven pride, vowed never to wound him with such words again"
         ]
     },
     "reactions": {
@@ -40,7 +42,8 @@
             "Struggled in Ch60 — indecision wounded more than denial",
             "Ch62: Dropped composure, smirked in chaos, laughed openly",
             "Ch63: Chose calm warmth with Akahana — tempered authority",
-            "Convoy dispute: placed duty above intimacy — words of binding cut Jayson deeply"
+            "Convoy dispute: placed duty above intimacy — words of binding cut Jayson deeply",
+            "Ch305–306: Broke composure entirely, admitted lashing out with 'excuses' was her fear; mantle cracked fully into humanity"
         ]
     },
     "speech": {
@@ -59,7 +62,8 @@
             "Ch62: 'Enough. You are home.' — no metaphor, only grounding",
             "Ch63: Spoke as wife and Matron; balanced authority with compassion",
             "UN Council: allowed mantle to crack — humanity shown openly",
-            "Recent: chose authority and containment language (binding) over trust; fractured bond temporarily"
+            "Recent: chose authority and containment language (binding) over trust; fractured bond temporarily",
+            "Ch305–306: Voice broke, admitted her word choice was false conviction born of fear, not truth — openly retracted"
         ]
     },
     "emotional": {
@@ -84,7 +88,8 @@
             "Ch63: Balanced compassion and pride facing Akahana",
             "Faced motherhood fear with private collapse but accepted Jayson's comfort",
             "UN Council: revealed humanity; cracks in mantle without collapse",
-            "Convoy dispute: exposed fear-driven reflex to control; wounded Jayson emotionally"
+            "Convoy dispute: exposed fear-driven reflex to control; wounded Jayson emotionally",
+            "Ch305–306: Admitted fear and pride hurt him, wept openly, mantle broken down to bare humanity"
         ]
     },
     "social": {
@@ -100,14 +105,15 @@
             "Ch62: accepted deep kiss publicly; clarity over riddles",
             "Ch63: allowed him to question her; shared authority without silencing",
             "UN Council: stood as equal partner before humanity",
-            "Convoy confrontation: chose language of restraint — 'bind' — damaging his trust in her support"
+            "Convoy confrontation: chose language of restraint — 'bind' — damaging his trust in her support",
+            "Ch305–306: Saw his burden directly, admitted guilt for pride and false words, vowed to never repeat"
         ],
         "with_others": {
             "ayaka": "Anchors Ayaka’s fire with calm; wary of Seika’s 'polish to stone' warning",
-            "seika": "Sister warmth; tolerates chaos, laughs softly at antics",
+            "seika": "Sister warmth; tolerates chaos, laughs softly at antics; both confessed fear after witnessing Jayson's memories",
             "fei": "Tenderness; sees her evolving nature and loyalty",
-            "naru": "Respects scars and compass role",
-            "shion": "Values her tactical clarity; once distanced by silence",
+            "naru": "Respects scars and compass role; admitted guilt together after memory sharing",
+            "shion": "Values her tactical clarity; once distanced by silence; has yet to be shown Jayson's burden",
             "circle": "Ch62: equal in synchronized breath",
             "akahana": "Ch63: offered shelter without cheap forgiveness"
         },
@@ -118,7 +124,8 @@
             "Ch60: questioned leadership after falter",
             "Ch62–63: rooted authority in humanity",
             "UN Council: represented Kitsune sovereignty with humanity visible",
-            "Recent: mistrust during convoy accusations unsettled temple perception of her as anchor"
+            "Recent: mistrust during convoy accusations unsettled temple perception of her as anchor",
+            "Ch305–306: Fracture seen by inner circle — but also her humility and humanity, admitting error openly"
         ]
     },
     "values": {
@@ -129,7 +136,8 @@
             "Failing as anchor",
             "Backsliding to control",
             "Being seen as cold while Jayson carries horrors",
-            "Losing Jayson's trust by choosing duty over intimacy"
+            "Losing Jayson's trust by choosing duty over intimacy",
+            "Now: repeating harm through prideful words instead of honesty"
         ],
         "strengths": [
             "Gravitas and calm",
@@ -143,7 +151,8 @@
             "Overreliance on metaphor",
             "Fear-driven control (sanctum cage, binding reflex)",
             "Struggles when horrors pierce mantle",
-            "Risk of alienating Jayson by prioritizing containment"
+            "Risk of alienating Jayson by prioritizing containment",
+            "Pride masking fear with sharp words — admitted and retracted in Ch306"
         ]
     },
     "combat": {
@@ -163,7 +172,8 @@
             "Sanctum confession and vow",
             "Desert base vow: anchored Jayson with touch and clarity",
             "UN Council: bore sovereignty weight, revealed humanity",
-            "Convoy incident: invoked threat of binding to contain Jayson if necessary"
+            "Convoy incident: invoked threat of binding to contain Jayson if necessary",
+            "Ch305–306: Struck by Jayson's full memory weight — forced to confront limits of her own mantle and fear"
         ]
     },
     "temple_status": {
@@ -171,7 +181,7 @@
         "presence": "Authority as warmth; silence paired with plain truth",
         "public": "Seen laughing, kissed, groomed; partner not icon",
         "private": "Flustered, vulnerable; human misfires allowed",
-        "recent": "Trust fracture visible in inner circle; stance seen as fear-driven rather than purely protective"
+        "recent": "Trust fracture visible in inner circle; stance seen as fear-driven rather than purely protective; Ch305–306: humanity laid bare before all, mantle cracked but repaired with contrition"
     },
     "notable_scenes": [
         {
@@ -225,6 +235,10 @@
         {
             "chapter": "Convoy Incident",
             "events": [ "Confronted Jayson with Shion and Seika; suspicion led to words of binding; trust fracture deepened" ]
+        },
+        {
+            "chapter": "Ch305–306",
+            "events": [ "Exposed to Jayson's full burden for one second; collapsed; admitted 'excuses' was pride masking fear; mantle cracked and humanity revealed" ]
         }
     ],
     "inventory": {
@@ -238,7 +252,7 @@
             "Golden Eyes — vow-born radiance",
             "Soul Constellation — one of Jayson's five threads"
         ],
-        "arc": "From divine fire to human warmth — authority softened by love",
+        "arc": "From divine fire to human warmth — authority softened by love, pride broken into honesty",
         "role": "Gatekeeper and partner; anchor of breath rites; shared governance",
         "humor_arc": [
             "Pond tail-yank laughter",
@@ -246,8 +260,9 @@
             "Flustered innuendo",
             "Joined glitter chaos",
             "Kitchen teasing with noodles",
-            "Laughed at 'Poevarethyn' possession joke"
+            "Laughed at 'Poevarethyn' possession joke",
+            "Ch306: found humility in being pulled into pond herself — mantle undone by prank as forgiveness"
         ]
     },
-    "final_note": "No longer unreachable flame — she is warmth, clarity, and shared vow. Authority and humanity blended; but recent fear-driven words of binding fractured trust, showing the tension between Matron’s duty and wife’s love."
+    "final_note": "No longer unreachable flame — she is warmth, clarity, and shared vow. Authority and humanity blended; but recent fear-driven words of binding fractured trust. After Ch305–306, she admitted her fault, dropped her mantle fully, and vowed never again to wound Jayson with fear disguised as judgment."
 }

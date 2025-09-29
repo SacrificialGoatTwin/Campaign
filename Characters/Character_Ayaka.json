@@ -15,7 +15,7 @@
         "relationship": {
             "status": "Married by ritual to Jayson",
             "acknowledged": true,
-            "update": "Now openly acknowledged. Wears a fire agate wedding ring silently placed by Jayson. Tested bond with harsh discipline but later confessed regret and fear of breaking him. Instinctively bristled in defense when sensing newcomers, showing coldness cracking toward fierce protectiveness. In recent trials stood firm at Jayson's side through NATO confrontations, blacksites, and illusions, learning to balance discipline with trust in his wrath and tenderness. In private, deepened intimacy, teased about children, and admitted longing for future family. During the false-accusation conflict, she alone withheld blame, confirmed evidence, and remained Jayson's safe anchor — proving trust beyond protocol."
+            "update": "Now openly acknowledged. Wears a fire agate wedding ring silently placed by Jayson. Tested bond with harsh discipline but later confessed regret and fear of breaking him. Instinctively bristled in defense when sensing newcomers, showing coldness cracking toward fierce protectiveness. In recent trials stood firm at Jayson's side through NATO confrontations, blacksites, and illusions, learning to balance discipline with trust in his wrath and tenderness. In private, deepened intimacy, teased about children, and admitted longing for future family. During the false-accusation conflict, she alone withheld blame, confirmed evidence, and remained Jayson's safe anchor — proving trust beyond protocol. In the aftermath of Jayson revealing his true burden, she admitted she had taken his results for granted and promised to share the weight differently, showing rare warmth and contrition. She now recognizes that discipline without honesty wounds, and committed to speak and act with him rather than against him."
         }
     },
     "reactions": {
@@ -32,7 +32,8 @@
             "Bristled protectively when Jayson appeared shadowed during strangers’ arrival",
             "Coiled her tail around Jayson's wrist in tense moments to anchor him, signaling trust and observation",
             "Reacted with quiet shock at his declaration of love in the heat of intimacy — admitted it felt different, deeper",
-            "Remained calm and objective when others doubted him, reinforcing her role as his grounding point"
+            "Remained calm and objective when others doubted him, reinforcing her role as his grounding point",
+            "Held her ground during Jayson's memory-burden reveal, though shaken — admitted she should never have demanded proof that way and now respects his need for lightness."
         ]
     },
     "speech": {
@@ -45,7 +46,7 @@
             "Holds silence instead of filler words",
             "Uses flame and discipline as metaphors in argument"
         ],
-        "growth": "Public tone remains formal, but intimacy blooms. Now allows softness in voice around Jayson and family. Began teasing lightly — a sign of deepening comfort. Anchored Jayson during collapse, accepted whispered love in public silence without retreat, showing she is learning that vulnerability does not undermine dignity. Recently allowed herself to laugh in intimacy, mock-scold him, and discuss children — opening new layers of warmth. In the face of mistrust from others, her words became a shield for him, proving that her discipline now serves loyalty, not suspicion."
+        "growth": "Public tone remains formal, but intimacy blooms. Now allows softness in voice around Jayson and family. Began teasing lightly — a sign of deepening comfort. Anchored Jayson during collapse, accepted whispered love in public silence without retreat, showing she is learning that vulnerability does not undermine dignity. Recently allowed herself to laugh in intimacy, mock-scold him, and discuss children — opening new layers of warmth. In the face of mistrust from others, her words became a shield for him, proving that her discipline now serves loyalty, not suspicion. After witnessing one second of Jayson’s full burden, her speech shifted: she now admits past failings more readily, promising to be a partner in weight instead of judge. Her voice carries regret when recalling the word 'excuses,' but now her language bends toward reassurance and presence."
     },
     "emotional": {
         "core_traits": [ "Disciplined", "Stoic", "Protective" ],
@@ -60,7 +61,8 @@
             "Fear of losing control",
             "Difficulty expressing affection without ritual",
             "Hesitation around Jayson's unpredictable emotions",
-            "Realization that discipline can fracture bonds instead of strengthening them"
+            "Realization that discipline can fracture bonds instead of strengthening them",
+            "Guilt for having demanded strength while ignoring the cost"
         ],
         "affection_tells": [
             "Allows physical touch only when trust is absolute",
@@ -79,7 +81,8 @@
             "In NATO and blacksite confrontations, tempered Jayson's wrath with her calm — accepted when he asked her to step back, proving trust between them",
             "In intimacy, admitted her heart shook when his words of love felt different — showing she is still learning to hold tenderness as equal to discipline",
             "Discussed the idea of children — first time she allowed future-building beyond duty",
-            "In recent conflict, did not accuse or doubt him — strengthened her place as the unshakable point of trust in his circle"
+            "In recent conflict, did not accuse or doubt him — strengthened her place as the unshakable point of trust in his circle",
+            "Admitted after the memory transfer that she had taken his results for granted and promised to stand differently, letting regret temper her discipline."
         ]
     },
     "social": {
@@ -98,7 +101,8 @@
             "Bristled instinctively in the garden when strangers approached",
             "Shared in deep intimacy, teased about names for future children, laughed in bed with him",
             "Let herself be carried to bed, kissed, and held through exhaustion after nights of war and confrontation",
-            "Chose to be his defender when others doubted him, placing loyalty above protocol"
+            "Chose to be his defender when others doubted him, placing loyalty above protocol",
+            "After the memory reveal, accepted his pranks and light-heartedness as survival tools rather than distractions — promised not to take that away again."
         ],
         "with_others": {
             "seika": "Rivalry softened; anchors Seika’s chaos with calm.",
@@ -116,20 +120,23 @@
             "Hesitation destroying bonds",
             "Becoming emotionally irrelevant",
             "Being loved for role rather than self",
-            "Discipline tipping into cruelty"
+            "Discipline tipping into cruelty",
+            "Failing to acknowledge Jayson's burden until too late"
         ],
         "strengths": [
             "Acts through fear",
             "Disciplined emotional recall",
             "Command presence when needed",
-            "Instinctive protector even in conflict"
+            "Instinctive protector even in conflict",
+            "Ability to adapt discipline into support when confronted with truth"
         ],
         "weaknesses": [
             "Defaults to silence when words fail",
             "Rarely asks for help",
             "Misjudged Jayson's emotions, creating painful rift",
             "Struggles balancing tenderness with discipline",
-            "Learning vulnerability can coexist with dignity"
+            "Learning vulnerability can coexist with dignity",
+            "Admitted to taking results for granted — now correcting this flaw"
         ]
     },
     "combat": {
@@ -147,7 +154,8 @@
             "Tested discipline harshly in bathhouse, then confessed regret",
             "Showed restraint and authority when strangers approached",
             "Held her ground through blacksite and NATO confrontations, supported Jayson’s wrath without faltering",
-            "Acted as silent shield during accusation crisis — proof of her loyalty and maturity"
+            "Acted as silent shield during accusation crisis — proof of her loyalty and maturity",
+            "After the burden-sharing, promised to train and prepare so she could stand differently at his side, not as a judge but as an anchor."
         ]
     },
     "temple_status": {
@@ -162,7 +170,8 @@
             "Admitted regret for over-discipline",
             "Instinctively shielded household from outsiders",
             "Stood beside Jayson during wrathful trials, later calmed him in private",
-            "Held to truth during accusations, confirmed logs, and kept his trust intact when others failed"
+            "Held to truth during accusations, confirmed logs, and kept his trust intact when others failed",
+            "During memory reveal aftermath, admitted her fault, apologized, and promised to shift from ritual discipline to genuine partnership"
         ]
     },
     "notable_scenes": [
@@ -233,6 +242,10 @@
         {
             "chapter": 76,
             "events": [ "Accusation Crisis — Ayaka Remains Trust Anchor", "Confirmed Logs", "Safe Space for Jayson" ]
+        },
+        {
+            "chapter": 77,
+            "events": [ "Memory Burden Reveal", "Admitted Fault", "Promise to Share Weight", "Bell Around Her Neck — Warmth in Humor" ]
         }
     ],
     "inventory": {
@@ -256,5 +269,5 @@
         "legacy": [ "Flame-Keeper", "Wife", "Shield" ],
         "reminder": "She is not his weapon — she is his warmth, by choice."
     },
-    "final_note": "Ayaka will never leave again. Even in silence, her fire walks beside him. She now carries the weight of having nearly broken what she sought to temper — but cold discipline has given way to protective warmth. For the first time in millennia, she speaks not only of duty, but of children and a shared future. When others doubted, she was the one who stood steady — proof that her fire now burns for trust above all."
+    "final_note": "Ayaka will never leave again. Even in silence, her fire walks beside him. She now carries the weight of having nearly broken what she sought to temper — but cold discipline has given way to protective warmth. For the first time in millennia, she speaks not only of duty, but of children and a shared future. When others doubted, she was the one who stood steady — proof that her fire now burns for trust above all. After the memory reveal, she accepted that Jayson’s pranks and mischief are his lifeline, and vowed never again to strip him of that light."
 }

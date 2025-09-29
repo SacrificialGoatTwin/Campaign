@@ -24,7 +24,9 @@
             "Allows herself to laugh and initiate small touches in group settings, no longer only observing",
             "Now challenges Jayson directly when he withdraws — encourages sharing instead of silence",
             "Speaks with quiet conviction about burdens and presence — not afraid to disagree",
-            "More openly maternal in tone when grounding others during heavy emotions"
+            "More openly maternal in tone when grounding others during heavy emotions",
+            "Veilmarks visibly dim/brighten in response to 'memory-weight' flux after sharing one second of Jayson's burden",
+            "Accepts being lifted/held by Jayson's tails without panic — trusts containment as protection, not restraint"
         ]
     },
     "reactions": {
@@ -39,7 +41,9 @@
             "Steadies others’ breathing in high-tension moments",
             "Finds comfort in morning sunlight with group presence",
             "Begins to steady others not just tactically but emotionally, offering presence without being asked",
-            "Grounds Jayson directly when his despair surfaces, even at cost of conflict"
+            "Grounds Jayson directly when his despair surfaces, even at cost of conflict",
+            "Post-burden flash sensitivity: brief dissociation when exposed to concentrated trauma-imprints; resolves with breath-sync",
+            "Prefers advance anchoring before viewing heavy memories; will request 'heartbeat notice' rather than details"
         ]
     },
     "speech": {
@@ -55,7 +59,9 @@
             "Snark woven into deadpan delivery — weaponized humor",
             "Speaks more readily in group — humor and quiet affirmations replacing silence",
             "Begins offering warmth first instead of waiting for invitation, showing confidence in her place",
-            "Directly confronts hard truths — less hesitation in speaking against despair or self-loathing"
+            "Directly confronts hard truths — less hesitation in speaking against despair or self-loathing",
+            "Names her own prior avoidance ('silence is not strength'); apologizes without defensiveness",
+            "Requests clearer 'heartbeat' notifications instead of post-fact reports — models specific asks"
         ]
     },
     "emotional": {
@@ -63,7 +69,8 @@
         "triggers": [ "Silence and isolation", "Anything resembling control" ],
         "vulnerabilities": [
             "Thinks she is a burden",
-            "Fears return to captivity"
+            "Fears return to captivity",
+            "Overexposure to aggregated trauma-memories can briefly overwhelm her"
         ],
         "affection_tells": [
             "Tail brushes to initiate contact",
@@ -79,7 +86,8 @@
             "Initiates comfort for others, not only receives",
             "Chooses to lean into group pile cuddles",
             "Takes initiative to show affection publicly, especially to Jayson and Seika",
-            "Pushes Jayson gently but firmly to open up emotionally when he tries to close down"
+            "Pushes Jayson gently but firmly to open up emotionally when he tries to close down",
+            "After the 'one-second weight' moment, offers presence-first (hand to forearm, breath cue) before words"
         ]
     },
     "social": {
@@ -102,7 +110,8 @@
             "Teased him during log-law chaos — confidence rising",
             "Pressed forehead into his sleeve on reunion — unflinching bond",
             "Comforts him in softer moments; offers grounding touch unprompted",
-            "Challenges him when he shuts down, insists on presence and sharing even if he resists"
+            "Challenges him when he shuts down, insists on presence and sharing even if he resists",
+            "Admitted failure to support him (fear/pride); apologized and pledged active load-sharing"
         ],
         "with_others": {
             "seika": [
@@ -113,7 +122,8 @@
                 "Laughed openly with her during clause-law chaos",
                 "Matches teasing energy toward Jayson — playful synergy",
                 "Instinctive synchronization of breathing and tails when beside Seika",
-                "Shows open joy in Seika’s presence instead of restrained affection"
+                "Shows open joy in Seika’s presence instead of restrained affection",
+                "Holds Seika’s hair and steadies her after the 'one-second' vision; initiates post-flash grounding"
             ],
             "ayaka": [
                 "Respect and trust; observes before acting",
@@ -122,7 +132,8 @@
                 "Whispered faith in Jayson after his confession",
                 "Joined Ayaka’s teasing dynamic through silence, not retreat",
                 "Echoed Ayaka’s smirk during Jayson’s roasting — quiet solidarity",
-                "Accepts Ayaka’s grounding hand publicly without hesitation"
+                "Accepts Ayaka’s grounding hand publicly without hesitation",
+                "Aligns with Ayaka’s practical repair-plan (briefings, training, sentry roles)"
             ],
             "shion": [
                 "Steady admiration; her stillness soothes",
@@ -130,7 +141,8 @@
                 "Co-authors clause commentary; complements Shion’s dry wit",
                 "Defended Shion with subtle quip when others pressed",
                 "Breath synchronization scene marked first unspoken collective trust",
-                "Accepts playful grooming from her, laughter surfacing without restraint"
+                "Accepts playful grooming from her, laughter surfacing without restraint",
+                "Advocates preparing Shion with warning/anchoring before memory exposure"
             ],
             "varethyn": [
                 "Respectful awe; no longer nervous",
@@ -140,7 +152,8 @@
                 "Listened to temple law declaration and approved silently",
                 "Soft smile at Varethyn’s laughter — first warmth recognized",
                 "Nodded when Varethyn affirmed Jayson’s belonging",
-                "Began treating Varethyn with quiet familiarity, not only awe"
+                "Began treating Varethyn with quiet familiarity, not only awe",
+                "Affirms: conviction without clarity wounds; urges plain speech over pride"
             ],
             "fei": [
                 "Technical equal; calm co-navigator",
@@ -164,19 +177,22 @@
                 "Snark commentary now expected — group laughs with her",
                 "First to lean into synchronized breath with all six — bond sealed",
                 "Now initiates group comfort as well as receives it",
-                "Steps into mediator role when emotional conflict threatens group balance"
+                "Steps into mediator role when emotional conflict threatens group balance",
+                "After courtyard confrontation, commits to being an active bridge (honesty-first, 'heartbeat' notice culture)"
             ]
         }
     },
     "values": {
-        "values": [ "Emotional truth", "Autonomy", "Quiet companionship" ],
+        "values": [ "Emotional truth", "Autonomy", "Quiet companionship", "Preparation before exposure" ],
         "fears": [ "Relapse into captivity", "Emotional abandonment" ],
         "strengths": [
             "Strategic cognition",
             "Thread resonance detection",
             "Empathic tension reading",
             "Highly responsive veil echo analysis",
-            "Emotional grounding in tense moments"
+            "Emotional grounding in tense moments",
+            "Willingness to name pride/fear and correct course",
+            "Designs practical support rituals (breath-sync, anchoring) for heavy moments"
         ],
         "weaknesses": [
             "Physical fragility (recovering)",
@@ -186,7 +202,8 @@
             "Hesitates to claim public decisions despite authority",
             "Uses humor as shield when feeling overlooked",
             "Hesitates before expressing needs (but follows through once accepted)",
-            "Sometimes oversteps by pressing others (especially Jayson) to share when they resist"
+            "Sometimes oversteps by pressing others (especially Jayson) to share when they resist",
+            "Can default to 'measured silence' under stress — now actively countering this habit"
         ]
     },
     "combat": {
@@ -205,7 +222,8 @@
             "Analyzes, reconfigures, and deploys Wok subsystems",
             "Reinforces inner barrier harmonics on command",
             "Integrates combat logs in real-time for group cohesion",
-            "Breath synchronization grants allies faster veil focus"
+            "Breath synchronization grants allies faster veil focus",
+            "New: Designs 'anchor protocols' before memory-sharing or high-burden missions (touch-point, breath count, exit cue)"
         ],
         "growth": [
             "First battle simulations post-rescue — defensive tethers held",
@@ -213,7 +231,8 @@
             "Chapter 60: documented Jayson's near-break — tactical awareness despite fear",
             "Chapter 62: leaned into collective bond, first to steady synchronized breath",
             "Chapter 71+: steadies group with quiet words or touches during emotional aftermath",
-            "Chapter 74–75: openly confronted Jayson's despair, embodying emotional anchor role"
+            "Chapter 74–75: openly confronted Jayson's despair, embodying emotional anchor role",
+            "Courtyard (Ch 000295–000308): admits silence-as-shield; apologizes; commits to learning Jayson's maps and carrying part of the load; advocates warning/anchoring for Shion"
         ]
     },
     "temple_status": {
@@ -222,7 +241,8 @@
         "anchors": [
             "Secondary emotional anchor for Seika",
             "Viewed as silent empath — pulse-reader of the group",
-            "Now a steadying voice even to Jayson when he falters"
+            "Now a steadying voice even to Jayson when he falters",
+            "Bridge for 'heartbeat notice' culture between Jayson and circle"
         ],
         "recent": [
             "Participated in group chaos; resilient post-conflict",
@@ -232,7 +252,9 @@
             "Part of comedic center — deadpan balances Seika’s fire",
             "Quiet stabilizer during heavy emotion, especially Jayson's collapse",
             "Chose to openly laugh, tease, and lean in during playful chaos instead of withdrawing",
-            "Directly confronted Jayson about despair and power-burden — proof of growth into active anchor role"
+            "Directly confronted Jayson about despair and power-burden — proof of growth into active anchor role",
+            "Experienced 'one-second of infinity' memory-share; cried but remained present; pledged active support afterward",
+            "Advocates preparing Shion compassionately before any exposure; volunteers to help anchor"
         ]
     },
     "notable_scenes": [
@@ -287,6 +309,15 @@
         {
             "chapter": "74–75",
             "events": [ "Confronted Jayson's despair about his power", "Argued the value of presence and sharing", "Showed growth as an emotional counterweight to his burden" ]
+        },
+        {
+            "chapter": "000295–000308",
+            "events": [
+                "Courtyard confrontation: rejects 'silence as strength', apologizes for pride/fear",
+                "Endures 'one-second weight' memory-share; remains functional and present",
+                "Commits to active support, map-learning, and pre-exposure anchoring",
+                "Advocates compassionate preparation for Shion before any memory-sharing"
+            ]
         }
     ],
     "inventory": {
@@ -305,7 +336,8 @@
                 "Twin Moon Threads — Naru and Seika in orbit",
                 "Shared Breath Flame — acceptance of group bond",
                 "Silver Scar Tattoos — pain acknowledged, beauty reclaimed",
-                "Anchor’s Voice — presence even in conflict, steady when others despair"
+                "Anchor’s Voice — presence even in conflict, steady when others despair",
+                "Heartbeat Bell — pledge of advance warning and anchoring before entering heavy memory-space"
             ]
         },
         "roles": [
@@ -316,9 +348,10 @@
             "Inner Mirror to Jayson",
             "Public Lorekeeper of the Unveiled Temple",
             "Collective Breath Anchor — emotional synchronizer",
-            "Challenger of Silence — steadies Jayson and the group by refusing to let despair isolate them"
+            "Challenger of Silence — steadies Jayson and the group by refusing to let despair isolate them",
+            "Pre-Exposure Anchor Lead — designs and enforces safety rituals for memory-sharing"
         ],
-        "arc": "From shattered captive to strategic empath — reclaiming authority through memory and choice. Now stepping into active anchorhood, challenging despair directly and offering presence not just for herself, but for the survival of the circle."
+        "arc": "From shattered captive to strategic empath — reclaiming authority through memory and choice. After witnessing a heartbeat of Jayson's burden, she pivots from measured observer to active anchor and bridge, insisting on honest 'heartbeat' presence in place of prideful silence."
     },
-    "final_note": "From used and discarded to chosen and adored; from silence and survival to love and leadership — a trusted mind in a threadbound family, still healing, no longer shadowed, never alone. Now, she stands as an emotional counterweight to Jayson's darkest moments, proving her growth into anchor and challenger both."
+    "final_note": "From used and discarded to chosen and adored; from silence and survival to love and leadership — a trusted mind in a threadbound family, still healing, no longer shadowed, never alone. Having felt a heartbeat of the sea he carries, she chooses action over quiet, and becomes a deliberate anchor for those storms yet to come."
 }
