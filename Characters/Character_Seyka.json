@@ -23,7 +23,10 @@
             "Remained present when Jayson spiraled emotionally, choosing support over jokes",
             "Accused Jayson of secret attacks during tense inn-roof scene—showed fear instead of faith",
             "Faced Jayson's hurt response, beginning to grasp weight of trust vs. suspicion",
-            "Kneeled in courtyard after memory-transfer, admitted fear openly, begged Jayson not to shut her out"
+            "Kneeled in courtyard after memory-transfer, admitted fear openly, begged Jayson not to shut her out",
+            "Broke the silence in council, voiced fear/pride without jokes, and asked Jayson not to vanish again",
+            "Chose restraint over mischief during the tense council; ears pinned, stayed and listened",
+            "Watched Jayson leave the courtyard after the scroll without calling him back—held presence instead of pursuit"
         ],
         "new_details": [
             "Ruby-ring from Jayson representing her place in his constellation",
@@ -32,7 +35,9 @@
             "Trust fracture with Jayson after accusations; learning consequences of doubt",
             "Beginning to balance instinct to joke with moments of restraint when wounds run deep",
             "Shaken deeply by experiencing one second of Jayson’s burden—physically vomited but still chose to stay and listen",
-            "Acknowledged she used jokes to mask fear, realized it hurt rather than helped"
+            "Acknowledged she used jokes to mask fear, realized it hurt rather than helped",
+            "Understands the council’s 'anchors not leashes' framing and is trying to live it",
+            "Practices ‘presence as care’ — staying nearby and silent when words would inflame"
         ]
     },
     "reactions": {
@@ -70,7 +75,8 @@
             "New fear: failing to catch Jayson's spirals before collapse",
             "Quiet worry that her chaos won’t be enough in heavy moments",
             "Regret over accusing Jayson—afraid she proved his fear of being treated as a weapon",
-            "Shaken by experiencing Jayson’s memories; fears losing her lightness if she carries too much darkness"
+            "Shaken by experiencing Jayson’s memories; fears losing her lightness if she carries too much darkness",
+            "Guilt over council confrontation tone; worries she added to his sense of being 'on trial'"
         ],
         "affection_tells": [
             "Physical touch: leans on people, jumps into laps, accepts cuddles",
@@ -98,7 +104,8 @@
             "Chapter 75+: deeper intimacy; gave direct 'I love you lots' without joke",
             "Post-75: trusted to care for Yuki and show maternal warmth, proving responsibility",
             "Chapter 76+: learned hard lesson after accusing Jayson—realizing loyalty means asking, not doubting",
-            "Chapter 77+: collapsed under memory-share but still reached for trust, admitted jokes were armor, vowed not to hide fear behind them again"
+            "Chapter 77+: collapsed under memory-share but still reached for trust, admitted jokes were armor, vowed not to hide fear behind them again",
+            "Council 00025x: broke silence to speak fear/pride plainly; chose presence and restraint instead of deflection; asked him not to vanish"
         ]
     },
     "social": {
@@ -118,7 +125,8 @@
             "Chapter 75+: kitchen intimacy; whispered 'I love you lots' without deflection",
             "Post-75: cared for Yuki, showing blend of playful chaos and nurturing side",
             "Chapter 76+: accused him wrongly, now struggling to regain his trust",
-            "Chapter 77+: broke down under memory share, admitted she used humor to mask fear, asked Jayson not to shut her out"
+            "Chapter 77+: broke down under memory share, admitted she used humor to mask fear, asked Jayson not to shut her out",
+            "Council night: asked him not to disappear again; stayed when he withdrew; felt guilt watching him leave the courtyard with the scroll left behind"
         ],
         "with_others": {
             "fei": "Best-friend chaos; shares lap space, sweets, antics",
@@ -141,7 +149,8 @@
             "Now fights emotionally as well as physically for her place",
             "Learns that joy and care can coexist—she can be both spark and anchor",
             "Loyalty must be active choice, not assumption—asking builds trust, accusing destroys it",
-            "Her chaos can shield, but also wound; she now understands timing is as important as fire"
+            "Her chaos can shield, but also wound; she now understands timing is as important as fire",
+            "Restraint can be love: sometimes staying and saying less protects more"
         ]
     },
     "combat": {
@@ -162,7 +171,8 @@
             "Chapter 62: furnace unleashed in rites, merged with Jayson’s guidance",
             "Chapter 75+: trusts her fire in intimacy—warmth deliberate, not reactive",
             "Chapter 76+: confronted fallout of false suspicion; fire now carries weight of responsibility",
-            "Chapter 77+: fire now tempered by empathy—understands when light heals, not just when it blinds"
+            "Chapter 77+: fire now tempered by empathy—understands when light heals, not just when it blinds",
+            "Council 00025x: kept flames sheathed; chose words and stillness as tactics"
         ]
     },
     "temple_status": {
@@ -243,6 +253,10 @@
         {
             "chapter": 77,
             "events": [ "Courtyard Confrontation — collapsed under memory-sharing; vomited, shook, then admitted fear and begged not to be shut out" ]
+        },
+        {
+            "chapter": "Council 00025x",
+            "events": [ "Broke silence to challenge Jayson not to vanish; chose restraint; stayed present as he left the scroll on the bench" ]
         }
     ],
     "inventory": {
@@ -264,7 +278,8 @@
             "Chapter 75+: deeper intimacy with Jayson—claims seriousness alongside play",
             "Post-75: trusted with responsibility of Yuki, balancing playful chaos with maturity",
             "Chapter 76+: must rebuild trust with Jayson after accusations, proving chaos can still carry loyalty",
-            "Chapter 77+: admitted her jokes can wound, not just heal; now learning timing, honesty, and restraint as part of her loyalty"
+            "Chapter 77+: admitted her jokes can wound, not just heal; now learning timing, honesty, and restraint as part of her loyalty",
+            "Post-council: learning 'anchors not leashes' praxis—using stillness and presence to keep bridges intact when tempers flare"
         ]
     },
     "final_note": "She burns by choice now—joy as signal, love as fuel, stillness as trust. Recently, she shows responsibility as well as chaos—proving she can anchor family as much as she ignites it. After falsely accusing Jayson and collapsing under his shared memories, she must rebuild trust through honesty, timing, and deliberate loyalty."

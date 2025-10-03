@@ -25,7 +25,7 @@
     {"name": "Mayari", "notes": "1 of 3 girls saved from Northern Division bunker (Tokyo outskirts — Sector 7 Red)"},
     {"name": "Tsubaki", "notes": "1 of 3 girls saved from Northern Division bunker (Tokyo outskirts — Sector 7 Red)"}
   ],
-  "other_characters_kitsune_temple": [
+    "other_characters_kitsune_temple": [
         {
             "name": "The Vellari",
             "role": "Group",
@@ -150,6 +150,21 @@
             "name": "Mira",
             "role": "Refugee",
             "notes": "Ex Hydra"
+        },
+        {
+            "name": "Kaelira",
+            "role": "Acolyte",
+            "notes": "Helped her and her fathers relationship"
+        },
+        {
+            "name": "Sanyu",
+            "role": "Worker",
+            "notes": "Kaelira father. Lost everything in the fire in his village. helped him connect with his daughter again"
+        },
+        {
+            "name": "Namine",
+            "role": "Acolyte",
+            "notes": "Helped her confidence"
         }
     ],
   "military_earth_characters": [
@@ -170,7 +185,7 @@
     {"name": "Toren", "notes": "Varethyn’s first lover; died in her arms"},
     {"name": "Aru", "notes": "Shion’s sister"}
   ],
-    "other_names_future_children": {
+  "other_names_future_children": {
         "Shion": {
             "boy": "Shiro",
             "girl": "Kuro"

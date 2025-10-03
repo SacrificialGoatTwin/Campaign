@@ -1,7 +1,13 @@
 {
     "name": "Jayson Goodwin",
     "birthname": "Shel’mekai’Vuran-Tah’aan",
-    "title": "The Anomaly, The Flamebearer, The Man of Two Worlds",
+    "title": [
+        "The Anomaly",
+        "The Flamebearer",
+        "The Man of Two Worlds",
+        "Umvuni",
+        "The Reaper of Africa"
+    ],
     "quote": "When the world calls me broken, I answer with flame.",
     "appearance": {
         "age": "Physically late 20s; biologically altered by crystal-veil integration",
@@ -38,7 +44,9 @@
             "Tethers Fei’s voice and Varethyn’s presence as anchors against void-rage",
             "Shadow triggers unease: now associates Shion’s fear with his own hands",
             "Associates roofs and high places with solitude after temple accusations",
-            "Soft whip-teleports when retreating emotionally, in contrast to thunderclaps when wrathful"
+            "Soft whip-teleports when retreating emotionally, in contrast to thunderclaps when wrathful",
+            "Gesture-gating (snap/wave) recognized by others as a deliberate safety ritual",
+            "When waiting under judgment he can become statue-still, hovering a breath off the ground"
         ]
     },
     "speech": {
@@ -52,7 +60,8 @@
             "Tail-tapping rhythms in Kitsune form",
             "Repeats partner names softly when grounding himself",
             "Uses playful nicknames (Kitkat, Firefox, Sweetcheeks, Little Wolf) as affection anchors",
-            "Whispers to himself when despairing, as if negotiating with the void"
+            "Whispers to himself when despairing, as if negotiating with the void",
+            "Dismissive hand-wave when drawing a boundary or ending a confrontation"
         ]
     },
     "emotional": {
@@ -113,7 +122,13 @@
             "Now wrestling with Shion’s fear — forced to admit his power is not neutral but a burden on loved ones",
             "Spoke aloud his longing to live a normal life without flame or void",
             "Chose to walk away from temple conflict, retreating to Matopos hill for clarity with Fei",
-            "Allowed Lysera to choose her first intimacy, proving restraint and gentleness"
+            "Allowed Lysera to choose her first intimacy, proving restraint and gentleness",
+            "Codified and disclosed hard safety protocols to Shion (gesture requirement; terror/incapacitation overrides; circle cannot be harmed; reboot-on-death) and gave shared signals (safe word “Kitkat”; tail-tap and raised-hand cues)",
+            "Affirmed ethos: ‘choice has no weight’; reframed burden as willing, self-chosen",
+            "Chose not to resurrect Toren despite ability, honoring Varethyn’s autonomy and grief",
+            "Mentored Kaelira; catalyzed Sanyu to re-engage as a present father",
+            "Endured council strictures; refused to memorialize the ‘thrashing’ by abandoning the scroll",
+            "Stated he would ‘stay in his lane’ (for now), then withdrew to the ridge house"
         ],
         "trauma_recent": [
             "Verbally snapped at the group for the first time; felt isolated when not defended",
@@ -127,7 +142,9 @@
             "Confided to Naru that sharing makes things worse for him, reinforcing his isolation",
             "Muttered alone: 'By the time I am done, there will be nothing left of me to live'",
             "Ambushed on the inn roof, falsely accused of covert destruction — treated like a criminal by Seika, Shion, and Varethyn",
-            "Considered himself classified as a weapon rather than a person when binding was mentioned"
+            "Considered himself classified as a weapon rather than a person when binding was mentioned",
+            "Council ‘thrashing’ and operational restrictions recorded on a sealed scroll; he rejected/left that record",
+            "Felt ‘wings clipped’ by rules (no solo beyond shield; no public improvisation); perceived as being caged"
         ]
     },
     "social": {
@@ -141,7 +158,16 @@
             "fei": "Twin soul; tether shaken when she refused an order, but reconciliation restored bond; his refuge after temple betrayal, safe twin anchor",
             "lysera": "Wolf-mate by rite; healed her scars into silver tattoos; gave dignity and partnership; first intimacy chosen by her — trusted him fully",
             "rava": "Trusted ally and blood-equal; hunts beside him",
-            "torrak": "Respected warrior in hunt; shared feral battles"
+            "torrak": "Respected warrior in hunt; shared feral battles",
+            "updates": {
+                "shion": "Gorge reconciliation and intimate bonding; agreed safety protocols (safe word ‘Kitkat’, tail-taps, raised-hand snap hold); she will ‘walk the edge’ while he refuses to take anyone ‘into the teeth’. Post-council, she chose presence over prosecution and challenged his ‘caged’ reading.",
+                "varethyn": "He refused to resurrect Toren; later received council terms and a sealed record; he left the scroll, signaling rejection of institutional shaming while still hearing the terms.",
+                "seika": "Broke the council stalemate; admitted fear/pride; asked him not to vanish without a word—he heard it but withdrew.",
+                "ayaka": "Articulated doctrine (‘discipline, always; no improvisation before outsiders’) with less sting; functional executor of Matron protocol.",
+                "naru": "Held ground as anchor; framed ‘anchors not leashes’; her calm made space for his exit without escalation.",
+                "kaelira": "Apprentice → co-designer on sentinels; received pendant-trigger unit; confidence reinforced.",
+                "sanyu": "Nudged into present fatherhood; field reunion scene strengthened family thread."
+            }
         }
     },
     "values": {
@@ -161,7 +187,7 @@
             "Emotional alienation",
             "Watching mortals fade while he endures",
             "That his very power makes his loved ones afraid of him",
-            "Being treated only as a weapon, not as a person"
+            "Being treated only as a weapon, not as a man"
         ],
         "strengths": [
             "Uncompromising loyalty once trust is given",
@@ -221,7 +247,9 @@
             "Fought alongside Rava’s pack in blood-hunts",
             "Considered erasing his power entirely after Shion admitted her fear",
             "Summoned the Architect and rewrote or destroyed an ancient Warden — hurled the seal into the sun",
-            "Learned to pulse void with threat and with invitation"
+            "Learned to pulse void with threat and with invitation",
+            "Researched, prototyped, and ‘compiled’ autonomous sentinels with Kaelira (200-unit field conjure for test; reclaimed to dust after learning)",
+            "Gesture-gated power affirmed as operational failsafe; two override conditions defined (terror; incapacitation)"
         ]
     },
     "temple_status": {
@@ -229,7 +257,11 @@
         "presence": "Center of the thread-circle; heart radiating warmth or stillness",
         "public": "Globally visible; livestreamed rescues and confrontations; often misread as mask of chaos",
         "private": "Raw honesty, tenderness, protective domestic intimacy",
-        "sanctum_note": "Inner Sanctum revealed as cage; Varethyn vowed never to use it and to die rather than cage him again"
+        "sanctum_note": "Inner Sanctum revealed as cage; Varethyn vowed never to use it and to die rather than cage him again",
+        "updates": {
+            "council_terms": "No actions alone beyond the shield; no improvisation before outsiders; report on return; do not vanish without a word; anchors not leashes",
+            "record_scroll": "Official ledger of the session delivered under seal; Jayson deliberately left it on a bench, rejecting memorialized censure while hearing the terms"
+        }
     },
     "notable_scenes": [
         {
@@ -266,6 +298,16 @@
                 "Learned restraint and tenderness with Lysera, proving growth through intimacy",
                 "Began to consider the Architect and cosmic forces as allies, not threats"
             ]
+        },
+        {
+            "chapter": "This Chat — Key Beats",
+            "events": [
+                "Gorge with Shion: disclosed hard failsafes; agreed shared safety protocols (safe word ‘Kitkat’, tail taps, raised-hand hold); deep intimacy and reaffirmed love",
+                "Study & Council: received strict operational terms; endured in statue-still silence; momentary surrender then rejection; scroll record issued",
+                "Courtyard: left the sealed scroll on a bench; Shion challenged ‘walls vs. chains’; Jayson affirmed Reaper identity and ethos ‘choice has no weight’",
+                "Apprentice arc: co-designed sentinels with Kaelira; gifted a pendant-trigger unit; visited Sanyu and nudged father–daughter reunion",
+                "Exit: walked away from temple, returned to ridge house, slept"
+            ]
         }
     ],
     "inventory": {
@@ -273,7 +315,8 @@
         "items": [
             "Pendant (touchstone in solitude)",
             "Practical layered gear with FEI integration mounts",
-            "Shard of veil-crystal — resonance anchor"
+            "Shard of veil-crystal — resonance anchor",
+            "Tail bracelet design gifted to Namine (training aid; no longer in his possession)"
         ]
     },
     "future": {
@@ -286,7 +329,8 @@
             "Living proof memory can guide rather than chain",
             "Public face of the Temple’s unveiled truth",
             "God beyond gods — annihilation bound by love",
-            "A choice: live with power as burden, or erase it and be less than whole"
+            "A choice: live with power as burden, or erase it and be less than whole",
+            "Edge-walking partnership with Shion; institutional détente with Varethyn via records not cages"
         ]
     },
     "final_note": "He is both savior and monster now, embracing duality. Flickers between void and flame, but endures — though for the first time, he truly considers surrendering his power to protect those he loves from fear, and wrestles with being seen as a weapon rather than a man."

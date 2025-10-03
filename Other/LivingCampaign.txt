@@ -74,6 +74,8 @@ https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/C
 https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Chapters/Chapter_000074.txt
 https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Chapters/Chapter_000075.txt
 https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Chapters/Chapter_000076.txt
+https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Chapters/Chapter_000077.txt
+https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Chapters/Chapter_000078.txt
 https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Characters/Character_Aelthryn.txt
 https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Characters/Character_Ayaka.txt
 https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Characters/Character_FEI.txt

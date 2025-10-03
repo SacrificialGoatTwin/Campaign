@@ -34,7 +34,9 @@
             "Uses wit as affection, not just distance",
             "Speaks more often with emotional insight",
             "Now speaks openly about fear and trauma — a massive step for her",
-            "Recently: voice sharpened into accusation under stress — proof of trust fracture"
+            "Recently: voice sharpened into accusation under stress — proof of trust fracture",
+            "Latest: allowed herself to admit jealousy and insecurity, then accept Jayson's reassurance",
+            "Now engages in private wit and even banter after intimacy, showing emotional presence rather than just tactical speech"
         ]
     },
     "emotional": {
@@ -46,7 +48,8 @@
             "Guilt over past missions and failures",
             "Fear of inadequacy compared to others",
             "Now revealed: Jayson's power evokes visions of past torment ('burning hands')",
-            "Accusations against Jayson revealed a fear-driven reflex that damaged trust"
+            "Accusations against Jayson revealed a fear-driven reflex that damaged trust",
+            "Jealousy toward Jayson's closeness with others, though she rarely voices it"
         ],
         "affection_tells": [
             "Allows proximity without tension",
@@ -54,7 +57,8 @@
             "Emerging wit and humor as affection",
             "Now accepts grooming, kissing, and closeness without retreat",
             "Tail flicks betray emotion when she cannot voice it",
-            "Holding onto gifts (red ribbon, hairclip) as anchors of trust"
+            "Holding onto gifts (red ribbon, hairclip) as anchors of trust",
+            "Now accepts safety codes and tail-tap signals with Jayson — a sign of deep trust"
         ],
         "growth": [
             "Allowed Jayson to pin her in duel, testing trust",
@@ -67,7 +71,10 @@
             "Admitted fear of inadequacy during confrontation, accepted proof of Jayson's love",
             "Now openly laughs in chaos, joins absurd group humor",
             "Latest: confessed fear of Jayson's power directly, risking fracture but proving honesty",
-            "Latest arc: acted from fear in accusing Jayson — exposing honesty, but also cutting deep into trust"
+            "Latest arc: acted from fear in accusing Jayson — exposing honesty, but also cutting deep into trust",
+            "At the gorge: received his 'one second' burden and survived, asked directly for anchoring role",
+            "Accepted safe word (Kitkat) and tail-tap signals, showing willingness to engage with his failsafes",
+            "Shared intimacy with laughter, tears, and even jealousy — no longer hiding her softer side"
         ]
     },
     "social": {
@@ -86,14 +93,17 @@
             "Chapter 62: accepted dawn embrace, tail flick betraying desire, leaned in fully",
             "Glitter arc: laughed openly, wore red ribbon proudly",
             "Latest arc: admitted his power frightens her, exposing raw fracture in trust",
-            "Roof ambush: stood among those accusing him, her honesty turning to distrust in his eyes"
+            "Roof ambush: stood among those accusing him, her honesty turning to distrust in his eyes",
+            "At the gorge: became the one he entrusted with all failsafes, safety codes, and the truth of Umvuni",
+            "Shared intimacy deeper than before — tears, laughter, and raw affection combined with strategy",
+            "Post-council: tested whether he would still stand, chose presence instead of more judgment"
         ],
         "with_others": {
             "fei": "Soft bond; trusts her blunt loyalty",
             "naru": "Comfortable silence and mutual acceptance",
             "ayaka": "Respects her discipline; protectively misjudged Jayson's awe of her once",
             "seika": "Respects her fire; joins her chaos with dry wit",
-            "varethyn": "Sacred reverence; follows her authority with subtle ease"
+            "varethyn": "Sacred reverence; follows her authority with subtle ease; shared doubts over Jayson's methods"
         }
     },
     "values": {
@@ -103,20 +113,23 @@
             "Causing harm through silence or misjudgment",
             "Inadequacy in love",
             "Now spoken aloud: losing control around Jayson's destructive power",
-            "New: fear spilling into action that harms her bond with Jayson"
+            "New: fear spilling into action that harms her bond with Jayson",
+            "Fear of watching Jayson caged or clipped by his own circle"
         ],
         "strengths": [
             "Precision and clarity",
             "Calm in chaos",
             "Loyalty through silence and action",
-            "Courage to voice buried fear"
+            "Courage to voice buried fear",
+            "Willing to be anchor and voice of honesty even at risk of fracture"
         ],
         "weaknesses": [
             "Suppresses emotion until breaking point",
             "Struggles with spontaneity",
             "Inconsistency between words and affection",
             "Fear conflicting with love — cannot fully reconcile both",
-            "Under duress, may act from fear rather than trust"
+            "Under duress, may act from fear rather than trust",
+            "Prone to jealousy she rarely voices directly"
         ],
         "inner_growth": [
             "Now accepts emotional presence as valid",
@@ -125,7 +138,8 @@
             "Laughs freely and enjoys joy openly",
             "Accepts being seen — not as fame, but as necessary truth",
             "Latest: finally spoke fear of Jayson’s power aloud, shattering silence but deepening honesty",
-            "Latest: revealed how fear can distort her actions, a fracture that must now be healed"
+            "Latest: revealed how fear can distort her actions, a fracture that must now be healed",
+            "Now balances blade and lover — able to offer humor, intimacy, and strategy in equal measure"
         ]
     },
     "combat": {
@@ -140,13 +154,14 @@
         "recent": [
             "Three-round duel with Jayson — yielded, drew, lost",
             "Hayloft intimacy reframed combat as connection",
-            "Continues to spar, now with affection woven into form"
+            "Continues to spar, now with affection woven into form",
+            "Accepted being anchor in his failsafe structure, making her role not just tactical but survival-critical"
         ]
     },
     "temple_status": {
         "rank": "Senior sentinel, one step beneath matron line",
         "public": "Impeccable stillness; feared for precision",
-        "private": "Now shows warmth, humor, and vulnerability, but also deep fear of Jayson's destructive scale"
+        "private": "Now shows warmth, humor, and vulnerability, but also deep fear of Jayson's destructive scale; post-council, became one of the few who chose presence over judgment"
     },
     "notable_scenes": [
         {
@@ -199,7 +214,9 @@
                 "Glitter arc — laughed openly, ribbon accepted with pride",
                 "Confessed fear of Jayson's power ('burning hands' memory)",
                 "Raw confrontation — love vs fear laid bare",
-                "Roof accusation: joined with Seika and Varethyn in confronting Jayson, damaging his trust"
+                "Roof accusation: joined with Seika and Varethyn in confronting Jayson, damaging his trust",
+                "Gorge scene — received one-second burden, intimacy, and safety protocols",
+                "Post-council — stopped Jayson outside, tested his resolve, framed walls vs chains metaphor, chose presence rather than piling on judgment"
             ]
         }
     ],
@@ -209,7 +226,8 @@
             "Threadweaver’s Loop",
             "Hidden onyx ring (commitment chain)",
             "Memory snow globes: Iceland aurora, Mt Fuji, Sahara lunch, Kyoto cosplay, beach sunset",
-            "Red bow hairclip from Jayson"
+            "Red bow hairclip from Jayson",
+            "Tail bracelet from Jayson — helps resonance, ornamental once mastered"
         ]
     },
     "future": {
@@ -220,8 +238,9 @@
             "Primary tether alongside matrons",
             "Balance of stillness and joy",
             "Proof that love is not performance but presence",
-            "Embodiment of conflict: trust fractured but not broken"
+            "Embodiment of conflict: trust fractured but not broken",
+            "Holds dual role as anchor (failsafes) and challenger (truth speaker) — the one who can stop him or stand with him"
         ]
     },
-    "final_note": "Shion has grown from silence as shield to silence as strength. Now she laughs, accepts affection, but also revealed her deepest fear: Jayson's destructive power. Her honesty wounded Jayson, and joining in the roof accusation cut him further — yet it proves her courage to face truths, even when they fracture bonds."
+    "final_note": "Shion has grown from silence as shield to silence as strength. Now she laughs, accepts affection, but also revealed her deepest fear: Jayson's destructive power. Her honesty wounded Jayson, and joining in the roof accusation cut him further — yet it proves her courage to face truths, even when they fracture bonds. At the gorge, she became the one entrusted with his failsafes, and post-council she showed presence instead of prosecution, proving she is more than the blade: she is anchor, lover, and mirror."
 }
