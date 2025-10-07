@@ -95,7 +95,7 @@ https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/C
 https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Characters/Character_Syn_Raa.json
 https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Characters/Character_Sythera.json
 https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Characters/Character_Varethyn.json
-https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Characters/Character_Various.txt
+https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Characters/Character_Various.json
 https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Other/Kitsune%20Traits%20and%20History.txt
 https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Other/Kitsune_Adults.csv
 https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Other/Kitsune_Children.csv
