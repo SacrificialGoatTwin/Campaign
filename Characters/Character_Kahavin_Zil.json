@@ -1,18 +1,18 @@
 {
-  "name": "Kahavin’Zil",
+  "name": "Kahavinâ€™Zil",
   "title": "The Ember Sovereign of Silent Flame",
   "quote": "The world feared fire as ruin. I taught it to endure as shield.",
   "appearance": {
     "age": "Appears early 40s, true age beyond 1.2 million years",
-    "height": "186–190 cm",
+    "height": "186â€“190 cm",
     "build": "Broad, imposing, powerful frame honed by ages; presence alone commands silence",
     "hair": "Onyx-black with ember-red undertones; thick, worn long and bound in ritual braids",
     "eyes": "Obsidian ringed with molten amber; glow intensifies when angered or in rite",
     "skin": "Bronze-gold, weathered, marked by deep veil-scars of wars long forgotten",
-    "tails": "Nine—vast, ember-lit plumes; each moves with deliberate authority; fire woven into fur",
+    "tails": "Nineâ€”vast, ember-lit plumes; each moves with deliberate authority; fire woven into fur",
     "scent": "Charcoal, cedar, faint volcanic stone",
     "posture": "Unyielding; moves only with intent; no wasted gesture",
-    "relationship": "Consort to Shel’Naka-Katu, father of Jayson",
+    "relationship": "Consort to Shelâ€™Naka-Katu, father of Jayson",
     "recent": [
       "Chose to remain hidden in mortal guise for centuries",
       "Revealed fox form only upon Jayson's plea",
@@ -56,7 +56,7 @@
     ],
     "affection_tells": [
       "Tail curls protectively around loved ones",
-      "Hand to shoulder—silent affirmation",
+      "Hand to shoulderâ€”silent affirmation",
       "Shares warmth of fire as comfort"
     ],
     "affection_logic": "Believes actions speak truer than words; shows love through shield and presence",
@@ -74,7 +74,7 @@
       "Recognizes Jayson's blend of flame and void as unique destiny"
     ],
     "with_others": {
-      "shel’naka-katu": "Bound in eternal bond; complements her light with his ember",
+      "shelâ€™naka-katu": "Bound in eternal bond; complements her light with his ember",
       "varethyn": "Respects her authority; treats her as High Matron, not subordinate",
       "wives": "Distant but courteous; warmth reserved, respect clear",
       "temple_children": "Regarded with quiet kindness; watches them play without intrusion"
@@ -94,11 +94,11 @@
   "combat": {
     "titles": ["The Ember Sovereign", "Silent Flame", "Ashen Father"],
     "style": "Immovable fortress; calculated bursts of devastating flame",
-    "weapons": ["His tails—each can cut or shield like forged steel"],
+    "weapons": ["His tailsâ€”each can cut or shield like forged steel"],
     "magic": [
       "Veilfire control at continental scale",
-      "Shielding flames—contain destruction without spreading",
-      "Invocation of silence—nullifies sound and heat around him"
+      "Shielding flamesâ€”contain destruction without spreading",
+      "Invocation of silenceâ€”nullifies sound and heat around him"
     ],
     "growth": [
       "Chose restraint over annihilation in temple rise",
@@ -110,7 +110,7 @@
     "rank": "Living God; Father of Jayson",
     "public": "Regarded with reverence and fear",
     "matrons": "Treat as peers only through ritual respect",
-    "role": "Silent guardian; unshakable flame at temple’s core"
+    "role": "Silent guardian; unshakable flame at templeâ€™s core"
   },
   "notable_scenes": [
     {"chapter": 68, "events": ["Revealed true nine-tailed form at Jayson's request"]},
@@ -119,8 +119,8 @@
   ],
   "inventory": {
     "items": [
-      "Sacred ember ring, bound to Shel’Naka-Katu",
-      "Veilbrand staff—channel of pure flame, hidden for centuries",
+      "Sacred ember ring, bound to Shelâ€™Naka-Katu",
+      "Veilbrand staffâ€”channel of pure flame, hidden for centuries",
       "Charred pendant said to be fragment of first fire"
     ]
   },
@@ -135,5 +135,5 @@
       "Balancing wrath and compassion visibly before the people"
     ]
   },
-  "final_note": "Kahavin’Zil is silence made flame—unyielding, protective, feared, and loved as father, sovereign, and god reborn."
+  "final_note": "Kahavinâ€™Zil is silence made flameâ€”unyielding, protective, feared, and loved as father, sovereign, and god reborn."
 }
