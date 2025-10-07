@@ -87,7 +87,7 @@ https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/C
 https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Characters/Character_Naru.txt
 https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Characters/Character_Rava.txt
 https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Characters/Character_Seris'val.txt
-https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Characters/Character_Seyka.txt
+https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Characters/Character_Seika.txt
 https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Characters/Character_Shel'Naka-Katu.txt
 https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Characters/Character_Shinro.txt
 https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Characters/Character_Shion.txt
