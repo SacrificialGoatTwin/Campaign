@@ -1,10 +1,10 @@
 {
-  "name": "Korrin’th",
+  "name": "Korrinâ€™th",
   "title": "The Skyforged Wing of Dawn",
   "quote": "Chains held me, but the wind remembers who I am.",
   "appearance": {
     "age": "Looks 26 though frozen for millennia",
-    "height": "183–186 cm",
+    "height": "183â€“186 cm",
     "build": "Tall, broad-shouldered; athletic frame shaped by aerial strength",
     "hair": "White-gold with faint iridescent streaks, cut loose and wind-tossed",
     "eyes": "Pale cerulean with streaks of silver; sharp, storm-honed gaze",
@@ -19,7 +19,7 @@
       "Spoke vow to guard Tsunejima skies"
     ],
     "new_details": [
-      "Tail-feather sigil gifted by Jayson—binds protection to his flame",
+      "Tail-feather sigil gifted by Jaysonâ€”binds protection to his flame",
       "Carries visible scar along right wing from capture struggle"
     ]
   },
@@ -72,10 +72,10 @@
       "Accepts Jayson's vast power with wary respect, tempered by gratitude"
     ],
     "with_others": {
-      "kaeli’sharr": "Treats her as elder; cautious but respectful",
+      "kaeliâ€™sharr": "Treats her as elder; cautious but respectful",
       "rava": "Recognizes kinship in feral scars; offers silent nods",
       "lysera": "Protective instinct toward her lingering pain",
-      "avians": "Acts as natural leader; their voice among Jayson’s rescued",
+      "avians": "Acts as natural leader; their voice among Jaysonâ€™s rescued",
       "kitsune": "Respects distance; still uncertain of flame-weave, but acknowledges trust"
     }
   },
@@ -87,7 +87,7 @@
     "weaknesses": ["Overly rigid with vows", "Slow to trust outsiders"],
     "truths": [
       "Believes survival demands not just strength, but vigilance",
-      "Sees flight as sacred—gift and burden both"
+      "Sees flight as sacredâ€”gift and burden both"
     ]
   },
   "combat": {
@@ -113,7 +113,7 @@
   },
   "notable_scenes": [
     {"chapter": 64, "events": ["Freed from Glacier base; wings restored by Jayson"]},
-    {"chapter": 64, "events": ["First vow spoken—to shield Tsunejima skies"]},
+    {"chapter": 64, "events": ["First vow spokenâ€”to shield Tsunejima skies"]},
     {"chapter": 65, "events": ["Tested flight before the rescued; awe at the sunrise arc"]}
   ],
   "inventory": {
@@ -127,7 +127,7 @@
     "symbol": "Rising Dawn Wing",
     "role": "Sky-guardian and first voice of avian kin on Tsunejima",
     "arc": "From chained sentinel to free guardian, teaching others to trust the sky again",
-    "potential_role": "Bridge of air between kinfolk—binding avians to the greater family",
+    "potential_role": "Bridge of air between kinfolkâ€”binding avians to the greater family",
     "growth": [
       "Accepts Kitsune as equals in protection of the land",
       "Learns joy of communal feasts instead of solitary perches",
