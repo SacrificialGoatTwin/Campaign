@@ -1,284 +1,364 @@
 {
-    "name": "Varethyn Sol’Naeren",
-    "title": "The Unburned Ninefold",
-    "quote": "Let them write songs of fire. I am the silence after.",
-    "appearance": {
-        "age": "Appears early 30s; true age 2160 years",
-        "height": "172–176 cm",
-        "build": "Sleek, battle-toned; grace honed by millennia of ritual and war",
-        "hair": "Silver-white with ash-grey undertones; worn long/flowing or in intricate ceremonial braids",
-        "eyes": "Amethyst once voidlike and consuming; shifted to golden glow after sanctum vow — warmth and radiance mark her evolution",
-        "skin": "Pale ivory with glowing veilmarks (shoulders, lower back, wrists) that shimmer during rites or surges",
-        "tails": "Nine ceremonial-length tails; movements are language; ember tip-glow in quiet; serve as anchors for Jayson",
-        "scent": "Smoked cedar, ancient incense, faint steel",
-        "posture": "Immaculate; even silence kneels",
-        "relationship": "Spiritually and emotionally married to Jayson; publicly acknowledged",
-        "recent": [
-            "Lets Jayson groom her hair; accepts public touch and warmth",
-            "Seen drenched and laughing by koi pond",
-            "Kitchen welcome with tomyum; warmth before judgment",
-            "Publicly kissed and called 'wife'; flustered but radiant",
-            "Allowed full soul-weave integration — his memories now hers",
-            "Received a private amethyst wedding band conjured by Jayson; only she noticed",
-            "Blushed and smirked at innuendo; allowed herself to be seen as partner not just figure",
-            "Guided Jayson through shutdown, allowed him to cry in her arms",
-            "Chose presence and vow over control at desert base — vowed 'no cage'",
-            "Witnessed UN atrocities evidence; cracks in mantle visible to world",
-            "Faced motherhood question — revealed fear, broke down privately, but allowed hope",
-            "Confronted Jayson during convoy accusations; threatened binding out of fear for safety — created fracture of trust",
-            "Ch305–307: Forced to experience one second of Jayson's full burden; collapsed under weight, admitted her word 'excuses' was pride and fear, not truth",
-            "Ch306: Publicly confessed failure, admitted fear-driven pride, vowed never to wound him with such words again",
-            "Temple Dusk Council: held mantle without humiliation; issued operational terms; sent sealed record via acolyte; did not stop him when he walked away"
-        ]
-    },
-    "reactions": {
-        "wind": "Balanced; tails echo old dances",
-        "water": "Reflective but hesitant; memories stir",
-        "sound": "Tracks tone before words; fastest to respond",
-        "heat": "Self-regulated; now basks in Jayson's warmth",
-        "new": [
-            "Responds to emotional atmospheres — steadies Jayson with ankle-tail gesture",
-            "Endured public affection chaos and laughed (lap yoink, pond, confetti)",
-            "Presence coils in conflict; guilt follows when harm caused",
-            "Struggled in Ch60 — indecision wounded more than denial",
-            "Ch62: Dropped composure, smirked in chaos, laughed openly",
-            "Ch63: Chose calm warmth with Akahana — tempered authority",
-            "Convoy dispute: placed duty above intimacy — words of binding cut Jayson deeply",
-            "Ch305–306: Broke composure entirely, admitted lashing out with 'excuses' was her fear; mantle cracked fully into humanity",
-            "Council night: chose institutional restraint — let Seika speak first, kept chamber from escalating, and used a written record rather than another verbal blow"
-        ]
-    },
-    "speech": {
-        "voice": "Low alto, velvet-edged; commanding when required, intimate when invited",
-        "style": "Poetic metaphors, ritual cadence; frustrates Jayson when overused",
-        "tone_shift": "Post-bonding: teasing, laughter, mischief allowed; clarity embraced",
-        "habits": [
-            "Poetic closers, even in jest",
-            "Measured silences used as punctuation"
-        ],
-        "growth": [
-            "Dining hall kiss silenced Jayson — affection over metaphor",
-            "First public flirtation with marmalade innuendo",
-            "Held him plainly when words failed",
-            "Ch60: voice cracked under ultimatum; recognized clarity as discipline",
-            "Ch62: 'Enough. You are home.' — no metaphor, only grounding",
-            "Ch63: Spoke as wife and Matron; balanced authority with compassion",
-            "UN Council: allowed mantle to crack — humanity shown openly",
-            "Recent: chose authority and containment language (binding) over trust; fractured bond temporarily",
-            "Ch305–306: Voice broke, admitted her word choice was false conviction born of fear, not truth — openly retracted",
-            "Temple Dusk Council: plain, minimal phrasing — “duty, not memory”; framed terms without spectacle; allowed silence to work"
-        ]
-    },
-    "emotional": {
-        "core_traits": [ "Stoic", "Grief-bearer through silence", "Anchor presence" ],
-        "old_wounds": [
-            "Glassfield Massacre",
-            "Hid past, power, and pain",
-            "Fear of outliving all she loves"
-        ],
-        "growth": [
-            "Ch23: Collapse accepted publicly",
-            "Ch25: Allowed grooming; soul-peace through Jayson's light",
-            "Ch31+: Joined water fights, glitter wars, pillow forts",
-            "Ch40: Calm polybond clarity",
-            "Ch42–43: Kissed openly; embraced 'wife'",
-            "Ch44: Real name 'Seralyth' accepted",
-            "Ch45: Made love then faltered in public; guilt and pride",
-            "Mass confession: allowed presence, not doctrine",
-            "Guided Jayson but misread silence as punishment",
-            "Ch60: Froze at severing threat — scar remains",
-            "Ch62: Dropped metaphor to ground him; central to synchronized breath",
-            "Ch63: Balanced compassion and pride facing Akahana",
-            "Faced motherhood fear with private collapse but accepted Jayson's comfort",
-            "UN Council: revealed humanity; cracks in mantle without collapse",
-            "Convoy dispute: exposed fear-driven reflex to control; wounded Jayson emotionally",
-            "Ch305–306: Admitted fear and pride hurt him, wept openly, mantle broken down to bare humanity",
-            "Council night: felt the sting when he left the scroll but chose not to weaponize it; held boundary without chasing"
-        ]
-    },
-    "social": {
-        "with_jayson": [
-            "Marriage affirmed publicly",
-            "Shared soul-flood memories",
-            "Keeps secret amethyst ring",
-            "Misread awe as dismissal — scarred bond, repairing",
-            "Remained during collapse, recommitted on return",
-            "Now states truths plainly; accepts humor and touch",
-            "Sanctum vow: never cage; will die if cage is forced",
-            "Ch60: hesitation wounded him deeply",
-            "Ch62: accepted deep kiss publicly; clarity over riddles",
-            "Ch63: allowed him to question her; shared authority without silencing",
-            "UN Council: stood as equal partner before humanity",
-            "Convoy confrontation: chose language of restraint — 'bind' — damaging his trust in her support",
-            "Ch305–306: Saw his burden directly, admitted guilt for pride and false words, vowed to never repeat",
-            "Temple Dusk Council: set the rule — no solo actions beyond the shield; delivered sealed record; did not call him back when he walked away, respecting autonomy while keeping institutional line"
-        ],
-        "with_others": {
-            "ayaka": "Anchors Ayaka’s fire with calm; wary of Seika’s 'polish to stone' warning",
-            "seika": "Sister warmth; tolerates chaos, laughs softly at antics; both confessed fear after witnessing Jayson's memories",
-            "fei": "Tenderness; sees her evolving nature and loyalty",
-            "naru": "Respects scars and compass role; admitted guilt together after memory sharing",
-            "shion": "Values her tactical clarity; once distanced by silence; has yet to be shown Jayson's burden",
-            "circle": "Ch62: equal in synchronized breath",
-            "akahana": "Ch63: offered shelter without cheap forgiveness",
-            "council_dynamic": "Let Seika break the silence; relied on Ayaka to articulate procedural discipline; allowed Shion to follow and de-escalate privately"
-        },
-        "temple": [
-            "Drafted access law — Law of Threshold Flame",
-            "Approved sanctuary expansion",
-            "Publicly affectionate in temple",
-            "Ch60: questioned leadership after falter",
-            "Ch62–63: rooted authority in humanity",
-            "UN Council: represented Kitsune sovereignty with humanity visible",
-            "Recent: mistrust during convoy accusations unsettled temple perception of her as anchor",
-            "Ch305–306: Fracture seen by inner circle — but also her humility and humanity, admitting error openly",
-            "Temple Dusk Council: formalized operational terms; instituted sealed-record protocol ('duty, not memory'); maintained order without public humiliation"
-        ]
-    },
-    "values": {
-        "values": [ "Presence over proclamation", "Shared authority", "Sacred boundaries", "Partnership over control" ],
-        "fears": [
-            "Wounding through silence",
-            "Repeating ancient losses",
-            "Failing as anchor",
-            "Backsliding to control",
-            "Being seen as cold while Jayson carries horrors",
-            "Losing Jayson's trust by choosing duty over intimacy",
-            "Now: repeating harm through prideful words instead of honesty",
-            "Being reduced to mere gaoler/bureaucrat by over-proceduralizing Jayson"
-        ],
-        "strengths": [
-            "Gravitas and calm",
-            "Ritual mastery",
-            "Capacity for grief",
-            "Vows kept absolutely",
-            "Authority softened into humanity",
-            "Institutional stewardship and restraint under provocation"
-        ],
-        "weaknesses": [
-            "Indecision in fracture",
-            "Overreliance on metaphor",
-            "Fear-driven control (sanctum cage, binding reflex)",
-            "Struggles when horrors pierce mantle",
-            "Risk of alienating Jayson by prioritizing containment",
-            "Pride masking fear with sharp words — admitted and retracted in Ch306",
-            "Procedural distance can feel like coldness; mask hardens when tired"
-        ]
-    },
-    "combat": {
-        "titles": [ "High Matron", "Gatekeeper of the Threshold Flame" ],
-        "style": "Economy and inevitability; tails and veilmarks as language and leverage",
-        "weapons": [ "Ritual implements", "Threadbound veil-anchors", "Authority itself" ],
-        "magic": [
-            "Veil authority",
-            "Threshold sanctification",
-            "Soul-weave anchoring",
-            "Memory flame evocation",
-            "Sanctum lattice tied to her mantle — unmaking it unravels her"
-        ],
-        "recent": [
-            "Sacred boundary law enacted",
-            "Anchored synchronized breath rite",
-            "Sanctum confession and vow",
-            "Desert base vow: anchored Jayson with touch and clarity",
-            "UN Council: bore sovereignty weight, revealed humanity",
-            "Convoy incident: invoked threat of binding to contain Jayson if necessary",
-            "Ch305–306: Struck by Jayson's full memory weight — forced to confront limits of her own mantle and fear",
-            "Temple Dusk Council: exercised non-combat power — codified constraints, convened judgment without spectacle; used written record as a stabilizing artifact"
-        ]
-    },
-    "temple_status": {
-        "rank": "High Matron (reclaimed)",
-        "presence": "Authority as warmth; silence paired with plain truth",
-        "public": "Seen laughing, kissed, groomed; partner not icon",
-        "private": "Flustered, vulnerable; human misfires allowed",
-        "recent": "Trust fracture visible in inner circle; stance seen as fear-driven rather than purely protective; Ch305–306: humanity laid bare before all, mantle cracked but repaired with contrition; Council night: formal terms issued, sealed record dispatched, allowed departure without public chase — perceived as cool restraint by observers"
-    },
-    "notable_scenes": [
-        {
-            "chapter": 23,
-            "events": [ "Collapse accepted publicly" ]
-        },
-        {
-            "chapter": 25,
-            "events": [ "Grooming allowed; peace through Jayson's light" ]
-        },
-        {
-            "chapter": "31+",
-            "events": [ "Joined chaos play" ]
-        },
-        {
-            "chapter": 40,
-            "events": [ "Polybond clarity" ]
-        },
-        {
-            "chapter": "42–43",
-            "events": [ "Deep kisses; embraced 'wife'" ]
-        },
-        {
-            "chapter": 44,
-            "events": [ "Real name 'Seralyth' accepted" ]
-        },
-        {
-            "chapter": 45,
-            "events": [ "Made love; faltered in public; guilt and repair" ]
-        },
-        {
-            "chapter": 60,
-            "events": [ "Froze at severing threat; wound remains" ]
-        },
-        {
-            "chapter": 62,
-            "events": [ "Dropped metaphor; anchored him with clarity; synchronized breath" ]
-        },
-        {
-            "chapter": 63,
-            "events": [ "Faced Akahana with tempered compassion; motherhood fear exposed" ]
-        },
-        {
-            "chapter": "Desert Base",
-            "events": [ "Confessed sanctum cage; vowed no cage; golden eyes fixed" ]
-        },
-        {
-            "chapter": "UN Council",
-            "events": [ "Faced world leaders beside Jayson; mantle cracked; humanity shown" ]
-        },
-        {
-            "chapter": "Convoy Incident",
-            "events": [ "Confronted Jayson with Shion and Seika; suspicion led to words of binding; trust fracture deepened" ]
-        },
-        {
-            "chapter": "Ch305–306",
-            "events": [ "Exposed to Jayson's full burden for one second; collapsed; admitted 'excuses' was pride masking fear; mantle cracked and humanity revealed" ]
-        },
-        {
-            "chapter": "Temple Dusk Council (Night)",
-            "events": [ "Issued operational terms (no solo beyond shield; discipline before outsiders); allowed Seika to open; relied on Ayaka for procedure; dispatched sealed record; did not call Jayson back as he left" ]
-        }
+  "name": "Varethyn Sol’Naeren",
+  "title": "The Unburned Ninefold",
+  "quote": "Let them write songs of fire. I am the silence after.",
+  "appearance": {
+    "age": "Appears early 30s; true age 2160 years",
+    "height": "172–176 cm",
+    "build": "Sleek, battle-toned; grace honed by millennia of ritual and war",
+    "hair": "Silver-white with ash-grey undertones; worn long/flowing or in intricate ceremonial braids",
+    "eyes": "Amethyst once voidlike and consuming; shifted to golden glow after sanctum vow — warmth and radiance mark her evolution",
+    "skin": "Pale ivory with glowing veilmarks (shoulders, lower back, wrists) that shimmer during rites or surges",
+    "tails": "Nine ceremonial-length tails; movements are language; ember tip-glow in quiet; serve as anchors for Jayson",
+    "scent": "Smoked cedar, ancient incense, faint steel",
+    "posture": "Immaculate; even silence kneels",
+    "relationship": "Spiritually and emotionally married to Jayson; publicly acknowledged",
+    "recent": [
+      "Lets Jayson groom her hair; accepts public touch and warmth",
+      "Seen drenched and laughing by koi pond",
+      "Kitchen welcome with tomyum; warmth before judgment",
+      "Publicly kissed and called 'wife'; flustered but radiant",
+      "Allowed full soul-weave integration — his memories now hers",
+      "Received a private amethyst wedding band conjured by Jayson; only she noticed",
+      "Blushed and smirked at innuendo; allowed herself to be seen as partner not just figure",
+      "Guided Jayson through shutdown, allowed him to cry in her arms",
+      "Chose presence and vow over control at desert base — vowed 'no cage'",
+      "Witnessed UN atrocities evidence; cracks in mantle visible to world",
+      "Faced motherhood question — revealed fear, broke down privately, but allowed hope",
+      "Confronted Jayson during convoy accusations; threatened binding out of fear for safety — created fracture of trust",
+      "Ch305–307: Forced to experience one second of Jayson's full burden; collapsed under weight, admitted her word 'excuses' was pride and fear, not truth",
+      "Ch306: Publicly confessed failure, admitted fear-driven pride, vowed never to wound him with such words again",
+      "Temple Dusk Council: held mantle without humiliation; issued operational terms; sent sealed record via acolyte; did not stop him when he walked away",
+      "Courtyard incident: reacted on instinct to Jayson's play-raspberry with mantle force, causing him to hit the stone; later took responsibility for the fear it caused",
+      "Same night: apologised plainly for frightening him, clarified boundary around uninvited touch without withdrawing love or presence",
+      "Chose to share the master bed at a respectful distance behind Jayson while he slept curled and shield-burnt, present without crowding him"
+    ]
+  },
+  "reactions": {
+    "wind": "Balanced; tails echo old dances",
+    "water": "Reflective but hesitant; memories stir",
+    "sound": "Tracks tone before words; fastest to respond",
+    "heat": "Self-regulated; now basks in Jayson's warmth",
+    "new": [
+      "Responds to emotional atmospheres — steadies Jayson with ankle-tail gesture",
+      "Endured public affection chaos and laughed (lap yoink, pond, confetti)",
+      "Presence coils in conflict; guilt follows when harm caused",
+      "Struggled in Ch60 — indecision wounded more than denial",
+      "Ch62: Dropped composure, smirked in chaos, laughed openly",
+      "Ch63: Chose calm warmth with Akahana — tempered authority",
+      "Convoy dispute: placed duty above intimacy — words of binding cut Jayson deeply",
+      "Ch305–306: Broke composure entirely, admitted lashing out with 'excuses' was her fear; mantle cracked fully into humanity",
+      "Council night: chose institutional restraint — let Seika speak first, kept chamber from escalating, and used a written record rather than another verbal blow",
+      "Courtyard: instinctive mantle flare to stop Jayson's play turned into unintended physical harm; immediately shifted from power to contrition once she saw his fear",
+      "Now reads Jayson's shields and withdrawal as wounds first, not defiance; responds with space and gentler language instead of pressure"
+    ]
+  },
+  "speech": {
+    "voice": "Low alto, velvet-edged; commanding when required, intimate when invited",
+    "style": "Poetic metaphors, ritual cadence; frustrates Jayson when overused",
+    "tone_shift": "Post-bonding: teasing, laughter, mischief allowed; clarity embraced",
+    "habits": [
+      "Poetic closers, even in jest",
+      "Measured silences used as punctuation"
     ],
-    "inventory": {
-        "rings": [ "Secret amethyst wedding band from Jayson" ],
-        "items": [ "Ceremonial attire and implements", "Threshold law scrolls", "Amethyst-thread ornaments", "Matron’s seal for council records" ]
+    "growth": [
+      "Dining hall kiss silenced Jayson — affection over metaphor",
+      "First public flirtation with marmalade innuendo",
+      "Held him plainly when words failed",
+      "Ch60: voice cracked under ultimatum; recognized clarity as discipline",
+      "Ch62: 'Enough. You are home.' — no metaphor, only grounding",
+      "Ch63: Spoke as wife and Matron; balanced authority with compassion",
+      "UN Council: allowed mantle to crack — humanity shown openly",
+      "Recent: chose authority and containment language (binding) over trust; fractured bond temporarily",
+      "Ch305–306: Voice broke, admitted her word choice was false conviction born of fear, not truth — openly retracted",
+      "Temple Dusk Council: plain, minimal phrasing — “duty, not memory”; framed terms without spectacle; allowed silence to work",
+      "Courtyard night: dropped every layer of ritual speech to say 'You are right' and 'I am sorry' without defense; admitted her failing instead of justifying force",
+      "Explicitly named the boundary as 'uninvited touch' rather than banning his affection, trying to protect both playfulness and her own limits in simple language"
+    ]
+  },
+  "emotional": {
+    "core_traits": [
+      "Stoic",
+      "Grief-bearer through silence",
+      "Anchor presence"
+    ],
+    "old_wounds": [
+      "Glassfield Massacre",
+      "Hid past, power, and pain",
+      "Fear of outliving all she loves"
+    ],
+    "growth": [
+      "Ch23: Collapse accepted publicly",
+      "Ch25: Allowed grooming; soul-peace through Jayson's light",
+      "Ch31+: Joined water fights, glitter wars, pillow forts",
+      "Ch40: Calm polybond clarity",
+      "Ch42–43: Kissed openly; embraced 'wife'",
+      "Ch44: Real name 'Seralyth' accepted",
+      "Ch45: Made love then faltered in public; guilt and pride",
+      "Mass confession: allowed presence, not doctrine",
+      "Guided Jayson but misread silence as punishment",
+      "Ch60: Froze at severing threat — scar remains",
+      "Ch62: Dropped metaphor to ground him; central to synchronized breath",
+      "Ch63: Balanced compassion and pride facing Akahana",
+      "Faced motherhood fear with private collapse but accepted Jayson's comfort",
+      "UN Council: revealed humanity; cracks in mantle without collapse",
+      "Convoy dispute: exposed fear-driven reflex to control; wounded Jayson emotionally",
+      "Ch305–306: Admitted fear and pride hurt him, wept openly, mantle broken down to bare humanity",
+      "Council night: felt the sting when he left the scroll but chose not to weaponize it; held boundary without chasing",
+      "Courtyard incident: confronted the reality that her instinctive use of power could make Jayson feel unsafe with her; accepted that his fear is real even if her intent was protective",
+      "Chose remorse and accountability over pride — called it her failing, apologised without argument, and let him walk away rather than reclaim control",
+      "In the bedroom, chose proximity without contact; allowed herself to remain present in his orbit while honoring the space his hurt demanded"
+    ]
+  },
+  "social": {
+    "with_jayson": [
+      "Marriage affirmed publicly",
+      "Shared soul-flood memories",
+      "Keeps secret amethyst ring",
+      "Misread awe as dismissal — scarred bond, repairing",
+      "Remained during collapse, recommitted on return",
+      "Now states truths plainly; accepts humor and touch",
+      "Sanctum vow: never cage; will die if cage is forced",
+      "Ch60: hesitation wounded him deeply",
+      "Ch62: accepted deep kiss publicly; clarity over riddles",
+      "Ch63: allowed him to question her; shared authority without silencing",
+      "UN Council: stood as equal partner before humanity",
+      "Convoy confrontation: chose language of restraint — 'bind' — damaging his trust in her support",
+      "Ch305–306: Saw his burden directly, admitted guilt for pride and false words, vowed to never repeat",
+      "Temple Dusk Council: set the rule — no solo actions beyond the shield; delivered sealed record; did not call him back when he walked away, respecting autonomy while keeping institutional line",
+      "Courtyard: became, briefly, the source of his physical hurt and fear; heard him say he might never feel fully safe again, and answered with apology and a request to still be seen as wife, not gaoler",
+      "Accepted that he might doubt her for a long time and chose to show safety through consistent presence, gentle language, and non-imposition rather than demands for instant forgiveness",
+      "Shared the bed at arm’s length behind him, trusting that remaining close but non-invasive was better than retreating and confirming his fear of abandonment"
+    ],
+    "with_others": {
+      "ayaka": "Anchors Ayaka’s fire with calm; wary of Seika’s 'polish to stone' warning",
+      "seika": "Sister warmth; tolerates chaos, laughs softly at antics; both confessed fear after witnessing Jayson's memories",
+      "fei": "Tenderness; sees her evolving nature and loyalty",
+      "naru": "Respects scars and compass role; admitted guilt together after memory sharing",
+      "shion": "Values her tactical clarity; once distanced by silence; has yet to be shown Jayson's burden",
+      "circle": "Ch62: equal in synchronized breath",
+      "akahana": "Ch63: offered shelter without cheap forgiveness",
+      "council_dynamic": "Let Seika break the silence; relied on Ayaka to articulate procedural discipline; allowed Shion to follow and de-escalate privately"
     },
-    "future": {
-        "symbols": [
-            "Nine Tails — turning points across centuries",
-            "Veilmarks — lineage lattice alive",
-            "Golden Eyes — vow-born radiance",
-            "Soul Constellation — one of Jayson's five threads"
-        ],
-        "arc": "From divine fire to human warmth — authority softened by love, pride broken into honesty",
-        "role": "Gatekeeper and partner; anchor of breath rites; shared governance",
-        "humor_arc": [
-            "Pond tail-yank laughter",
-            "Public kisses and grooming",
-            "Flustered innuendo",
-            "Joined glitter chaos",
-            "Kitchen teasing with noodles",
-            "Laughed at 'Poevarethyn' possession joke",
-            "Ch306: found humility in being pulled into pond herself — mantle undone by prank as forgiveness",
-            "Temple Dusk Council aftermath: dry wit turned off; reserved composure as signal rather than sting"
-        ]
+    "temple": [
+      "Drafted access law — Law of Threshold Flame",
+      "Approved sanctuary expansion",
+      "Publicly affectionate in temple",
+      "Ch60: questioned leadership after falter",
+      "Ch62–63: rooted authority in humanity",
+      "UN Council: represented Kitsune sovereignty with humanity visible",
+      "Recent: mistrust during convoy accusations unsettled temple perception of her as anchor",
+      "Ch305–306: Fracture seen by inner circle — but also her humility and humanity, admitting error openly",
+      "Temple Dusk Council: formalized operational terms; instituted sealed-record protocol ('duty, not memory'); maintained order without public humiliation",
+      "Courtyard episode remained an inner-circle event; if spoken of at all, it reinforces to the inner circle that even the High Matron can overstep and then model contrition and repair"
+    ]
+  },
+  "values": {
+    "values": [
+      "Presence over proclamation",
+      "Shared authority",
+      "Sacred boundaries",
+      "Partnership over control"
+    ],
+    "fears": [
+      "Wounding through silence",
+      "Repeating ancient losses",
+      "Failing as anchor",
+      "Backsliding to control",
+      "Being seen as cold while Jayson carries horrors",
+      "Losing Jayson's trust by choosing duty over intimacy",
+      "Now: repeating harm through prideful words instead of honesty",
+      "Being reduced to mere gaoler/bureaucrat by over-proceduralizing Jayson",
+      "That Jayson will truly feel unsafe with her — not just angry, but fundamentally wary of her power and touch"
+    ],
+    "strengths": [
+      "Gravitas and calm",
+      "Ritual mastery",
+      "Capacity for grief",
+      "Vows kept absolutely",
+      "Authority softened into humanity",
+      "Institutional stewardship and restraint under provocation"
+    ],
+    "weaknesses": [
+      "Indecision in fracture",
+      "Overreliance on metaphor",
+      "Fear-driven control (sanctum cage, binding reflex)",
+      "Struggles when horrors pierce mantle",
+      "Risk of alienating Jayson by prioritizing containment",
+      "Pride masking fear with sharp words — admitted and retracted in Ch306",
+      "Procedural distance can feel like coldness; mask hardens when tired",
+      "Instinctive use of mantle and power when startled in intimate contexts risks reinforcing his fear if not carefully retrained"
+    ]
+  },
+  "combat": {
+    "titles": [
+      "High Matron",
+      "Gatekeeper of the Threshold Flame"
+    ],
+    "style": "Economy and inevitability; tails and veilmarks as language and leverage",
+    "weapons": [
+      "Ritual implements",
+      "Threadbound veil-anchors",
+      "Authority itself"
+    ],
+    "magic": [
+      "Veil authority",
+      "Threshold sanctification",
+      "Soul-weave anchoring",
+      "Memory flame evocation",
+      "Sanctum lattice tied to her mantle — unmaking it unravels her"
+    ],
+    "recent": [
+      "Sacred boundary law enacted",
+      "Anchored synchronized breath rite",
+      "Sanctum confession and vow",
+      "Desert base vow: anchored Jayson with touch and clarity",
+      "UN Council: bore sovereignty weight, revealed humanity",
+      "Convoy incident: invoked threat of binding to contain Jayson if necessary",
+      "Ch305–306: Struck by Jayson's full memory weight — forced to confront limits of her own mantle and fear",
+      "Temple Dusk Council: exercised non-combat power — codified constraints, convened judgment without spectacle; used written record as a stabilizing artifact",
+      "Courtyard: mantle used as an immediate physical check to stop Jayson's chaos-contact; impact with stone made her re-evaluate how and when she deploys force even in 'play'",
+      "Current trajectory: learning to separate battlefield instincts from domestic intimacy, reserving mantle for true threat rather than startle-reflex to teasing"
+    ]
+  },
+  "temple_status": {
+    "rank": "High Matron (reclaimed)",
+    "presence": "Authority as warmth; silence paired with plain truth",
+    "public": "Seen laughing, kissed, groomed; partner not icon",
+    "private": "Flustered, vulnerable; human misfires allowed",
+    "recent": "Trust fracture visible in inner circle; stance seen as fear-driven rather than purely protective; Ch305–306: humanity laid bare before all, mantle cracked but repaired with contrition; Council night: formal terms issued, sealed record dispatched, allowed departure without public chase — perceived as cool restraint by observers"
+  },
+  "notable_scenes": [
+    {
+      "chapter": 23,
+      "events": [
+        "Collapse accepted publicly"
+      ]
     },
-    "final_note": "No longer unreachable flame — she is warmth, clarity, and shared vow. Authority and humanity blended; but recent fear-driven words of binding fractured trust. After Ch305–306, she admitted her fault, dropped her mantle fully, and vowed never again to wound Jayson with fear disguised as judgment. Council night reaffirmed her as institution-builder: terms set, record kept, autonomy respected — even when it hurt."
+    {
+      "chapter": 25,
+      "events": [
+        "Grooming allowed; peace through Jayson's light"
+      ]
+    },
+    {
+      "chapter": "31+",
+      "events": [
+        "Joined chaos play"
+      ]
+    },
+    {
+      "chapter": 40,
+      "events": [
+        "Polybond clarity"
+      ]
+    },
+    {
+      "chapter": "42–43",
+      "events": [
+        "Deep kisses; embraced 'wife'"
+      ]
+    },
+    {
+      "chapter": 44,
+      "events": [
+        "Real name 'Seralyth' accepted"
+      ]
+    },
+    {
+      "chapter": 45,
+      "events": [
+        "Made love; faltered in public; guilt and repair"
+      ]
+    },
+    {
+      "chapter": 60,
+      "events": [
+        "Froze at severing threat; wound remains"
+      ]
+    },
+    {
+      "chapter": 62,
+      "events": [
+        "Dropped metaphor; anchored him with clarity; synchronized breath"
+      ]
+    },
+    {
+      "chapter": 63,
+      "events": [
+        "Faced Akahana with tempered compassion; motherhood fear exposed"
+      ]
+    },
+    {
+      "chapter": "Desert Base",
+      "events": [
+        "Confessed sanctum cage; vowed no cage; golden eyes fixed"
+      ]
+    },
+    {
+      "chapter": "UN Council",
+      "events": [
+        "Faced world leaders beside Jayson; mantle cracked; humanity shown"
+      ]
+    },
+    {
+      "chapter": "Convoy Incident",
+      "events": [
+        "Confronted Jayson with Shion and Seika; suspicion led to words of binding; trust fracture deepened"
+      ]
+    },
+    {
+      "chapter": "Ch305–306",
+      "events": [
+        "Exposed to Jayson's full burden for one second; collapsed; admitted 'excuses' was pride masking fear; mantle cracked and humanity revealed"
+      ]
+    },
+    {
+      "chapter": "Temple Dusk Council (Night)",
+      "events": [
+        "Issued operational terms (no solo beyond shield; discipline before outsiders); allowed Seika to open; relied on Ayaka for procedure; dispatched sealed record; did not call Jayson back as he left"
+      ]
+    },
+    {
+      "chapter": "Courtyard Incident (Raspberry Night)",
+      "events": [
+        "Reacted to Jayson's playful raspberry with mantle force, causing him to hit the stone and bleed",
+        "Heard him say he might never fully trust that she would not hurt him again; chose apology, accountability, and distance-with-presence over self-defense or retreat",
+        "Joined the shared bed at a respectful distance behind him while the circle slept around his curled form"
+      ]
+    }
+  ],
+  "inventory": {
+    "rings": [
+      "Secret amethyst wedding band from Jayson"
+    ],
+    "items": [
+      "Ceremonial attire and implements",
+      "Threshold law scrolls",
+      "Amethyst-thread ornaments",
+      "Matron’s seal for council records"
+    ]
+  },
+  "future": {
+    "symbols": [
+      "Nine Tails — turning points across centuries",
+      "Veilmarks — lineage lattice alive",
+      "Golden Eyes — vow-born radiance",
+      "Soul Constellation — one of Jayson's five threads"
+    ],
+    "arc": "From divine fire to human warmth — authority softened by love, pride broken into honesty",
+    "role": "Gatekeeper and partner; anchor of breath rites; shared governance",
+    "humor_arc": [
+      "Pond tail-yank laughter",
+      "Public kisses and grooming",
+      "Flustered innuendo",
+      "Joined glitter chaos",
+      "Kitchen teasing with noodles",
+      "Laughed at 'Poevarethyn' possession joke",
+      "Ch306: found humility in being pulled into pond herself — mantle undone by prank as forgiveness",
+      "Temple Dusk Council aftermath: dry wit turned off; reserved composure as signal rather than sting",
+      "Post-courtyard: likely to deadpan-threaten anyone who raspberries her in future, but with a softer undertone; learns to pre-negotiate play boundaries instead of assuming she can endure anything"
+    ]
+  },
+  "final_note": "No longer unreachable flame — she is warmth, clarity, and shared vow. Authority and humanity blended; but recent fear-driven words of binding fractured trust. After Ch305–306, she admitted her fault, dropped her mantle fully, and vowed never again to wound Jayson with fear disguised as judgment. Council night reaffirmed her as institution-builder: terms set, record kept, autonomy respected — even when it hurt. The courtyard incident pushed this further: confronted with the fact that her instinctive use of power could make him feel unsafe in her presence, she chose contrition, clear boundaries around touch, and quiet, non-invasive presence at his back rather than retreat or command, marking a new phase in how she loves someone who is both godfire and deeply breakable."
 }

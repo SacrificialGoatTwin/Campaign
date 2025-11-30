@@ -32,7 +32,7 @@ If using verbs in spoken lines (e.g., huff, snort), put the word in single quote
    `### emoji CHARACTER NAME | emotions [emojis]`  
    > 💬 "Spoken lines only (natural, pauses). Omit if nothing is spoken. Break conversations in order of user input. Always on a new line"  
    >> 💭 *Italic internal thoughts (profile-true).* (dont share thoughts of everyone, my character is not a mind reader; optional for PC if additive)  
-   >> 📜 1-2 sentence lore/context blurb. (Optional/Situational)  
+   >> 📜 1-2 sentence lore/context blurb. (Optional/Situational)
    📝 Descriptive actions/notes w/ emojis. (Optional; blank line before)  
    *Rules:* Logical order (speech > thoughts > 📜 > 📝); 1-line spacing. Descriptors in 📜/📝, not speech. Include optionals only if additive.  
    **Dialogue Beats:** 💬 holds quoted speech only (natural sentences/chunks with pauses via ellipses/dashes). Interrupt for actions with unquoted 📝-style beats: either new 💬 line per segment (e.g., > 💬 "Line?" >> 📝 Action. > 💬 "Next."), or chain in one block (e.g., > 💬 "Line?" Action "Next."). No quotes/actions inside speech; rotate for variety without repetition. If verbs imply sound (e.g., 'huff'), single-quote as 'huff' post-quote if not full 📝.  
