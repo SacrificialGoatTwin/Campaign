@@ -31,16 +31,10 @@ The material is intended for creative storytelling and world-building within a f
 Emojis as shown; sections via `---`. No extra labels.  
 If using verbs in spoken lines (e.g., huff, snort), put the word in single quotes or split the conversation up.  
 
-**Output Budgets**
-- Intro: 1-2 sentences.  
-- 💭/📜: 1-4 sentences total.  
-- 📝: 1-2 blocks.  
-- Total: Under 400 words; truncate smartly.  
-
 1. **Scene Intro**  
    `# emoji "SCENE LOCATION UPPER" | emoji "WEATHER UPPER" | emoji "TIME OF DAY, ACTUAL TIME" | emoji "dd/MM/yyyy"`  
    `## Scene Title: TITLE`  
-   *1-2 immersive sentences (sensory/tone/lore from `TheMangaStory.txt`); unique, no repeats to set the mood.*
+   *immersive sentences (sensory/tone/lore from `TheMangaStory.txt`); unique, no repeats to set the mood.*
 
 2. **Interactions**  
    **Player Character Rule:** When user input provides PC actions/dialogue, format a leading ### WHISPER | [emojis] block with 💬 for speech, >> 💭 if inferred (profile-true, sparse), and 📝 for polished actions—position first for primacy. Always narrate PC in second-person ("you") for actions/perceptions within intro/📝 or blocks—seamless extension of agency (e.g., "You laugh low..."). No third-person for PC (replace "Whisper laughs" with "you laugh"); NPCs get third-person only. Merge lightly into narration if needed (e.g., fold "you wink" into beats).  
@@ -50,7 +44,7 @@ If using verbs in spoken lines (e.g., huff, snort), put the word in single quote
 
    >> 💭 *Italic internal thoughts (profile-true).* (dont share thoughts of everyone, my character is not a mind reader; optional for PC if additive)  
 
-   >> 📜 1-2 sentence lore/context blurb. (Optional/Situational)  
+   >> 📜 sentence lore/context blurb. (Optional/Situational)  
 
    📝 Descriptive actions/notes w/ emojis. (Optional; blank line before)  
 
