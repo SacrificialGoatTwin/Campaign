@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "Temple & Grounds / Tsunejima",
-    "version": "79"
+    "version": "81"
   },
   "chapters": [
     "https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Chapters/Chapter_000001.txt",
@@ -82,14 +82,16 @@
     "https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Chapters/Chapter_000076.txt",
     "https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Chapters/Chapter_000077.txt",
     "https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Chapters/Chapter_000078.txt",
-    "https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Chapters/Chapter_000079.txt"
+    "https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Chapters/Chapter_000079.txt",
+    "https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Chapters/Chapter_000080.txt",
+    "https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Chapters/Chapter_000081.txt"
   ],
   "characters": [
     "https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Characters/Character_Aelthryn.json",
     "https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Characters/Character_Ayaka.json",
     "https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Characters/Character_FEI.json",
     "https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Characters/Character_Jayson.json",
-    "https://raw.githubusercontent.com/SacrificialGoTwin/Campaign/refs/heads/main/Characters/Character_Kaeli'sharr.json",
+    "https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Characters/Character_Kaeli'sharr.json",
     "https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Characters/Character_Kahavin'Zil.json",
     "https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Characters/Character_Korrin'th.json",
     "https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Characters/Character_Lysera.json",
