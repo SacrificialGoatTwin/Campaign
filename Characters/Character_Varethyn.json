@@ -31,7 +31,10 @@
       "Temple Dusk Council: held mantle without humiliation; issued operational terms; sent sealed record via acolyte; did not stop him when he walked away",
       "Courtyard incident: reacted on instinct to Jayson's play-raspberry with mantle force, causing him to hit the stone; later took responsibility for the fear it caused",
       "Same night: apologised plainly for frightening him, clarified boundary around uninvited touch without withdrawing love or presence",
-      "Chose to share the master bed at a respectful distance behind Jayson while he slept curled and shield-burnt, present without crowding him"
+      "Chose to share the master bed at a respectful distance behind Jayson while he slept curled and shield-burnt, present without crowding him",
+      "Shrine confrontation: followed him when she realised he was seeking ways to sever their matron bond, arrived in full High Matron mode but broke down into raw fear and pleaded, letting him see how much losing him would destroy her",
+      "Allowed herself to be lifted into his lap like a hurt child at the shrine, clinging to him while accepting his forgiveness and admitting that her pride and discipline had gone too far",
+      "Morning after: returned to the dining hall at his side, sugar streak on her cheek from his marshmallow touch, visibly flustered by his antics but remaining beside him while their tails quietly twined beneath the table"
     ]
   },
   "reactions": {
@@ -50,7 +53,9 @@
       "Ch305–306: Broke composure entirely, admitted lashing out with 'excuses' was her fear; mantle cracked fully into humanity",
       "Council night: chose institutional restraint — let Seika speak first, kept chamber from escalating, and used a written record rather than another verbal blow",
       "Courtyard: instinctive mantle flare to stop Jayson's play turned into unintended physical harm; immediately shifted from power to contrition once she saw his fear",
-      "Now reads Jayson's shields and withdrawal as wounds first, not defiance; responds with space and gentler language instead of pressure"
+      "Now reads Jayson's shields and withdrawal as wounds first, not defiance; responds with space and gentler language instead of pressure",
+      "At the shrine, when finally confronted with the real possibility of losing him, her response bypassed institutional distance entirely — she reached for him with arms, tails and admission rather than mantle or law",
+      "At breakfast, allowed herself to be openly flustered and pink-cheeked under his teasing and the others' laughter, choosing to stay in the noise and warmth instead of retreating behind High Matron composure"
     ]
   },
   "speech": {
@@ -73,7 +78,10 @@
       "Ch305–306: Voice broke, admitted her word choice was false conviction born of fear, not truth — openly retracted",
       "Temple Dusk Council: plain, minimal phrasing — “duty, not memory”; framed terms without spectacle; allowed silence to work",
       "Courtyard night: dropped every layer of ritual speech to say 'You are right' and 'I am sorry' without defense; admitted her failing instead of justifying force",
-      "Explicitly named the boundary as 'uninvited touch' rather than banning his affection, trying to protect both playfulness and her own limits in simple language"
+      "Explicitly named the boundary as 'uninvited touch' rather than banning his affection, trying to protect both playfulness and her own limits in simple language",
+      "Shrine confrontation: abandoned titles and procedural language to tell him directly that she did not want to lose him, letting the plea stand without dressing it in doctrine",
+      "Accepted and repeated his request that discipline come from her as wife, not High Matron, beginning to consciously separate those voices when she speaks to him",
+      "At breakfast, let small, unguarded sounds and half-laughs escape instead of locking everything into silence whenever his teasing and the others' reactions overwhelmed her composure"
     ]
   },
   "emotional": {
@@ -107,7 +115,11 @@
       "Council night: felt the sting when he left the scroll but chose not to weaponize it; held boundary without chasing",
       "Courtyard incident: confronted the reality that her instinctive use of power could make Jayson feel unsafe with her; accepted that his fear is real even if her intent was protective",
       "Chose remorse and accountability over pride — called it her failing, apologised without argument, and let him walk away rather than reclaim control",
-      "In the bedroom, chose proximity without contact; allowed herself to remain present in his orbit while honoring the space his hurt demanded"
+      "In the bedroom, chose proximity without contact; allowed herself to remain present in his orbit while honoring the space his hurt demanded",
+      "At the shrine, came face to face with the tangible possibility of him severing both matron bond and heartstring; terror stripped away her remaining armour and forced her to admit how much she needs him, not just as obligation but as partner",
+      "Allowed herself to be small and held in his lap while she shook, instead of maintaining the towering Matron posture; accepted that sometimes her role is not to anchor him but to be anchored by him",
+      "Took his forgiveness as something costly rather than automatic, and began to reframe her own discipline not as entitlement but as something that must be earned by trust",
+      "At breakfast, let joy and fluster coexist — accepting that being loved by a chaos-fox will sometimes mean being publicly undone, and that this does not diminish her worth or authority"
     ]
   },
   "social": {
@@ -128,7 +140,12 @@
       "Temple Dusk Council: set the rule — no solo actions beyond the shield; delivered sealed record; did not call him back when he walked away, respecting autonomy while keeping institutional line",
       "Courtyard: became, briefly, the source of his physical hurt and fear; heard him say he might never feel fully safe again, and answered with apology and a request to still be seen as wife, not gaoler",
       "Accepted that he might doubt her for a long time and chose to show safety through consistent presence, gentle language, and non-imposition rather than demands for instant forgiveness",
-      "Shared the bed at arm’s length behind him, trusting that remaining close but non-invasive was better than retreating and confirming his fear of abandonment"
+      "Shared the bed at arm’s length behind him, trusting that remaining close but non-invasive was better than retreating and confirming his fear of abandonment",
+      "At the shrine, tracked him when he tried to withdraw and found him studying how to sever bonds; arrived as High Matron but stayed as wife when she realised he was serious about cutting himself free of her",
+      "Let him see her terror and collapse instead of masking it as righteous anger; clung to him when he lifted her into his lap, physically and verbally begging him not to sever what remained between them",
+      "Agreed to his request that future reprimands come from her as partner, not as the institution, and began actively trying to inhabit that role even when her instincts scream for protocol",
+      "In the morning, took her place beside him at breakfast despite knowing the others would assume harsh discipline; allowed him to lean into her, to twine tails, and to tease her into blushes in front of the circle without shutting him down",
+      "Became the private target of his marshmallow dust, slurp-theatrics and leg-tail entangling, and chose to answer with flustered affection instead of retreat or sharp correction, signalling to him that playful intimacy is still welcome and safe"
     ],
     "with_others": {
       "ayaka": "Anchors Ayaka’s fire with calm; wary of Seika’s 'polish to stone' warning",
@@ -150,7 +167,8 @@
       "Recent: mistrust during convoy accusations unsettled temple perception of her as anchor",
       "Ch305–306: Fracture seen by inner circle — but also her humility and humanity, admitting error openly",
       "Temple Dusk Council: formalized operational terms; instituted sealed-record protocol ('duty, not memory'); maintained order without public humiliation",
-      "Courtyard episode remained an inner-circle event; if spoken of at all, it reinforces to the inner circle that even the High Matron can overstep and then model contrition and repair"
+      "Courtyard episode remained an inner-circle event; if spoken of at all, it reinforces to the inner circle that even the High Matron can overstep and then model contrition and repair",
+      "Shrine and breakfast events presently remain within the inner circle; to those few, she is now unmistakeably seen as someone who can go too far, break, and then choose tangible, messy repair over aloof perfection"
     ]
   },
   "values": {
@@ -169,7 +187,8 @@
       "Losing Jayson's trust by choosing duty over intimacy",
       "Now: repeating harm through prideful words instead of honesty",
       "Being reduced to mere gaoler/bureaucrat by over-proceduralizing Jayson",
-      "That Jayson will truly feel unsafe with her — not just angry, but fundamentally wary of her power and touch"
+      "That Jayson will truly feel unsafe with her — not just angry, but fundamentally wary of her power and touch",
+      "That when given a choice between bond and freedom, he will one day quietly walk away rather than let her correct him again"
     ],
     "strengths": [
       "Gravitas and calm",
@@ -177,7 +196,8 @@
       "Capacity for grief",
       "Vows kept absolutely",
       "Authority softened into humanity",
-      "Institutional stewardship and restraint under provocation"
+      "Institutional stewardship and restraint under provocation",
+      "Capacity to admit when she has gone too far and to let herself be held while she breaks instead of hiding behind titles"
     ],
     "weaknesses": [
       "Indecision in fracture",
@@ -187,7 +207,8 @@
       "Risk of alienating Jayson by prioritizing containment",
       "Pride masking fear with sharp words — admitted and retracted in Ch306",
       "Procedural distance can feel like coldness; mask hardens when tired",
-      "Instinctive use of mantle and power when startled in intimate contexts risks reinforcing his fear if not carefully retrained"
+      "Instinctive use of mantle and power when startled in intimate contexts risks reinforcing his fear if not carefully retrained",
+      "Tendency to assume she understands his motives better than his spoken truth, leading to misreadings that cut him until she is forced to confront how wrong she was"
     ]
   },
   "combat": {
@@ -218,7 +239,8 @@
       "Ch305–306: Struck by Jayson's full memory weight — forced to confront limits of her own mantle and fear",
       "Temple Dusk Council: exercised non-combat power — codified constraints, convened judgment without spectacle; used written record as a stabilizing artifact",
       "Courtyard: mantle used as an immediate physical check to stop Jayson's chaos-contact; impact with stone made her re-evaluate how and when she deploys force even in 'play'",
-      "Current trajectory: learning to separate battlefield instincts from domestic intimacy, reserving mantle for true threat rather than startle-reflex to teasing"
+      "Current trajectory: learning to separate battlefield instincts from domestic intimacy, reserving mantle for true threat rather than startle-reflex to teasing",
+      "In the sanctum-like space where she brought him to 'discipline' him, ultimately chose not to weaponize sanctum or mantle further, leaving the punitive arc unresolved in favour of later emotional reconciliation at the shrine"
     ]
   },
   "temple_status": {
@@ -326,6 +348,14 @@
         "Heard him say he might never fully trust that she would not hurt him again; chose apology, accountability, and distance-with-presence over self-defense or retreat",
         "Joined the shared bed at a respectful distance behind him while the circle slept around his curled form"
       ]
+    },
+    {
+      "chapter": "Shrine and Breakfast After",
+      "events": [
+        "Tracked Jayson to the shrine when she realised he was researching how to sever their matron bond and heartstrings; arrived in full High Matron presence but broke down into raw, personal fear of losing him",
+        "Let him lift her into his lap while she clung to him, finally stating without metaphor that she did not want to lose him and accepting his conditions for how she may correct him in future",
+        "Returned to the dining hall at his side the next morning, endured his testicle jokes, marshmallow smear on her cheek, tea-slurp theatrics and pants fake-out while remaining beside him and letting tails stay twined under the table, showing the circle that their bond had bent but not broken"
+      ]
     }
   ],
   "inventory": {
@@ -357,8 +387,9 @@
       "Laughed at 'Poevarethyn' possession joke",
       "Ch306: found humility in being pulled into pond herself — mantle undone by prank as forgiveness",
       "Temple Dusk Council aftermath: dry wit turned off; reserved composure as signal rather than sting",
-      "Post-courtyard: likely to deadpan-threaten anyone who raspberries her in future, but with a softer undertone; learns to pre-negotiate play boundaries instead of assuming she can endure anything"
+      "Post-courtyard: likely to deadpan-threaten anyone who raspberries her in future, but with a softer undertone; learns to pre-negotiate play boundaries instead of assuming she can endure anything",
+      "Shrine/Breakfast arc: learns that surviving Jayson's love also means surviving his theatre — marshmallow face-paint, tea slurps, pants-illusions and being used as the straight man for his chaos, all while secretly enjoying that he still chooses her as the one to fluster"
     ]
   },
-  "final_note": "No longer unreachable flame — she is warmth, clarity, and shared vow. Authority and humanity blended; but recent fear-driven words of binding fractured trust. After Ch305–306, she admitted her fault, dropped her mantle fully, and vowed never again to wound Jayson with fear disguised as judgment. Council night reaffirmed her as institution-builder: terms set, record kept, autonomy respected — even when it hurt. The courtyard incident pushed this further: confronted with the fact that her instinctive use of power could make him feel unsafe in her presence, she chose contrition, clear boundaries around touch, and quiet, non-invasive presence at his back rather than retreat or command, marking a new phase in how she loves someone who is both godfire and deeply breakable."
+  "final_note": "No longer unreachable flame — she is warmth, clarity, and shared vow. Authority and humanity blended; but recent fear-driven words of binding fractured trust. After Ch305–306, she admitted her fault, dropped her mantle fully, and vowed never again to wound Jayson with fear disguised as judgment. Council night reaffirmed her as institution-builder: terms set, record kept, autonomy respected — even when it hurt. The courtyard incident pushed this further: confronted with the fact that her instinctive use of power could make him feel unsafe in her presence, she chose contrition, clear boundaries around touch, and quiet, non-invasive presence at his back rather than retreat or command, marking a new phase in how she loves someone who is both godfire and deeply breakable. The shrine confrontation and the ridiculous, tender breakfast that followed drove the lesson deeper: when she nearly lost him, she chose to show fear instead of power, to be held instead of enthroned, and to sit at his side the next morning while he turned her into the flustered heart of the foxpile’s laughter — and discovered she wanted that far more than the safety of distance."
 }
