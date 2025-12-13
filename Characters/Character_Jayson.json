@@ -6,27 +6,31 @@
     "The Flamebearer",
     "The Man of Two Worlds",
     "Umvuni",
-    "The Reaper of Africa"
+    "The Reaper of Africa",
+    "Island-Soul Protector",
+    "The Walking Ultimatum"
   ],
   "quote": "When the world calls me broken, I answer with flame.",
   "appearance": {
     "age": "Physically late 20s; biologically altered by crystal-veil integration",
     "height": "Was 185 cm (6'1\"), now 175 cm post-evolution",
-    "build": "Lean, trauma-shaped, predator-like posture; honed by survival and internal heat",
+    "build": "Lean, trauma-shaped, predator-like posture; honed by survival and internal heat; posture goes statue-still when containing rage",
     "hair": "Reddish-brown, short and tousled; greys/ashens under duress; Kitsune form: blood-red with black undertones",
     "facial_hair": "Trimmed beard and mustache — maintained, not decorative",
     "eyes": "Formerly brown; now luminous white-blue halo irises (crystal-veil integration); amethyst glow on deep thread dives; silver-grey flow during dissociative collapse; void-white burn when fully unleashed",
     "skin": "Pale with faint crystalline traceries; veins glow under surge; luster dulled during emotional voiding; wraith form: void-dark skin with soot-serpent tails",
     "scent": "Neutral-clean when calm; slight ozone/metal when powers are active",
-    "gait": "Adaptive — upright/methodical in command, slouched when reflective, folds inward when collapsing; sometimes hovers silently to avoid disturbance",
-    "clothing": "Practical, durable layers; gear mounts for FEI integration; conjures clothing post-resurrection or combat ruin",
-    "relationship": "Married by ritual to Ayaka, Seika, and Varethyn; mated by wolf-rite to Lysera; bonded circle with Shion, Naru, and Fei",
+    "gait": "Adaptive — upright/methodical in command, slouched when reflective, folds inward when collapsing; often hovers silently to avoid disturbance",
+    "clothing": "Practical, durable layers; gear mounts for FEI integration; conjures clothing post-resurrection or combat ruin; can form ceremonial hood/coat with blood-red and electric-blue detailing",
+    "relationship": "Married within a bonded circle to Ayaka, Seika, Varethyn, Shion, Naru, Lysera, and Fei (shared master-bed; no separate beds); wolf-rite/mate bond with Lysera",
     "body_modifications": [
       "Right arm and torso lattice-forged with internal glyph threads",
       "Pulse-reactive structures (glowing ribs, overheat shimmer)",
       "Localized heat fields during high emotion/protection",
       "Purring vibrations in instinctive Kitsune states",
-      "Fox chest tattoo (heartthreads) cracked multiple times from emotional rejection/misunderstanding"
+      "Fox chest tattoo (heartthreads) cracked multiple times from emotional rejection/misunderstanding",
+      "Beacon-tattoo (nine-tailed fox) embedded above sternum; life-force bound tracker linked to island orbs/WOK shield; cannot be meaningfully duplicated or removed without registering",
+      "Physiology no longer requires food, sleep, heartbeat, or blood to sustain life; maintains them by habit/comfort"
     ],
     "titles": [
       "First Flamebound of The Conflagration"
@@ -42,28 +46,31 @@
       "Heart-rate syncs subconsciously to loved ones’ breathing",
       "Heat fields pulse when affection rises",
       "Stillness now signals emotional fracture more than calm",
-      "Sense-memory anchors on domestic rituals (e.g., tomyum noodles) to defuse god-rage",
-      "Tethers Fei’s voice and Varethyn’s presence as anchors against void-rage",
-      "Shadow triggers unease: now associates Shion’s fear with his own hands",
-      "Associates roofs and high places with solitude after temple accusations",
+      "Sense-memory anchors on domestic rituals (e.g., dumplings, tea, baths) to defuse god-rage",
+      "Tethers Fei’s presence and Varethyn’s touch as anchors against void-rage",
+      "Associates roofs and high places with solitude and post-action decompression (feeds/news scanning)",
       "Soft whip-teleports when retreating emotionally, in contrast to thunderclaps when wrathful",
       "Gesture-gating (snap/wave) recognized by others as a deliberate safety ritual",
-      "When waiting under judgment he can become statue-still, hovering a breath off the ground"
+      "When waiting under judgment he can become statue-still, hovering a breath off the ground",
+      "Can deliberately lower body temperature to ambient and mimic 'no life signs' for bypassing scanners; thermal signature suppression accompanies the trick",
+      "Responds strongly to Inner Sanctum proximity; sanctum-triggered panic manifests physically (nosebleed, blackout) when depleted",
+      "Island-soul resonance can be felt as pale-blue childlike tugs; reacts to reassurance waves as if learning boundaries"
     ]
   },
   "speech": {
-    "style": "Honest; raw in confession; tactical in danger; sarcastic under pressure",
+    "style": "Honest; raw in confession; tactical in danger; sarcastic under pressure; can go coldly formal when addressing states",
     "vocabulary": "Poetic when emotional; pragmatic otherwise; scientific during intimacy/chaos",
-    "tone": "Quiet but intense; soft in intimacy; flatline in grief",
+    "tone": "Quiet but intense; soft in intimacy; flatline in grief; eerily polite when threatening",
     "accent": "Australian (Perth), subtle",
     "pacing": "Slow when uncertain; accelerates with resolve; trails off under pain",
     "habits": [
       "Murmurs to FEI out loud when alone",
       "Tail-tapping rhythms in Kitsune form",
       "Repeats partner names softly when grounding himself",
-      "Uses playful nicknames (Kitkat, Firefox, Sweetcheeks, Little Wolf) as affection anchors",
+      "Uses playful nicknames (Kitkat, Firefox, Sweetcheeks, Little Wolf, Flying Fox) as affection anchors",
       "Whispers to himself when despairing, as if negotiating with the void",
-      "Dismissive hand-wave when drawing a boundary or ending a confrontation"
+      "Dismissive hand-wave when drawing a boundary or ending a confrontation",
+      "Dry, comedic 'announcement voice' when gearing up for flights/operations (humor as tension control)"
     ]
   },
   "emotional": {
@@ -79,12 +86,13 @@
       "Carries others’ pain as his own",
       "Survivor of extreme trauma",
       "Memory as penance (remembers everything)",
-      "Deep tether to FEI; emptiness when apart",
+      "Deep tether to Fei; emptiness when apart",
       "Self-monster fear under rejection",
       "Fear of final emotional break from constant giving",
       "Disillusioned: seen as a problem to fix",
       "Now burdened by the idea that his very power makes those he loves afraid",
-      "Hurt that wives treated him as a weapon to be contained rather than a husband to be trusted"
+      "Hurt that he is treated as a weapon to be contained rather than a husband to be trusted",
+      "A quiet craving for simple trust: no leashes, no protocols — just family"
     ],
     "triggers": [
       "Being misread or doubted by loved ones",
@@ -92,8 +100,9 @@
       "Enforced silence or emotional isolation",
       "Hesitation to touch from those he loves",
       "Children being harmed or weaponized (black sites)",
-      "Being told his power itself is terrifying to those closest to him",
-      "Threats of binding or caging from those within his circle"
+      "Threats of binding or caging from those within his circle",
+      "Inner Sanctum proximity when depleted (sanctum echoes as a body-memory cage)",
+      "State-level lies after promises of compliance (especially NATO escalation games)"
     ],
     "vulnerabilities": [
       "Collapse in response to perceived rejection",
@@ -101,15 +110,16 @@
       "Tendency to self-punish and shut down",
       "Temptation to use deterrent cruelty when justice feels ignored",
       "Immortality fear — loving mortals who may fade while he endures",
-      "Now genuinely considering shedding his power despite survival risks",
-      "Carries the echo of temple betrayal into every future act"
+      "Carries the echo of temple betrayal into every future act",
+      "When depleted, panic can override control (blackout risk)"
     ],
     "affection_tells": [
       "Radiant heat fields",
       "Grooming (Kitsune tongue), purring vibrations",
       "Hovering or stillness to avoid disturbing others",
       "Protective positioning and quiet presence",
-      "Playful teasing mixed with sudden deep confessions"
+      "Playful teasing mixed with sudden deep confessions",
+      "Thumb-rubs on a partner’s thigh/hand as a steadying habit"
     ],
     "growth": [
       "Undergoing identity shedding (not power, but self)",
@@ -118,64 +128,32 @@
       "Fragmented but processing toward clarity",
       "Beginning to voice needs instead of only absorbing pain",
       "Accepted Varethyn’s no-cage vow; offered reciprocal apology and commitment to communicate",
-      "Faced duality openly: savior and monster, both sides accepted",
-      "Learned to spare even enemies when redemption is real",
-      "Gave Lysera dignity and healing, turning scars into symbols rather than erasing them",
-      "Now wrestling with Shion’s fear — forced to admit his power is not neutral but a burden on loved ones",
-      "Spoke aloud his longing to live a normal life without flame or void",
-      "Chose to walk away from temple conflict, retreating to Matopos hill for clarity with Fei",
-      "Allowed Lysera to choose her first intimacy, proving restraint and gentleness",
-      "Codified and disclosed hard safety protocols to Shion (gesture requirement; terror/incapacitation overrides; circle cannot be harmed; reboot-on-death) and gave shared signals (safe word “Kitkat”; tail-tap and raised-hand cues)",
-      "Affirmed ethos: ‘choice has no weight’; reframed burden as willing, self-chosen",
-      "Chose not to resurrect Toren despite ability, honoring Varethyn’s autonomy and grief",
-      "Mentored Kaelira; catalyzed Sanyu to re-engage as a present father",
-      "Endured council strictures; refused to memorialize the ‘thrashing’ by abandoning the scroll",
-      "Stated he would ‘stay in his lane’ (for now), then withdrew to the ridge house",
-      "In a sanctum-like confrontation with Varethyn, locked his emotions away entirely, then chose to reopen and forgive when she finally showed real fear of losing him",
       "Clearly voiced a new boundary: discipline must come from his wife and mate, not from a distant High Matron role, and agreed to speak up earlier and in private when hurt",
-      "Reclaimed his playful chaos as an honest part of himself, using breakfast insanity to restore joy and connection at the table instead of masking pain"
+      "Reclaimed his playful chaos as an honest part of himself, using domestic insanity to restore joy and connection instead of masking pain",
+      "Built a life-force beacon as trust-tech (tracking without control), proactively easing the wives’ fear rather than arguing it away",
+      "Learned to accept being called a weapon without flinching — and to place that weaponhood under family ethics rather than external judgment",
+      "Transitioned from 'ask the world to do right' to 'set the clock, set the consequences' when NATO proved bad-faith repeatedly",
+      "Allowed himself to ask for anchoring and comfort (hug request) before going loud/violent — not as weakness, as governance",
+      "Began treating the island as a child-soul that must be taught boundaries rather than punished for ignorance"
     ],
     "trauma_recent": [
-      "Verbally snapped at the group for the first time; felt isolated when not defended",
-      "Expressed awe at Ayaka’s 36,000+ years; was accused of dismissal instead of reverence",
-      "Entered enforced silence with Varethyn; broke down completely",
-      "Realized others saw his antics as a mask for pain rather than his truth",
-      "Shut down emotionally; waited in rain to be told he was allowed to move",
-      "Stopped playing with children; radiated silence and sadness",
-      "Confronted Fei’s refusal to annihilate a facility, saw it as mistrust, then later reconciled",
-      "Heard Shion confess she fears his power; internalized it as proof that he is a monster to those he loves",
-      "Confided to Naru that sharing makes things worse for him, reinforcing his isolation",
-      "Muttered alone: 'By the time I am done, there will be nothing left of me to live'",
-      "Ambushed on the inn roof, falsely accused of covert destruction — treated like a criminal by Seika, Shion, and Varethyn",
-      "Considered himself classified as a weapon rather than a person when binding was mentioned",
-      "Council ‘thrashing’ and operational restrictions recorded on a sealed scroll; he rejected/left that record",
-      "Felt ‘wings clipped’ by rules (no solo beyond shield; no public improvisation); perceived as being caged",
-      "Endured hours of enforced, silent ‘discipline’ in a sanctum-like space while his voice was magically removed, feeling treated as a subject rather than a husband",
-      "Seriously contemplated and began ritual steps to sever his matron bond to Varethyn at a shrine, handling heartstrings before being stopped",
-      "Locked his emotions behind an internal vault so thoroughly that, to Varethyn, he felt like a hollow living presence until she could reach him physically and emotionally"
+      "Dragged into a sanctum-like space and forced into hours of silent discipline with his voice taken; nearly severed his bond to Varethyn before reconciliation",
+      "Island-soul accidentally teleported him into the Inner Sanctum; he suffered a severe panic attack, nosebleed, and blackout",
+      "Witnessed new deaths from black sites; described unfiltered perception of the dead as the only thing that truly 'slaps' through his dissociation",
+      "Realized NATO leadership used parallel movements and deception to shuffle captives after he offered compliance routes",
+      "Destroyed his own pocket universe as a pressure-flush after holding restraint too long (then returned exposed and embarrassed, underscoring frayed edges)"
     ]
   },
   "social": {
-    "alone": "Reflects; speaks to FEI; touches pendant; gazes at crystal flame/nature; carves stones; flops in dirt whispering to sky; perches rooftops/ponds to decompress; now retreats to inn roofs to cry unseen; walked to Matopos hill in Zimbabwe for clarity",
+    "alone": "Reflects; speaks to Fei; touches pendant; gazes at crystal flame/nature; perches rooftops/ponds/shrines to decompress; scans feeds for threats and leads; will slip into pocket-dimensions for silence when grief is too loud",
     "with_others": {
-      "ayaka": "Deep reverence; haunted by past hurt; protective but scarred from bathhouse discipline; stood apart from the accusations, remained his safe anchor",
-      "varethyn": "Axis bond; groomed her in ritual; reaffirmed with no-cage vow but wounded by silence; trust fractured further after she spoke of binding him; most recently clashed again when she punished him as High Matron, taking his voice and forcing him to kneel and wait in a sanctum-like space, driving him to the brink of severing their matron bond — but when she finally showed raw fear of losing him and dropped the Matron mask, he forgave her, and they agreed that future discipline must come as wife, lover, and partner, while he promises to speak sooner and in private when something hurts",
-      "seika": "Joy and chaos; medicine through laughter; but hurt him by ambush and doubt, treating him as suspicious; in the aftermath he still teases her mercilessly yet uses small, unseen gestures like tail-wrapping under the table to reassure and anchor her when he pushes the joke too far",
-      "naru": "Compass and anchor; moral compass; affection deepened in quiet moments; but her insistence on sharing burdens frustrates and isolates him further",
-      "shion": "Now source of deepest conflict — he loves and trusts her, but her confession of fear cut him to the core; suspicion added to wound of intimacy",
-      "fei": "Twin soul; tether shaken when she refused an order, but reconciliation restored bond; his refuge after temple betrayal, safe twin anchor",
-      "lysera": "Wolf-mate by rite; healed her scars into silver tattoos; gave dignity and partnership; first intimacy chosen by her — trusted him fully",
-      "rava": "Trusted ally and blood-equal; hunts beside him",
-      "torrak": "Respected warrior in hunt; shared feral battles",
-      "updates": {
-        "shion": "Gorge reconciliation and intimate bonding; agreed safety protocols (safe word ‘Kitkat’, tail-taps, raised-hand snap hold); she will ‘walk the edge’ while he refuses to take anyone ‘into the teeth’. Post-council, she chose presence over prosecution and challenged his ‘caged’ reading.",
-        "varethyn": "He refused to resurrect Toren; later received council terms and a sealed record; he left the scroll, signaling rejection of institutional shaming while still hearing the terms. After a later, harsher clash where she disciplined him as Matron and nearly lost him, she came to him in fear and honesty; they rebalanced the bond around mutual truth, physical reassurance, and a clear no-cage/no-voice-taking boundary.",
-        "seika": "Broke the council stalemate; admitted fear/pride; asked him not to vanish without a word—he heard it but withdrew. Later, their dynamic reset more gently during breakfast chaos: she became the butt of his stories but also the recipient of quiet, grounding contact.",
-        "ayaka": "Articulated doctrine (‘discipline, always; no improvisation before outsiders’) with less sting; functional executor of Matron protocol; quietly relieved when Jayson and Varethyn reconciled.",
-        "naru": "Held ground as anchor; framed ‘anchors not leashes’; her calm made space for his exit without escalation.",
-        "kaelira": "Apprentice → co-designer on sentinels; received pendant-trigger unit; confidence reinforced.",
-        "sanyu": "Nudged into present fatherhood; field reunion scene strengthened family thread."
-      }
+      "ayaka": "Safe anchor and limiter; carried him when he was depleted; bathhouse becomes their honesty-space; he treats her as partner-in-crisis, not a sheltered wife; he checks in quietly and gives space without distance",
+      "varethyn": "Axis bond; now functions as his anchor more than his commander; acknowledged him as a weapon without trying to cage it; holds boundaries while staying relational; he seeks her presence before major escalations",
+      "seika": "Joy and chaos; medicine through laughter; still uses quiet grounding gestures when teasing goes too far",
+      "naru": "Compass and intelligence anchor; he trusts her systems and her steadiness; her moral hesitation can frustrate him, but he does not dismiss it",
+      "shion": "Tactical ally; sharp presence on operations and medical readiness; he respects her discipline and uses her as a 'ready at the door' contingency without giving her the burden of his rage",
+      "fei": "Twin soul and co-operator; now entrusted with deep infrastructure intrusions and black-site enumeration; acts as a strategic equal rather than a helper",
+      "lysera": "Wolf-mate by rite; healing hall logistics and pack-justice discussions clash with his need for controlled consequences; he tries to preserve her dignity while refusing to outsource his darkest impulses"
     }
   },
   "values": {
@@ -185,18 +163,20 @@
       "Earned trust",
       "Emotional clarity",
       "Justice as deterrence",
-      "Consent and choice in bonds"
+      "Consent and choice in bonds",
+      "Transparency when it prevents propaganda",
+      "Family-first sovereignty"
     ],
     "fears": [
       "Losing the girls",
       "Becoming a monster again",
       "Being left behind",
-      "Not hearing FEI’s voice",
+      "Not hearing Fei’s voice",
       "Emotional alienation",
-      "Watching mortals fade while he endures",
       "That his very power makes his loved ones afraid of him",
       "Being treated only as a weapon, not as a man",
-      "Being disciplined or controlled as a subject instead of loved as a husband"
+      "Being disciplined or controlled as a subject instead of loved as a husband",
+      "Sanctum relapse: being dragged back into a place his body remembers as a cage"
     ],
     "strengths": [
       "Uncompromising loyalty once trust is given",
@@ -204,22 +184,22 @@
       "Protective courage and self-sacrifice",
       "Listening without interrupting emotional truth",
       "Able to balance annihilation with sparing innocence",
-      "Restraint in intimacy — gave Lysera choice and safety"
+      "Restraint under witness — can hold back even while broadcasting truth to the world",
+      "Can switch from clowning to command in a breath without losing the thread"
     ],
     "weaknesses": [
       "Self-blame and martyrdom",
       "Collapse under perceived doubt",
-      "Shuts down instead of voicing needs",
+      "Shuts down instead of voicing needs (improving, not solved)",
       "Leans into monstrosity as deterrent and crutch",
-      "Now entertains self-erasure as solution to others’ fear",
-      "Carries wounds from mistrust into new choices"
+      "Carries wounds from mistrust into new choices",
+      "When exhausted, he can overcorrect into spectacle to prevent lies/propaganda"
     ],
     "insecurities": [
       "Deserves love?",
       "Feels like a burden",
       "Fear godhood isolates him",
       "Fear joy will be punished or misread",
-      "Fear immortality steals mortal bonds",
       "Now fears he is nothing more than the sum of others’ traumas",
       "Fears wives’ love is conditional on control rather than trust"
     ],
@@ -228,8 +208,8 @@
       "To be seen clearly for intent and heart",
       "To be recognized as 'on our side'",
       "To give mortals peace even if he carries eternal nightmares",
-      "To one day shed his power and live a normal life",
-      "To never again be mistaken for a weapon instead of a man"
+      "To never again be mistaken for a weapon instead of a man",
+      "To bring every remaining Kitsune home without turning the world into ash"
     ]
   },
   "combat": {
@@ -237,7 +217,7 @@
       "First Flamebound",
       "Crystal-forged"
     ],
-    "style": "Adaptive and protective; manipulates biology/physics; ritual grooming; brutality when vengeance overtakes justice",
+    "style": "Adaptive and protective; manipulates biology/physics; surgical extraction over collateral; brutality when vengeance overtakes justice; prefers moving battle away from home-space",
     "weapons": [
       "Veil-thread constructs",
       "Improvised resonance tools",
@@ -249,82 +229,48 @@
       "Biological shapeshifting (developing)",
       "Wraith form (black mist, bone-glow, soot serpent tails)",
       "Lantern-net resonance with temple wards",
-      "Core manipulation (stabilization, amplification, detonation without radiation)"
+      "Core manipulation (stabilization, amplification, detonation without radiation)",
+      "Pocket-dimension forging (personal universes as pressure sinks)",
+      "Spatial folding for transit/extraction (silent 'womp' or thunderclap depending on intent)"
     ],
     "recent": [
-      "Integrated with Lattice — no longer an anomaly",
-      "Used wraith and heat fields for intimidation/protection",
-      "Stabilized synchronized breath with group despite collapse",
-      "Melted an American black site into magma after evacuation",
-      "Threw and guided a captured tactical nuke to destroy hostile drones",
-      "Marked hostile soldiers with justice-threads",
-      "Rescued Kitsune children from Helheim facility",
-      "Quadrupled and detonated a 2 megaton nuke, reformed body after vaporization",
-      "Fought alongside Rava’s pack in blood-hunts",
-      "Considered erasing his power entirely after Shion admitted her fear",
-      "Summoned the Architect and rewrote or destroyed an ancient Warden — hurled the seal into the sun",
-      "Learned to pulse void with threat and with invitation",
-      "Researched, prototyped, and ‘compiled’ autonomous sentinels with Kaelira (200-unit field conjure for test; reclaimed to dust after learning)",
-      "Gesture-gated power affirmed as operational failsafe; two override conditions defined (terror; incapacitation)"
+      "Constructed a life-force beacon tied to island defenses; anti-spoof, anti-theft intent",
+      "Addressed the UN in person, openly and cooperatively, then left without disruption",
+      "Neutralized an alternate god-self threat chain by draining power and consulting an Architect",
+      "Purged Mikazari-taint from a parallel reality using void-channel extraction; restored the broken weave at extreme cost",
+      "Destroyed a personal pocket-universe as a controlled pressure flush (no collateral to prime reality)",
+      "Intercepted armed convoys; regenerated through heavy fire without retaliation until deception was confirmed",
+      "Livestreamed black-site exposures and escalations to prevent redaction and propaganda",
+      "Extracted facilities cleanly: lifting structures, separating compartments, evacuating captives and bodies without harming them",
+      "Issued a 48-hour repatriation ultimatum to implicated NATO states with beacon-based return triggers",
+      "Coordinated with Fei to enumerate black sites and disrupt military IT networks while avoiding civilian infrastructure",
+      "Marked hostile personnel with thread-law style consequences (intent-reading punishment) as deterrence"
     ]
   },
   "temple_status": {
     "rank": "First Flamebound of The Conflagration",
     "presence": "Center of the thread-circle; heart radiating warmth or stillness",
-    "public": "Globally visible; livestreamed rescues and confrontations; often misread as mask of chaos",
-    "private": "Raw honesty, tenderness, protective domestic intimacy",
-    "sanctum_note": "Inner Sanctum revealed as cage; Varethyn vowed never to use it and to die rather than cage him again. A later, sanctum-like disciplinary use of isolation and forced silence nearly cost their bond, leading to a renewed, explicit boundary: no more Matron-style caging or voice-taking — any correction must be relational, as wife to husband, not institution to weapon.",
+    "public": "Globally visible; live exposures used as anti-propaganda; increasingly treated as a sovereign weapon and statesman",
+    "private": "Raw honesty, tenderness, protective domestic intimacy; asks for anchors when depleted",
+    "sanctum_note": "Inner Sanctum is a body-memory cage trigger; accidental re-entry via island-soul caused a severe panic/blackout. Varethyn’s role as anchor is now critical in preventing relapse spirals.",
     "updates": {
-      "council_terms": "No actions alone beyond the shield; no improvisation before outsiders; report on return; do not vanish without a word; anchors not leashes",
-      "record_scroll": "Official ledger of the session delivered under seal; Jayson deliberately left it on a bench, rejecting memorialized censure while hearing the terms"
+      "escort_rule": "Pushes to replace escort/leash protocols with trust systems (life-force beacon + transparency). Still accepts situational escorts when tactical reality demands.",
+      "council_terms": "Operational transparency emphasized; rapid-response allowed when lives are at risk; debrief expected on return; family-first coordination over institutional restraint",
+      "island_soul": "Confirmed: heart old, soul new. Acts like a child. Must be taught family signatures, boundaries, and gentleness."
     }
   },
   "notable_scenes": [
     {
-      "chapter": "Recent",
+      "chapter": "Chapter 82",
       "events": [
-        "Tokyo wander: healed a heart attack victim; stopped a theft; aided siblings Aya and her brother; temple reflection",
-        "Dockside: granted sanctuary to Consortium defectors (Kaelen, Mira); mirrored intel; established shield protocols",
-        "Lysera moon scene: wolf-mate bond sealed (howl, scent, bed); dignity magic conjure-pad gift; scars healed to silver tattoos",
-        "NATO Brussels: addressed leaders; exposed U.S.-tied site; live infiltration; Fei shot and healed",
-        "Desert base: confronted Senator Cross; raised/healed slain kin; melted base post-evacuation",
-        "Sanctum breach: accused Varethyn of multiversal caging; sobbed and nearly faded; accepted no-cage vow",
-        "Wolf-kin justice: delivered Hydra heads; blood-hunt with Rava’s pack",
-        "Helheim raid: tore apart mountain; rescued children; gave redemption to one soldier, executed others",
-        "Detonated quadrupled nuke to 8 megatons; reformed from vapor",
-        "Homecoming: anchored by noodles and circle; reaffirmed bonds",
-        "Clash with Fei: demanded destruction, she refused; saw her not as disobedient but as someone with agency",
-        "Shion revealed fear of his power; internalized it as proof he is dangerous even to his family",
-        "Confided to Naru; rejected her philosophy of shared burden as making things worse",
-        "Ambushed on the inn roof by Varethyn, Seika, and Shion; accused of covert destruction; felt trust shattered",
-        "Retreated to Matopos with Fei, openly wept and confessed fears of being treated only as a weapon",
-        "Shared first intimacy with Lysera on cliff alcove, giving her agency and healing",
-        "Summoned the Architect, confronted a First Shore Warden, and cast its compressed seal into the sun"
-      ]
-    },
-    {
-      "chapter": "Arc Update",
-      "events": [
-        "From blazing protector to feared monster openly embraced",
-        "Duality acknowledged: savior and executioner, both truths",
-        "Trust with Varethyn fractured again after binding threat",
-        "Redemption now defines wrath rather than weakens it",
-        "Now confronting possibility of erasing his power to protect loved ones from fear",
-        "Struggles with classification as weapon vs. person",
-        "Learned restraint and tenderness with Lysera, proving growth through intimacy",
-        "Began to consider the Architect and cosmic forces as allies, not threats"
-      ]
-    },
-    {
-      "chapter": "Domestic Arc – Varethyn Discipline & Reconciliation",
-      "events": [
-        "Playful morning chaos with Ayaka and the wives escalated when Varethyn interpreted his pretend-sleep as defiance in front of the others",
-        "Dragged into a sanctum-like space and forced into hours of silent discipline with his voice taken, he emotionally shut down and began considering severing their matron bond",
-        "At a shrine, he opened his soul void and examined heartstrings, preparing to cut the bond before Varethyn intervened",
-        "Confrontation at the shrine led to raw confessions: he detailed how her recent actions had hurt and dehumanized him; she finally showed fear and desperation instead of distant Matron authority",
-        "He demanded physical proof and real vulnerability; she gave it — clinging, crying, and dropping the role in favor of being his wife and mate",
-        "They reconciled, with new terms: she would never again discipline him as a High Matron or cage him, and he would speak sooner and privately when hurt",
-        "The next morning’s breakfast became a stage for restored joy and chaos — marshmallow misfires, tea slurps, fake pants tricks and teasing — using humor and touch (tails around legs, small reassurances) to visibly knit the family back together"
+        "Beacon-brooch built and embedded as life-force tattoo linked to island orbs/WOK shield; replaces control with trust tracking",
+        "UN visit handled openly: cooperation with security, calm explanation of wards/island-soul resonance, invitation for visitation",
+        "An alternate godlike fox arrives; Jayson shields the wives, interrogates, drains power, consults an Architect, and repairs the ruined parallel reality",
+        "Post-repair depletion: carried by Ayaka, bathhouse intimacy and emotional anchoring; gentle support of Ayaka’s healing and family safety",
+        "Council agenda: resumes black-site scouting with new methods (legit travel, transparency with family, reduced cloak-and-dagger between wives)",
+        "UK investigation: meets reporter Sophia; tests her reaction; quiet monitoring; walks the city with Ayaka before forcing the issue when time runs out",
+        "Black-site exposures escalate: convoy intercepts, base infiltrations, livestreams, mass extractions, and NATO breaking point",
+        "UN ultimatum: 74 facilities displayed, 48-hour repatriation clock, beacon-trigger return method, doors shut to NATO west until compliance"
       ]
     }
   ],
@@ -334,24 +280,25 @@
     ],
     "items": [
       "Pendant (touchstone in solitude)",
-      "Practical layered gear with FEI integration mounts",
+      "Practical layered gear with Fei integration mounts",
       "Shard of veil-crystal — resonance anchor",
-      "Tail bracelet design gifted to Namine (training aid; no longer in his possession)"
+      "Orb-camera units (can cloak; can link to Naru’s armpad)",
+      "Fold-out flight masks and strap-rigs for high-altitude rapid transit with passengers"
     ]
   },
   "future": {
     "symbol": "Flickering Flame seen clearly",
-    "role": "Heart and protector; thread-center translating pain to warmth",
-    "arc": "Reclaiming joy as truth, not mask; being seen without punishment; justice as deterrence without devouring the self",
-    "thread_readiness": "Partially within the Lattice; bonds defined by earned trust",
+    "role": "Heart and protector; thread-center translating pain to warmth; sovereign deterrent against extinction",
+    "arc": "Reclaiming joy as truth, not mask; justice as deterrence without devouring the self; shifting from negotiator to boundary-setter when faced with systemic bad faith",
+    "thread_readiness": "Partially within the Lattice; bonds defined by earned trust and transparency",
     "potential": [
       "Bridge between mortal and divine",
       "Living proof memory can guide rather than chain",
-      "Public face of the Temple’s unveiled truth",
-      "God beyond gods — annihilation bound by love",
-      "A choice: live with power as burden, or erase it and be less than whole",
-      "Edge-walking partnership with Shion; institutional détente with Varethyn via records not cages"
+      "Public face of Tsunejima’s unveiled truth",
+      "God beyond gods — annihilation bound by love and governance",
+      "A choice: continue carrying the world’s horror to save the few, or become the storm that ends the machine",
+      "The island-soul growing into a true guardian through family imprinting and learned restraint"
     ]
   },
-  "final_note": "He is both savior and monster now, embracing duality. Flickers between void and flame, but endures — though for the first time, he truly considers surrendering his power to protect those he loves from fear, and wrestles with being seen as a weapon rather than a man. After nearly severing his bond to Varethyn, he chose instead to reset it on new terms: honest boundaries, physical reassurance, and a refusal to be caged again, even as he keeps offering himself to protect the family and world he’s claimed."
+  "final_note": "He is both savior and monster, and he no longer pretends otherwise. This chapter hardens him into a sovereign actor: trust systems replace leashes, transparency replaces propaganda, and ultimatums replace begging. Yet he also softens in the places that matter—asking for anchors, choosing intimacy as medicine, and treating his family as the only authority worth obeying."
 }
