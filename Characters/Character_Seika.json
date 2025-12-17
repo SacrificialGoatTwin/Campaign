@@ -29,7 +29,11 @@
       "Watched Jayson leave the courtyard after the scroll without calling him back—held presence instead of pursuit",
       "Training grounds: humiliated in front of trainees by unseen illusions, reached an emotional breaking point instead of laughing it off",
       "Later allowed Jayson to find her in that hurt, cried openly into his arms and accepted his apology and comfort",
-      "Returned to public play with him the same day, proving that beneath chaos her bond with him is resilient and chosen"
+      "Returned to public play with him the same day, proving that beneath chaos her bond with him is resilient and chosen",
+      "Withdrew for days without being seen, hiding in quiet corners near water rather than asking for comfort",
+      "Was found talking to koi as if performing a stage play—using humor-as-ritual to cope in isolation",
+      "Accepted being physically scooped up and returned to the dining hall rather than fleeing again",
+      "Let Jayson anchor her with touch, tails, and closeness when she looked close to snapping"
     ],
     "new_details": [
       "Ruby-ring from Jayson representing her place in his constellation",
@@ -42,7 +46,10 @@
       "Understands the council’s 'anchors not leashes' framing and is trying to live it",
       "Practices ‘presence as care’ — staying nearby and silent when words would inflame",
       "New awareness that public embarrassment cuts deeper for her than she admits; now more conscious of the line between play and humiliation",
-      "Has experienced that she can be furious, say the wrong thing, and still be met with repair rather than abandonment—this is reshaping her sense of safety"
+      "Has experienced that she can be furious, say the wrong thing, and still be met with repair rather than abandonment—this is reshaping her sense of safety",
+      "New pattern when overwhelmed: self-isolation in familiar temple-water spaces (ponds/shrines) instead of seeking the group",
+      "Responds strongly to direct belonging-claims (being called important; being physically brought back into the center)",
+      "Flirt-fight humor surfaced again under stress (bite threats / playful danger) as a way to return to safety through play"
     ]
   },
   "reactions": {
@@ -62,7 +69,8 @@
       "Interrupts solemn speeches with jokes",
       "Nicknames everyone, even mid-battle",
       "Laughs at her own commentary",
-      "Whispers truths after pranks—testing vulnerability and trust"
+      "Whispers truths after pranks—testing vulnerability and trust",
+      "Uses flirt-danger banter (e.g., bite-threat jokes) to re-enter closeness when emotions spike"
     ]
   },
   "emotional": {
@@ -88,7 +96,8 @@
       "Shaken by experiencing Jayson’s memories; fears losing her lightness if she carries too much darkness",
       "Guilt over council confrontation tone; worries she added to his sense of being 'on trial'",
       "New sting around public humiliation—being made to look foolish in front of trainees cuts far deeper than she lets on",
-      "Private fear that saying 'I hate you' in anger might ever be taken as literal and push Jayson away for good"
+      "Private fear that saying 'I hate you' in anger might ever be taken as literal and push Jayson away for good",
+      "New vulnerability exposed this chapter: disappearing for days—using isolation as protection—then spiraling when it doesn’t resolve the ache"
     ],
     "affection_tells": [
       "Physical touch: leans on people, jumps into laps, accepts cuddles",
@@ -119,7 +128,8 @@
       "Chapter 77+: collapsed under memory share but still reached for trust, admitted jokes were armor, vowed not to hide fear behind them again",
       "Council 00025x: broke silence to speak fear/pride plainly; chose presence and restraint instead of deflection; asked him not to vanish",
       "Training grounds fallout: instead of burying humiliation under more jokes, allowed herself to break down privately and let Jayson see the raw hurt, then chose to accept repair",
-      "Post-training reconciliation: proved to herself that she can be furious, honest and messy without losing him, reinforcing a new model of conflict that doesn’t equal abandonment"
+      "Post-training reconciliation: proved to herself that she can be furious, honest and messy without losing him, reinforcing a new model of conflict that doesn’t equal abandonment",
+      "Chapter 83: was pulled back from self-erasure (days unseen) and accepted being reclaimed—learning that being 'the joy' is also being allowed to need help"
     ]
   },
   "social": {
@@ -142,7 +152,8 @@
       "Chapter 77+: broke down under memory share, admitted she used humor to mask fear, asked Jayson not to shut her out",
       "Council night: asked him not to disappear again; stayed when he withdrew; felt guilt watching him leave the courtyard with the scroll left behind",
       "Training grounds: experienced being the butt of a joke she didn’t understand, lashed out with 'I hate you' in the moment, then let him come back to fix it instead of pushing him away permanently",
-      "Reconciliation scene: allowed herself to be fully held and reassured, accepted that he hadn’t meant to wound her, and reclaimed their play from a place of deeper trust"
+      "Reconciliation scene: allowed herself to be fully held and reassured, accepted that he hadn’t meant to wound her, and reclaimed their play from a place of deeper trust",
+      "Chapter 83: vanished for days; was found, anchored by heart-touch and tail-wrap comfort, then carried back into the family space instead of being left alone"
     ],
     "with_others": {
       "fei": "Best-friend chaos; shares lap space, sweets, antics",
@@ -184,7 +195,8 @@
       "Loyalty must be active choice, not assumption—asking builds trust, accusing destroys it",
       "Her chaos can shield, but also wound; she now understands timing is as important as fire",
       "Restraint can be love: sometimes staying and saying less protects more",
-      "Even when her own jokes or others’ pranks hurt her pride, she is learning to name the hurt and move through it instead of pretending it never landed"
+      "Even when her own jokes or others’ pranks hurt her pride, she is learning to name the hurt and move through it instead of pretending it never landed",
+      "Chapter 83 reinforced: disappearing is not neutrality—absence can wound the bond she’s trying to protect"
     ]
   },
   "combat": {
@@ -222,7 +234,8 @@
     "rank": "Unofficial morale leader",
     "public": "Vibrant, dangerous, joyful",
     "matrons": "Cautious but acknowledge loyalty",
-    "role": "Emotional field generator; heart of the courtyard"
+    "role": "Emotional field generator; heart of the courtyard",
+    "notes": "When overwhelmed, may vanish into quiet water-spaces (ponds/shrines). Best retrieved with warmth, touch, and an explicit belonging-claim—not interrogation."
   },
   "notable_scenes": [
     {
@@ -345,6 +358,13 @@
         "Was publicly spooked by unseen illusions during training, lashed out at Jayson in humiliation, then allowed reconciliation where she cried openly and accepted his apology and love",
         "Later rejoined group chaos and fox antics, proving that even after deep hurt she can return to play from a more honest, secure place"
       ]
+    },
+    {
+      "chapter": 83,
+      "events": [
+        "Disappeared for days into pond/shrine spaces; was found and reclaimed with heart-touch anchoring and tail-wrap comfort",
+        "Returned to the dining hall by being physically carried back into belonging; re-engaged through humor and closeness rather than avoidance"
+      ]
     }
   ],
   "inventory": {
@@ -368,9 +388,9 @@
       "Chapter 76+: must rebuild trust with Jayson after accusations, proving chaos can still carry loyalty",
       "Chapter 77+: admitted her jokes can wound, not just heal; now learning timing, honesty, and restraint as part of her loyalty",
       "Post-council: learning 'anchors not leashes' praxis—using stillness and presence to keep bridges intact when tempers flare",
-      "Training grounds arc: integrates the lesson that *she* can be the one hurt by play, and that naming the hurt and allowing repair deepens, rather than weakens, her bond with Jayson",
-      "Future conflict: will need to balance her love of pranks with new awareness of others’ thresholds, refining her chaos into something even more intentional and safe for the people she loves most"
+      "Training grounds arc: integrates the lesson that she can be hurt by play, and that naming the hurt and allowing repair deepens her bond with Jayson",
+      "Chapter 83 lesson: the next refinement of her loyalty is not louder jokes—but asking for warmth before she vanishes"
     ]
   },
-  "final_note": "She burns by choice now—joy as signal, love as fuel, stillness as trust. Recently, she shows responsibility as well as chaos—proving she can anchor family as much as she ignites it. After falsely accusing Jayson and collapsing under his shared memories, she must rebuild trust through honesty, timing, and deliberate loyalty. The training grounds fallout added a new layer: Seika now knows that she, too, can be wounded by play and still choose repair, making her laughter more honest and her loyalty even more deliberate."
+  "final_note": "She burns by choice now—joy as signal, love as fuel, stillness as trust. Recently, she shows responsibility as well as chaos—proving she can anchor family as much as she ignites it. After falsely accusing Jayson and collapsing under his shared memories, she must rebuild trust through honesty, timing, and deliberate loyalty. Chapter 83 added a new layer: Seika can still slip into isolation when overwhelmed, but she also accepted being reclaimed—learning that being the family’s joy doesn’t mean she has to disappear when she’s hurting."
 }

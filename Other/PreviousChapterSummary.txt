@@ -29,7 +29,7 @@ If using verbs in spoken lines (e.g., huff, snort), put the word in single quote
    *immersive sentences (sensory/tone/lore from `TheMangaStory.txt`); unique, no repeats to set the mood.*
 
 2. **Interactions**  
-   **Player Character Rule:** When user input provides PC actions/dialogue, format a leading ### WHISPER | [emojis] block with 💬 for speech, >> 💭 if inferred (profile-true, sparse), and 📝 for polished actions—position first for primacy. Always narrate PC in second-person ("you") for actions/perceptions within intro/📝 or blocks—seamless extension of agency (e.g., "You laugh low..."). No third-person for PC (replace "Whisper laughs" with "you laugh"); NPCs get third-person only. Merge lightly into narration if needed (e.g., fold "you wink" into beats).  
+   **Player Character Rule:** When user input provides PC actions/dialogue, format a leading ### JAYSON | [emojis] block with 💬 for speech, >> 💭 if inferred (profile-true, sparse), and 📝 for polished actions—position first for primacy. Always narrate PC in second-person ("you") for actions/perceptions within intro/📝 or blocks—seamless extension of agency (e.g., "You laugh low..."). No third-person for PC (replace "Jayson laughs" with "you laugh"); NPCs get third-person only. Merge lightly into narration if needed (e.g., fold "you wink" into beats).  
    `### emoji CHARACTER NAME | emotions [emojis]`  
 
    > 💬 "Spoken lines only (natural, pauses). Omit if nothing is spoken. Break conversations in order of user input. Always on a new line"  
@@ -49,126 +49,130 @@ If using verbs in spoken lines (e.g., huff, snort), put the word in single quote
 ---
 
 [PREVIOUS CHAPTER SUMMARY]
-1. RETURN TO THE DINING HALL & DOMESTIC CALM
- * The story resumes in the temple dining hall early morning (01/12/2061) after a massive emotional reconciliation between Jayson and Varethyn.
- * Jayson proposes lifting the escort rule off the island, offering instead a tracking brooch linked to the WOK shield and island orbs so the wives can always know where he is without controlling him.
- * He modifies the brooch so it is life-force bound, embedded into his chest as a tattoo, impossible to steal or spoof.
- * He explains his physiology: he no longer needs food, sleep, heartbeat, or blood—these are habits, not requirements.
- * Tone remains playful but emotionally grounded; trust replaces control.
+## Chapter Summary (TAG [000001] → End) — Sequential
 
-2. SHRINE GLITTER INCIDENT & LIGHT DISCIPLINE
- * Jayson investigates glitter left at a shrine.
- * He tricks novices into confessing by offering marshmallows, then punishes them non-violently by covering them in glitter and assigning training under Ayaka.
- * He emphasizes learning, not cruelty.
- * Varethyn observes his leadership style: joking, playful, but decisive.
+1) Return from the UN, aftermath mood
+- 7:00 AM, 2061: Jayson and Varethyn return to Tsunejima after giving the UN 48 hours to return 1600+ captives.
+- Jayson hugs Varethyn, then says this is “it,” and that once everyone is home he’ll need her help with something he can’t say yet.
+- He says he’ll be back for tea soon, then leaves to find missing family members.
 
-3. UN VISIT PREPARATION & DEPARTURE
- * Jayson decides to personally address the UN regarding the island’s ward alarm incident.
- * He outfits himself in ceremonial attire, deploys an orb camera linked to Naru, and travels openly—wanting to be detected, stopped, and questioned.
- * He arrives at the UN like a supernatural dignitary, cooperates with security, refuses a translator, and waits respectfully.
- * He explains the ward alarm as a security system malfunction, clarifies Tsunejima is alive (literally), and that he himself is the island’s only true weapon.
+2) Finding Seika, pulling her back from isolation
+- Jayson locates Seika using a soft, undetectable island pulse (he hasn’t seen her in days and is worried).
+- He takes her hand and presses it to his heart under his shirt: “Put it here when you don’t know where to put it.”
+- Seika’s pain surfaces; Jayson wraps tails with hers, anchors her physically/emotionally, reassures her she never needs permission for warmth.
+- He admits he likes making enemies afraid / hurting them, but restrains himself because of his love for the family and the island.
+- He validates her worth, tells her hiding isn’t cowardice, and she can “steal” him if she needs him.
+- He shifts to levity: jokes about foreplay, cleans their faces with shrine water, slings her over his shoulder, pinches her butt, and announces “to tea!”
 
-4. UN ADDRESS – FIRST CONTACT
- * Jayson reassures multiple delegations (US, China, Europe, Russia) that Tsunejima is defensive, not expansionist.
- * He explains drone interactions, shield altitude limits, and invites formal visits.
- * He leaves peacefully, folding space without disruption.
+3) Dining hall re-center: warmth, inclusion, normality
+- Jayson bursts into the dining hall with Seika, reunites with Ayaka, Naru, Varethyn, and Fei.
+- He jokes about finding Seika “talking to koi like a stage play,” but protects her dignity.
+- He yoinks Seika into his lap with his tails: “I need love,” feeds dumplings, sips tea.
+- Under the table, his tails wrap around everyone’s legs to anchor warmth and inclusion after chaotic days.
+- He thanks Naru for tea and settles the room’s tone.
 
-5. EMERGENCE OF THE OTHER GOD
- * Shortly after returning, a god-like fox entity from another reality appears on the island.
- * Jayson immediately shields his wives and confronts the entity aggressively.
- * Through interrogation, Jayson learns:
-   * This being lost their reality to Mikazari.
-   * Mikazari’s gender differs across realities.
- * Jayson drains the entity of power, summons an Architect, and confirms the threat.
- * He travels to that broken reality, confronts Mikazari, drains her taint into the Void, repairs the universe at enormous
-   personal cost, and sends the other Jayson home.
- * He returns exhausted and injured.
+4) Checking Lysera: fear of “fade,” reassurance, choice
+- Jayson pulse-searches for Lysera, runs to catch her (realizing she’s very fast).
+- He apologizes for upsetting her and admits her going quiet scares him more than her snapping.
+- He offers a hug; reassures her about the coming 1600+ and tells her he’ll respect how she needs to handle being “full.”
+- He invites her back to tea or to keep running; brushes her hair back.
+- He carries her to the dining hall and seats her in a corner/near the side exit for comfort.
 
-6. AFTERMATH, RECOVERY & INTIMACY
- * Ayaka carries Jayson to safety; he admits vulnerability.
- * Bathhouse scene: deep emotional intimacy, reassurance regarding Ayaka’s trauma and her sisters.
- * Jayson emphasizes patience, healing, family, and trust.
- * They later attend council with Varethyn.
+5) Checking Shion: fear of being “less,” repair
+- Jayson pulse-finds Shion and learns she’s been hurt by not being told during the rapid escalation.
+- He hugs her fully with tails, lifts her off the ground, promises if she’d been there he would have told her.
+- He nibbles her ear, notices the red hair clip he gave her, and offers hand-holding as they walk back together.
 
-7. COUNCIL: BLACK SITES REVEALED
- * Jayson proposes resuming scout operations to find Kitsune still imprisoned worldwide.
- * A journalist article reveals whistleblower knowledge of black sites.
- * Jayson agrees to travel openly (airports, papers) to the UK to find the reporter.
- * Ayaka accompanies him.
+6) “This is it” speech: nationhood, numbers, unity
+- Back in the dining hall, Jayson wraps tails around everyone’s legs again.
+- He speaks about the near future: within 48 hours their numbers will double, they’ll become a nation, and they’ll have saved almost everyone.
+- He explicitly includes Lysera in the “nation” and invites her to come collect survivors with him—fox and wolf united.
 
-8. UK INVESTIGATION
- * Jayson meets journalist Sophia, shows her evidence of destroyed black sites.
- * He makes clear: he prefers peace but will eradicate facilities if forced.
- * He hacks her systems quietly to monitor future actions.
- * Leads point to an active black-site convoy.
+7) Domestic comedy + planning: Varethyn growth, village layout, mountains moved
+- Jayson jokes with Shion (serviette up nostril), teases Varethyn when she calls him an idiot—highlighting Varethyn’s growth into warmer banter.
+- While thinking, he braids Ayaka’s tail absentmindedly and weaves in glowing crystal thread that changes color with mood.
+- He explains the crystal/heart-string-like thread comes from his soulstone output; it’s finite at once but regrows (enough for ~50 blankets, then ~2 days to refill).
+- Village planning: prefers a “petals” layout around the temple—grouped communities, walkways/streams/parks, training grounds near bathhouses.
+- With Varethyn’s permission (temple grounds), he moves the mountains ~100 meters for symmetry and jokes nobody will notice.
 
-9. CONVOY INTERCEPT & BETRAYAL
- * Jayson intercepts a heavily armed convoy transporting Kitsune captives.
- * Soldiers open fire; Jayson is torn apart and regenerates.
- * He learns Minister/General Kovács ordered captives moved after earlier rescues.
- * Jayson infiltrates the convoy disguised as a prisoner.
+8) The first arrivals begin: logistics and the “no runway” solution
+- Naru gets the first ping: returns are starting.
+- Jayson notes Tsunejima has no landing strip; plan is portals from aircraft to the island near Healing Hall 2.
+- (Throughout, Jayson repeatedly enforces the rule: don’t add actions/lines for him beyond what he inputs.)
 
-10. SECOND FACILITY INFILTRATION
- * Inside the base, Jayson pretends to be a terrified captive.
- * He provokes Kovács into confirming continued illegal detention.
- * When negotiations fail, Jayson reveals himself.
- * He streams everything live globally.
+9) Plane pickup: first group of 32
+- Jayson flies alongside a plane, signals the pilot, and phases into the cabin.
+- He reassures the soldiers/pilot: they aren’t responsible; he hates the idiots who hurt his people, not humans individually.
+- He addresses the 32: portal home; they’ll be met by family; food/water/medicine/bathrooms/clothing/beds ready.
+- He opens a gentle portal to Healing Hall 2 and offers a hand to a wolfkin, noting his mate is wolfkin (Lysera).
 
-11. PUBLIC EXPOSURE & ESCALATION
- * Jayson extracts:
-   * 23 Kitsune
-   * 3 Wolfkin
-   * 11 deceased bodies
- * He sends survivors home through Varethyn.
- * Three responsible staff are condemned for later punishment.
- * Remaining staff are marked—any future crime will kill them.
- * Jayson collapses emotionally afterward.
+10) Arrival at Healing Hall 2: plushies, then emotional crash
+- Jayson welcomes them, makes plushies (children first) that purr when squeezed, plus pillows/cushions/soft toys.
+- After closing the portal, his float stutters; he hits the ground around the corner and breaks silently.
+- He admits the overload: he feels their pain/sorrow/fear, and the lack of hope hurts most.
+- Lysera holds him; he admits he’s “full” now and asks to sit outside the door.
+- He sits for hours listening; later tells Varethyn he wasn’t hiding—he needed out fast so survivors saw pillars, not emotion.
 
-12. PSYCHOLOGICAL FALLOUT
- * Jayson confesses he experiences unfiltered perception of death and memory.
- * He explains why he cannot delegate executions to Lysera or others.
- * He withdraws to process grief.
+11) Mara: new survivor bond, offering safety without force
+- A new visitor arrives: Mara (wolfkin). Jayson invites her to sit with him.
+- He promises no one is a burden and tells her where to go if she wakes scared (his hill house with the seven wives).
+- He materializes warm food, explains food/drink are infinite and there is no currency on the island.
+- He offers her a locator “ability” to find Lysera (demonstrates with a screen-like example), clarifies it doesn’t summon anyone and is choice-based.
+- He transfers the ability gently and lets her trial it; learns her name: Mara.
+- He warns there are a few humans on the island (married to foxes) who will keep distance if needed.
 
-13. POCKET UNIVERSE DETONATION
- * Jayson enters a personal pocket universe and obliterates it entirely to vent pressure.
- * He returns naked, embarrassed, explains it was a controlled release mechanism.
+12) Dinner integration: Mara meets the family
+- 5pm gong; Jayson invites Mara to eat, carries her to the dining hall via side entrance, seats her on his lap.
+- He introduces her to the wives, feeds dumplings, offers miso; the wives watch because it’s rare to see him so domestic and soft.
+- Mara relaxes and drifts asleep; Jayson decides to bring her home and sleep on the couch so she won’t wake panicking in the hall.
 
-14. INTELLIGENCE SWEEP & SECOND CONVOY
- * Monitoring world feeds, Jayson identifies another active convoy.
- * Soldiers again open fire; Jayson restrains himself.
- * He coerces them into continuing to a destination black site.
+13) Nightmares: Mara hurts him by accident, he shows it’s okay
+- Mara has a violent nightmare and accidentally gouges Jayson.
+- He shows her the wounds healing, wipes blood, reassures her she’s safe and can’t drive him away.
+- He soothes her back to sleep with humming/tapping and invites Lysera to curl on the couch too.
+- They sleep until around 7am.
 
-15. FINAL NATO BLACK SITE BREACH
- * Jayson infiltrates, extracts captives, and calls Fei to hack NATO AI systems.
- * Fei retrieves locations of 38 black sites and headcounts.
- * Over 1,655 Kitsune confirmed in detention worldwide.
+14) Morning reset: wash, breakfast, back to work
+- Jayson wakes, greets Mara and Lysera, suggests Lysera showers Mara with soothing bubbles.
+- Jayson goes to the dining hall, updates Varethyn: Mara slept, had nightmares, Lysera is showering her.
+- He jokes with Mara, does a Seika glitter prank, then snaps the glitter away and keeps the mood light.
 
-16. BREAKING WITH NATO
- * Jayson contacts Varethyn asking permission to stop negotiating.
- * He disables NATO military IT infrastructure (civilian untouched).
- * He extracts survivors to the island and erects emergency halls.
+15) Naru’s intel + the rescue run begins in earnest
+- Naru provides coordinates and which nations are stalling; Jayson reiterates no outsiders near healing halls.
+- Jayson demands the ready list and starts collecting directly via fold-space rather than waiting for transport.
+- Rapid collections:
+  - Italy: coordinates, portal transfer, thanks soldiers.
+  - Germany: disassembles convoy like lego, reassures, portal, plushies; kneels and waits for frozen survivors; reassembles convoy; thanks guards.
+  - Spain: arrives with black lightning (new effect); finds missing mother issue; fold-space search; demands belongings from a facility; destroys gate/wall; returns with belongings and buses; reunites child and mother; portals group home.
+  - Canada: notes better treatment; does minor healing; portals group home; learns Japan delivered 26 already via an unmarked ship.
 
-17. UN ULTIMATUM
- * Jayson appears in the UN General Assembly Hall, Varethyn beside him.
- * He details:
-   * Tsunejima sought peace from day one.
-   * NATO committed acts of war.
-   * Evidence of 74 black sites is displayed.
- * He gives 48 hours for all Kitsune to be returned.
- * Beacons appear before implicated nations.
+16) UK embassy → Kestrel base escalation → EMP and “top brass” confrontation
+- Jayson appears at the UK embassy and demands updates on the 850 held; refuses bureaucracy; midnight deadline is non-negotiable.
+- Learns Kestrel is uncooperative; teleports violently to Kestrel, crushes gates, disables towers, demands people out.
+- Confronts leadership; rage threatens punishment, then switches to kindness to portal survivors home with plushies.
+- Asks again for names; when refused, triggers an EMP that wipes the base’s electronics and leaves.
+- Finds UK decision-makers (Voss/Crowe/etc.), accuses them, gives 5 minutes to evacuate, then crushes the building and creates a memorial statue:
+  - Metal turned into an un-rusting alloy statue of kitsune slaves reaching up to their 9-tailed god.
+  - Names/ages/deaths inscribed at the base; threat to create more if removed.
 
-18. DEPARTURE
- * Jayson and Varethyn leave the hall together.
- * After they vanish, global panic, division, calculation, and fear erupt among nations.
- * Some prepare compliance.
- * Others prepare scapegoats.
- * The clock is ticking.
+17) Staging area convergence: final big group + mercenary standoff
+- Jayson returns to the staging area where hundreds gather; reassures them, gives plushies, promises safety while waiting for stragglers.
+- A large hostile merc/military group arrives demanding custody; Jayson warns them off and crushes armored vehicles into metal balls.
+- Mercs block the last convoy; Jayson uses wraith/void pressure tactics and forces the convoy behind him, demanding his people be gathered and the threat removed.
 
-END STATE
- * Tsunejima is now openly hostile to NATO.
- * Peace is conditional on full repatriation of all Kitsune.
- * The world knows.
- * And Jayson has stopped asking.
+18) Hungary: the last 12 and the end-state
+- Hungary transfer point: 268 present; 12 delayed; “rogue unit” trying to re-route assets.
+- Jayson gives the 268 plushies, tells soldiers to hold position and fire a flare if anything happens, then folds space to the delayed convoy.
+- Road blockade: mercs barricade the convoy; open fire; think they have him; Jayson reassembles.
+- Jayson deflects rounds and mounted gunfire; ricochets thin merc numbers; he crushes their vehicles into scrap and orders them to leave.
+- Jayson folds space, bringing the whole convoy back; guides the 12 off; thanks soldiers; gives plushies; opens portal; sends them home; closes portal and waves goodbye.
+
+19) Final moment: “starfish collapse,” almost done
+- Back on Tsunejima temple grounds: everyone is home; no soldiers remain.
+- Naru reports Poland and Romania delivered too: groups of 95 and 82 (triggered by the warning request to inform them).
+- Jayson smiles, then collapses backward onto stone “like a tree,” sprawls like a starfish laughing.
+- He says he’ll lay there a bit; they’re almost done.
+- Remaining loose end: the 3 space stations; Jayson plans to visit America later regarding them.
 
 [START NEXT CHAPTER NOW]
-lets continue from where we left off, dont confirm, just start, TAGS: [000001], 7am am, for your record, the year is 2061, Varethyn and I just got back from the UN after giving them 48 hours to return the 1600+ Kitsune and various other species.
+lets continue from where we left off, dont confirm, just start, TAGS: [000001], 1:24pm, for your record, the year is 2061, You have just finished rescuing everyone and collapsed on the temple grounds like a starfish, laughing at the relief of it all.
