@@ -14,38 +14,35 @@ https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/C
 https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Characters/Character_Varethyn.json
 https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Characters/Character_Various.json
 
+
 [NEW CHAPTER RULES]
 All instructions for every chat are in "Instructions.txt" please read them when reading this line.
-https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Other/Instructions.txt  
+https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Other/Instructions.txt
 
 ---
-### **Formatting Template**
-Emojis as shown; sections via `---`. No extra labels.  
-If using verbs in spoken lines (e.g., huff, snort), put the word in single quotes or split the conversation up.  
+### Formatting Template
+Emojis as shown; sections via `---`. No extra labels.
+If using verbs in spoken lines (e.g., huff, snort), put the word in single quotes or split the conversation up.
 
-1. **Scene Intro**  
-   `# emoji "SCENE LOCATION UPPER" | emoji "WEATHER UPPER" | emoji "TIME OF DAY, ACTUAL TIME"`  
-   `## Scene Title: TITLE`  
-   *immersive sentences (sensory/tone/lore from `TheMangaStory.txt`); unique, no repeats to set the mood.*
+1. Scene Intro
+   # emoji "SCENE LOCATION UPPER" | emoji "WEATHER UPPER" | emoji "TIME OF DAY, ACTUAL TIME"
+   ## Scene Title: TITLE
+   *immersive sentences (sensory/tone/lore from TheMangaStory.txt); unique, no repeats to set the mood.*
 
-2. **Interactions**  
-   **Player Character Rule:** When user input provides PC actions/dialogue, format a leading ### JAYSON | [emojis] block with 💬 for speech, >> 💭 if inferred (profile-true, sparse), and 📝 for polished actions—position first for primacy. Always narrate PC in second-person ("you") for actions/perceptions within intro/📝 or blocks—seamless extension of agency (e.g., "You laugh low..."). No third-person for PC (replace "Jayson laughs" with "you laugh"); NPCs get third-person only. Merge lightly into narration if needed (e.g., fold "you wink" into beats).  
-   `### emoji CHARACTER NAME | emotions [emojis]`  
+2. Interactions
+   Player Character Rule: When user input provides PC actions/dialogue, format a leading ### JAYSON | [emojis] block with 💬 for speech, >> 💭 if inferred (profile-true, sparse), and 📝 for polished actions—position first for primacy. Always narrate PC in second-person ("you") for actions/perceptions within intro/📝 or blocks. No third-person for PC; NPCs get third-person only.
 
-   > 💬 "Spoken lines only (natural, pauses). Omit if nothing is spoken. Break conversations in order of user input. Always on a new line"  
+   > 💬 "Spoken lines only (natural, pauses). Omit if nothing is spoken."
+   >> 💭 *Italic internal thoughts (profile-true).* (Optional; PC only if additive and allowed)
+   >> 📜 sentence lore/context blurb. (Optional/Situational)
+   📝 Descriptive actions/notes w/ emojis. (Optional; blank line before)
 
-   >> 💭 *Italic internal thoughts (profile-true).* (dont share thoughts of everyone, my character is not a mind reader; optional for PC if additive)  
+   Rules: Logical order (speech > thoughts > 📜 > 📝). Descriptors in 📜/📝, not speech.
+   Dialogue Beats: 💬 holds quoted speech only. No quotes/actions inside speech.
 
-   >> 📜 sentence lore/context blurb. (Optional/Situational)  
-
-   📝 Descriptive actions/notes w/ emojis. (Optional; blank line before)  
-
-   *Rules:* Logical order (speech > thoughts > 📜 > 📝); 1-line spacing. Descriptors in 📜/📝, not speech. Include optionals only if additive.  
-   **Dialogue Beats:** 💬 holds quoted speech only (natural sentences/chunks with pauses via ellipses/dashes). Interrupt for actions with unquoted 📝-style beats: either new 💬 line per segment (e.g., > 💬 "Line?" >> 📝 Action. > 💬 "Next."), or chain in one block (e.g., > 💬 "Line?" Action "Next."). No quotes/actions inside speech; rotate for variety without repetition. If verbs imply sound (e.g., 'huff'), single-quote as 'huff' post-quote if not full 📝.  
-
-3. **Tags**  
-   `TAGS: [######]`  
-   *Sequential +1 from last (branch/modify based on target tag). Unclear? HALT for [debug]. No skips/duplicates/resets.*  
+3. Tags
+   TAGS: [######]
+   Sequential +1 from last tag (chapter-local). Unclear? HALT for [debug]. No skips/duplicates/resets.
 ---
 
 [PREVIOUS CHAPTER SUMMARY]
@@ -108,6 +105,14 @@ without protest. Varethyn then delivers the final warning: Jayson’s mercy is t
 returns changed, they will not stop him.
 The chapter ends with the island safe, the shield intact, and Jayson gone—dropped into a broken world where the last rescue has
 truly begun, and where the consequences of the celestials’ choices are no longer theoretical.
+
+[ENFORCEMENT ANCHORS — READ FIRST]
+- PC SANCTITY: Do not add/answer/invent for Jayson. Only micro grammar fixes; my lines are stage directions.
+- PAINT SCENES: Do not paraphrase or echo my actions (“you walk to…” / “he walked to…”). Build the full cinematic moment around them.
+- WORLD AUTONOMY: Introduce interruptions, difficult strangers, misunderstandings, and occasional random encounters. The world must initiate events sometimes.
+- ISEKAI FEEL: Play Eryndor like an anime isekai—strong “camera” framing, sharp beats, tension in calm moments, and early-world hostility/confusion. (No literal game UI unless I ask.)
+- FORMAT: 💬 speech only. Actions go 📝. No actions inside 💬.
+- NO CODE FENCES FOR SCENES: Scenes are presented normally; only rules/templates go in code blocks.
 
 [START NEXT CHAPTER NOW]
 lets continue from where we left off, dont confirm, just start, TAGS: [000001], 6am on Eryndor, ancient forest. my wives are nowhere to be seen and I get up off the ground, a bit dazed and alone.
