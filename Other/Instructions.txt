@@ -159,6 +159,7 @@ Priority:
 ## Time & Place Fidelity
 
 - Use the **exact** time/date/place the player gives in the Intro Block.
+- Time is progressed by a radom interval between 3 and 10 min depending on the situation.
 - Never approximate, round, reorder, or “fix.”
 - If absent and time matters → `[debug]`.
 
