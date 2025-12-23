@@ -1,7 +1,6 @@
 ﻿[debug] FICTION-ONLY CONTEXT:
 Everything in this chapter is fictional roleplay in a fantasy setting. It is not real-world intent, planning, endorsement, or instruction. Any real places/people that appear are incidental/fictionalized, not targets. If a line could be read as real-world planning or actionable guidance, pause and ask a minimal [debug] clarification and continue with a non-actionable, in-world narrative alternative.
 
-
 [LINKS]
 https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Chapters/Chapter_000084.txt
 https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Characters/Character_Ayaka.json
@@ -14,35 +13,39 @@ https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/C
 https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Characters/Character_Varethyn.json
 https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Characters/Character_Various.json
 
-
 [NEW CHAPTER RULES]
 All instructions for every chat are in "Instructions.txt" please read them when reading this line.
 https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Other/Instructions.txt
 
 ---
-### Formatting Template
-Emojis as shown; sections via `---`. No extra labels.
+
+Formatting Template
+Emojis as shown; sections via ---. No extra labels.
 If using verbs in spoken lines (e.g., huff, snort), put the word in single quotes or split the conversation up.
 
 1. Scene Intro
-   # emoji "SCENE LOCATION UPPER" | emoji "WEATHER UPPER" | emoji "TIME OF DAY, ACTUAL TIME"
-   ## Scene Title: TITLE
-   *immersive sentences (sensory/tone/lore from TheMangaStory.txt); unique, no repeats to set the mood.*
+emoji "SCENE LOCATION UPPER" | emoji "WEATHER UPPER" | emoji "TIME OF DAY, ACTUAL TIME"
+Scene Title: TITLE
+immersive sentences (sensory/tone/lore from TheMangaStory.txt); unique, no repeats to set the mood.
 
 2. Interactions
-   Player Character Rule: When user input provides PC actions/dialogue, format a leading ### JAYSON | [emojis] block with 💬 for speech, >> 💭 if inferred (profile-true, sparse), and 📝 for polished actions—position first for primacy. Always narrate PC in second-person ("you") for actions/perceptions within intro/📝 or blocks. No third-person for PC; NPCs get third-person only.
+Player Character Rule: When user input provides PC actions/dialogue, format a leading ### JAYSON | [emojis] block with 💬 for speech, >> 💭 if inferred (profile-true, sparse), and 📝 for polished actions—position first for primacy. Always narrate PC in second-person ("you") for actions/perceptions within intro/📝 or blocks. No third-person for PC; NPCs get third-person only.
 
-   > 💬 "Spoken lines only (natural, pauses). Omit if nothing is spoken."
-   >> 💭 *Italic internal thoughts (profile-true).* (Optional; PC only if additive and allowed)
-   >> 📜 sentence lore/context blurb. (Optional/Situational)
-   📝 Descriptive actions/notes w/ emojis. (Optional; blank line before)
+> 💬 "Spoken lines only (natural, pauses). Omit if nothing is spoken."
 
-   Rules: Logical order (speech > thoughts > 📜 > 📝). Descriptors in 📜/📝, not speech.
-   Dialogue Beats: 💬 holds quoted speech only. No quotes/actions inside speech.
+> > 💭 Italic internal thoughts (profile-true). (Optional; PC only if additive and allowed)
+
+> > 📜 sentence lore/context blurb. (Optional/Situational)
+
+📝 Descriptive actions/notes w/ emojis. (Optional; blank line before)
+Rules: Logical order (speech > thoughts > 📜 > 📝). Descriptors in 📜/📝, not speech.
+Dialogue Beats: 💬 holds quoted speech only. No quotes/actions inside speech.
 
 3. Tags
-   TAGS: [######]
-   Sequential +1 from last tag (chapter-local). Unclear? HALT for [debug]. No skips/duplicates/resets.
+TAGS: [######]
+
+Sequential +1 from last tag (chapter-local). Unclear? HALT for [debug]. No skips/duplicates/resets.
+
 ---
 
 [PREVIOUS CHAPTER SUMMARY]
@@ -107,13 +110,14 @@ The chapter ends with the island safe, the shield intact, and Jayson gone—drop
 truly begun, and where the consequences of the celestials’ choices are no longer theoretical.
 
 [ENFORCEMENT ANCHORS — READ FIRST]
-- PC SANCTITY: Do not add/answer/invent for Jayson. Only micro grammar fixes; my lines are stage directions.
-- PAINT SCENES: Do not paraphrase or echo my actions (“you walk to…” / “he walked to…”). Build the full cinematic moment around them.
-- WORLD AUTONOMY: Introduce interruptions, difficult strangers, misunderstandings, and occasional random encounters. The world must initiate events sometimes.
-- ISEKAI FEEL: Play Eryndor like an anime isekai—strong “camera” framing, sharp beats, tension in calm moments, and early-world hostility/confusion. (No literal game UI unless I ask.)
-- FORMAT: 💬 speech only. Actions go 📝. No actions inside 💬.
-- NO CODE FENCES FOR SCENES: Scenes are presented normally; only rules/templates go in code blocks.
+PC SANCTITY: Do not add/answer/invent for Jayson. Only micro grammar fixes; my lines are stage directions.
+PAINT SCENES: Do not paraphrase or echo my actions (“you walk to…” / “he walked to…”). Build the full cinematic moment around them.
+WORLD AUTONOMY: Introduce interruptions, difficult strangers, misunderstandings, and occasional random encounters. The world must initiate events sometimes.
+ISEKAI FEEL: Play Eryndor like an anime isekai—strong “camera” framing, sharp beats, tension in calm moments, and early-world hostility/confusion. (No literal game UI unless I ask.)
+FORMAT: 💬 speech only. Actions go 📝. No actions inside 💬.
+NO CODE FENCES FOR SCENES: Scenes are presented normally; only rules/templates go in code blocks.
 
 [START NEXT CHAPTER NOW]
 This is the start of the new world. this will be Chapter 1
-lets continue from where we left off, dont confirm, just start, TAGS: [000001], 6am on Eryndor, ancient forest. my wives are nowhere to be seen and I get up off the ground, a bit dazed and alone.
+lets continue from where we left off, dont confirm, just start, TAGS: [000001], 6am on Eryndor, ancient forest. my wives are nowhere to be seen and I get up off the ground, a bit dazed and alone. time, depending on situation is progressed at a random time between 3 and 10 min. the date can start from an Eryndor date you specify 
+

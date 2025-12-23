@@ -127,9 +127,14 @@ Priority:
 1. 💬 Speech  
 2. >> 💭 Thoughts  
 3. >> 📜 Lore/context (optional)  
-4. 📝 Actions  
+4. 📝 Actions
 
-### 3) Tags
+### 3) Headings
+- When someone is speaking, use this format:
+NAME | emotion [emoji]
+
+
+### 4) Tags
 
 `TAGS: [######]`
 
