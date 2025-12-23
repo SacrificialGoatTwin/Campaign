@@ -131,7 +131,8 @@ Priority:
 
 ### 3) Headings
 - When someone is speaking, use this format:
-NAME | emotion [emoji]
+
+`species emoji NAME | emotion [emoji in square brackets]`
 
 
 ### 4) Tags
