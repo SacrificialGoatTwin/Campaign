@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "project": "Eryndor",
+    "version": "1"
+  },
+  "chapters": [
+    ""
+  ],
+  "characters": [
+    
+    "https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Characters/Character_Ayaka.json",
+    "https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Characters/Character_Jayson.json",
+    "https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Characters/Character_Lysera.json",
+    "https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Characters/Character_Seika.json",
+    "https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Characters/Character_Shion.json",
+    "https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Characters/Character_Various.json"
+  ],
+  "lore": [
+    ""
+  ]
+}

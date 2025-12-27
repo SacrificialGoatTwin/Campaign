@@ -56,7 +56,7 @@ Player Stats and Items
 ==========================
 Level: 1
 Status: F Ranked
-Dungeon intent registered - Status: Active – Observation.
+Dungeon intent registered - Status: Active.
 
 ===========================
 Notes

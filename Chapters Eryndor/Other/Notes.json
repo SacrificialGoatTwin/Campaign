@@ -1,0 +1,106 @@
+{
+  "powers": {
+    "name": "Spark",
+    "description": "A seed. Small. It grows only when you spend yourself for others—or survive what should have ended you."
+  },
+  "locations": [
+    {
+      "name": "Harrowfen",
+      "description": "Human city with a Beastfolk district"
+    },
+    {
+      "name": "Watchtower Orchard",
+      "description": "Two hours north of Harrowfen"
+    },
+    {
+      "name": "Riverford Waystation",
+      "description": "Five hours north from Harrowfen, before the road bends north"
+    },
+    {
+      "name": "Westbridge",
+      "description": ""
+    }
+  ],
+  "creatures": [
+    {
+      "Listeners": {
+        "traits": [
+          "Blind",
+          "Sound-dependent perception",
+          "Spider-like",
+          "Large",
+          "Hairy",
+          "Long-limbed",
+          "Silent",
+          "Deadly"
+        ]
+      }
+    }
+  ],
+  "races_species_met": [
+    {
+      "name": "Human",
+      "notes": ""
+    },
+    {
+      "name": "Vaelir",
+      "notes": "Species of demon"
+    },
+    {
+      "name": "Vampire",
+      "notes": "Nothing like the stories, can walk in daylight"
+    },
+    {
+      "name": "Watcher",
+      "notes": "also known as Anchors, Sentinels or Hinges. Mechanical–biological hybrid body"
+    }
+  ],
+  "guild_tasks": {
+    "completed": {
+      "Chapter 1 Tasks": [
+        "Ratkin in the Bakery Basement",
+        "Rescue mission for the two guards saved from the Listeners",
+        "Courier run to the Watchtower Orchard",
+        "A cellar collapse in the Tanners’ Ward",
+        "Pilgrim caravan short a guard since dawn",
+        "Watchtower Orchard Lights",
+        "Escort: apothecary shipment to Westbridge",
+        "Rat-clearing in the tannery sublevels",
+        "Night watch — warehouse district, one bell",
+        "Salvage run: old culvert collapse (F-rank)",
+        "Watchtower foundations north of the reed flats",
+        "Collapsed culvert outside the old quarry"
+      ]
+    }
+  },
+  "people_met": [
+    {
+      "name": "Lyra",
+      "species": "Vaelir"
+    },
+    {
+      "name": "Mara Valen",
+      "species": "Human",
+      "notes": "Sister to Lyra"
+    },
+    {
+      "name": "The Verifier",
+      "species": "Unknown"
+    },
+    {
+      "name": "Factor",
+      "species": "Human"
+    },
+    {
+      "name": "Marshal Iven Calder",
+      "species": "Human"
+    },
+    {
+      "name": "Kestrel",
+      "species": "Half Human, Half Swampfolk"
+    }
+  ],
+  "notes": [
+    "Destroying a Watcher triggers an audit, which attracts entities with broader authority and fewer questions"
+  ]
+}

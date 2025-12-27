@@ -1,0 +1,139 @@
+{
+  "name": "Kestrel Thorne",
+  "title": "The Quiet Line Between",
+  "quote": "Don’t sit. Not yet.",
+  "appearance": {
+    "age": "Adult (exact age unknown)",
+    "height": "1.70m",
+    "build": "Lean, conditioned, functional rather than showy",
+    "hair": "Black; Kept practical, usually hidden under a hood",
+    "facial_hair": "None",
+    "eyes": "blue; Observant; misses very little",
+    "skin": "Weathered from travel",
+    "scent": "Leather, road-dust, faint metal",
+    "posture": "Balanced, alert even at rest",
+    "relationship": "Trusted companion to Jayson (developing)",
+    "race": "Mixed heritage (non-human traits; exact lineage undisclosed)",
+    "siblings": {
+      "None": ""
+    },
+    "tails": "None"
+  },
+  "reactions": {
+    "wind": "Uses it to read movement and approach",
+    "water": "Comfortable, unbothered",
+    "sound": "Responds instantly to irregularities",
+    "temperature": "Endures without complaint"
+  },
+  "speech": {
+    "voice": "Low, controlled, calm under pressure",
+    "vocabulary": "Plain, precise, avoids excess",
+    "pacing": "Measured; speaks when it matters",
+    "accent": "Unremarkable, hard to place",
+    "habits": [
+      "Speaks quietly even in danger",
+      "Interrupts only when necessary"
+    ],
+    "growth": "Becoming more open with trusted allies"
+  },
+  "emotional": {
+    "core_traits": [
+      "Observant",
+      "Composed",
+      "Pragmatic"
+    ],
+    "beneath": [
+      "Protective loyalty",
+      "Quiet empathy"
+    ],
+    "triggers": [
+      "Unnecessary cruelty",
+      "Treating people as objects"
+    ],
+    "vulnerabilities": [
+      "Carries responsibility silently",
+      "Rarely asks for help"
+    ],
+    "affection_tells": [
+      "Stays close without comment",
+      "Subtle warnings rather than reassurances"
+    ],
+    "growth": [
+      "Learning to trust shared risk",
+      "Allowing herself to be seen"
+    ]
+  },
+  "social": {
+    "alone": [
+      "Methodical",
+      "Self-contained"
+    ],
+    "with_others": [
+      "Watchful",
+      "Dryly supportive",
+      "Steps in before things break"
+    ]
+  },
+  "values": {
+    "values": [
+      "Autonomy",
+      "Consent",
+      "Quiet competence"
+    ],
+    "fears": [
+      "Containment",
+      "Being reduced to a category"
+    ],
+    "strengths": [
+      "Situational awareness",
+      "Emotional steadiness"
+    ],
+    "weaknesses": [
+      "Keeps distance by default"
+    ]
+  },
+  "combat": {
+    "titles": [
+      "C-Rank Adventurer"
+    ],
+    "style": "Controlled, efficient, avoids spectacle",
+    "weapons": [
+      "Standard adventuring gear (details undisclosed)"
+    ],
+    "magic": [
+      "None observed"
+    ],
+    "recent": [
+      "Ruins expedition",
+      "Quarry encounter"
+    ]
+  },
+  "notable_scenes": [
+    {
+      "chapter1": [
+        "Warned Jayson at the inn before surveillance escalated",
+        "Grounded Jayson during confrontation by telling him to breathe"
+      ]
+    }
+  ],
+  "character_data": {
+    "level": "unknown",
+    "Status": "C",
+    "inventory": {
+      "items": [
+        "coin pouch",
+        "cloak",
+        "travel pack"
+      ]
+    }
+  },
+  "future": {
+    "symbol": "A quiet knock instead of a drawn blade",
+    "role": "Balancer, witness, boundary-keeper",
+    "arc": "From observer to chosen ally",
+    "hesitation": "Letting attachment form",
+    "legacy": [],
+    "reminder": "Not every fight is won by force"
+  },
+  "final_note": "Kestrel notices what others miss and acts before chaos blooms. She does not name bonds—but she honors them."
+}

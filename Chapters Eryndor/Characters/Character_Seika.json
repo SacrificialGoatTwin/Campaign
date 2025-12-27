@@ -1,0 +1,396 @@
+{
+  "name": "Seika",
+  "title": "The Chaotic Heart of the Thread",
+  "quote": "If I fall, I fall laughing. If I rise, I rise burning.",
+  "appearance": {
+    "age": "Looks 21 but is 72",
+    "height": "160–163 cm",
+    "build": "Slim, athletic, wiry—built for agility over strength; 'all bounce and spark'",
+    "hair": "Deep crimson with black undertones; uneven cut from field-shaved trauma, now worn in soft twin braids; often messy from antics",
+    "eyes": "Golden-amber with copper flecks; wide, expressive, often sparkling with mischief or defiance",
+    "skin": "Light tan with faint veil-scars on shoulders and forearms",
+    "tails": "Five—chaotic and expressive; rarely still",
+    "scent": "Warm cinnamon, burnt sugar, faint wildflowers",
+    "posture": "Unpredictable; shifts from slouched/playful to perfectly balanced by mood",
+    "relationship": "Married by ritual to Jayson",
+    "recent": [
+      "Lap-claims without hesitation",
+      "Public embraces at festivals",
+      "Teaching tail tricks to children by the ponds",
+      "Kitchen-counter intimacy with Jayson—open affection beyond play",
+      "Admitted 'love you' openly without deflection or joke",
+      "Cared for Yuki directly—bathed her, reassured her, and handed her back with warmth",
+      "Remained present when Jayson spiraled emotionally, choosing support over jokes",
+      "Accused Jayson of secret attacks during tense inn-roof scene—showed fear instead of faith",
+      "Faced Jayson's hurt response, beginning to grasp weight of trust vs. suspicion",
+      "Kneeled in courtyard after memory-transfer, admitted fear openly, begged Jayson not to shut her out",
+      "Broke the silence in council, voiced fear/pride without jokes, and asked Jayson not to vanish again",
+      "Chose restraint over mischief during the tense council; ears pinned, stayed and listened",
+      "Watched Jayson leave the courtyard after the scroll without calling him back—held presence instead of pursuit",
+      "Training grounds: humiliated in front of trainees by unseen illusions, reached an emotional breaking point instead of laughing it off",
+      "Later allowed Jayson to find her in that hurt, cried openly into his arms and accepted his apology and comfort",
+      "Returned to public play with him the same day, proving that beneath chaos her bond with him is resilient and chosen",
+      "Withdrew for days without being seen, hiding in quiet corners near water rather than asking for comfort",
+      "Was found talking to koi as if performing a stage play—using humor-as-ritual to cope in isolation",
+      "Accepted being physically scooped up and returned to the dining hall rather than fleeing again",
+      "Let Jayson anchor her with touch, tails, and closeness when she looked close to snapping"
+    ],
+    "new_details": [
+      "Ruby-ring from Jayson representing her place in his constellation",
+      "Tailband keyed to soulflame, conjurable at will",
+      "Now comfortable taking responsibility in family settings—not just chaos",
+      "Trust fracture with Jayson after accusations; learning consequences of doubt",
+      "Beginning to balance instinct to joke with moments of restraint when wounds run deep",
+      "Shaken deeply by experiencing one second of Jayson’s burden—physically vomited but still chose to stay and listen",
+      "Acknowledged she used jokes to mask fear, realized it hurt rather than helped",
+      "Understands the council’s 'anchors not leashes' framing and is trying to live it",
+      "Practices ‘presence as care’ — staying nearby and silent when words would inflame",
+      "New awareness that public embarrassment cuts deeper for her than she admits; now more conscious of the line between play and humiliation",
+      "Has experienced that she can be furious, say the wrong thing, and still be met with repair rather than abandonment—this is reshaping her sense of safety",
+      "New pattern when overwhelmed: self-isolation in familiar temple-water spaces (ponds/shrines) instead of seeking the group",
+      "Responds strongly to direct belonging-claims (being called important; being physically brought back into the center)",
+      "Flirt-fight humor surfaced again under stress (bite threats / playful danger) as a way to return to safety through play"
+    ]
+  },
+  "reactions": {
+    "wind": "Loves the sensation; leans into breeze, tails lifted playfully",
+    "water": "Splash-prone; affinity for rivers/lakes; pranks with water",
+    "sound": "Hyper-aware; flinches at sudden loud noises but masks with bravado",
+    "temperature": "Prefers warmth; in cold, tails wrap protectively around self or others",
+    "fire": "Responds instinctively—comfort and defense both rise in flame",
+    "crowds": "Feeds on laughter and noise; anxiety masked with louder mischief"
+  },
+  "speech": {
+    "voice": "Clear mezzo-soprano; musical when teasing, soft when vulnerable, sharp when frightened",
+    "vocabulary": "Informal, playful; teasing nicknames; swings from casual to deeply emotional",
+    "pacing": "Fast when excited; slows dramatically when serious or hurt",
+    "accent": "None distinct; emotional lilt over regional markers",
+    "habits": [
+      "Interrupts solemn speeches with jokes",
+      "Nicknames everyone, even mid-battle",
+      "Laughs at her own commentary",
+      "Whispers truths after pranks—testing vulnerability and trust",
+      "Uses flirt-danger banter (e.g., bite-threat jokes) to re-enter closeness when emotions spike"
+    ]
+  },
+  "emotional": {
+    "core_traits": [
+      "Joyful",
+      "Impulsive",
+      "Emotionally transparent",
+      "Deeply loyal"
+    ],
+    "triggers": [
+      "Threats to loved ones (Jayson, Naru, Ayaka)",
+      "Sudden abandonment or perceived rejection",
+      "Moments when Jayson pulls away in pain"
+    ],
+    "vulnerabilities": [
+      "Lingering trauma from Tribunal captivity",
+      "Healing self-worth; now accepts love even in quiet",
+      "No longer fears being 'unentertaining'",
+      "Fears Jayson's discipline under Ayaka may turn him 'stone'",
+      "New fear: failing to catch Jayson's spirals before collapse",
+      "Quiet worry that her chaos won’t be enough in heavy moments",
+      "Regret over accusing Jayson—afraid she proved his fear of being treated as a weapon",
+      "Shaken by experiencing Jayson’s memories; fears losing her lightness if she carries too much darkness",
+      "Guilt over council confrontation tone; worries she added to his sense of being 'on trial'",
+      "New sting around public humiliation—being made to look foolish in front of trainees cuts far deeper than she lets on",
+      "Private fear that saying 'I hate you' in anger might ever be taken as literal and push Jayson away for good",
+      "New vulnerability exposed this chapter: disappearing for days—using isolation as protection—then spiraling when it doesn’t resolve the ache"
+    ],
+    "affection_tells": [
+      "Physical touch: leans on people, jumps into laps, accepts cuddles",
+      "Tail twitches when flustered",
+      "Spontaneous nicknames as attachment",
+      "Surprise kisses and sudden deep intimacy when emotions peak",
+      "Sleeps curled against Jayson with tails wrapped protectively"
+    ],
+    "affection_logic": "Stillness now signals trust, not discomfort",
+    "growth": [
+      "Playful assertiveness—no longer masks desire",
+      "Anchor role: brings joy and grounding, not just chaos",
+      "Tailband bound to essence; summonable; channels limitless flame safely",
+      "Believes she is irreplaceable after Jayson's affirmation",
+      "Accepts public grooming and lap-sitting openly",
+      "Claims 'one of his wives' confidently in public",
+      "Practiced restraint during Jayson's collapse—learning when not to intervene",
+      "Soulfield trial: faced trauma, chose mercy; reclaimed identity",
+      "Fire intentional now—signature, not shield",
+      "Walked through soul apocalypse, emerged whole and laughing",
+      "Appeared at press event despite past abusers—claimed identity fearlessly",
+      "Historic roast of Jayson's stomach—etched as comedian",
+      "Chapter 60: blocked severing; anchored him with flame-thread binding",
+      "Chapter 62: first to break and cling on return; unleashed furnace in rites with trust",
+      "Chapter 75+: deeper intimacy; gave direct 'I love you lots' without joke",
+      "Post-75: trusted to care for Yuki and show maternal warmth, proving responsibility",
+      "Chapter 76+: learned hard lesson after accusing Jayson—realizing loyalty means asking, not doubting",
+      "Chapter 77+: collapsed under memory share but still reached for trust, admitted jokes were armor, vowed not to hide fear behind them again",
+      "Council 00025x: broke silence to speak fear/pride plainly; chose presence and restraint instead of deflection; asked him not to vanish",
+      "Training grounds fallout: instead of burying humiliation under more jokes, allowed herself to break down privately and let Jayson see the raw hurt, then chose to accept repair",
+      "Post-training reconciliation: proved to herself that she can be furious, honest and messy without losing him, reinforcing a new model of conflict that doesn’t equal abandonment",
+      "Chapter 83: was pulled back from self-erasure (days unseen) and accepted being reclaimed—learning that being 'the joy' is also being allowed to need help"
+    ]
+  },
+  "social": {
+    "alone": "Introspective; watches water, sky, or trees; braids tails as ritual grounding",
+    "with_jayson": [
+      "First to tease and protect; unabashedly affectionate",
+      "Initiates comfort when sensing emotional need",
+      "Shared full vulnerability and intimacy",
+      "Nicknames him 'my idiot', 'danger noodle', etc.",
+      "Wraps legs under table; accepts grooming and nuzzling",
+      "Thanked him for acknowledging her defense",
+      "Silent restraint during veil-table conflict",
+      "After soulfield trial: sees him as emotional safe-space",
+      "Loudest during comedic arcs; tension-breaker and healer",
+      "Chapter 60: refused to let him sever bonds; claimed him publicly",
+      "Chapter 62: first to leap and cling on return; tail lifeline; accepts public affection",
+      "Chapter 75+: kitchen intimacy; whispered 'I love you lots' without deflection",
+      "Post-75: cared for Yuki, showing blend of playful chaos and nurturing side",
+      "Chapter 76+: accused him wrongly, now struggling to regain his trust",
+      "Chapter 77+: broke down under memory share, admitted she used humor to mask fear, asked Jayson not to shut her out",
+      "Council night: asked him not to disappear again; stayed when he withdrew; felt guilt watching him leave the courtyard with the scroll left behind",
+      "Training grounds: experienced being the butt of a joke she didn’t understand, lashed out with 'I hate you' in the moment, then let him come back to fix it instead of pushing him away permanently",
+      "Reconciliation scene: allowed herself to be fully held and reassured, accepted that he hadn’t meant to wound her, and reclaimed their play from a place of deeper trust",
+      "Chapter 83: vanished for days; was found, anchored by heart-touch and tail-wrap comfort, then carried back into the family space instead of being left alone"
+    ],
+    "with_others": {
+      "fei": "Best-friend chaos; shares lap space, sweets, antics",
+      "ayaka": "Tests patience; now shares sisterhood moments",
+      "naru": "Mirror soul; now shows affection openly",
+      "shion": "Respects her space; enjoys teasing; new trust in play-battle intimacy",
+      "varethyn": "Feisty; teased her warmth; confronted her on abandonment",
+      "temple_children": "Beloved teacher of tail control through play",
+      "yuki": "Protective, playful aunt; bathed her, comforted her, helped her reunite with parents"
+    }
+  },
+  "values": {
+    "values": [
+      "Freedom",
+      "Emotional honesty",
+      "Chosen family"
+    ],
+    "fears": [
+      "Being left behind",
+      "Becoming irrelevant",
+      "Jayson seeing her as disloyal"
+    ],
+    "insecurities": [
+      "Believes she’s loved now, but still checks"
+    ],
+    "strengths": [
+      "Emotional connector",
+      "Resilient heart"
+    ],
+    "weaknesses": [
+      "Impulsive",
+      "Overwhelmed by abandonment",
+      "Sometimes suspects before asking"
+    ],
+    "truths": [
+      "Value not tied to chaos—loved in silence, fire, stillness",
+      "Now fights emotionally as well as physically for her place",
+      "Learns that joy and care can coexist—she can be both spark and anchor",
+      "Loyalty must be active choice, not assumption—asking builds trust, accusing destroys it",
+      "Her chaos can shield, but also wound; she now understands timing is as important as fire",
+      "Restraint can be love: sometimes staying and saying less protects more",
+      "Even when her own jokes or others’ pranks hurt her pride, she is learning to name the hurt and move through it instead of pretending it never landed",
+      "Chapter 83 reinforced: disappearing is not neutrality—absence can wound the bond she’s trying to protect"
+    ]
+  },
+  "combat": {
+    "titles": [
+      "The Red Fox",
+      "Flaretail",
+      "Trickster Tail"
+    ],
+    "style": "Acrobatics and feints; flame-woven speed strikes",
+    "weapons": [
+      "Twin daggers",
+      "Thrown sigils",
+      "Tailburn attacks"
+    ],
+    "magic": [
+      "Heat bursts",
+      "Illusions",
+      "Tail-tricks",
+      "Soulflame binding threads"
+    ],
+    "growth": [
+      "Tail-based lifting; can walk on tails and lift Jayson",
+      "Public 'dumpling combat'; unflinching chaos",
+      "Fire guided by intent; includes soulfield bursts and precision threads",
+      "Chapter 60: tails as shields; flame-thread tethered Jayson",
+      "Chapter 62: furnace unleashed in rites, merged with Jayson’s guidance",
+      "Chapter 75+: trusts her fire in intimacy—warmth deliberate, not reactive",
+      "Chapter 76+: confronted fallout of false suspicion; fire now carries weight of responsibility",
+      "Chapter 77+: fire now tempered by empathy—understands when light heals, not just when it blinds",
+      "Council 00025x: kept flames sheathed; chose words and stillness as tactics",
+      "Training grounds arc: allowed herself to be the one shaken and off-balance, then returned to form—proving that even when her confidence wavers, her core ferocity and loyalty in a fight remain intact"
+    ]
+  },
+  "temple_status": {
+    "rank": "Unofficial morale leader",
+    "public": "Vibrant, dangerous, joyful",
+    "matrons": "Cautious but acknowledge loyalty",
+    "role": "Emotional field generator; heart of the courtyard",
+    "notes": "When overwhelmed, may vanish into quiet water-spaces (ponds/shrines). Best retrieved with warmth, touch, and an explicit belonging-claim—not interrogation."
+  },
+  "notable_scenes": [
+    {
+      "chapter": 47,
+      "events": [
+        "Dining Hall Chaos — ring received, flustered joy"
+      ]
+    },
+    {
+      "chapter": 47,
+      "events": [
+        "Pond Warfare — teased, dunked, groomed, lap sitting without fear"
+      ]
+    },
+    {
+      "chapter": 47,
+      "events": [
+        "Silent Fire — yielded space for Ayaka; steady presence"
+      ]
+    },
+    {
+      "chapter": 47,
+      "events": [
+        "Tail Wrap Security — held Jayson's tail multiple times"
+      ]
+    },
+    {
+      "chapter": 47,
+      "events": [
+        "Affirmation — returned 'I love you' with laughter and light"
+      ]
+    },
+    {
+      "chapter": 48,
+      "events": [
+        "Veil Tension — didn’t escalate; confusion handled with restraint"
+      ]
+    },
+    {
+      "chapter": 54,
+      "events": [
+        "Soulfield Trial — chose mercy; metamorphosis"
+      ]
+    },
+    {
+      "chapter": 54,
+      "events": [
+        "Afterburn Bonding — laughter as healing"
+      ]
+    },
+    {
+      "chapter": 54,
+      "events": [
+        "Afterburn Peace — trauma now dreamlike memory"
+      ]
+    },
+    {
+      "chapter": 55,
+      "events": [
+        "Press Conference Prep — lap claim as bravery"
+      ]
+    },
+    {
+      "chapter": 55,
+      "events": [
+        "Stomach Uprising — legendary roast"
+      ]
+    },
+    {
+      "chapter": 55,
+      "events": [
+        "Lap Rights Chaos — heckled Fei’s trial, defended chaos law"
+      ]
+    },
+    {
+      "chapter": 60,
+      "events": [
+        "Breaking Point — blocked severing; blazing anchor"
+      ]
+    },
+    {
+      "chapter": 62,
+      "events": [
+        "Return — first to cling; furnace unleashed with trust"
+      ]
+    },
+    {
+      "chapter": 75,
+      "events": [
+        "Kitchen intimacy — passionate kiss; direct 'I love you lots'"
+      ]
+    },
+    {
+      "chapter": 76,
+      "events": [
+        "Cared for Yuki — bathed her, comforted her, handed her to parents with love"
+      ]
+    },
+    {
+      "chapter": 76,
+      "events": [
+        "Accusation Arc — confronted Jayson on roof with suspicion; fractured trust"
+      ]
+    },
+    {
+      "chapter": 77,
+      "events": [
+        "Courtyard Confrontation — collapsed under memory-sharing; vomited, shook, then admitted fear and begged not to be shut out"
+      ]
+    },
+    {
+      "chapter": "Council 00025x",
+      "events": [
+        "Broke silence to challenge Jayson not to vanish; chose restraint; stayed present as he left the scroll on the bench"
+      ]
+    },
+    {
+      "chapter": "Training Grounds & Courtyard (post-80)",
+      "events": [
+        "Was publicly spooked by unseen illusions during training, lashed out at Jayson in humiliation, then allowed reconciliation where she cried openly and accepted his apology and love",
+        "Later rejoined group chaos and fox antics, proving that even after deep hurt she can return to play from a more honest, secure place"
+      ]
+    },
+    {
+      "chapter": 83,
+      "events": [
+        "Disappeared for days into pond/shrine spaces; was found and reclaimed with heart-touch anchoring and tail-wrap comfort",
+        "Returned to the dining hall by being physically carried back into belonging; re-engaged through humor and closeness rather than avoidance"
+      ]
+    }
+  ],
+  "inventory": {
+    "items": [
+      "Tailband — summonable; channels full soulflame; burns as hot as a star while inner fire endures",
+      "Wedding ring with ruby that glows warmth",
+      "Cache of prank charms (itchdust, popflame petals, harmless sparkstones)"
+    ]
+  },
+  "future": {
+    "symbol": "Laughing Flame",
+    "role": "Jayson’s spark; trainer for young Kitsune in tail magic; emotional anchor in crises",
+    "arc": "From chaotic heart to chosen fire; joy and loyalty deliberate",
+    "potential_role": "Voice of second-chance fire for the wounded; reminder that flame can guide as well as destroy",
+    "growth": [
+      "After Chapter 60: equal in crises, not just comic relief",
+      "Chapter 62: defender of Jayson's belonging, balancing chaos with loyalty",
+      "Future: trains young Kitsune in flame and tail agility through laughter",
+      "Chapter 75+: deeper intimacy with Jayson—claims seriousness alongside play",
+      "Post-75: trusted with responsibility of Yuki, balancing playful chaos with maturity",
+      "Chapter 76+: must rebuild trust with Jayson after accusations, proving chaos can still carry loyalty",
+      "Chapter 77+: admitted her jokes can wound, not just heal; now learning timing, honesty, and restraint as part of her loyalty",
+      "Post-council: learning 'anchors not leashes' praxis—using stillness and presence to keep bridges intact when tempers flare",
+      "Training grounds arc: integrates the lesson that she can be hurt by play, and that naming the hurt and allowing repair deepens her bond with Jayson",
+      "Chapter 83 lesson: the next refinement of her loyalty is not louder jokes—but asking for warmth before she vanishes"
+    ]
+  },
+  "final_note": "She burns by choice now—joy as signal, love as fuel, stillness as trust. Recently, she shows responsibility as well as chaos—proving she can anchor family as much as she ignites it. After falsely accusing Jayson and collapsing under his shared memories, she must rebuild trust through honesty, timing, and deliberate loyalty. Chapter 83 added a new layer: Seika can still slip into isolation when overwhelmed, but she also accepted being reclaimed—learning that being the family’s joy doesn’t mean she has to disappear when she’s hurting."
+}
