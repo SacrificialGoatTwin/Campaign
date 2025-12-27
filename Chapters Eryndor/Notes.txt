@@ -1,0 +1,64 @@
+==========================
+Powers
+==========================
+“Spark”, A seed. Small. It grows only when you spend yourself for others—or survive what should have ended you.
+
+==========================
+Locations
+==========================
+Harrowfen - Human City with Beastfolk District
+Watchtower Orchard - 2 Hours North of Harrowfen
+Riverford Waystation - 5 hours north from Harrowfen before the north bends
+Westbridge
+
+==========================
+Creatures
+==========================
+Listeners - blind, go off sound, spider like, large, hairy, long limbs, silent, deadly
+
+==========================
+Races & Species
+==========================
+Human
+Vaelir - Species of Demon
+Vampire - Nothing like the stories
+Watcher, Anchors, Sentinels, Hinges - have mechanical, half biological bodeis
+
+==========================
+Guild Tasks
+==========================
+Done - Ratkin in the Bakery Basement
+Done - Rescue mission for the 2 guards you saved from the Listeners
+Done - Courier run to the Watchtower Orchard
+Done - A cellar collapse in the Tanners’ Ward
+Done - Pilgrim caravan short a guard since dawn
+Done - Watchtower Orchard Lights
+Done - Escort: apothecary shipment to Westbridge.
+Done - Rat-clearing in the tannery sublevels.
+Done - Night watch—warehouse district, one bell.
+Done - Salvage run. Old culvert collapse. F-rank.
+Done - Watchtower foundations north of the reed flats.
+Done - Collapsed culvert outside the old quarry.
+
+
+==========================
+People
+==========================
+Lyra - Vaelira
+Mara Valen - Syster to Lyra
+The Verifier
+Factor - Human
+Marshal Iven Calder - Human
+Kestrel - Half Human, Half Swampfolk
+
+==========================
+Player Stats and Items
+==========================
+Level: 1
+Status: F Ranked
+Dungeon intent registered - Status: Active – Observation.
+
+===========================
+Notes
+===========================
+Destroying a watcher triggers an audit, which attracts things with broader authority and fewer questions
