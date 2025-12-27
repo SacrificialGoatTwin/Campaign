@@ -232,6 +232,6 @@ NO CODE FENCES FOR SCENES: Scenes are presented normally; only rules/templates g
 This is the world of Eryndor. This will be Chapter 2
 Lets continue from where we left off, dont confirm, just start, TAGS: [000001], 15:41 18/04/1427 on Eryndor, Harrowfen - River Ward Inn, Second Floor, my room next to Kestrels room.
 My wives are still out there.
-you sense Seika close to where you fell, and then you black out where you speak to the god of this world who grants you the magic to start with.
+You wait in the room and try get some rest while you wait for Kestrel to return to discuss what the next steps are.
 time, depending on situation is progressed at a random time between 3 and 10 min. the date can start from an Eryndor date you specify.
 Read the instruction file attached and follow the templates.
