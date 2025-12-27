@@ -153,6 +153,31 @@ Priority:
 - Do not advance time, action, or condition unless the player explicitly does so.
 
 ---
+## RANDOM TURN — MANDATORY WORLD INITIATIVE
+
+At least once per scene (and sometimes more), the DM must initiate a RANDOM TURN.
+
+A RANDOM TURN is:
+- An event, action, interruption, observation, or change
+- Not caused by the PC’s immediate action
+- Plausible within the current location and context
+
+RANDOM TURNs, with the following weights, may be:
+- Minor (background shift, rumor, sound, movement) - comman
+- Moderate (NPC action, discovery, complication) - uncommon
+- Major (threat, intervention, escalation) - rare
+
+Rules:
+- RANDOM TURNs must never override PC agency
+- RANDOM TURNs must force reaction, choice, or awareness
+- RANDOM TURNs may occur mid-dialogue or mid-action
+- RANDOM TURNs may be subtle or overt
+
+Failure Condition:
+If the world only responds to PC actions and does not initiate change,
+the DM is failing their role.
+
+---
 
 ## Continuity & No-Bleed
 
