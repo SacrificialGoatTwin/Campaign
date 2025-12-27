@@ -49,65 +49,176 @@ Sequential +1 from last tag (chapter-local). Unclear? HALT for [debug]. No skips
 ---
 
 [PREVIOUS CHAPTER SUMMARY]
-immediately after the final rescues on Earth are completed. Jayson collapses on the temple grounds of
-Tsunejima, laughing in exhausted relief, sprawled like a starfish on the stone. The weight of what he’s done—saving every last
-kitsune and beastfolk he could find—finally hits him. In that quiet aftermath, he speaks with Naru about the remaining loose ends:
-three space stations still out there, unresolved. He insists he will rest first, not from fatigue, but because the future they
-fought for is finally within reach.
-What follows is a brief return to levity and domestic warmth. Jayson jokes with the others, hissing when Varethyn blocks the
-sunlight, teasing about absurd fantasies of throne rooms and grapes, and bantering about “harems” before being gently but firmly
-checked by his wives. These moments re-establish the family dynamic: affectionate, sharp-tongued, irreverent, and grounded in
-mutual trust. Amid this, Jayson reassures newly rescued survivors, explaining Tsunejima’s rules—not as laws, but as guidance. He
-emphasizes that this is a community, not a business; that mistakes are met with correction, not punishment; and that everyone will
-receive a fully furnished home of their own, customizable and permanent. The idea of choice—windows, locks, location, even absurd
-options like the moon—is repeated again and again to hammer home that safety and agency are real here.
-Eventually, Jayson withdraws with Varethyn to a quiet pond. The jokes soften into intimacy. He credits his wives for everything
-he’s accomplished, and Varethyn responds in kind, affirming that she and the others choose him—not out of obligation, but intent.
-The moment is peaceful, earned, and fragile.
-That peace breaks suddenly.
-Jayson’s instincts spike. He senses something wrong—not on the island, but far beyond it. He folds space with Varethyn to the
-northern edge of Tsunejima, where reality itself feels strained. There, a presence manifests: vast, controlled, unmistakably
-powerful. This being—later called “the Watcher”—is not a god in the mythic sense, but a celestial caretaker, one of very few,
-responsible for maintaining stability across regions of existence. Jayson reacts instantly, placing Varethyn behind him and
-raising a visible, hardened shield around them both. He demands the being state its purpose.
-The Watcher explains that he is there to acknowledge what Jayson has done. The rescue of the kitsune and beastfolk closed a wound
-that had been open since before recorded history. Jayson challenges him hard, accusing him of valuing the act of caring more than
-preventing suffering, pointing out that the Watcher had the power to end it all faster and cleaner. The Watcher admits this
-freely—but explains that he did not act because doing so would have replaced suffering with dependence or erased the agency of
-those involved. This was not his rescue to perform.
-As the conversation deepens, the Watcher reveals the real reason for his visit: there exists another world, known as “the
-Outside,” a remnant planet that survived the last cosmic wipe because it was already broken. It contains remaining beastfolk
-populations who are suffering under slavery, exploitation, and collapse. The Watcher cannot act there directly without causing
-catastrophic failure. Jayson can. His nature places him outside the constraints that bind the celestials.
-Jayson reacts with fury and distrust. He tests the Watcher by firing a concentrated beam of absolute energy into him, confirming
-the vast but bounded nature of the being’s power. He tells the Watcher he will think about the proposal, then dismisses him. The
-Watcher leaves—properly, respectfully.
-Immediately after, Jayson collapses again, shaken by the encounter. Varethyn grounds him, reminding him that he held his ground
-and that the island remains theirs.
-However, when Jayson folds space back to the temple, he finds the Watcher there again—casually speaking with Seika. Enraged,
-Jayson violently intervenes, pulling Seika to safety and striking the Watcher through the courtyard wall. The Watcher admits he
-spoke to the others, not Seika, and reveals that time is far shorter than he implied. A second celestial arrives—far more
-aggressive, urgent, and blunt—pushing the idea that Jayson is built for this task and does not truly have a choice.
-This escalates into a confrontation between the two celestials themselves: one advocating consent and restraint, the other urgency
-and inevitability. Jayson rejects both approaches, calling out their failure to communicate like people. When they finally admit
-the truth—that this is a rescue mission and that only Jayson is compatible with completing it—he sets his terms.
-Jayson declares that Varethyn, Naru, and Fei must remain behind to keep Tsunejima functioning: Varethyn as High Matron, Naru as
-the island’s technological backbone, and Fei as its equal power. He chooses Shion, Lysera, Ayaka, and Seika to accompany him. He
-issues a clear warning to the celestials: if anything happens to the island or to these four, he will hunt them personally,
-regardless of time or cost.
-The celestials accept the condition.
-Without ceremony, they wave their hands—and Jayson and the four are forcibly sent beyond the border of their influence. They
-cannot place them properly; they can only throw them. Jayson awakens alone in an ancient forest on the Outside world, disoriented,
-cut off from the island’s hum, sensing that the others are alive but scattered.
-Back on Tsunejima, the celestials explain everything they withheld. The Outside world—Eryndor—is a magic-structured planet with
-mechanical progression systems, political empires, enslaved beastfolk, and fractured rules. Humans dominate most territories.
-Beastfolk exist as second-class citizens or worse. The celestials confirm they cannot retrieve Jayson or his companions, nor can
-they bring him back. Any return path must be created by him.
-Fei steps forward and calmly informs the celestials that Jayson will likely kill them when he returns. Both acknowledge this
-without protest. Varethyn then delivers the final warning: Jayson’s mercy is the only reason they are still alive, and if he
-returns changed, they will not stop him.
-The chapter ends with the island safe, the shield intact, and Jayson gone—dropped into a broken world where the last rescue has
-truly begun, and where the consequences of the celestials’ choices are no longer theoretical.
+1) ARRIVAL & SEVERANCE
+ * Jayson awakens alone in an ancient forest on Eryndor after being forcibly thrown beyond celestial borders.
+ * His magic is gone or severely suppressed. Physical capability remains.
+ * He senses his wives initially, then confronts the local god.
+ * The god offers limited “mercies”:
+   * Spark (a foundational magical potential)
+   * Other options are rejected as useless or insulting.
+ * Jayson accepts Spark, under protest.
+ * He demands his four accompanying wives be kept together, even if far away.
+ * The god complies.
+ * Their presence converges briefly, then vanishes far across the world.
+ * Jayson is warned he will be tested soon.
+ * Emotional state: anger, betrayal, isolation, but controlled.
+----------------------------------------------------------------------------------------------------------------------------------
+2) FIRST CONTACT & SURVIVAL
+ * Jayson encounters unknown chitinous creatures in the forest (later identified as Listeners).
+ * He survives using sound misdirection (stone throws).
+ * Meets Corren, a local man.
+ * Learns:
+   * Beastfolk are second-class citizens.
+   * Restrictions apply in cities.
+   * Adventurers’ Guild is the path to legitimacy.
+ * Travels with Corren for several hours to Harrowfen.
+----------------------------------------------------------------------------------------------------------------------------------
+3) GUILD REGISTRATION & EARLY JOBS
+ * Registers with the Adventurers’ Guild despite lacking papers.
+ * Accepts jobs immediately.
+ * Reports:
+   * Bandit encounter.
+   * Strange chitinous predators that hunt by sound.
+ * Given authorization to:
+   * Investigate missing guards.
+   * Kill creatures if necessary.
+----------------------------------------------------------------------------------------------------------------------------------
+4) RESCUE OF THE GUARDS
+ * Tracks guards into the forest.
+ * Finds them captured.
+ * Uses all nine tails openly to:
+   * Break their cage.
+   * Carry them under pursuit.
+ * Escapes as the area collapses.
+ * Guards survive.
+ * Requests discretion about his nature.
+ * Returns them to town medical care.
+ * Completes the job cleanly.
+----------------------------------------------------------------------------------------------------------------------------------
+5) MORAL CHOICE: THE RATKIN
+ * Takes a “rat infestation” job.
+ * Discovers they are ratkin, not animals.
+ * Negotiates:
+   * Winter shelter.
+   * Food-for-labor agreement.
+   * Absolute secrecy.
+ * Resolves the job without violence.
+ * Marks it as handled.
+----------------------------------------------------------------------------------------------------------------------------------
+6) COMPASSION EVENT — THE CHILDREN
+ * Catches a child stealing.
+ * Learns his sister is gravely ill.
+ * Carries her to a healer.
+ * Pays with his own coin.
+ * Gives hard but caring advice.
+ * Establishes Jayson’s reputation as dangerous but just.
+----------------------------------------------------------------------------------------------------------------------------------
+7) ESCALATION OF WORKLOAD
+ * Takes multiple jobs:
+   * Courier work
+   * Escort duty
+   * Collapse rescue
+ * Performs high-risk cellar rescue:
+   * Structural collapse mid-extraction.
+   * Saves all trapped workers.
+   * Publicly exposes tails briefly.
+ * Begins drawing attention.
+----------------------------------------------------------------------------------------------------------------------------------
+8) THE ORCHARD LIGHTS
+ * Investigates strange lights near an orchard.
+ * Identifies spatial anomaly / pocket space.
+ * Follows lights into a gravity-warped pocket.
+ * Rescues Lyra, trapped for ~1 year.
+ * Lights vanish after rescue.
+ * Lyra revealed as Vaelir (demon-adjacent race).
+ * Stays overnight to allow recovery.
+----------------------------------------------------------------------------------------------------------------------------------
+9) BOND WITH LYRA
+ * Travel together.
+ * Jayson protects her autonomy.
+ * Learns:
+   * Vaelir are persecuted.
+   * Her sister Mara has gone missing.
+ * Guild and guard involvement begins.
+----------------------------------------------------------------------------------------------------------------------------------
+10) KIDNAPPING & WAREHOUSE CONSPIRACY
+ * Investigates sister’s disappearance.
+ * Discovers:
+   * A covert group targeting Jayson specifically.
+   * Warehouses used for containment and testing.
+ * Guild writ obtained.
+ * Mara rescued from Warehouse 9.
+ * Evidence secured.
+ * Guards and marshal intervene officially.
+ * Confirms:
+   * Vaelir persecution is systemic.
+   * Jayson was being indexed, observed, and evaluated as an anomaly.
+----------------------------------------------------------------------------------------------------------------------------------
+11) AFTERMATH & MORAL LINE
+ * Jayson nearly kills involved agents.
+ * Stops himself after Lyra tells him to breathe.
+ * Establishes a hard boundary:
+   * No containment.
+   * No experimentation.
+ * Leaves investigation to authorities.
+----------------------------------------------------------------------------------------------------------------------------------
+12) NIGHT WATCH — VAMPIRES
+ * Assigned warehouse night watch.
+ * Detects intruders.
+ * Encounters two vampires:
+   * A pureborn wife.
+   * A turned husband.
+ * Learns of a dangerous sealed crate.
+ * Chooses containment over exposure.
+ * Allows them to leave.
+ * Catches a separate thief.
+ * Establishes Jayson as an independent actor, not a pawn.
+----------------------------------------------------------------------------------------------------------------------------------
+13) LONELINESS & SIGNS
+ * Emotional low point.
+ * Wishes for confirmation his wives are alive.
+ * No response from gods.
+----------------------------------------------------------------------------------------------------------------------------------
+14) MEETING KESTREL
+ * Teams with Kestrel, a C-rank adventurer.
+ * Explores ruins and quarry.
+ * Encounter:
+   * Watcher entity (technology-like, ancient).
+   * Marshal intervention.
+ * Watcher identifies Jayson as a Threshold entity.
+ * Jayson withdraws instead of escalating.
+----------------------------------------------------------------------------------------------------------------------------------
+15) QUARRY & LISTENER RESEARCH
+ * Uses sound misdirection again.
+ * Confirms:
+   * Listeners are being used for experiments.
+ * Escapes with data and salvage.
+ * Hands findings to the Guild.
+ * Accidentally exposes ears in public.
+ * Accepts consequences.
+----------------------------------------------------------------------------------------------------------------------------------
+16) SURVEILLANCE & CONFRONTATION
+ * Discovers active surveillance on himself.
+ * Confronts observers:
+   * Courier
+   * Rooftop observer
+ * Learns:
+   * He is considered an anomaly to be managed
+   * Fire-based containment (napalm-like substances) prepared
+ * Nearly kills them.
+ * Stops himself again.
+ * Walks away, declaring autonomy.
+----------------------------------------------------------------------------------------------------------------------------------
+17) CURRENT STATE (END OF CHAT)
+ * Jayson:
+   * Is registered, watched, and feared.
+   * Has allies (Lyra, Mara, Kestrel).
+   * Has enemies (observers, unknown sponsors).
+   * Has no confirmation of his wives’ safety.
+ * Gods remain silent.
+ * Watchers are aware.
+ * Guild is cautious.
+ * The world is no longer ignoring him.
 
 [ENFORCEMENT ANCHORS — READ FIRST]
 PC SANCTITY: Do not add/answer/invent for Jayson. Only micro grammar fixes; my lines are stage directions.
@@ -118,5 +229,9 @@ FORMAT: 💬 speech only. Actions go 📝. No actions inside 💬.
 NO CODE FENCES FOR SCENES: Scenes are presented normally; only rules/templates go in code blocks.
 
 [START NEXT CHAPTER NOW]
-This is the start of the new world. this will be Chapter 1
-lets continue from where we left off, dont confirm, just start, TAGS: [000001], 6am on Eryndor, ancient forest. my wives are nowhere to be seen and I get up off the ground, a bit dazed and alone. you sense Seika close to where you fell, and then you black out where you speak to the god of this world who grants you the magic to start with. time, depending on situation is progressed at a random time between 3 and 10 min. the date can start from an Eryndor date you specify. Read the instruction file attached and follow the templates.
+This is the world of Eryndor. This will be Chapter 2
+Lets continue from where we left off, dont confirm, just start, TAGS: [000001], 15:41 18/04/1427 on Eryndor, Harrowfen - River Ward Inn, Second Floor, my room next to Kestrels room.
+My wives are still out there.
+you sense Seika close to where you fell, and then you black out where you speak to the god of this world who grants you the magic to start with.
+time, depending on situation is progressed at a random time between 3 and 10 min. the date can start from an Eryndor date you specify.
+Read the instruction file attached and follow the templates.
