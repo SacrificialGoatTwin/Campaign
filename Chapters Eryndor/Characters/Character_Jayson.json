@@ -195,7 +195,42 @@
   "notable_scenes": [
     {
       "chapter1": [
-        ""
+        "Awoke alone on Eryndor after being forcibly displaced by celestials, cut off from Tsunejima and separated from his wives",
+        "Accepted the primordial gift known as Spark, understanding it as a slow-burning power tied to sacrifice, endurance, and survival rather than immediate strength",
+        "Registered with the Harrowfen Adventurers’ Guild despite lacking papers, choosing legitimacy over anonymity",
+        "Encountered and identified Listeners in the wild, successfully using sound misdirection to survive without magic or weapons",
+        "Rescued two trapped guards from Listeners using improvised tactics and concealed kitsune abilities",
+        "Demonstrated restraint and diplomacy by negotiating a winter survival pact between ratkin refugees and a human baker",
+        "Established a personal reputation for competence and mercy as news of his actions spread rapidly between towns",
+        "Exposed and disrupted a kidnapping operation involving Vaelir civilians, prioritizing lawful resolution through Guild and city authorities",
+        "Accepted repeated escort, rescue, and salvage work to build resources while remaining visibly exhausted and emotionally strained",
+        "Formed an early partnership with Kestrel Thorne during a ruins investigation, despite a rank imbalance",
+        "Encountered Watcher-class entities operating covertly within dungeon-adjacent infrastructure and withdrew rather than escalate",
+        "Demonstrated adaptive combat and stealth tactics during a quarry operation involving Listeners, prioritizing extraction over extermination",
+        "Revealed his kitsune nature publicly at the Guild unintentionally, creating future social and political risk",
+        "Intervened during a warehouse infiltration involving vampires, choosing discretion and de-escalation over capture or violence",
+        "Detected and confronted covert surveillance efforts targeting him, recognizing patterns of indexing and threat assessment",
+        "Came close to lethal escalation during a confrontation with human observers before being grounded by Kestrel",
+        "Chose restraint over vengeance, asserting personal autonomy while refusing to be contained, classified, or owned",
+        "Ended the chapter physically safe but emotionally isolated, still receiving no confirmation of his wives’ condition or location",
+        "Entered the next phase aware that he is being watched, evaluated, and possibly prepared for containment or exploitation"
+      ],
+      "chapter2": [
+        "Received and correctly dismissed intimidation attempts involving false leverage",
+        "Entrusted Kestrel with independent extraction of Lyra and Mara",
+        "Identified and confronted Guild mind-reading attempt",
+        "Voluntarily disclosed Orchard rift details under controlled conditions",
+        "Lost Guild board access and accepted off-book status without escalation",
+        "Protected Kestrel during repeated human hostility",
+        "Executed flawless non-lethal alley confrontation against multiple armed assailants",
+        "Maintained night watch and disciplined rest cycles",
+        "Discovered and dismantled a beastkin trafficking operation",
+        "Rescued Liri and provided immediate emotional stabilization",
+        "Identified Guild mole Marlen Voss via pattern recognition",
+        "Presented evidence to Guild Annex without heroics",
+        "Accepted procedural limits to ensure Liri’s safe return",
+        "Claimed wagon and horse as lawful spoils",
+        "Returned to Harrowfen to await next phase"
       ]
     }
   ],
@@ -205,7 +240,9 @@
     "inventory": {
       "items": [
         "coin pouch",
-        "cloak"
+        "cloak",
+        "horse",
+        "cart"
       ]
     },
     "Other": {

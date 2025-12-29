@@ -15,6 +15,7 @@ Westbridge
 Creatures
 ==========================
 Listeners - blind, go off sound, spider like, large, hairy, long limbs, silent, deadly
+Carrion crawler - Centipide like creature
 
 ==========================
 Races & Species
@@ -39,7 +40,10 @@ Done - Night watch—warehouse district, one bell.
 Done - Salvage run. Old culvert collapse. F-rank.
 Done - Watchtower foundations north of the reed flats.
 Done - Collapsed culvert outside the old quarry.
+Done - Dungeon—Beginner Annex, Westbridge Barrows - Dungeon
+Done - Courier run—River Ward to Westbridge Annex
 
+And a cellar inspection.
 
 ==========================
 People
@@ -50,6 +54,8 @@ The Verifier
 Factor - Human
 Marshal Iven Calder - Human
 Kestrel - Half Human, Half Swampfolk
+Rellin - Human vetran adventurer
+Liri - Fox girl child rescued
 
 ==========================
 Player Stats and Items

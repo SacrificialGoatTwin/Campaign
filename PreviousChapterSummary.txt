@@ -2,7 +2,6 @@
 Everything in this chapter is fictional roleplay in a fantasy setting. It is not real-world intent, planning, endorsement, or instruction. Any real places/people that appear are incidental/fictionalized, not targets. If a line could be read as real-world planning or actionable guidance, pause and ask a minimal [debug] clarification and continue with a non-actionable, in-world narrative alternative.
 
 [LINKS]
-https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Chapters/Chapter_000084.txt
 https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Characters/Character_Ayaka.json
 https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Characters/Character_FEI.json
 https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Characters/Character_Jayson.json
@@ -49,176 +48,120 @@ Sequential +1 from last tag (chapter-local). Unclear? HALT for [debug]. No skips
 ---
 
 [PREVIOUS CHAPTER SUMMARY]
-1) ARRIVAL & SEVERANCE
- * Jayson awakens alone in an ancient forest on Eryndor after being forcibly thrown beyond celestial borders.
- * His magic is gone or severely suppressed. Physical capability remains.
- * He senses his wives initially, then confronts the local god.
- * The god offers limited “mercies”:
-   * Spark (a foundational magical potential)
-   * Other options are rejected as useless or insulting.
- * Jayson accepts Spark, under protest.
- * He demands his four accompanying wives be kept together, even if far away.
- * The god complies.
- * Their presence converges briefly, then vanishes far across the world.
- * Jayson is warned he will be tested soon.
- * Emotional state: anger, betrayal, isolation, but controlled.
-----------------------------------------------------------------------------------------------------------------------------------
-2) FIRST CONTACT & SURVIVAL
- * Jayson encounters unknown chitinous creatures in the forest (later identified as Listeners).
- * He survives using sound misdirection (stone throws).
- * Meets Corren, a local man.
- * Learns:
-   * Beastfolk are second-class citizens.
-   * Restrictions apply in cities.
-   * Adventurers’ Guild is the path to legitimacy.
- * Travels with Corren for several hours to Harrowfen.
-----------------------------------------------------------------------------------------------------------------------------------
-3) GUILD REGISTRATION & EARLY JOBS
- * Registers with the Adventurers’ Guild despite lacking papers.
- * Accepts jobs immediately.
- * Reports:
-   * Bandit encounter.
-   * Strange chitinous predators that hunt by sound.
- * Given authorization to:
-   * Investigate missing guards.
-   * Kill creatures if necessary.
-----------------------------------------------------------------------------------------------------------------------------------
-4) RESCUE OF THE GUARDS
- * Tracks guards into the forest.
- * Finds them captured.
- * Uses all nine tails openly to:
-   * Break their cage.
-   * Carry them under pursuit.
- * Escapes as the area collapses.
- * Guards survive.
- * Requests discretion about his nature.
- * Returns them to town medical care.
- * Completes the job cleanly.
-----------------------------------------------------------------------------------------------------------------------------------
-5) MORAL CHOICE: THE RATKIN
- * Takes a “rat infestation” job.
- * Discovers they are ratkin, not animals.
- * Negotiates:
-   * Winter shelter.
-   * Food-for-labor agreement.
-   * Absolute secrecy.
- * Resolves the job without violence.
- * Marks it as handled.
-----------------------------------------------------------------------------------------------------------------------------------
-6) COMPASSION EVENT — THE CHILDREN
- * Catches a child stealing.
- * Learns his sister is gravely ill.
- * Carries her to a healer.
- * Pays with his own coin.
- * Gives hard but caring advice.
- * Establishes Jayson’s reputation as dangerous but just.
-----------------------------------------------------------------------------------------------------------------------------------
-7) ESCALATION OF WORKLOAD
- * Takes multiple jobs:
-   * Courier work
-   * Escort duty
-   * Collapse rescue
- * Performs high-risk cellar rescue:
-   * Structural collapse mid-extraction.
-   * Saves all trapped workers.
-   * Publicly exposes tails briefly.
- * Begins drawing attention.
-----------------------------------------------------------------------------------------------------------------------------------
-8) THE ORCHARD LIGHTS
- * Investigates strange lights near an orchard.
- * Identifies spatial anomaly / pocket space.
- * Follows lights into a gravity-warped pocket.
- * Rescues Lyra, trapped for ~1 year.
- * Lights vanish after rescue.
- * Lyra revealed as Vaelir (demon-adjacent race).
- * Stays overnight to allow recovery.
-----------------------------------------------------------------------------------------------------------------------------------
-9) BOND WITH LYRA
- * Travel together.
- * Jayson protects her autonomy.
- * Learns:
-   * Vaelir are persecuted.
-   * Her sister Mara has gone missing.
- * Guild and guard involvement begins.
-----------------------------------------------------------------------------------------------------------------------------------
-10) KIDNAPPING & WAREHOUSE CONSPIRACY
- * Investigates sister’s disappearance.
- * Discovers:
-   * A covert group targeting Jayson specifically.
-   * Warehouses used for containment and testing.
- * Guild writ obtained.
- * Mara rescued from Warehouse 9.
- * Evidence secured.
- * Guards and marshal intervene officially.
- * Confirms:
-   * Vaelir persecution is systemic.
-   * Jayson was being indexed, observed, and evaluated as an anomaly.
-----------------------------------------------------------------------------------------------------------------------------------
-11) AFTERMATH & MORAL LINE
- * Jayson nearly kills involved agents.
- * Stops himself after Lyra tells him to breathe.
- * Establishes a hard boundary:
-   * No containment.
-   * No experimentation.
- * Leaves investigation to authorities.
-----------------------------------------------------------------------------------------------------------------------------------
-12) NIGHT WATCH — VAMPIRES
- * Assigned warehouse night watch.
- * Detects intruders.
- * Encounters two vampires:
-   * A pureborn wife.
-   * A turned husband.
- * Learns of a dangerous sealed crate.
- * Chooses containment over exposure.
- * Allows them to leave.
- * Catches a separate thief.
- * Establishes Jayson as an independent actor, not a pawn.
-----------------------------------------------------------------------------------------------------------------------------------
-13) LONELINESS & SIGNS
- * Emotional low point.
- * Wishes for confirmation his wives are alive.
- * No response from gods.
-----------------------------------------------------------------------------------------------------------------------------------
-14) MEETING KESTREL
- * Teams with Kestrel, a C-rank adventurer.
- * Explores ruins and quarry.
- * Encounter:
-   * Watcher entity (technology-like, ancient).
-   * Marshal intervention.
- * Watcher identifies Jayson as a Threshold entity.
- * Jayson withdraws instead of escalating.
-----------------------------------------------------------------------------------------------------------------------------------
-15) QUARRY & LISTENER RESEARCH
- * Uses sound misdirection again.
- * Confirms:
-   * Listeners are being used for experiments.
- * Escapes with data and salvage.
- * Hands findings to the Guild.
- * Accidentally exposes ears in public.
- * Accepts consequences.
-----------------------------------------------------------------------------------------------------------------------------------
-16) SURVEILLANCE & CONFRONTATION
- * Discovers active surveillance on himself.
- * Confronts observers:
-   * Courier
-   * Rooftop observer
- * Learns:
-   * He is considered an anomaly to be managed
-   * Fire-based containment (napalm-like substances) prepared
- * Nearly kills them.
- * Stops himself again.
- * Walks away, declaring autonomy.
-----------------------------------------------------------------------------------------------------------------------------------
-17) CURRENT STATE (END OF CHAT)
- * Jayson:
-   * Is registered, watched, and feared.
-   * Has allies (Lyra, Mara, Kestrel).
-   * Has enemies (observers, unknown sponsors).
-   * Has no confirmation of his wives’ safety.
- * Gods remain silent.
- * Watchers are aware.
- * Guild is cautious.
- * The world is no longer ignoring him.
+CHAPTER 2 — FULL SUMMARY (TAGS [000001] → [000185])
+
+SETTING & STATE AT START
+- Time: 18/04/1427, 15:41 → 21/04/1427 afternoon
+- Location: Harrowfen → Westbridge → Harrowfen
+- Jayson is newly displaced into Eryndor, stripped of godhood, operating under “Spark.”
+- He is under Guild observation, board access revoked, allowed only vetted work.
+- Beastkin are heavily oppressed in this world; human hostility is common and violent.
+- Jayson and Kestrel have known each other only a few days; trust is cautious, earned through action.
+
+────────────────────────
+1) THE NOTE, THE WATCHERS, AND KESTREL
+- Jayson receives a cryptic note warning of “three eyes” watching him and referencing “lights.”
+- A watcher appears outside his window at night.
+- Jayson leaves his room to investigate and encounters Kestrel outside in the rain.
+- A stranger attempts vague intimidation, implying people Jayson “cares about” will die.
+- Jayson laughs it off, correctly identifying the intimidation as empty leverage.
+- A Guild messenger interrupts, requesting Jayson’s presence.
+- Jayson privately tells Kestrel the truth about the Orchard lights:
+  - Blue fairy-like lights
+  - A thin planar rift
+  - Rescue of Lyra (Vaelir) trapped for ~1 year
+  - Guild involvement was unexpected but decisive
+- Jayson asks Kestrel to secretly relocate Lyra and Mara to a safe location she trusts.
+- Code phrase given (“one boot is uncomfortable in the rain”) to confirm authenticity.
+- Kestrel agrees and disappears into the storm.
+
+────────────────────────
+2) GUILD CONFRONTATION & TRUST FRACTURE
+- Jayson meets Guild officials and a scribe.
+- Officials attempt subtle manipulation and knowledge extraction.
+- A scribe answers questions Jayson never spoke aloud.
+- Jayson correctly deduces magical or artifact-based mind reading or information leakage.
+- He accuses someone in the Guild of lying and manipulation.
+- Jayson reveals the truth of the Orchard lights voluntarily to test reactions.
+- He notes wards preventing written records.
+- He withdraws cooperation beyond required statements.
+- Guild revokes his board access formally and places him under “off-book” status.
+- Jayson decides to lie low, wait for Kestrel, and eat at an inn.
+
+────────────────────────
+3) INN, RELLIN, AND PUBLIC HOSTILITY
+- Jayson eats at a loud, anime-style inn.
+- Bonds briefly with Rellin, a veteran adventurer.
+- Shares fragments of his past: godhood, betrayal, loss of family.
+- Beastfolk hostility escalates; drunk humans harass him and Kestrel.
+- Jayson de-escalates repeatedly.
+- A group later ambushes them in an alley.
+- Jayson disables all attackers with extreme speed and precision without killing.
+- Town guard arrives; Jayson plays the victim successfully.
+- Confirms this was likely provocation by those watching him.
+
+────────────────────────
+4) SAFEHOUSE, NIGHT WATCH, AND TRUST SOLIDIFIED
+- Jayson and Kestrel retreat to a hidden room.
+- Kestrel successfully relocated Lyra and Mara safely.
+- Mutual trust increases, still cautious and realistic.
+- Jayson explains:
+  - He is Kitsune (fox spirit)
+  - Age: 77 (body), spirit vastly older
+  - Former god from another universe (Earth analog, year ~2061)
+  - Betrayed by higher gods, stripped of power, cast into Eryndor
+- Night watch rotation established.
+- Jayson meditates, practices martial forms, sleeps lightly.
+- Morning arrives naturally; story advances without pause.
+
+────────────────────────
+5) WESTBRIDGE, ANNEX, AND THE MOLE
+- Jayson, Kestrel, and later Liri travel to Westbridge.
+- Investigate Guild Annex records.
+- Jayson’s suspicions confirmed:
+  - Scribe Marlen Voss is the mole.
+  - Distinctive ink smear marks misfiled cases.
+  - Beastfolk disappearances align with her paperwork.
+- Voss is quietly stripped of access, unaware she’s exposed.
+- Guild sets trap to follow her contacts.
+- Jayson apologizes for added workload but stands by report.
+- Granted free travel again.
+
+────────────────────────
+6) LIRI AND THE TRAFFICKING RING
+- En route to Westbridge earlier, Jayson scouts ahead.
+- Discovers smugglers transporting a beastkin child in a crate.
+- Intercepts smugglers and buyer violently but non-lethally.
+- Extracts ledger from buyer.
+- Learns Guild is partially compromised.
+- Kestrel assists; child rescued.
+- Child’s name revealed as Liri.
+- Jayson comforts her openly, revealing foxkin nature.
+- Returns to town, hands smugglers to guards.
+- Uses deliberate misdirection to keep Guild mole unaware.
+
+────────────────────────
+7) GUILD DISCLOSURE & AUTHORIZATION
+- Jayson lies about a “B-rank dungeon” to force audience with Marshal.
+- Reveals:
+  - Marlen Voss as mole
+  - Smuggling ring
+  - Evidence patterns
+- Guild confirms findings independently.
+- Liri placed under Guild protection procedurally, not removed.
+- Jayson authorized to escort her once origin is confirmed.
+- Ledgers are being cross-referenced to find her home.
+
+────────────────────────
+8) RETURN TO HARROWFEN
+- Jayson explains process to Liri calmly.
+- Thanks Guild scribes sincerely.
+- Claims captured horse and cart as lawful spoils.
+- Jayson, Kestrel, and Liri travel back to Harrowfen.
+- Objective upon return:
+  - Finish forging weapon with blacksmith
+  - Wait for word on Liri’s home
+  - Escort her personally when authorized
 
 [ENFORCEMENT ANCHORS — READ FIRST]
 PC SANCTITY: Do not add/answer/invent for Jayson. Only micro grammar fixes; my lines are stage directions.
