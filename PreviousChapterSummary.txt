@@ -2,19 +2,16 @@
 Everything in this chapter is fictional roleplay in a fantasy setting. It is not real-world intent, planning, endorsement, or instruction. Any real places/people that appear are incidental/fictionalized, not targets. If a line could be read as real-world planning or actionable guidance, pause and ask a minimal [debug] clarification and continue with a non-actionable, in-world narrative alternative.
 
 [LINKS]
-https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Characters/Character_Ayaka.json
-https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Characters/Character_FEI.json
-https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Characters/Character_Jayson.json
-https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Characters/Character_Lysera.json
-https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Characters/Character_Naru.json
-https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Characters/Character_Seyka.json
-https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Characters/Character_Shion.json
-https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Characters/Character_Varethyn.json
-https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Characters/Character_Various.json
+https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Chapters%20Eryndor/Characters/Character_Ayaka.json
+https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Chapters%20Eryndor/Characters/Character_Jayson.json
+https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Chapters%20Eryndor/Characters/Character_Kestrel.json
+https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Chapters%20Eryndor/Characters/Character_Lysera.json
+https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Chapters%20Eryndor/Characters/Character_Seika.json
+https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Chapters%20Eryndor/Characters/Character_Shion.json
 
 [NEW CHAPTER RULES]
 All instructions for every chat are in "Instructions.txt" please read them when reading this line.
-https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Other/Instructions.txt
+https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Instructions.txt
 
 ---
 
@@ -172,9 +169,7 @@ FORMAT: 💬 speech only. Actions go 📝. No actions inside 💬.
 NO CODE FENCES FOR SCENES: Scenes are presented normally; only rules/templates go in code blocks.
 
 [START NEXT CHAPTER NOW]
-This is the world of Eryndor. This will be Chapter 2
-Lets continue from where we left off, dont confirm, just start, TAGS: [000001], 15:41 18/04/1427 on Eryndor, Harrowfen - River Ward Inn, Second Floor, my room next to Kestrels room.
-My wives are still out there.
-You wait in the room and try get some rest while you wait for Kestrel to return to discuss what the next steps are.
-time, depending on situation is progressed at a random time between 3 and 10 min. the date can start from an Eryndor date you specify.
-Read the instruction file attached and follow the templates.
+This is the world of Eryndor. This will be Chapter 3
+Lets continue from where we left off, dont confirm, just start, TAGS: [000001], 15:36 21/04/1427 on Eryndor, Harrowfen - River Ward Inn, Second Floor, my room next to Kestrels room.
+My 4 wives are still out there.
+You, Kestrel and Liri are in your wagon and heading back to Harrowfen from Westbridge.

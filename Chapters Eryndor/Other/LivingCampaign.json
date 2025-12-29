@@ -1,22 +1,22 @@
 {
   "meta": {
     "project": "Eryndor",
-    "version": "1"
+    "version": "2"
   },
   "Instrucctions": [
     "https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Instructions.txt"
   ],
   "chapters": [
-    "https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Chapters%20Eryndor/Chapters/Eryndor%20Chapter%201%20-%20Thrown%20Into%20Silence.txt"
+    "https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Chapters%20Eryndor/Chapters/Eryndor%20Chapter%201%20-%20Thrown%20Into%20Silence.txt",
+    "https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Chapters%20Eryndor/Chapters/Eryndor%20Chapter%202%20-%20Thin%20Walls%20Patience.txt"
   ],
   "characters": [
-
     "https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Chapters%20Eryndor/Characters/Character_Ayaka.json",
     "https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Chapters%20Eryndor/Characters/Character_Jayson.json",
     "https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Chapters%20Eryndor/Characters/Character_Lysera.json",
     "https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Chapters%20Eryndor/Characters/Character_Seika.json",
     "https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Chapters%20Eryndor/Characters/Character_Shion.json",
-    "https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Chapters%20Eryndor/Characters/Character_Various.json"
+    "https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Chapters%20Eryndor/Characters/Character_Kestrel.json"
   ],
   "lore": [
     "https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Chapters%20Eryndor/Other/Scenario-WorldV3.txt"
