@@ -122,7 +122,7 @@
       "notes": "senior Guild scribe overseeing the Westbridge Annex investigation. Independently confirms Jayson's findings through ledger analysis. Authorizes travel clearance and conditional escort permissions regarding Liri. Operates with procedural caution and discretion."
     },
     {
-      "name": "Guild Marshal (Harrowfen)",
+      "name": "Guild Marshal R. Veyrin (Harrowfen)",
       "species": "Human",
       "notes": ""
     },
@@ -134,6 +134,7 @@
 
   ],
   "notes": [
-    "Destroying a Watcher triggers an audit, which attracts entities with broader authority and fewer questions"
+    "Destroying a Watcher triggers an audit, which attracts entities with broader authority and fewer questions",
+    "Jayson Goodwin, By order of the Harrowfen Guild Marshal, this notice records the closure of the Westbridge roadside incident. All involved hostile parties are confirmed deceased or detained.The protected minor (Liri) is accounted for and remains under provisional Guild protection pending origin verification.Your actions are recorded as intervention during an active abduction and pursuit.No immediate censure is issued.However—due to the scale of force employed and emerging external interest,your status is amended to Observed Asset — Conditional.You are requested (not ordered) to present yourself to the Harrowfen Hall within seven days to discuss future engagement boundaries, advancement eligibility, and travel declarations.Failure to attend will not result in immediate sanction, but will be noted.—Marshal R. Veyrin"
   ]
 }
