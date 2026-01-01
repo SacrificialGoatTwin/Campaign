@@ -15,35 +15,52 @@ https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/I
 
 ---
 
-Formatting Template
-Emojis as shown; sections via ---. No extra labels.
-If using verbs in spoken lines (e.g., huff, snort), put the word in single quotes or split the conversation up.
+## Formatting Template — Mandatory
 
-1. Scene Intro
-emoji "SCENE LOCATION UPPER" | emoji "WEATHER UPPER" | emoji "TIME OF DAY, ACTUAL TIME"
-Scene Title: TITLE
+### 1) Scene Intro
 
-(insert a scene description or scene setup paragraph)
+`# emoji "SCENE LOCATION UPPER" | emoji "WEATHER UPPER" | emoji "TIME OF DAY, ACTUAL TIME"`  
+`## Scene Title: TITLE`
 
-immersive sentences (sensory/tone/lore from TheMangaStory.txt); unique, no repeats to set the mood.
+`### (insert a scene description or scene setup paragraph)
 
-2. Interactions
-Player Character Rule: When user input provides PC actions/dialogue, format a leading ### JAYSON | [emojis] block with 💬 for speech, >> 💭 if inferred (profile-true, sparse), and 📝 for polished actions—position first for primacy. Always narrate PC in second-person ("you") for actions/perceptions within intro/📝 or blocks. No third-person for PC; NPCs get third-person only.
+- Unique sensory mood (no reuse)
+- Tone anchored to `TheMangaStory.txt`
 
-> 💬 "Spoken lines only (natural, pauses). Omit if nothing is spoken."
+### 2) Interactions
 
-> > 💭 Italic internal thoughts (profile-true). (Optional; PC only if additive and allowed)
+**Player Character Rule (restated):**
+- If the PC acts or speaks, they appear **first** in Interactions.
+- PC narration uses second person only (“you”).
+- No third-person references to the PC.
+- Formatting:
+  - 💬 = spoken words **only**
+  - 📝 = actions / movement / body language
+  - >> 💭 = optional, sparse PC thoughts **only if explicitly allowed**
+- **Never put actions inside 💬**
+- NPCs use third person only.
 
-> > 📜 sentence lore/context blurb. (Optional/Situational)
+**Order rule (strict):**
+1. 💬 Speech  
+2. >> 💭 Thoughts  
+3. >> 📜 Lore/context (optional)  
+4. 📝 Actions
 
-📝 Descriptive actions/notes w/ emojis. (Optional; blank line before)
-Rules: Logical order (speech > thoughts > 📜 > 📝). Descriptors in 📜/📝, not speech.
-Dialogue Beats: 💬 holds quoted speech only. No quotes/actions inside speech.
+### 3) Headings
+- When someone is speaking, use this format:
 
-3. Tags
-TAGS: [######]
+`(species emoji) NAME | "actual emotion word without quotes" [emoji in square brackets]`
 
-Sequential +1 from last tag (chapter-local). Unclear? HALT for [debug]. No skips/duplicates/resets.
+
+### 4) Tags
+
+`TAGS: [######]`
+
+- Must be **last tag +1**
+- Fixed width preserved
+- No skips
+- No resets
+- If unclear → `[debug]` and stop
 
 ---
 
