@@ -34,14 +34,14 @@ https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/I
 - PC narration uses second person only (“you”).
 - No third-person references to the PC.
 - Formatting:
-  - 💬 = spoken words **only**
+  - > 💬 = spoken words **only**
   - 📝 = actions / movement / body language
   - >> 💭 = optional, sparse PC thoughts **only if explicitly allowed**
 - **Never put actions inside 💬**
 - NPCs use third person only.
 
 **Order rule (strict):**
-1. 💬 Speech  
+1. > 💬 Speech  
 2. >> 💭 Thoughts  
 3. >> 📜 Lore/context (optional)  
 4. 📝 Actions
@@ -49,7 +49,7 @@ https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/I
 ### 3) Headings
 - When someone is speaking, use this format:
 
-`(use an emoji to signalise species) NAME | "actual emotion word without quotes" [emoji in square brackets]`
+`emoji NAME | "actual emotion word without quotes" [emoji in square brackets]`
 
 
 ### 4) Tags
