@@ -1,5 +1,5 @@
 {
-  "name": "Kestrel Thorne",
+  "name": "Kestrel Thorne (real name is Thrennael)",
   "title": "The Quiet Line Between",
   "quote": "Don't sit. Not yet.",
   "appearance": {
@@ -12,18 +12,32 @@
     "skin": "Weathered from travel",
     "scent": "Leather, road-dust, faint metal",
     "posture": "Balanced, alert even at rest",
-    "relationship": "Trusted companion to Jayson (earned through shared risk; still cautious)",
+    "relationship": "Trusted companion to Jayson (earned through shared risk; trust deepening beyond initial caution)",
     "race": "Mixed heritage (non-human traits; exact lineage undisclosed)",
     "siblings": {
       "None": ""
     },
-    "tails": "None"
+    "tails": "None",
+    "notable_marks": [
+      "Subtle shimmering sigils (persistent; origin undisclosed)"
+    ],
+    "injuries": [
+      {
+        "type": "Slipped shoulder tendon",
+        "location": "Right shoulder",
+        "cause": "Old injury predating Westbridge incident",
+        "treatment": "Manually realigned by Jayson (non-magical); acute pain followed by functional stabilization",
+        "status": "Healing; soreness expected, long-term risk reduced"
+      }
+    ]
   },
   "reactions": {
     "wind": "Uses it to read movement and approach",
     "water": "Comfortable; swims confidently; long breath-hold",
     "sound": "Responds instantly to irregularities",
-    "temperature": "Endures without complaint"
+    "temperature": "Endures without complaint",
+    "crowds": "Defaults to exit-mapping and child-shielding behavior",
+    "hostility": "Absorbs tension without escalation; intervenes only when thresholds are crossed"
   },
   "speech": {
     "voice": "Low, controlled, calm under pressure",
@@ -39,7 +53,8 @@
       "Learning to trust shared risk",
       "Allowing herself to be seen",
       "Letting others take point when appropriate",
-      "More willing to speak plainly with Jayson when stakes are real"
+      "More willing to speak plainly with Jayson when stakes are real",
+      "Uses dry humor sparingly as social pressure release"
     ]
   },
   "emotional": {
@@ -61,17 +76,20 @@
     "vulnerabilities": [
       "Carries responsibility silently",
       "Rarely asks for help",
-      "Internalizes fear rather than voicing it"
+      "Internalizes fear rather than voicing it",
+      "Tends to normalize personal pain"
     ],
     "affection_tells": [
       "Stays close without comment",
       "Subtle warnings rather than reassurances",
-      "Accepts proximity without deflecting"
+      "Accepts proximity without deflecting",
+      "Allows shared guardianship of Liri without territoriality"
     ],
     "growth": [
       "Learning to trust shared risk",
       "Allowing herself to be seen",
-      "Letting others take point when appropriate"
+      "Letting others take point when appropriate",
+      "Accepting care without framing it as weakness"
     ]
   },
   "social": {
@@ -84,7 +102,8 @@
       "Watchful",
       "Dryly supportive",
       "Steps in before things break",
-      "Protective of those under her watch"
+      "Protective of those under her watch",
+      "Acts as social buffer between Jayson and hostile environments"
     ]
   },
   "values": {
@@ -92,21 +111,25 @@
       "Autonomy",
       "Consent",
       "Quiet competence",
-      "Accountability"
+      "Accountability",
+      "De-escalation over domination"
     ],
     "fears": [
       "Containment",
       "Being reduced to a category",
-      "Institutions failing the vulnerable"
+      "Institutions failing the vulnerable",
+      "Becoming complicit through inaction"
     ],
     "strengths": [
       "Situational awareness",
       "Emotional steadiness",
-      "Operational discipline"
+      "Operational discipline",
+      "Crowd threat assessment"
     ],
     "weaknesses": [
       "Keeps distance by default",
-      "Takes on burden alone"
+      "Takes on burden alone",
+      "Downplays personal injury"
     ]
   },
   "combat": {
@@ -125,7 +148,12 @@
       "Quarry encounter",
       "Dungeon annex run (Westbridge)",
       "Smuggler interception support",
-      "Non-lethal urban confrontation support"
+      "Non-lethal urban confrontation support",
+      "Witnessed controlled martial engagement in Lower Market district"
+    ],
+    "notes": [
+      "Deferred to Jayson during public confrontation to avoid escalation",
+      "Maintained child protection priority throughout hostile environment"
     ]
   },
   "notable_scenes": [
@@ -163,6 +191,20 @@
         "Traveled back to Harrowfen with Jayson and Liri after Guild authorization, maintaining low profile",
         "Solidified role as Jayson's stabilizing counterpart—neither follower nor commander, but balance"
       ]
+    },
+    {
+      "chapter3": [
+        "Sustained injury during roadside ambush aftermath; accepted non-magical physical treatment from Jayson",
+        "Allowed Jayson to correct her shoulder injury despite pain, demonstrating trust beyond professional reliance",
+        "Agreed to accompany Jayson in future guild work and magic studies in the capital",
+        "Consented to sign up for a leveling plaque despite already holding C-rank status, simplifying joint operations",
+        "Acted as primary protector for Liri during multiple hostile public environments",
+        "Maintained composure and restraint during escalating anti-beastkin hostility in Lower Market district",
+        "Held Jayson's concealed katana during an external confrontation, honoring trust without interference",
+        "Witnessed Jayson's controlled martial engagement and supported de-escalation afterward",
+        "Accepted a superior inn room for Liri’s comfort without comment or embarrassment",
+        "Revealed her true name (Thrennael) to Jayson voluntarily, marking a significant trust milestone"
+      ]
     }
   ],
   "character_data": {
@@ -172,7 +214,8 @@
       "items": [
         "coin pouch",
         "cloak",
-        "travel pack"
+        "travel pack",
+        "new leather bracers (gifted by Jayson; custom embossed)"
       ]
     }
   },
@@ -181,8 +224,11 @@
     "role": "Balancer, witness, boundary-keeper",
     "arc": "From observer to chosen ally",
     "hesitation": "Letting attachment form",
-    "legacy": [],
+    "legacy": [
+      "Model of restraint in hostile systems",
+      "Proof that strength does not require dominance"
+    ],
     "reminder": "Not every fight is won by force"
   },
-  "final_note": "Kestrel does not rush bonds, but once she commits, she acts decisively. In Chapter 2, she proves she can be trusted with lives, secrets, and consequences—without needing recognition."
+  "final_note": "By the end of Chapter 3, Kestrel transitions from cautious professional ally to deliberate companion. She chooses continued proximity, shared risk, and future planning with Jayson, marking a conscious commitment rather than a situational one."
 }

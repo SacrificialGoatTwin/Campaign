@@ -68,3 +68,18 @@ Dungeon intent registered - Status: Active.
 Notes
 ===========================
 Destroying a watcher triggers an audit, which attracts things with broader authority and fewer questions
+
+
+
+
+
+
+
+
+===========================
+END OF CHAPTER QUESTIONS
+===========================
+give me a detailed summary of this whole chat from Tag 1 to the end in sequential order
+give it to me in enough detail that it makes sense for you when I use it to move to the next chapter in a new chat. also give it to me in something I can copy and paste
+
+update this profile with this chapters information, dont remove stuff. if something needs modifying, then modify it, for example, if age is unknown and then discovered, change it. but dont remove stuff. give it back to me in something I can copy paste

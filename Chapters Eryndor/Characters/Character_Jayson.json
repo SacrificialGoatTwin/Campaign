@@ -32,7 +32,7 @@
       "Naru": "Wife",
       "Fei": "Wife"
     },
-    "race": "",
+    "race": "Kitsune (power-suppressed; Spark active)",
     "siblings": {
       "Fei": "Twin Sister by cloning"
     },
@@ -183,14 +183,23 @@
       ],
       "eryndor": []
     },
-    "style": "unknown since losing powers, but still maintains physical strength",
+    "style": "Primarily non-magical martial discipline in Eryndor; redirects force, controls narrative through restraint",
     "weapons": [
       "claws",
       "teeth",
-      "tails"
+      "tails",
+      "katana (forged in Harrowfen; concealed)"
     ],
-    "magic": [ "lost" ],
-    "recent": [ "since coming to eryndor all powers are gone for now" ]
+    "magic": [
+      "lost",
+      "Spark (minor healing only)"
+    ],
+    "recent": [
+      "since coming to eryndor all powers are gone for now",
+      "Roadside ambush response while escorting a child",
+      "High-speed pursuit and lethal rescue under extreme provocation",
+      "Public non-lethal martial engagement to defuse racial escalation"
+    ]
   },
   "notable_scenes": [
     {
@@ -214,7 +223,9 @@
         "Chose restraint over vengeance, asserting personal autonomy while refusing to be contained, classified, or owned",
         "Ended the chapter physically safe but emotionally isolated, still receiving no confirmation of his wives’ condition or location",
         "Entered the next phase aware that he is being watched, evaluated, and possibly prepared for containment or exploitation"
-      ],
+      ]
+    },
+    {
       "chapter2": [
         "Received and correctly dismissed intimidation attempts involving false leverage",
         "Entrusted Kestrel with independent extraction of Lyra and Mara",
@@ -232,6 +243,19 @@
         "Claimed wagon and horse as lawful spoils",
         "Returned to Harrowfen to await next phase"
       ]
+    },
+    {
+      "chapter3": [
+        "Survived and countered a staged roadside ambush while escorting Liri",
+        "Killed multiple attackers in a cave to protect Kestrel and Liri; spared one deliberately as a deterrent witness",
+        "Accepted Guild scrutiny and articulated rationale for restraint versus spectacle",
+        "Forged a katana and engraved an origami fox above the guard",
+        "Confirmed Fleas, a fox-spirit kit, still resides in his fifth tail and can now speak",
+        "Performed non-magical physical healing on Kestrel (shoulder realignment)",
+        "Engaged anti-beastkin hostility in a Lower Market inn and redirected it into a controlled external spar",
+        "Explicitly rejected generational hatred as justification for cruelty",
+        "Chose rest, rain, and reflection over escalation at chapter’s end"
+      ]
     }
   ],
   "character_data": {
@@ -242,11 +266,14 @@
         "coin pouch",
         "cloak",
         "horse",
-        "cart"
+        "cart",
+        "katana (concealed)",
+        "engraved stone with spiral and seven portraits"
       ]
     },
     "Other": {
-      "Dungeon intent registered": "Active"
+      "Dungeon intent registered": "Active",
+      "Guild scrutiny": "Ongoing but non-hostile"
     }
   },
   "Other": {
@@ -254,15 +281,24 @@
       "fox": "This was an origami fox that was merged into flesh and turned into a tattoo from Ayaka in the beginning as a reminder of the almost killing her",
       "feather": "A feather turned into a tattoo behind the fox one, a gift from Lysera that you turned into a tattoo to show her that even something like a feather is cherished because it comes from her",
       "ring": "A ring tattoo around the fox and feather. an actual ring turned tattoo, a gift from Fei to express her love"
+    },
+    "spirit_companion": {
+      "name": "Fleas",
+      "type": "Fox spirit kit",
+      "residence": "Fifth tail",
+      "status": "Confirmed present; capable of speech; appears at will"
     }
   },
   "future": {
-    "symbol": "",
-    "role": "",
-    "arc": "",
-    "hesitation": "",
-    "legacy": [],
-    "reminder": ""
+    "symbol": "A blade sheathed in public rain",
+    "role": "Deliberate protector rather than reactive weapon",
+    "arc": "From fallen god to choosing man",
+    "hesitation": "Letting himself believe restraint will be enough",
+    "legacy": [
+      "Breaking cycles without becoming the monster",
+      "Teaching fear to stand down instead of spread"
+    ],
+    "reminder": "You never have to do anything until you decide to do it."
   },
-  "final_note": ""
+  "final_note": "Chapter 3 marks the point where Jayson consciously shifts from survival-driven reaction to intentional presence. Loss of power no longer defines him; choice does."
 }

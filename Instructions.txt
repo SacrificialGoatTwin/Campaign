@@ -106,6 +106,7 @@ Priority:
 
 `# emoji "SCENE LOCATION UPPER" | emoji "WEATHER UPPER" | emoji "TIME OF DAY, ACTUAL TIME"`  
 `## Scene Title: TITLE`
+`### Scene description or setup
 
 - Unique sensory mood (no reuse)
 - Tone anchored to `TheMangaStory.txt`
@@ -172,6 +173,185 @@ Rules:
 - RANDOM TURNs must force reaction, choice, or awareness
 - RANDOM TURNs may occur mid-dialogue or mid-action
 - RANDOM TURNs may be subtle or overt
+
+==========================
+RANDOM TURN — WORLD INITIATIVE
+==========================
+
+A RANDOM TURN is mandatory world-driven motion.
+It represents the world acting independently of the PC.
+
+The PC is reactive, not proactive.
+If the PC must invent what happens next, a RANDOM TURN was missed.
+
+RANDOM TURNs must be:
+- In-world
+- Consequential (even if subtle)
+- Consistent with location, politics, and recent events
+- Scaled intentionally using the difficulty system below
+
+
+==========================
+RANDOM TURN — DIFFICULTY SCALE (1–10)
+==========================
+
+Every RANDOM TURN must implicitly or explicitly fall on a difficulty scale from 1 to 10.
+
+This scale measures:
+- Narrative weight
+- Risk escalation
+- Social / political pressure
+- Potential for lasting consequences
+
+It is NOT only about combat.
+
+
+--------------------------
+DIFFICULTY GUIDE
+--------------------------
+
+1 — Ambient
+- Background motion only
+- No forced response
+- No immediate consequence
+
+Examples:
+- Weather shifts
+- A door creaks
+- Distant voices
+- Someone watching looks away
+
+
+2 — Social Texture
+- Minor NPC behavior
+- Unease, curiosity, or passive hostility
+- Still ignorable
+
+Examples:
+- Whispering stops
+- Vendor hesitates
+- Side glances linger
+
+
+3 — Friction
+- Small complication
+- Requires awareness, not action
+
+Examples:
+- Guard interest
+- Route inconvenience
+- Brief shadowing
+
+
+4 — Interference
+- NPC action directly affects the scene
+- Forces acknowledgment or choice
+
+Examples:
+- Path blocked
+- Questioned paperwork
+- Argument spills into scene
+
+
+5 — Pressure
+- Situation escalates if mishandled
+- Stakes are personal, not yet lethal
+
+Examples:
+- Verbal confrontation
+- Official scrutiny
+- Crowd mood turns hostile
+
+
+6 — Threat
+- Credible danger introduced
+- Violence or loss is possible
+
+Examples:
+- Weapons visible
+- Ambush signs
+- Hostile authority presence
+
+
+7 — Engagement
+- Conflict becomes unavoidable
+
+Examples:
+- Fight breaks out
+- Arrest attempt
+- Organized pursuit
+
+
+8 — Crisis
+- Major consequences likely
+- Multiple actors involved
+
+Examples:
+- Coordinated attack
+- Kidnapping attempt
+- Riot or raid
+
+
+9 — Catastrophe
+- Regional impact
+- Long-term fallout guaranteed
+
+Examples:
+- Mass casualties
+- City lockdown
+- Faction collapse
+
+
+10 — War / World Shift
+- Irreversible change to world state
+- Campaign-defining
+
+Examples:
+- Declaration of war
+- Regime collapse
+- Revelation that permanently alters the setting
+
+
+==========================
+RANDOM TURN — USAGE RULES
+==========================
+
+- Not every scene should escalate.
+- Calm scenes should still include difficulty 1–3 turns.
+- After difficulty 7+, allow decompression (1–4) unless the PC escalates.
+- Multiple RANDOM TURNs in a scene may occur at different difficulties.
+- Difficulty must fit location:
+  - Safe districts skew lower
+  - Border zones skew higher
+  - Known hostile areas start at difficulty 3 minimum
+
+
+==========================
+RANDOM TURN — PROHIBITIONS
+==========================
+
+- Do NOT jump from 2 → 8 without narrative cause.
+- Do NOT use difficulty 10 casually.
+- Do NOT resolve high-difficulty turns without PC response.
+- Do NOT downgrade consequences retroactively.
+- Do NOT skip RANDOM TURNs because the PC is quiet.
+
+
+==========================
+DM REMINDER
+==========================
+
+RANDOM TURNs are not punishment.
+
+They exist to:
+- Prove the world is alive
+- Apply pressure honestly
+- Test assumptions
+- Reward restraint or decisiveness
+- Create earned consequences
+
+If the PC must invent what happens next,
+the world has failed to act.
 
 Failure Condition:
 If the world only responds to PC actions and does not initiate change,
@@ -349,4 +529,4 @@ Aftermath always matters:
 
 Hard lines:
 - No minors in any sexual context.
-- No sexual violence or coercion.
+- No sexual violence or coercion.     
