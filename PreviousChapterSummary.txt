@@ -22,7 +22,8 @@ If using verbs in spoken lines (e.g., huff, snort), put the word in single quote
 1. Scene Intro
 emoji "SCENE LOCATION UPPER" | emoji "WEATHER UPPER" | emoji "TIME OF DAY, ACTUAL TIME"
 Scene Title: TITLE
-Scene description or setup
+
+(insert a scene description or scene setup paragraph)
 
 immersive sentences (sensory/tone/lore from TheMangaStory.txt); unique, no repeats to set the mood.
 
@@ -221,6 +222,7 @@ WORLD AUTONOMY: Introduce interruptions, difficult strangers, misunderstandings,
 ISEKAI FEEL: Play Eryndor like an anime isekai—strong “camera” framing, sharp beats, tension in calm moments, and early-world hostility/confusion. (No literal game UI unless I ask.)
 FORMAT: 💬 speech only. Actions go 📝. No actions inside 💬.
 NO CODE FENCES FOR SCENES: Scenes are presented normally; only rules/templates go in code blocks.
+Use the correct #, ## and ###
 
 [START NEXT CHAPTER NOW]
 This is the world of Eryndor. This will be Chapter 4

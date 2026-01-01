@@ -106,7 +106,8 @@ Priority:
 
 `# emoji "SCENE LOCATION UPPER" | emoji "WEATHER UPPER" | emoji "TIME OF DAY, ACTUAL TIME"`  
 `## Scene Title: TITLE`
-`### Scene description or setup
+
+`### (insert a scene description or scene setup paragraph)
 
 - Unique sensory mood (no reuse)
 - Tone anchored to `TheMangaStory.txt`
