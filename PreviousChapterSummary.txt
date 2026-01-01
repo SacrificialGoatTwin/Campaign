@@ -50,6 +50,11 @@ https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/I
 - When someone is speaking, use this format:
 
 `emoji NAME | "actual emotion word without quotes" [emoji in square brackets]`
+Examples:
+🦊 JAYSON | "easy honesty" [🙂🦊]
+🐦‍⬛ KESTREL | "receiving, not judging" [😐🗡️]
+🐾 LIRI | "sleepy authority" [😴🐾]
+🧔 BALD MAN | "decision under pressure" [😐🍺]
 
 
 ### 4) Tags
