@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "Eryndor",
-    "version": "3"
+    "version": "4"
   },
   "Instrucctions": [
     "https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Instructions.txt"
@@ -9,7 +9,8 @@
   "chapters": [
     "https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Chapters%20Eryndor/Chapters/Eryndor%20Chapter%201%20-%20Thrown%20Into%20Silence.txt",
     "https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Chapters%20Eryndor/Chapters/Eryndor%20Chapter%202%20-%20Thin%20Walls%20Patience.txt",
-    "https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Chapters%20Eryndor/Chapters/Eryndor%20Chapter%203%20-%20Thin%20Road%20Thicker%20Eyes.txt"
+    "https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Chapters%20Eryndor/Chapters/Eryndor%20Chapter%203%20-%20Thin%20Road%20Thicker%20Eyes.txt",
+    "https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Chapters%20Eryndor/Chapters/Eryndor%20Chapter%204%20-%20Guild%20Notice%20Arrival.txt"
   ],
   "characters": [
     "https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Chapters%20Eryndor/Characters/Character_Ayaka.json",
