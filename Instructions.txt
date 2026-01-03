@@ -124,13 +124,13 @@ PC rules:
 - No third-person PC references
 
 Formatting:
-- 💬 speech ONLY
-- 📝 actions / movement / body language
-- >> 💭 thoughts ONLY if explicitly allowed
+>💬 speech ONLY
+📝 actions / movement / body language
+>> 💭 thoughts ONLY if explicitly allowed
 - NEVER put actions in 💬
 
 Order (STRICT):
-1. 💬 Speech
+1. >💬 Speech
 2. >> 💭 Thoughts
 3. >> 📜 Lore (optional)
 4. 📝 Actions
