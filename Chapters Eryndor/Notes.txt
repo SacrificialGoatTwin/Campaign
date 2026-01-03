@@ -1,7 +1,7 @@
-==========================
+﻿==========================
 Powers
 ==========================
-�Spark�, A seed. Small. It grows only when you spend yourself for others�or survive what should have ended you.
+“Spark”, A seed. Small. It grows only when you spend yourself for others—or survive what should have ended you.
 
 ==========================
 Locations
@@ -24,38 +24,76 @@ Human
 Vaelir - Species of Demon
 Vampire - Nothing like the stories
 Watcher, Anchors, Sentinels, Hinges - have mechanical, half biological bodeis
+Ratkin - humanoid rat people, scavengers, refugees
+Gutterlings - Small smelly goblin creatures
 
 ==========================
 Guild Tasks
 ==========================
-Done - Ratkin in the Bakery Basement
-Done - Rescue mission for the 2 guards you saved from the Listeners
-Done - Courier run to the Watchtower Orchard
-Done - A cellar collapse in the Tanners� Ward
-Done - Pilgrim caravan short a guard since dawn
-Done - Watchtower Orchard Lights
-Done - Escort: apothecary shipment to Westbridge.
-Done - Rat-clearing in the tannery sublevels.
-Done - Night watch�warehouse district, one bell.
-Done - Salvage run. Old culvert collapse. F-rank.
-Done - Watchtower foundations north of the reed flats.
-Done - Collapsed culvert outside the old quarry.
-Done - Dungeon�Beginner Annex, Westbridge Barrows - Dungeon
-Done - Courier run�River Ward to Westbridge Annex
+Chapter 1 Tasks:
+Done
+Ratkin in the Bakery Basement
+Rescue mission for the two guards saved from the Listeners
+Courier run to the Watchtower Orchard
+A cellar collapse in the Tanners� Ward
+Pilgrim caravan short a guard since dawn
+Watchtower Orchard Lights
+Escort: apothecary shipment to Westbridge
+Rat-clearing in the tannery sublevels
+Night watch � warehouse district, one bell
+Salvage run: old culvert collapse (F-rank)
+Watchtower foundations north of the reed flats
+Collapsed culvert outside the old quarry
 
-And a cellar inspection.
+Chapter 2 Tasks:
+Done
+Dungeon—Beginner Annex, Westbridge Barrows - Dungeon
+Courier run—River Ward to Westbridge Annex
+A cellar inspection
 
 ==========================
 People
 ==========================
-Lyra - Vaelira
-Mara Valen - Syster to Lyra
-The Verifier
-Factor - Human
-Marshal Iven Calder - Human
-Kestrel - Half Human, Half Swampfolk
-Rellin - Human vetran adventurer
+Corren — Human, traveler who guided me to civilization and avoid monsters
+Kestrel Thorne — Half Human half swompfolk, C-rank adventurer, stabilizing ally.
+Lyra Valen — Vaelir, woman displaced by spatial anomaly and left for dead.
+Mara Valen — Vaelir, Lyra’s sister, kidnapped and rescued.
+Tomas — Human, Street thief child caring for sick sister.
+Unnamed Healer — Human, Civilian healer in Harrowfen.
+Marshal Iven Calder - Human, Harrowfen Marshal.
+Marshal Hartrow - Human, Westbridge Marshal.
+Guild Clerks & Marshals — Harrowfen and Westbridge.
+Vampire Woman — Pureborn vampire thief.
+Vampire Husband — Turned human vampire.
 Liri - Fox girl child rescued
+Rellin - Human, vetran adventurer
+Marlen Voss — Human, Guild scribe, mole
+
+==========================
+Places
+==========================
+-  Harrowfen
+Ancient Forest outside Harrowfen
+Harrowfen Adventurers’ Guild
+Harrowfen Baker’s Cellar
+Harrowfen Tanner’s Cellar
+Harrowfen Clinic
+Harrowfen Warehouse District
+Harrowfen River Ward Inn
+Harrowfen Bathhouse
+Harrowfen Hidden safe room
+Harrowfen Lower Market (hostile district)
+Harrowfen blacksmith
+Greyreach Dungeon
+Planar Rift / Thin Place
+- Westbridge
+Westbridge Adventurers’ Guild
+Westbridge Guild Branch
+Westbridge Warehouse 9
+Watchtower Orchard outside Westbridge
+Sealed Ruins (unauthorized tunnels) outside Westbridge
+Quarry / Collapsed Culvert outside Westbridge
+
 
 ==========================
 Player Stats and Items
@@ -65,10 +103,14 @@ Status: F Ranked
 Dungeon intent registered - Status: Active.
 
 ===========================
-Notes
+Threads
 ===========================
-Destroying a watcher triggers an audit, which attracts things with broader authority and fewer questions
-
+Jayson’s wives remain missing but alive.
+Jayson is indexed as an anomaly / threshold.
+Listener exploitation points to organized research.
+Vaelir persecution is systemic.
+Watchers are embedded in infrastructure.
+Kestrel is now entangled by proximity and knowledge.
 
 
 

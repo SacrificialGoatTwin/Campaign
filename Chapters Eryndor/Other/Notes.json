@@ -1,140 +1,217 @@
 {
-  "powers": {
-    "name": "Spark",
-    "description": "A seed. Small. It grows only when you spend yourself for others�or survive what should have ended you."
-  },
+  "powers": [
+    {
+      "name": "Spark",
+      "description": "A seed. Small. It grows only when you spend yourself for others—or survive what should have ended you."
+    }
+  ],
   "locations": [
     {
       "name": "Harrowfen",
-      "description": "Human city with a Beastfolk district"
+      "notes": "Human city with Beastfolk district."
     },
     {
       "name": "Watchtower Orchard",
-      "description": "Two hours north of Harrowfen"
+      "notes": "2 hours north of Harrowfen."
     },
     {
       "name": "Riverford Waystation",
-      "description": "Five hours north from Harrowfen, before the road bends north"
+      "notes": "5 hours north from Harrowfen before the north bends."
     },
     {
       "name": "Westbridge",
-      "description": ""
+      "notes": ""
     }
   ],
   "creatures": [
     {
-      "Listeners": {
-        "traits": [
-          "Blind",
-          "Sound-dependent perception",
-          "Spider-like",
-          "Large",
-          "Hairy",
-          "Long-limbed",
-          "Silent",
-          "Deadly"
-        ]
-      },
-      "Carrion crawler": [
-        "Centipide like creature"
-      ]
+      "name": "Listeners",
+      "notes": "Blind; hunt by sound; spider-like; large; hairy; long limbs; silent; deadly."
+    },
+    {
+      "name": "Carrion crawler",
+      "notes": "Centipede-like creature."
     }
   ],
-  "races_species_met": [
+  "races_and_species": [
     {
       "name": "Human",
       "notes": ""
     },
     {
       "name": "Vaelir",
-      "notes": "Species of demon"
+      "notes": "Species of demon."
     },
     {
       "name": "Vampire",
-      "notes": "Nothing like the stories, can walk in daylight"
+      "notes": "Nothing like the stories."
     },
     {
       "name": "Watcher",
-      "notes": "also known as Anchors, Sentinels or Hinges. Mechanical�biological hybrid body"
+      "notes": "Mechanical, half-biological bodies."
+    },
+    {
+      "name": "Anchors",
+      "notes": "Mechanical, half-biological bodies."
+    },
+    {
+      "name": "Sentinels",
+      "notes": "Mechanical, half-biological bodies."
+    },
+    {
+      "name": "Hinges",
+      "notes": "Mechanical, half-biological bodies."
+    },
+    {
+      "name": "Ratkin",
+      "notes": "Humanoid rat people; scavengers; refugees."
+    },
+    {
+      "name": "Gutterlings",
+      "notes": "Small, smelly goblin creatures."
     }
   ],
   "guild_tasks": {
-    "completed": {
-      "Chapter 1 Tasks": [
+    "chapter_1": {
+      "status": "Done",
+      "tasks": [
         "Ratkin in the Bakery Basement",
         "Rescue mission for the two guards saved from the Listeners",
         "Courier run to the Watchtower Orchard",
-        "A cellar collapse in the Tanners� Ward",
+        "A cellar collapse in the Tanners’ Ward",
         "Pilgrim caravan short a guard since dawn",
         "Watchtower Orchard Lights",
         "Escort: apothecary shipment to Westbridge",
         "Rat-clearing in the tannery sublevels",
-        "Night watch � warehouse district, one bell",
+        "Night watch — warehouse district, one bell",
         "Salvage run: old culvert collapse (F-rank)",
         "Watchtower foundations north of the reed flats",
         "Collapsed culvert outside the old quarry"
-      ],
-      "Chapter 2 Tasks": [
-        "Dungeon—Beginner Annex, Westbridge Barrows - Dungeon",
-        "Courier run—River Ward to Westbridge Annex"
       ]
     },
-    "pending": {
-      "Chapter 2 Tasks": [
-        "And a cellar inspection."
+    "chapter_2": {
+      "status": "Done",
+      "tasks": [
+        "Dungeon — Beginner Annex, Westbridge Barrows (Dungeon)",
+        "Courier run — River Ward to Westbridge Annex",
+        "A cellar inspection"
       ]
     }
   },
-  "people_met": [
+  "people": [
     {
-      "name": "Lyra",
-      "species": "Vaelir"
+      "name": "Corren",
+      "species": "Human",
+      "notes": "Traveler who guided me to civilization and helped me avoid monsters."
+    },
+    {
+      "name": "Kestrel Thorne",
+      "species": "Half Human / Half Swampfolk",
+      "notes": "C-rank adventurer; stabilizing ally."
+    },
+    {
+      "name": "Lyra Valen",
+      "species": "Vaelir",
+      "notes": "Woman displaced by spatial anomaly and left for dead."
     },
     {
       "name": "Mara Valen",
+      "species": "Vaelir",
+      "notes": "Lyra’s sister; kidnapped and rescued."
+    },
+    {
+      "name": "Tomas",
       "species": "Human",
-      "notes": "Sister to Lyra"
+      "notes": "Street thief child caring for sick sister."
     },
     {
-      "name": "The Verifier",
-      "species": "Unknown"
-    },
-    {
-      "name": "Factor",
-      "species": "Human"
+      "name": "Unnamed Healer",
+      "species": "Human",
+      "notes": "Civilian healer in Harrowfen."
     },
     {
       "name": "Marshal Iven Calder",
-      "species": "Human"
+      "species": "Human",
+      "notes": "Harrowfen Marshal."
     },
     {
-      "name": "Kestrel",
-      "species": "Half Human, Half Swampfolk"
+      "name": "Marshal Hartrow",
+      "species": "Human",
+      "notes": "Westbridge Marshal."
+    },
+    {
+      "name": "Guild Clerks & Marshals",
+      "species": "Mixed/Various",
+      "notes": "Guild staff across Harrowfen and Westbridge."
+    },
+    {
+      "name": "Vampire Woman",
+      "species": "Vampire (Pureborn)",
+      "notes": "Thief."
+    },
+    {
+      "name": "Vampire Husband",
+      "species": "Vampire (Turned from Human)",
+      "notes": ""
+    },
+    {
+      "name": "Liri",
+      "species": "Fox girl (child)",
+      "notes": "Rescued."
+    },
+    {
+      "name": "Rellin",
+      "species": "Human",
+      "notes": "Veteran adventurer."
     },
     {
       "name": "Marlen Voss",
       "species": "Human",
-      "notes": "Guild scribe; confirmed internal mole. Responsible for misfiling and marking records tied to beastkin trafficking using a distinctive ink smear. Access revoked quietly; currently unaware she has been exposed. Being used as bait to identify the wider smuggling network and her contacts."
-    },
-    {
-      "name": "Vellin Arcos",
-      "species": "Human",
-      "notes": "senior Guild scribe overseeing the Westbridge Annex investigation. Independently confirms Jayson's findings through ledger analysis. Authorizes travel clearance and conditional escort permissions regarding Liri. Operates with procedural caution and discretion."
-    },
-    {
-      "name": "Guild Marshal R. Veyrin (Harrowfen)",
-      "species": "Human",
-      "notes": ""
-    },
-    {
-      "name": "Guild Marshal Hartrow",
-      "species": "Human",
-      "notes": "Westbridge Annex Guild Marshal. Receives Jayson's intelligence regarding internal corruption and trafficking. Initiates quiet containment actions against Marlen Voss and the associated smuggling ring. Authorizes investigation while minimizing information leaks."
+      "notes": "Guild scribe; mole."
     }
-
   ],
-  "notes": [
-    "Destroying a Watcher triggers an audit, which attracts entities with broader authority and fewer questions",
-    "Jayson Goodwin, By order of the Harrowfen Guild Marshal, this notice records the closure of the Westbridge roadside incident. All involved hostile parties are confirmed deceased or detained.The protected minor (Liri) is accounted for and remains under provisional Guild protection pending origin verification.Your actions are recorded as intervention during an active abduction and pursuit.No immediate censure is issued.However—due to the scale of force employed and emerging external interest,your status is amended to Observed Asset — Conditional.You are requested (not ordered) to present yourself to the Harrowfen Hall within seven days to discuss future engagement boundaries, advancement eligibility, and travel declarations.Failure to attend will not result in immediate sanction, but will be noted.—Marshal R. Veyrin"
+  "places": {
+    "harrowfen": [
+      "Harrowfen",
+      "Ancient Forest outside Harrowfen",
+      "Harrowfen Adventurers’ Guild",
+      "Harrowfen Baker’s Cellar",
+      "Harrowfen Tanner’s Cellar",
+      "Harrowfen Clinic",
+      "Harrowfen Warehouse District",
+      "Harrowfen River Ward Inn",
+      "Harrowfen Bathhouse",
+      "Harrowfen Hidden safe room",
+      "Harrowfen Lower Market (hostile district)",
+      "Harrowfen blacksmith"
+    ],
+    "westbridge": [
+      "Westbridge",
+      "Westbridge Adventurers’ Guild",
+      "Westbridge Guild Branch",
+      "Westbridge Warehouse 9",
+    ],
+    "other_locations": [
+      "Watchtower Orchard outside Westbridge",
+      "Sealed Ruins (unauthorized tunnels) outside Westbridge",
+      "Quarry / Collapsed Culvert outside Westbridge",
+      "Greyreach Dungeon",
+      "Planar Rift / Thin Place"
+    ]
+  },
+  "player_stats_and_items": {
+    "level": 1,
+    "rank": "F",
+    "dungeon_intent_registered": {
+      "status": "Active"
+    }
+  },
+  "threads": [
+    "Jayson’s wives remain missing but alive.",
+    "Jayson is indexed as an anomaly / threshold.",
+    "Listener exploitation points to organized research.",
+    "Vaelir persecution is systemic.",
+    "Watchers are embedded in infrastructure.",
+    "Kestrel is now entangled by proximity and knowledge."
   ]
 }

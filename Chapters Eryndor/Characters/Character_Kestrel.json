@@ -5,14 +5,14 @@
   "appearance": {
     "age": "28",
     "height": "1.70m",
-    "build": "Lean, conditioned, functional rather than showy",
+    "build": "Lean, conditioned, functional rather than showy; capable of surprising explosive strength when braced",
     "hair": "Black; kept practical, usually hidden under a hood",
     "facial_hair": "None",
-    "eyes": "Blue; observant; misses very little",
+    "eyes": "Blue; observant; misses very little; trained to read pressure shifts and environmental cues",
     "skin": "Weathered from travel",
     "scent": "Leather, road-dust, faint metal",
-    "posture": "Balanced, alert even at rest",
-    "relationship": "Trusted companion to Jayson (earned through shared risk; trust deepening beyond initial caution)",
+    "posture": "Balanced, alert even at rest; instinctively anchors others during high-pressure situations",
+    "relationship": "Trusted companion to Jayson (earned through shared risk; trust solidified through coordinated dungeon combat and mutual reliance)",
     "race": "Mixed heritage (non-human traits; exact lineage undisclosed)",
     "siblings": {
       "None": ""
@@ -34,7 +34,7 @@
   "reactions": {
     "wind": "Uses it to read movement and approach",
     "water": "Comfortable; swims confidently; long breath-hold",
-    "sound": "Responds instantly to irregularities",
+    "sound": "Responds instantly to irregularities; adapts quickly to echo-based and sound-reactive threats",
     "temperature": "Endures without complaint",
     "crowds": "Defaults to exit-mapping and child-shielding behavior",
     "hostility": "Absorbs tension without escalation; intervenes only when thresholds are crossed"
@@ -47,14 +47,16 @@
     "habits": [
       "Speaks quietly even in danger",
       "Interrupts only when necessary",
-      "Lets silence do work when truth is obvious"
+      "Lets silence do work when truth is obvious",
+      "Uses brief, decisive commands during combat rather than narration"
     ],
     "growth": [
       "Learning to trust shared risk",
       "Allowing herself to be seen",
       "Letting others take point when appropriate",
       "More willing to speak plainly with Jayson when stakes are real",
-      "Uses dry humor sparingly as social pressure release"
+      "Uses dry humor sparingly as social pressure release",
+      "Comfortable issuing decisive action cues when coordination is required"
     ]
   },
   "emotional": {
@@ -83,13 +85,15 @@
       "Stays close without comment",
       "Subtle warnings rather than reassurances",
       "Accepts proximity without deflecting",
-      "Allows shared guardianship of Liri without territoriality"
+      "Allows shared guardianship of Liri without territoriality",
+      "Uses physical anchoring (stance, shield placement) to support others under strain"
     ],
     "growth": [
       "Learning to trust shared risk",
       "Allowing herself to be seen",
       "Letting others take point when appropriate",
-      "Accepting care without framing it as weakness"
+      "Accepting care without framing it as weakness",
+      "Actively choosing commitment over detachment in prolonged danger"
     ]
   },
   "social": {
@@ -103,7 +107,8 @@
       "Dryly supportive",
       "Steps in before things break",
       "Protective of those under her watch",
-      "Acts as social buffer between Jayson and hostile environments"
+      "Acts as social buffer between Jayson and hostile environments",
+      "Comfortable matching humor once trust is established"
     ]
   },
   "values": {
@@ -124,7 +129,8 @@
       "Situational awareness",
       "Emotional steadiness",
       "Operational discipline",
-      "Crowd threat assessment"
+      "Crowd threat assessment",
+      "Exceptional timing and follow-through in coordinated combat"
     ],
     "weaknesses": [
       "Keeps distance by default",
@@ -136,8 +142,10 @@
     "titles": [
       "C-Rank Adventurer"
     ],
-    "style": "Controlled, efficient, avoids spectacle",
+    "style": "Controlled, efficient, avoids spectacle; excels at anchoring allies and exploiting openings created by others",
     "weapons": [
+      "Shield",
+      "Blade",
       "Standard adventuring gear (details undisclosed)"
     ],
     "magic": [
@@ -149,11 +157,15 @@
       "Dungeon annex run (Westbridge)",
       "Smuggler interception support",
       "Non-lethal urban confrontation support",
-      "Witnessed controlled martial engagement in Lower Market district"
+      "Witnessed controlled martial engagement in Lower Market district",
+      "Greyreach C-rank dungeon full clear",
+      "Final boss execution via coordinated strike"
     ],
     "notes": [
       "Deferred to Jayson during public confrontation to avoid escalation",
-      "Maintained child protection priority throughout hostile environment"
+      "Maintained child protection priority throughout hostile environment",
+      "Demonstrated trust by executing final blow on dungeon boss at Jayson's signal",
+      "Voluntarily transferred rare dungeon artifact (Anchor Ring) to Jayson"
     ]
   },
   "notable_scenes": [
@@ -205,6 +217,20 @@
         "Accepted a superior inn room for Liri’s comfort without comment or embarrassment",
         "Revealed her true name (Thrennael) to Jayson voluntarily, marking a significant trust milestone"
       ]
+    },
+    {
+      "chapter4": [
+        "Traveled with Jayson and Liri to Riverford Waystation without incident",
+        "Observed and supported the safe return of Liri to her mother, maintaining respectful distance during reunion",
+        "Provided emotional grounding for Jayson during post-mission vulnerability without pressing for disclosure",
+        "Returned to Harrowfen and completed delayed Guild cellar inspection job with Jayson",
+        "Participated in a C-rank dungeon (Greyreach) alongside Jayson",
+        "Adapted seamlessly to blindfold-based, echo-driven combat coordination",
+        "Held formation during swarm and construct encounters",
+        "Executed final boss strike precisely when Jayson created the opening",
+        "Chose to gift the Anchor Ring to Jayson, recognizing its thematic and practical alignment with him",
+        "Exited dungeon intact, reinforcing trust through shared success rather than verbal affirmation"
+      ]
     }
   ],
   "character_data": {
@@ -226,9 +252,10 @@
     "hesitation": "Letting attachment form",
     "legacy": [
       "Model of restraint in hostile systems",
-      "Proof that strength does not require dominance"
+      "Proof that strength does not require dominance",
+      "Demonstration that trust can be tactical without being transactional"
     ],
     "reminder": "Not every fight is won by force"
   },
-  "final_note": "By the end of Chapter 3, Kestrel transitions from cautious professional ally to deliberate companion. She chooses continued proximity, shared risk, and future planning with Jayson, marking a conscious commitment rather than a situational one."
+  "final_note": "By the end of Chapter 4, Kestrel has fully transitioned from cautious professional partner to deliberate, chosen companion. Her trust in Jayson is no longer conditional or situational; it is operational, emotional, and sustained."
 }

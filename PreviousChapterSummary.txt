@@ -65,172 +65,198 @@ https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/I
 ---
 
 [PREVIOUS CHAPTER SUMMARY]
-CHAPTER 3 — FULL SUMMARY
-(Tags [000001] → [000174])
+- Date: 23/04/1427 (Eryndor calendar)
+- Time: Morning
+- Location: Harrowfen, Rainward Inn
+- Party:
+  - Jayson (PC) — Kitsune, restrained godhood (“Spark”), F-rank plaque
+  - Kestrel — C-rank adventurer, shield-and-blade specialist
+  - Liri — Beastkin child under Jayson's protection
 
-DATE & TIMEFRAME
-- Date: 21–22/04/1427 (Eryndor calendar)
-- Time progression: Afternoon → Evening → Night
-- Weather: Clear afternoon shifting into winter rain by evening
+Kestrel and Liri are asleep in their room.
+Jayson is in his own room as morning light breaks.
 
-LOCATION OVERVIEW
-- Westbridge outskirts → Road to Harrowfen
-- Harrowfen (Lower Market District, Red Lantern Row)
-- Harrowfen river shrine
-- Harrowfen Rainward Inn (North Quarter)
+========================================
+GUILD MATTER & LEDGER CONFRONTATION
+========================================
+- Two guild men arrive with a note requesting Jayson.
+- Jayson reads it, suspects manipulation, and confronts them.
+- He warns Kestrel to prepare to leave quickly.
+- At the inn, Jayson publicly defuses suspicion by explaining Liri’s kidnapping case.
+- Party travels to the North Annex.
 
-PARTY STATUS
-- Jayson (PC): Kitsune, restrained godhood (“Spark”), operating without overt magic
-- Kestrel: Companion, injured earlier (shoulder tendon), later corrected manually
-- Liri: Rescued beastkin child, emotionally attached to Jayson, under his protection
+At the Guild:
+- Jayson waits excessively, becomes increasingly suspicious.
+- He confronts the senior scribe and a heavy-boots man over:
+  - Rewriting a statement already given in a warded room
+  - The Marshal not being informed
+  - Liri’s home record being delayed and shuffled
+- Jayson issues an ultimatum:
+  1) Call the Marshal
+  2) Or he leaves and “does something stupid”
+- The Marshal is summoned.
 
-────────────────────────
-1) RETURN FROM WESTBRIDGE & ROAD INCIDENT
-- Jayson, Kestrel, and Liri travel back toward Harrowfen in their wagon.
-- Guild riders audit them; Jayson presents a valid writ identifying him as:
-  - Collaborating witness
-  - Authorized escort for Liri
-- Jayson notices suspicious behavior from a third rider watching the hedgerow.
-- He tests the area with thrown stones, revealing an ambush.
-- The horse panics and bolts with the wagon; Kestrel rides after it with Liri.
-- Jayson stays behind and engages both guards and ambushers:
-  - Disables multiple attackers with precision stone throws.
-  - One guard already has another ambusher detained.
-- Jayson chases the wagon on foot at full speed.
+When the ledger arrives:
+- Jayson opens it using a ruler, never touching it.
+- He confirms Liri’s home is **Riverford Waystation (hamlet nearby)**.
+- States he has photographic memory and now remembers the entire ledger.
+- Reassures Liri she’s going home.
+- Explains his reasoning for sparing one attacker earlier (fear as deterrence).
+- Acknowledges the moral weight of killing.
+- States his goals:
+  - Get Liri home safely
+  - Do dungeon work
+  - Earn coin
+  - Study magic in the capital
 
-────────────────────────
-2) WAGON AMBUSH & ESCALATION
-- Jayson reaches the stopped wagon; Kestrel and Liri have been taken.
-- He attacks immediately:
-  - Lethal force against multiple attackers (throats crushed, bodies disabled).
-  - Climbs a cliff face at extreme speed to reach Liri’s cries.
-- In a cave above:
-  - Kestrel is bound and injured.
-  - Liri is restrained.
-- Jayson kills all visible attackers inside the cave.
-- One final hostile reveals themselves; Jayson intimidates but spares them deliberately.
-  - He releases them to spread word of what he is capable of.
-- Jayson frees Liri, bandages Kestrel, and shows deep remorse.
-- Guild troops arrive shortly after.
+========================================
+TRAVEL TO RIVERFORD WAYSTATION
+========================================
+- Jayson, Kestrel, and Liri depart Harrowfen.
+- They travel slowly with provisions.
+- Minor merchant interactions.
+- Rest by a river.
+- Jayson bathes, eats, jokes with Liri.
+- Emotional moments between Jayson and Kestrel:
+  - Jayson reflects on saving people and personal cost
+  - Kestrel reminds him he is “allowed to be”
+- Liri playfully helps pull the cart.
+- The party reaches Riverford before nightfall.
 
-────────────────────────
-3) GUILD RESPONSE & CONSEQUENCES
-- Guild healers magically heal Kestrel’s wounds (pain remains).
-- Jayson openly admits to killing humans.
-- The Marshal acknowledges the complexity and risk.
-- No immediate punishment; matter is under review.
-- Jayson explains why he spared one enemy:
-  - To discourage open attacks and force fear-driven caution instead.
-- Guild accepts his reasoning.
-- Jayson states future plans:
-  - Continue guild work
-  - Gain a plaque to level up
-  - Travel to the capital to study magic
-- Guild summons Jayson for follow-up discussion later (7-day window).
+========================================
+LIRI’S RETURN & MARA
+========================================
+- Hamlet residents initially think Jayson kidnapped Liri.
+- Jayson reveals he is a fox (Kitsune).
+- Liri’s mother, **Mara**, is identified.
+- Emotional reunion.
+- Jayson kneels, praises Liri’s bravery and Mara’s parenting.
+- Tails offered to Liri and Kestrel in grounding gestures.
 
-────────────────────────
-4) RETURN TO HARROWFEN & BLACKSMITH
-- Jayson escorts Kestrel and Liri to an inn.
-- He goes alone to the blacksmith he promised to meet.
-- Completes forging his katana:
-  - Polishing
-  - Handle and twine fitted
-  - Scabbard finished
-  - Engraves a small origami fox above the handguard
-- Pays the blacksmith and returns to the inn.
+Jayson speaks privately with Mara:
+- Explains Liri was targeted specifically.
+- Kidnappers included hired men and a wealthy buyer (now dead).
+- Attention has been redirected from Liri onto Jayson.
+- Learns Liri’s father, **Ishen**, was “not from Eryndor”.
 
-────────────────────────
-5) INN NIGHT & DECISIONS
-- Reunites with Kestrel and Liri.
-- Shares stew; Liri sleeps.
-- Jayson apologizes to Kestrel for nearly getting her killed.
-- He proposes:
-  - Advancing via guild plaques
-  - Studying magic in the capital
-  - Traveling together
-- Kestrel agrees.
-- Night passes uneventfully.
+========================================
+COSMIC REVELATION & FLEAS
+========================================
+- Jayson reveals:
+  - He is Japanese
+  - From Earth
+  - A Kitsune (fox spirit shapeshifter)
+  - Once a god, betrayed and stripped of power
+- Explains:
+  - Multiple universes
+  - Eryndor exists in “the Outside”
+  - Eryndor should not exist anymore
+- Confirms Ishen was a Kitsune.
+- Liri is half-Kitsune and potentially extremely powerful.
+- Introduces the concept of **Flame** (innate Kitsune magic).
 
-────────────────────────
-6) MORNING & GUILD MEETING
-- Jayson receives a Guild summons (they already know about his sword).
-- Party meets the Marshal and scribes.
-- Jayson explains his actions in detail:
-  - Use of fear as deterrence
-  - Avoiding daylight massacres to prevent anti-beastkin rumors
-- Guild accepts his explanation.
-- Jayson formally plans:
-  - Jobs and dungeons
-  - Skill development
-  - Capital-bound magic education
-- Kestrel signs up for a plaque as well.
+Jayson calls **Fleas** (fox spirit bound to his fifth tail):
+- Discovers an external “pressure” searching for Kitsune.
+- Realizes Fleas is acting as a dampener.
+- Proposes Fleas hide within Liri’s tail instead.
+- Explains stakes:
+  - If Jayson dies, all die
+  - If Liri is exposed, all die
+- Concludes:
+  - He must regain his power
+  - Save Eryndor
+  - Find his wives
+- Fleas agrees.
+- Liri is kept unaware.
 
-────────────────────────
-7) MARKET, SHRINE & FLEAS
-- Party visits the market and park.
-- Jayson reminisces about his wives:
-  - Ayaka, Seika, Naru, Varethyn, Shion, Lysera, Fei
-- At a quiet shrine area, Jayson attempts to call Fleas:
-  - A fox spirit kit that once lived in his fifth tail.
-- Fleas reappears and reveals:
-  - She can now speak (new development)
-  - She remains bound to Jayson’s fifth tail
-- Playful physical scuffle ensues (as per their history).
-- Agreement reached:
-  - Fleas may hide or appear at will
-  - Must acknowledge Jayson when called
-- Fleas vanishes back into the tail.
+========================================
+FAREWELL TO LIRI
+========================================
+- Jayson emotionally struggles but hides it.
+- Plays with Liri one last time.
+- Promises to visit.
+- Leaves Riverford with Kestrel.
 
-────────────────────────
-8) KESTREL’S SHOULDER
-- Jayson notices Kestrel’s shoulder injury predates the cave incident.
-- Diagnoses slipped tendon manually.
-- Performs a painful but effective physical adjustment.
-- Explains reliance on magic in this world vs. physical healing.
-- Shoulder stabilized; soreness expected but functional.
+========================================
+RETURN TO HARROWFEN & GUILD WORK
+========================================
+- Party returns to Harrowfen.
+- Jayson jokes about missing Liri, produces breadsticks.
+- They take and complete a delayed cellar inspection job:
+  - Identify sinkhole behavior
+  - Dig, reinforce, and repair basement
+  - Add preventative measures
+- Inform the Marshal.
+- Bathhouse visit:
+  - Jayson causes chaos playfully with children.
+  - Waits for Kestrel properly this time.
 
-────────────────────────
-9) LOWER MARKET INN — BAD PART OF TOWN
-- Party enters an inn unknowingly located in a hostile, anti-beastkin district.
-- Hostility escalates through slurs and intimidation.
-- Jayson deflects insults with humor and composure.
-- Apple crumble becomes a focal point, diffusing tension.
-- Three other beastkin adventurers (D–C rank) enter and laugh openly.
-- Their joy triggers renewed hostility from humans.
+========================================
+GUILD MEETING & FUTURE PLANS
+========================================
+- Meeting with the Marshal:
+  - Jayson requests more work
+  - Discusses dungeon access
+  - Confirms intent to stay temporarily
+  - Plans capital magic study
+  - Dungeon progression approved
+- Kestrel agrees to conditions.
 
-────────────────────────
-10) STREET CONFRONTATION
-- A large bald human (likely mercenary/miner) confronts the beastkin.
-- Jayson verbally intervenes and redirects aggression toward himself.
-- He ensures the fight moves outside to protect the inn and Liri.
-- Outside:
-  - Jayson removes outerwear and weapon.
-  - Displays controlled physical dominance via martial arts.
-  - Redirects punch, knees attacker, palm-strikes him ~15 feet.
-- Opponent concedes.
-- Crowd disperses without guards or bloodshed.
+========================================
+NIGHT, DREAM, AND GODDESS
+========================================
+- That night, Jayson is visited in a dream by the same goddess.
+- She reveals:
+  - His wives are not in this continuum
+- Jayson reacts with fury and distrust.
+- Accuses the gods of betrayal.
+- States his only goal is to reunite with his wives.
+- Refuses their authority.
+- Threatens outcomes, not threats.
+- Uses a mundane blade to cut his own throat in the dream to force awakening.
 
-────────────────────────
-11) RESOLUTION
-- Jayson invites the man back inside for a drink.
-- Buys ale, speaks about ending cycles of generational hatred.
-- Martial salute exchanged.
-- Leaves the inn peacefully with Kestrel and Liri.
+Jayson wakes shaken, angry.
+- Washes his face in rainwater.
+- Is later woken by Kestrel.
+- Tells her a TLDR version (without revealing wives as wives).
+- She supports him.
 
-────────────────────────
-12) EVENING REFLECTION & REST
-- Winter rain returns as night falls.
-- Party finds the Rainward Inn.
-- Jayson books:
-  - One basic room (for himself)
-  - One superior room with bath and fireplace (for Kestrel & Liri)
-- He jokes about room assignments and retires early.
-- Alone, Jayson reflects on:
-  - The rain
-  - Varethyn and the others
-  - His immaturity when he held godhood
-- He places the carved stone (spiral + portraits of his wives) on the windowsill.
-- Ends the day acknowledging loss, growth, and restraint.
+========================================
+C-RANK DUNGEON: GREYREACH
+========================================
+- Party enters Greyreach Dungeon.
+- Jayson uses blindfold combat relying on hearing and tails.
+- Floor 1:
+  - Scout creatures ambushed
+  - Swarm (~35) engaged
+  - Two larger constructs fought
+- Floor 2:
+  - Trap floors
+  - Wall traversal
+  - Disembodied authority voice confronted and dismissed
+- Floor 3:
+  - Magical pressure
+  - Jayson pulled into heart chamber
+  - Endurance construct boss
+
+Boss Fight:
+- Test is endurance via consistency, not time.
+- Jayson anchors himself.
+- Uses repeated pebble throws to force adaptation.
+- Switches to close combat.
+- Is launched across the chamber intentionally creating an opening.
+- Calls “NOW”.
+- Kestrel executes the kill.
+
+Boss Loot:
+- Large stable boss core
+- Dungeon structural plate
+- **Anchor Ring (rare)** — given to Jayson
+
+Dungeon exits.
+- 45 minutes pass post-fight.
+- Party leaves intact.
+
 
 [ENFORCEMENT ANCHORS — READ FIRST]
 PC SANCTITY: Do not add/answer/invent for Jayson. Only micro grammar fixes; my lines are stage directions.
@@ -243,7 +269,7 @@ Use the correct #, ## and ###
 
 [START NEXT CHAPTER NOW]
 This is the world of Eryndor. This will be Chapter 4
-Lets continue from where we left off, dont confirm, just start, TAGS: [000001], 07:30 23/04/1427 on Eryndor.
-In an Inn in Harrowfen
+Lets continue from where we left off, dont confirm, just start, TAGS: [000001], 09:38 23/04/1427 on Eryndor.
+Outside the greyreach dungeon entrance
 My 4 wives are still out there.
-Kestrel and Liri are in their room and you are in yours as morning light breaks through the window
+Kestrel and I have just completed the C-rank dungeon. this is my first one and we were successful. now she wants food and a bath, in that order.

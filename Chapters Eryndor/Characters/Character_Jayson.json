@@ -41,7 +41,7 @@
   "reactions": {
     "wind": "Brings calm; anchors Earth memory",
     "water": "Reflection and emotional release; baths precede honesty",
-    "sound": "Crystal-enhanced perception; twitch-responsive under strain; high-precision tracking",
+    "sound": "Crystal-enhanced perception; twitch-responsive under strain; high-precision tracking; now actively leveraged as primary combat-sense in Eryndor (blindfold + echo mapping + tail-tap spatial painting)",
     "temperature": "uneffected but feels it"
   },
   "speech": {
@@ -55,7 +55,9 @@
       "Uses playful nicknames as emotional anchors",
       "Whispers to himself when despairing, as if bargaining with the void",
       "Dismissive hand-wave to signal firm boundaries or end confrontations",
-      "Dry, comedic \"announcement voice\" before dangerous operations to control tension"
+      "Dry, comedic \"announcement voice\" before dangerous operations to control tension",
+      "Uses written notes instead of speech when trust is thin (controls who hears what)",
+      "Public de-escalation announcements when crowds tense up (controls rumor vectors)"
     ],
     "growth": "Learns to let silence carry meaning instead of filling it; shifts from defensive sarcasm toward deliberate restraint and intentional warmth"
   },
@@ -78,7 +80,8 @@
       "Disillusioned: seen as a problem to fix",
       "Now burdened by the idea that his very power makes those he loves afraid",
       "Hurt that he is treated as a weapon to be contained rather than a husband to be trusted",
-      "A quiet craving for simple trust: no leashes, no protocols — just family"
+      "A quiet craving for simple trust: no leashes, no protocols — just family",
+      "Escalating distrust of gods/authorities who speak without tangible proof (especially after dream-contact)"
     ],
     "triggers": [
       "Being misread or doubted by loved ones",
@@ -88,7 +91,8 @@
       "Children being harmed or weaponized (black sites)",
       "Threats of binding or caging from those within his circle",
       "Inner Sanctum proximity when depleted (sanctum echoes as a body-memory cage)",
-      "State-level lies after promises of compliance (especially NATO escalation games)"
+      "State-level lies after promises of compliance (especially NATO escalation games)",
+      "Procedural stalling / repeated retellings when a mole is suspected (creates ‘paper-trap’ paranoia)"
     ],
     "vulnerabilities": [
       "Collapse in response to perceived rejection",
@@ -97,7 +101,8 @@
       "Temptation to use deterrent cruelty when justice feels ignored",
       "Immortality fear — loving mortals who may fade while he endures",
       "Carries the echo of temple betrayal into every future act",
-      "When depleted, panic can override control (blackout risk)"
+      "When depleted, panic can override control (blackout risk)",
+      "Dream-space manipulation attempts (responds by forcing wake-state control)"
     ],
     "affection_tells": [
       "Radiant heat fields",
@@ -105,7 +110,8 @@
       "Hovering or stillness to avoid disturbing others",
       "Protective positioning and quiet presence",
       "Playful teasing mixed with sudden deep confessions",
-      "Thumb-rubs on a partner’s thigh/hand as a steadying habit"
+      "Thumb-rubs on a partner’s thigh/hand as a steadying habit",
+      "Tail-based grounding gestures (ankle wrap; wrist coil; offering tails as ‘handholds’ for steadiness)"
     ],
     "growth": [
       "Undergoing identity shedding (not power, but self)",
@@ -120,7 +126,9 @@
       "Learned to accept being called a weapon without flinching — and to place that weaponhood under family ethics rather than external judgment",
       "Transitioned from 'ask the world to do right' to 'set the clock, set the consequences' when NATO proved bad-faith repeatedly",
       "Allowed himself to ask for anchoring and comfort (hug request) before going loud/violent — not as weakness, as governance",
-      "Began treating the island as a child-soul that must be taught boundaries rather than punished for ignorance"
+      "Began treating the island as a child-soul that must be taught boundaries rather than punished for ignorance",
+      "Chose information-security over pride: refused duplicate statements until Marshal involvement, to avoid inconsistency traps",
+      "Adopted ‘endurance as consistency’ as a combat and life principle after Greyreach’s boss test"
     ]
   },
   "social": {
@@ -155,7 +163,8 @@
       "That his very power makes his loved ones afraid of him",
       "Being treated only as a weapon, not as a man",
       "Being disciplined or controlled as a subject instead of loved as a husband",
-      "Sanctum relapse: being dragged back into a place his body remembers as a cage"
+      "Sanctum relapse: being dragged back into a place his body remembers as a cage",
+      "That the gods have altered, harmed, or displaced his wives across incompatible lattices/continua"
     ],
     "strengths": [
       "Uncompromising loyalty once trust is given",
@@ -164,7 +173,8 @@
       "Listening without interrupting emotional truth",
       "Able to balance annihilation with sparing innocence",
       "Restraint under witness — can hold back even while broadcasting truth to the world",
-      "Can switch from clowning to command in a breath without losing the thread"
+      "Can switch from clowning to command in a breath without losing the thread",
+      "Can maintain consistent pressure under adaptation (does not panic when the enemy ‘learns’)"
     ],
     "weaknesses": [
       "Self-blame and martyrdom",
@@ -172,7 +182,8 @@
       "Shuts down instead of voicing needs (improving, not solved)",
       "Leans into monstrosity as deterrent and crutch",
       "Carries wounds from mistrust into new choices",
-      "When exhausted, he can overcorrect into spectacle to prevent lies/propaganda"
+      "When exhausted, he can overcorrect into spectacle to prevent lies/propaganda",
+      "Provoked into absolute defiance when authority speaks without evidence (especially gods)"
     ]
   },
   "combat": {
@@ -183,7 +194,7 @@
       ],
       "eryndor": []
     },
-    "style": "Primarily non-magical martial discipline in Eryndor; redirects force, controls narrative through restraint",
+    "style": "Primarily non-magical martial discipline in Eryndor; redirects force, controls narrative through restraint; heavy reliance on sensory mapping, misdirection, and environmental projectiles",
     "weapons": [
       "claws",
       "teeth",
@@ -198,7 +209,10 @@
       "since coming to eryndor all powers are gone for now",
       "Roadside ambush response while escorting a child",
       "High-speed pursuit and lethal rescue under extreme provocation",
-      "Public non-lethal martial engagement to defuse racial escalation"
+      "Public non-lethal martial engagement to defuse racial escalation",
+      "North Annex procedural confrontation: forced Marshal involvement to prevent paper-trap inconsistencies",
+      "Riverford return mission completed: delivered Liri safely to her mother (Mara)",
+      "Greyreach (C-rank) dungeon clear with Kestrel: blindfold combat, swarm engagement, construct engagements, endurance boss defeated via forced adaptation and timed opening"
     ]
   },
   "notable_scenes": [
@@ -256,6 +270,24 @@
         "Explicitly rejected generational hatred as justification for cruelty",
         "Chose rest, rain, and reflection over escalation at chapter’s end"
       ]
+    },
+    {
+      "chapter4": [
+        "Morning at Rainward Inn: confronted suspicious Guild summons behavior and refused to be proceduralized into repeated statements without Marshal oversight",
+        "At North Annex: demanded the Marshal be called; used a written note (then burned it) to communicate trust concerns and ledger risk cleanly",
+        "Confirmed Liri’s home record directly from the ledger using a ruler (no hand contact); declared photographic memory of the ledger as anti-tamper insurance",
+        "Departed Harrowfen with Kestrel and Liri for Riverford Waystation; traveled slow with provisions; river rest and emotional bonding moments with Kestrel",
+        "Arrived at Riverford hamlet; initial crowd suspicion defused by revealing fox nature; reunited Liri with her mother, Mara",
+        "Private talk with Mara: learned Liri’s father’s name (Ishen) and that he was ‘not from Eryndor’; confirmed Ishen was Kitsune; established Liri as half-Kitsune with high potential power",
+        "Detected ‘pressure’ searching for Kitsune; called Fleas; concluded Fleas functions as a dampener/veil-scent mask",
+        "Moved Fleas’ residence from Jayson's fifth tail to Liri’s tail (covertly) to hide Liri from detection and pull attention onto Jayson as the safer target",
+        "Returned to Harrowfen; completed delayed tannery cellar inspection/repair with Kestrel, reinforcing structure and adding prevention",
+        "Met the Marshal for tea; secured ongoing work intent and dungeon access logic (Kestrel’s C-rank access + supervision)",
+        "Night: dream-visit by goddess; learned wives are not in this continuum; responded with distrust and open defiance; forced wake-up by dream-throat-cut to end contact on his terms",
+        "Morning: told Kestrel a TLDR (without revealing wives as wives); agreed to proceed to dungeon",
+        "Cleared Greyreach C-rank dungeon with Kestrel: scouts, swarm, larger constructs, trap traversal, disembodied voice presence test, endurance-based boss solved through forced adaptation and timed opening",
+        "Loot acquired: boss core, dungeon plate, and rare Anchor Ring; Kestrel gave Jayson the ring; dungeon sealed after exit"
+      ]
     }
   ],
   "character_data": {
@@ -263,17 +295,23 @@
     "Status": "F",
     "inventory": {
       "items": [
+        "Harrowfen Guild Badge",
         "coin pouch",
         "cloak",
         "horse",
         "cart",
         "katana (concealed)",
-        "engraved stone with spiral and seven portraits"
+        "engraved stone with spiral and seven portraits",
+        "Anchor Ring (rare stabilization ring from Greyreach boss; worn)",
+        "Greyreach Boss Core (large, stable; high value)",
+        "Greyreach Dungeon Plate (structural stone reinforcement material)"
       ]
     },
     "Other": {
       "Dungeon intent registered": "Active",
-      "Guild scrutiny": "Ongoing but non-hostile"
+      "Guild scrutiny": "Ongoing but non-hostile",
+      "Known destination for Liri": "Riverford Waystation hamlet (record confirmed directly from ledger)",
+      "Greyreach cleared": "Yes (C-rank), under Kestrel’s supervision"
     }
   },
   "Other": {
@@ -285,8 +323,21 @@
     "spirit_companion": {
       "name": "Fleas",
       "type": "Fox spirit kit",
-      "residence": "Fifth tail",
-      "status": "Confirmed present; capable of speech; appears at will"
+      "residence": "Moved from Jayson's Fifth tail to Liri’s tail (covert placement)",
+      "status": "Confirmed present; capable of speech; appears at will; functioning as a dampener/veil-scent mask for Kitsune detection"
+    },
+    "known_people_eryndor": {
+      "Liri": "Beastkin child returned safely; half-Kitsune (father: Ishen); now covertly masked by Fleas",
+      "Mara": "Liri’s mother; informed privately of Earth/Japan/Kitsune truth; requested discretion",
+      "Ishen": "Liri’s father; Kitsune; ‘not from Eryndor’ (implied off-world/outside origin); current whereabouts unknown",
+      "Marshal (Harrowfen)": "Primary trusted procedural anchor within the Guild",
+      "Senior Scribe (North Annex)": "Procedural authority; accepted apology after Marshal involvement"
+    },
+    "dream_contact": {
+      "entity": "Unnamed goddess (same presence as arrival-era contact)",
+      "method": "Dream intrusion",
+      "key_reveal": "Jayson’s wives are not in this continuum",
+      "jayson_response": "Open distrust; refusal of intangible claims; forced wake by dream-self-injury tactic to terminate contact"
     }
   },
   "future": {
@@ -298,7 +349,13 @@
       "Breaking cycles without becoming the monster",
       "Teaching fear to stand down instead of spread"
     ],
-    "reminder": "You never have to do anything until you decide to do it."
+    "reminder": "You never have to do anything until you decide to do it.",
+    "chapter4_forward_pressure": [
+      "External Kitsune-seeking ‘pressure’ exists and is actively probing",
+      "Fleas is now shielding Liri; attention is more likely to fall on Jayson",
+      "Jayson prioritizes regaining power and locating wives across Eryndor’s lattices/continua",
+      "Anchor Ring may stabilize endurance/anchoring under load (mechanical effects TBD by canon)"
+    ]
   },
   "final_note": "Chapter 3 marks the point where Jayson consciously shifts from survival-driven reaction to intentional presence. Loss of power no longer defines him; choice does."
 }
