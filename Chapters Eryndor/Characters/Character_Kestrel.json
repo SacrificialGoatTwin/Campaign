@@ -12,8 +12,8 @@
     "skin": "Weathered from travel",
     "scent": "Leather, road-dust, faint metal",
     "posture": "Balanced, alert even at rest; instinctively anchors others during high-pressure situations",
-    "relationship": "Trusted companion to Jayson (earned through shared risk; trust solidified through coordinated dungeon combat and mutual reliance)",
-    "race": "Mixed heritage (non-human traits; exact lineage undisclosed)",
+    "relationship": "Trusted companion to Jayson (earned through shared risk; trust solidified through coordinated dungeon combat, mutual reliance, and private disclosures)",
+    "race": "Mixed heritage (non-human traits; elf-like ears; exact lineage undisclosed)",
     "siblings": {
       "None": ""
     },
@@ -36,7 +36,7 @@
     "water": "Comfortable; swims confidently; long breath-hold",
     "sound": "Responds instantly to irregularities; adapts quickly to echo-based and sound-reactive threats",
     "temperature": "Endures without complaint",
-    "crowds": "Defaults to exit-mapping and child-shielding behavior",
+    "crowds": "Defaults to exit-mapping and child-shielding behavior; actively positions herself between hostility and companions",
     "hostility": "Absorbs tension without escalation; intervenes only when thresholds are crossed"
   },
   "speech": {
@@ -56,7 +56,8 @@
       "Letting others take point when appropriate",
       "More willing to speak plainly with Jayson when stakes are real",
       "Uses dry humor sparingly as social pressure release",
-      "Comfortable issuing decisive action cues when coordination is required"
+      "Comfortable issuing decisive action cues when coordination is required",
+      "More willing to challenge assumptions directly when new allies are involved"
     ]
   },
   "emotional": {
@@ -73,7 +74,8 @@
     "triggers": [
       "Unnecessary cruelty",
       "Treating people as objects",
-      "Threats toward dependents or civilians"
+      "Threats toward dependents or civilians",
+      "Coercion framed as opportunity"
     ],
     "vulnerabilities": [
       "Carries responsibility silently",
@@ -86,14 +88,16 @@
       "Subtle warnings rather than reassurances",
       "Accepts proximity without deflecting",
       "Allows shared guardianship of Liri without territoriality",
-      "Uses physical anchoring (stance, shield placement) to support others under strain"
+      "Uses physical anchoring (stance, shield placement) to support others under strain",
+      "Checks injuries quietly rather than verbally"
     ],
     "growth": [
       "Learning to trust shared risk",
       "Allowing herself to be seen",
       "Letting others take point when appropriate",
       "Accepting care without framing it as weakness",
-      "Actively choosing commitment over detachment in prolonged danger"
+      "Actively choosing commitment over detachment in prolonged danger",
+      "Acknowledging emotional responses without retreating from them"
     ]
   },
   "social": {
@@ -108,7 +112,8 @@
       "Steps in before things break",
       "Protective of those under her watch",
       "Acts as social buffer between Jayson and hostile environments",
-      "Comfortable matching humor once trust is established"
+      "Comfortable matching humor once trust is established",
+      "Assesses new allies cautiously but fairly"
     ]
   },
   "values": {
@@ -130,7 +135,8 @@
       "Emotional steadiness",
       "Operational discipline",
       "Crowd threat assessment",
-      "Exceptional timing and follow-through in coordinated combat"
+      "Exceptional timing and follow-through in coordinated combat",
+      "Ability to remain composed during intimidation and abduction scenarios"
     ],
     "weaknesses": [
       "Keeps distance by default",
@@ -149,7 +155,8 @@
       "Standard adventuring gear (details undisclosed)"
     ],
     "magic": [
-      "None observed"
+      "Minor healing",
+      "Reading Currents"
     ],
     "recent": [
       "Ruins expedition",
@@ -159,13 +166,16 @@
       "Non-lethal urban confrontation support",
       "Witnessed controlled martial engagement in Lower Market district",
       "Greyreach C-rank dungeon full clear",
-      "Final boss execution via coordinated strike"
+      "Final boss execution via coordinated strike",
+      "Kidnapping incident involving unknown faction; remained calm and compliant under restraint",
+      "Pursuit and confrontation with anomaly-linked operative (Irix)"
     ],
     "notes": [
       "Deferred to Jayson during public confrontation to avoid escalation",
       "Maintained child protection priority throughout hostile environment",
       "Demonstrated trust by executing final blow on dungeon boss at Jayson's signal",
-      "Voluntarily transferred rare dungeon artifact (Anchor Ring) to Jayson"
+      "Voluntarily transferred rare dungeon artifact (Anchor Ring) to Jayson",
+      "Allowed Jayson to take lead during interrogation and anomaly discussion while remaining tactically present"
     ]
   },
   "notable_scenes": [
@@ -231,6 +241,19 @@
         "Chose to gift the Anchor Ring to Jayson, recognizing its thematic and practical alignment with him",
         "Exited dungeon intact, reinforcing trust through shared success rather than verbal affirmation"
       ]
+    },
+    {
+      "chapter5": [
+        "Participated in watcher-related roadside incident involving an advanced device and detained civilians",
+        "Remained composed during kidnapping by hostile faction, choosing observation over resistance",
+        "Supported Jayson's interrogation and refusal of coercive recruitment",
+        "Witnessed dismantling of advanced anomaly technology without interference",
+        "Shared private conversations with Irix, establishing cautious mutual respect",
+        "Observed Jayson's confrontation with a goddess aftermath and chose quiet presence over questioning",
+        "Demonstrated comfort and trust in shared living space and vulnerability",
+        "Assumed party leadership for C-rank dungeon selection and planning",
+        "Continued to act as stabilizing anchor amid escalating anomaly revelations"
+      ]
     }
   ],
   "character_data": {
@@ -241,7 +264,9 @@
         "coin pouch",
         "cloak",
         "travel pack",
-        "new leather bracers (gifted by Jayson; custom embossed)"
+        "new leather bracers (gifted by Jayson; custom embossed)",
+        "Bucler",
+        "short sword"
       ]
     }
   },
@@ -257,5 +282,5 @@
     ],
     "reminder": "Not every fight is won by force"
   },
-  "final_note": "By the end of Chapter 4, Kestrel has fully transitioned from cautious professional partner to deliberate, chosen companion. Her trust in Jayson is no longer conditional or situational; it is operational, emotional, and sustained."
+  "final_note": "By the end of Chapter 5, Kestrel has become an active stabilizing constant amid escalating cosmic, political, and technological revelations—choosing presence, leadership, and restraint rather than withdrawal."
 }

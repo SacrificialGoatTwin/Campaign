@@ -68,6 +68,7 @@ Vampire Husband — Turned human vampire.
 Liri - Fox girl child rescued
 Rellin - Human, vetran adventurer
 Marlen Voss — Human, Guild scribe, mole
+Irix - Demon
 
 ==========================
 Places
@@ -83,7 +84,8 @@ Harrowfen River Ward Inn
 Harrowfen Bathhouse
 Harrowfen Hidden safe room
 Harrowfen Lower Market (hostile district)
-Harrowfen blacksmith
+Harrowfen Blacksmith
+Harrowfen Marketward Inn
 Greyreach Dungeon
 Planar Rift / Thin Place
 - Westbridge

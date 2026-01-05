@@ -128,7 +128,9 @@
       "Allowed himself to ask for anchoring and comfort (hug request) before going loud/violent — not as weakness, as governance",
       "Began treating the island as a child-soul that must be taught boundaries rather than punished for ignorance",
       "Chose information-security over pride: refused duplicate statements until Marshal involvement, to avoid inconsistency traps",
-      "Adopted ‘endurance as consistency’ as a combat and life principle after Greyreach’s boss test"
+      "Adopted ‘endurance as consistency’ as a combat and life principle after Greyreach’s boss test",
+      "Escalated his proof-boundary with the dream-goddess: demanded tangible confirmation of the wives’ wellbeing instead of accepting claims",
+      "Chose opsec over comfort: destroyed the wives’ proof-note to prevent wrong eyes from using it as leverage or propaganda"
     ]
   },
   "social": {
@@ -212,7 +214,10 @@
       "Public non-lethal martial engagement to defuse racial escalation",
       "North Annex procedural confrontation: forced Marshal involvement to prevent paper-trap inconsistencies",
       "Riverford return mission completed: delivered Liri safely to her mother (Mara)",
-      "Greyreach (C-rank) dungeon clear with Kestrel: blindfold combat, swarm engagement, construct engagements, endurance boss defeated via forced adaptation and timed opening"
+      "Greyreach (C-rank) dungeon clear with Kestrel: blindfold combat, swarm engagement, construct engagements, endurance boss defeated via forced adaptation and timed opening",
+      "Non-lethal intimidation and psychological deconstruction of false 'officials' near the dungeon road",
+      "Watchers encounter in open road context; recovered and dismantled an advanced mana-tech contraption for the Marshal’s scribes",
+      "Non-violent public humiliation of an arrogant B-rank party on guild floor to break escalation momentum without drawing weapons"
     ]
   },
   "notable_scenes": [
@@ -283,10 +288,29 @@
         "Moved Fleas’ residence from Jayson's fifth tail to Liri’s tail (covertly) to hide Liri from detection and pull attention onto Jayson as the safer target",
         "Returned to Harrowfen; completed delayed tannery cellar inspection/repair with Kestrel, reinforcing structure and adding prevention",
         "Met the Marshal for tea; secured ongoing work intent and dungeon access logic (Kestrel’s C-rank access + supervision)",
-        "Night: dream-visit by goddess; learned wives are not in this continuum; responded with distrust and open defiance; forced wake-up by dream-throat-cut to end contact on his terms",
+        "Night: dream-visit by goddess; learned wives are not in this continuum; responded with distrust and open defiance; forced wake-up by dream-self-injury tactic to end contact on his terms",
         "Morning: told Kestrel a TLDR (without revealing wives as wives); agreed to proceed to dungeon",
         "Cleared Greyreach C-rank dungeon with Kestrel: scouts, swarm, larger constructs, trap traversal, disembodied voice presence test, endurance-based boss solved through forced adaptation and timed opening",
         "Loot acquired: boss core, dungeon plate, and rare Anchor Ring; Kestrel gave Jayson the ring; dungeon sealed after exit"
+      ]
+    },
+    {
+      "chapter5": [
+        "Post-Greyreach: encountered false 'officials' and intimidated them into backing off without violence; reinforced that names and procedure matter",
+        "Watchers-road incident: discovered a wagon dragged off-road, oil traces, bound civilians; negotiated with a Watcher to escort victims directly to town",
+        "Recovered an advanced mixed-tech contraption (hydraulics, clockwork, mana-infused parts); removed a mana-battery-like power source and noted its out-of-place technology",
+        "Dismantled the contraption in a rented guild workshop; provided ordered parts and written notes to the Marshal’s scribes; emphasized Watchers' indifference to the device",
+        "Confronted the Marshal about Marlen Voss and the Valens; confirmed party has no fixed inn but will stay in Harrowfen for now",
+        "Public reputation escalated: rumors spread fast; Jayson responded with humor and deliberate non-violence",
+        "Abducted by hostile slaver-linked men with Kestrel; chose to 'play victim' to observe; escaped by force when needed; pursued the fleeing masked figure",
+        "Met Irix and identified her as non-human/anomaly-adjacent; offered her a conditional place with the party rather than coercion",
+        "Night theory talk: Jayson shared a layered-civilization hypothesis—Eryndor built atop prior collapsed tech; Watchers as failing systems; possible Earth/Eryndor link",
+        "Goddess intruded again; Jayson demanded tangible proof of wives’ safety; refused to 'see' them to avoid making them relevant to a higher observing pressure; required a kitsune-message instead",
+        "Received proof-note with wives’ responses; burned it immediately for opsec",
+        "Morning bonding and humor: embarrassment, warmth, and reassurance with Kestrel; coordinated breakfast and re-approached Irix respectfully",
+        "Guild Hall: arrogant B-rank party attempted to posture; Jayson humiliated them without violence; reputation shifted",
+        "Claimed a fresh C-rank dungeon posting: Grey-moss Depths (planned run with Kestrel leading, Irix support)",
+        "Bought a high-quality leather satchel; regrouped at Harrowfen South Gate ready to depart"
       ]
     }
   ],
@@ -304,14 +328,17 @@
         "engraved stone with spiral and seven portraits",
         "Anchor Ring (rare stabilization ring from Greyreach boss; worn)",
         "Greyreach Boss Core (large, stable; high value)",
-        "Greyreach Dungeon Plate (structural stone reinforcement material)"
+        "Greyreach Dungeon Plate (structural stone reinforcement material)",
+        "High-quality leather satchel (new; market purchase)"
       ]
     },
     "Other": {
       "Dungeon intent registered": "Active",
       "Guild scrutiny": "Ongoing but non-hostile",
       "Known destination for Liri": "Riverford Waystation hamlet (record confirmed directly from ledger)",
-      "Greyreach cleared": "Yes (C-rank), under Kestrel’s supervision"
+      "Greyreach cleared": "Yes (C-rank), under Kestrel’s supervision",
+      "Next dungeon claimed": "Grey-moss Depths (C-rank) — planned for today",
+      "New ally": "Irix (support role; conditional trust)"
     }
   },
   "Other": {
@@ -331,13 +358,15 @@
       "Mara": "Liri’s mother; informed privately of Earth/Japan/Kitsune truth; requested discretion",
       "Ishen": "Liri’s father; Kitsune; ‘not from Eryndor’ (implied off-world/outside origin); current whereabouts unknown",
       "Marshal (Harrowfen)": "Primary trusted procedural anchor within the Guild",
-      "Senior Scribe (North Annex)": "Procedural authority; accepted apology after Marshal involvement"
+      "Senior Scribe (North Annex)": "Procedural authority; accepted apology after Marshal involvement",
+      "Irix": "Masked anomaly-adjacent ally; hiding age and race; demon-sense implied; joined the party under strict terms"
     },
     "dream_contact": {
       "entity": "Unnamed goddess (same presence as arrival-era contact)",
       "method": "Dream intrusion",
-      "key_reveal": "Jayson’s wives are not in this continuum",
-      "jayson_response": "Open distrust; refusal of intangible claims; forced wake by dream-self-injury tactic to terminate contact"
+      "key_reveal": "Wives are alive but revealing/seeing them risks making them ‘relevant’ to an observing pressure; additional claims about hidden history and structural triggers were introduced",
+      "jayson_response": "Open distrust; demanded tangible proof; threatened catastrophic consequences if wives are altered; refused to 'see' them to protect them; forced boundaries and demanded a message be delivered in kitsune",
+      "proof_received": "A physical note containing responses from Ayaka, Shion, Seika, and Lysera; Jayson burned it immediately after reading for opsec"
     }
   },
   "future": {
@@ -355,6 +384,12 @@
       "Fleas is now shielding Liri; attention is more likely to fall on Jayson",
       "Jayson prioritizes regaining power and locating wives across Eryndor’s lattices/continua",
       "Anchor Ring may stabilize endurance/anchoring under load (mechanical effects TBD by canon)"
+    ],
+    "chapter5_forward_pressure": [
+      "Irix represents a second anomaly thread tied to masks, old systems, and non-human concealment",
+      "Watcher-adjacent mixed-tech devices exist in the world via criminal channels, implying a supply chain or salvage economy from deeper ruins",
+      "Jayson’s public reputation is escalating via humor + dominance without violence; this will attract both opportunists and serious predators",
+      "Next planned objective: Grey-moss Depths (C-rank) — party composition now includes Irix as support"
     ]
   },
   "final_note": "Chapter 3 marks the point where Jayson consciously shifts from survival-driven reaction to intentional presence. Loss of power no longer defines him; choice does."

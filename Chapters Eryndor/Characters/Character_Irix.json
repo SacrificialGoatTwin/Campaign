@@ -1,0 +1,135 @@
+{
+  "name": "Irix",
+  "title": "",
+  "quote": "",
+  "appearance": {
+    "age": "16 by demon years",
+    "height": "",
+    "build": "",
+    "hair": "",
+    "facial_hair": "",
+    "eyes": "",
+    "skin": "",
+    "scent": "Slight Sulphur and charcole with heat",
+    "posture": "Controlled, contained, alert; moves with deliberate economy and constant awareness of exits.",
+    "relationship": "",
+    "race": "Demon",
+    "siblings": {
+      "None": ""
+    },
+    "tails": "1"
+  },
+  "reactions": {
+    "wind": "",
+    "water": "",
+    "sound": "Highly attentive; catalogues sound patterns rather than reacting emotionally.",
+    "temperature": ""
+  },
+  "speech": {
+    "voice": "Quiet, controlled, precise.",
+    "vocabulary": "Careful, economical, avoids unnecessary detail.",
+    "pacing": "Measured; pauses to choose words deliberately.",
+    "accent": "",
+    "habits": [
+      "Keeps voice low in public spaces",
+      "Avoids volunteering personal details",
+      "Uses brevity as a defensive habit"
+    ],
+    "growth": ""
+  },
+  "emotional": {
+    "core_traits": [
+      "Cautious",
+      "Observant",
+      "Self-contained"
+    ],
+    "beneath": [
+      "Genuine kindness",
+      "Strong internal moral compass"
+    ],
+    "triggers": [
+      "Being cornered or exposed",
+      "People who pry without consent"
+    ],
+    "vulnerabilities": [
+      "Fear of being known too well",
+      "Long-term isolation"
+    ],
+    "affection_tells": [
+      "Stays instead of fleeing",
+      "Listens more than she speaks"
+    ],
+    "growth": [
+      "Beginning to trust selectively",
+      "Learning to exist without constant concealment"
+    ]
+  },
+  "social": {
+    "alone": [
+      "Hyper-vigilant",
+      "Strategic",
+      "Emotionally guarded"
+    ],
+    "with_others": [
+      "Quietly observant",
+      "Careful but honest when trust is offered",
+      "Responds well to clear boundaries"
+    ]
+  },
+  "values": {
+    "values": [
+      "Autonomy",
+      "Mutual respect",
+      "Informed consent"
+    ],
+    "fears": [
+      "Being forcibly categorized",
+      "Losing the ability to choose her own identity"
+    ],
+    "strengths": [
+      "Situational awareness",
+      "Emotional restraint",
+      "Reading people accurately"
+    ],
+    "weaknesses": [
+      "Over-cautiousness",
+      "Reluctance to rely on others"
+    ]
+  },
+  "combat": {
+    "titles": [ "" ],
+    "style": "Support-oriented; avoids point engagement and prioritizes positioning and survival.",
+    "weapons": [ "" ],
+    "magic": [ "" ],
+    "recent": [
+      "Agreed to accompany Jayson and Kestrel into a C-rank dungeon in a support role"
+    ]
+  },
+  "notable_scenes": [
+    {
+      "chapter5": [
+        "Encountered Jayson during a watcher-related incident",
+        "Chose not to flee when her true nature was perceived",
+        "Accepted an invitation to travel with the party under clear terms",
+        "Bonded cautiously with Kestrel over shared values of restraint and safety"
+      ]
+    }
+  ],
+  "character_data": {
+    "inventory": {
+      "items": [
+        "Mask (concealing, symbolic)",
+        ""
+      ]
+    }
+  },
+  "future": {
+    "symbol": "",
+    "role": "Support ally and anomaly-adjacent observer",
+    "arc": "From concealment toward selective truth",
+    "hesitation": "Fear of what full disclosure would cost",
+    "legacy": [],
+    "reminder": "Not everything hidden is dangerous—some things are hidden to survive."
+  },
+  "final_note": "Irix is defined less by what she is than by what she refuses to let others decide for her."
+}

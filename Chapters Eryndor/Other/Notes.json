@@ -183,7 +183,8 @@
       "Harrowfen Bathhouse",
       "Harrowfen Hidden safe room",
       "Harrowfen Lower Market (hostile district)",
-      "Harrowfen blacksmith"
+      "Harrowfen blacksmith",
+      "Harrowfen Marketward Inn"
     ],
     "westbridge": [
       "Westbridge",
@@ -213,5 +214,8 @@
     "Vaelir persecution is systemic.",
     "Watchers are embedded in infrastructure.",
     "Kestrel is now entangled by proximity and knowledge."
+  ],
+  "game_notes": [
+    "You chose Spark as your first spell"    
   ]
 }
