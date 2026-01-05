@@ -1,0 +1,578 @@
+🏮 "RIVERFORD WAYSTATION — COMMON ROOM" | 🔥 "HEARTH LOW, CROWD WARM" | ⏰ "EVENING, 19:13"
+Scene Title: The Question Beneath the Laughter
+Forty-five minutes later the Waystation feels like a tiny festival: children clustered, parents half-horrified, half-relieved, and a chorus of newly-learned, chest-deep growls rolling through the room like thunder in a barrel.
+🦊 YOU | "mischievous" [🦊]
+
+📝 You look up at the parents—hands raised in surrender and blessing.
+
+💬 “Good luck.”
+
+📝 You grin like you’ve just released a dozen tiny predators into polite society.
+
+🦊 CHILDREN (GROUP) | "ferocious" [🦊]
+
+📝 A chorus of proper growls answers you back, proud and loud, then dissolves into laughter as they chase each other between tables.
+
+🧍🏽‍♀️ KESTREL | "amused" [🛡️]
+
+📝 Kestrel watches the chaos with a small, helpless smile—then her attention returns to the mother, as if bracing for the real weight to land.
+
+🦊 YOU | "serious" [🦊]
+
+📝 You turn back to the two women. Your smile softens into something careful. Liri is playing now—safe enough to be loud.
+
+💬 “Ma’am…”
+
+💬 “…I need to discuss with you not only how and who, but why Liri was taken.”
+
+💬 “The people who took her…”
+
+💬 “…who are not ‘around’ anymore… really, really wanted her specifically. Each time I had her, there were multiple attempts.”
+
+💬 “They’re all gone now—and everything that points to where she is is gone too.”
+
+💬 “But I need to know, please.”
+
+📝 You don’t push harder than that. You just hold the line.
+
+🦊 FOXKIN MOTHER | "guarded" [🦊]
+
+📝 Her face changes—like a door closing in slow motion. Not at you. At the memory.
+
+💬 “My name is Mara.”
+
+📝 She says it as if giving you the name costs something, but she pays it anyway.
+
+💬 “And you’re right.”
+
+💬 “They didn’t take a random child.”
+
+📝 Her hands fold tight around her cup until her knuckles pale.
+
+💬 “Liri was… picked.”
+
+🦊 MARA | "ashamed" [🦊]
+
+💬 “I didn’t tell anyone the full truth.”
+
+💬 “Not the hamlet. Not the Waystation.”
+
+💬 “Because the last time I spoke about it, men came asking questions that weren’t questions.”
+
+📝 She looks to Kestrel—then to you—then back to the children. Watching Liri laugh makes her eyes shine, but her voice stays steady.
+
+💬 “Liri has a mark.”
+
+📝 She hesitates, then lifts a hand and taps two fingers against her own collarbone.
+
+💬 “Not on her skin. Not visible.”
+
+💬 “Old blood… old river-stuff.”
+
+💬 “It shows up to the wrong kind of people like a lantern.”
+
+🧍🏽‍♀️ KESTREL | "focused" [🛡️]
+
+📝 Kestrel leans in a fraction.
+
+💬 “A tracker-cast? Or… heritage?”
+
+🦊 MARA | "firm" [🦊]
+
+💬 “Heritage.”
+
+📝 One word. Hard.
+
+💬 “Her father—”
+
+💬 “…wasn’t from here.”
+
+📝 She swallows.
+
+💬 “He was a ferryman once. Then he wasn’t.”
+
+💬 “He warned me: if anyone ever asked about ‘the river-child’… run.”
+
+🦊 MARA | "frightened" [🦊]
+
+📝 She finally meets your eyes, direct.
+
+💬 “The men who took her didn’t want ransom.”
+
+💬 “They kept saying the same phrase.”
+
+💬 “ ‘Key.’ ”
+
+📝 Her throat tightens around the word.
+
+💬 “They called her a key.”
+
+🕯️ WAYSTATION EDGE (RANDOM TURN — MODERATE) | "overheard" [👂🏽]
+
+📝 A serving boy pauses too long near your table—tray held, breath held. His eyes flick to Mara when she says key. He turns too fast, nearly spilling mugs, and moves away with rehearsed normalcy.
+
+📝 The Waystation host’s gaze snaps to the boy—sharp, assessing—then to you.
+
+He doesn’t speak.
+But he noticed.
+
+🦊 YOU | "contained" [🦊]
+
+📝 The room is still noisy, but your table has gone quiet in the middle of it.
+
+🦊 MARA | "pleading" [🦊]
+
+💬 “If they’re all gone… then maybe it ends.”
+
+💬 “But if they knew enough to find her here…”
+
+💬 “…then someone taught them.”
+
+📝 She looks down, then up again—decision settling.
+
+💬 “Tell me the truth, Jayson.”
+
+💬 “Were there signs they were organized?”
+
+💬 “Or were they just hungry men with rope?”
+
+The question lands like a blade laid flat on the table—handle toward you.
+
+TAGS: [000048]
+
+🏮 "RIVERFORD WAYSTATION — COMMON ROOM" | 🔥 "HEARTH LOW, CROWD THINNING" | ⏰ "EVENING, 19:18"
+Scene Title: Where the Trail Points
+The children’s growls fade into tired laughter as parents begin herding them toward benches and doorways. The Waystation settles into night-business: bowls cleared, mugs refilled, voices lowering. Your table remains an island of intent.
+🦊 YOU | "grave" [🦊]
+
+💬 “It was mixed, to be honest.”
+
+💬 “Some were just men with rope.”
+
+💬 “But the buyer was a wealthy businessman—someone I wouldn’t expect to pay for a child who couldn’t return on investment for another ten years… as sick as that sounds.”
+
+💬 “He’s not in the picture anymore.”
+
+💬 “The upside is I drew all the attention away from Liri.”
+
+💬 “The downside is… it’s all on me now.”
+
+📝 You frown, then lean in a fraction—voice quieter, sharper.
+
+💬 “You said Liri’s dad wasn’t from around here.”
+
+💬 “You said it like he wasn’t from Eryndor.”
+
+💬 “Is he somewhere I could track down, by chance?”
+
+🦊 MARA | "resigned" [🦊]
+
+📝 Mara closes her eyes briefly, then opens them—decision made.
+
+💬 “You heard me right.”
+
+📝 She glances toward the room—at the host, the doors, the windows—then back to you.
+
+💬 “He wasn’t from Eryndor.”
+
+💬 “Not from this weave at all.”
+
+📝 Her fingers trace the rim of her cup like she’s following a remembered line.
+
+💬 “He came through the river… but not along it.”
+
+💬 “He called himself Ishen. Said it wasn’t his true name—just one that fit this side.”
+
+🧍🏽‍♀️ KESTREL | "alert" [🛡️]
+
+📝 Kestrel straightens slightly.
+
+💬 “A crossing-name.”
+
+🦊 MARA | "confirming" [🦊]
+
+💬 “Yes.”
+
+💬 “He was a ferryman between places. Not boats—currents.”
+
+📝 She swallows.
+
+💬 “He said the river here is thin.”
+
+💬 “That some children are born hearing it hum.”
+
+📝 Her eyes flick to Liri—now laughing with another child near the hearth—then back.
+
+💬 “That made her… noticeable.”
+
+🦊 YOU | "focused" [🦊]
+
+📝 The pieces align without clicking—just settling.
+
+🦊 MARA | "truthful" [🦊]
+
+💬 “Before he vanished, he warned me.”
+
+💬 “If anyone ever called her a key, it meant the ferries were being forced.”
+
+💬 “And if that happened…”
+
+💬 “…he would not come back. Not unless the river itself demanded it.”
+
+📝 She meets your eyes—steady, afraid, resolved.
+
+💬 “If you want to look for him…”
+
+💬 “You don’t follow roads.”
+
+💬 “You follow confluences.”
+
+🕯️ WAYSTATION HOST | "intervening" [🪵]
+
+📝 The host appears at your shoulder as if summoned by the word river.
+
+💬 “Last call for stew.”
+
+📝 A pause. Then—lower:
+
+💬 “And some conversations are better finished elsewhere.”
+
+📝 His gaze flicks, briefly, toward a side door marked BOATS & STORAGE.
+
+🌊 COMMON ROOM (RANDOM TURN — MAJOR) | "shift" [⚖️]
+
+📝 For a heartbeat, the hearth flame leans sideways—toward the river—despite no draft. A low, felt vibration hums through the table, just enough to rattle spoons.
+
+Liri looks up.
+Tilts her head.
+And smiles—like she’s hearing a song no one else can.
+
+🦊 MARA | "afraid" [🦊]
+
+💬 “It’s starting again, isn’t it?”
+
+🦊 YOU | "anchored" [🦊]
+
+📝 The attention is on you now—not hostile, not loud.
+
+Ishen is not gone.
+He is elsewhere.
+And the river has noticed you back.
+
+The story has moved forward—whether anyone asked it to or not.
+
+TAGS: [000049]
+
+🚪 "RIVERFORD WAYSTATION — BOATS & STORAGE ROOM" | 🌙 "NIGHT QUIET, RIVER MURMUR" | ⏰ "EVENING, 19:24"
+Scene Title: Names That Cross Worlds
+The door closes with a soft, final sound. The room smells of rope, oiled wood, and river-damp stone. The walls are thick; the river speaks just loud enough to cover truth.
+🦊 YOU | "direct" [🦊]
+
+📝 You step inside and don’t waste the quiet.
+
+💬 “Mara, I’m going to be direct with you.”
+
+💬 “Ishen is a Japanese word. It means Restoration.”
+
+💬 “I know this because I am Japanese.”
+
+📝 You hold her gaze, letting the words land before you continue.
+
+💬 “Japan is a country. Its people are Japanese.”
+
+💬 “It is from a world called Earth.”
+
+💬 “Not as big as Eryndor—but similar.”
+
+💬 “No magic. No monsters.”
+
+💬 “That is where I am from.”
+
+📝 A breath. Not dramatic. Necessary.
+
+💬 “Before I continue… do you have questions?”
+
+🦊 MARA | "stunned" [🦊]
+
+📝 She doesn’t sit. She doesn’t interrupt. Her hands brace against the table, knuckles whitening as her mind races to catch up.
+
+💬 “You’re saying…”
+
+💬 “…he wasn’t lying.”
+
+📝 Her voice is careful now—like she’s stepping across thin ice.
+
+💬 “He told me there were other worlds.”
+
+💬 “Places without the river.”
+
+💬 “I thought it was poetry.”
+
+📝 She swallows.
+
+💬 “Is Earth where he went?”
+
+🧍🏽‍♀️ KESTREL (OUTSIDE, MUFFLED) | "distant calm" [🛡️]
+
+📝 Laughter drifts faintly through the wall—Liri’s, bright and unafraid. It steadies the room.
+
+🦊 MARA | "afraid but steady" [🦊]
+
+📝 She finally sits, slow and deliberate.
+
+💬 “If he crossed worlds…”
+
+💬 “…is that something my daughter could do?”
+
+📝 Her eyes lift to yours—no accusation, just a mother bracing for truth.
+
+💬 “Is that why they called her a key?”
+
+🌊 ROOM (AMBIENT) | "listening" [⚖️]
+
+📝 The river hum deepens for a breath—then settles. The room holds.
+
+Mara has asked the right questions.
+And you asked permission before answering.
+
+The next truth will decide whether this ends quietly—
+or echoes far beyond the riverbanks.
+
+TAGS: [000051]
+
+🚪 "RIVERFORD WAYSTATION — BOATS & STORAGE ROOM" | 🌙 "NIGHT QUIET, RIVER MURMUR" | ⏰ "EVENING, 19:27"
+Scene Title: The Outside, Named
+The rope on the wall creaks softly as the building settles. River-sound fills the gaps between words like a careful curtain.
+🦊 YOU | "measured" [🦊]
+
+📝 You shake your head once—slow, honest.
+
+💬 “I am unsure at the moment.”
+
+📝 You take your coat off, letting the truth of you sit plainly in the lamplight—ears, fur, tails—no hiding, no angles.
+
+💬 “Where I come from, I am not foxkin.”
+
+💬 “I am what is called a Kitsune.”
+
+💬 “I am actually a fox spirit. A type of shapeshifter.”
+
+📝 You keep your voice calm, matter-of-fact, not selling it.
+
+💬 “There are many, many worlds.”
+
+💬 “But Eryndor is the most special… because, Mara, Eryndor should not exist anymore.”
+
+💬 “Its time was up eons ago—before my world came.”
+
+💬 “This whole portion of the universe around Eryndor exists in a place simply known as the Outside.”
+
+💬 “Before my universe even existed.”
+
+📝 You let the words breathe.
+
+💬 “I am unsure if your husband is from Earth.”
+
+💬 “Although I would say with almost certainty that he is.”
+
+💬 “I am also unsure if he has gone back.”
+
+💬 “I don’t know.”
+
+📝 You stop. You don’t fill the space. You leave room for her questions before you reveal anything else.
+
+🦊 MARA | "shaken" [🦊]
+
+📝 Her eyes track your tails like they’re counting something she didn’t know could be counted. She doesn’t recoil—she reorients.
+
+💬 “A spirit…”
+
+📝 She looks down at her hands, then up again.
+
+💬 “Then Ishen… he wasn’t just a man.”
+
+📝 The thought hurts and comforts at the same time.
+
+🦊 MARA | "urgent" [🦊]
+
+💬 “When you say Eryndor shouldn’t exist—”
+
+💬 “Does that mean it can… end?”
+
+📝 Her voice tightens.
+
+💬 “Is that what they want from her?”
+
+💬 “To open something? To keep something from collapsing?”
+
+🦊 MARA | "mother" [🦊]
+
+📝 The questions sharpen where they matter most.
+
+💬 “And my daughter…”
+
+💬 “If she’s a ‘key’—is she dangerous to herself?”
+
+💬 “Or dangerous to everyone else?”
+
+📝 She swallows, then adds the one that costs her pride.
+
+💬 “If you leave…”
+
+💬 “will they come back for her?”
+
+🌊 ROOM (RANDOM TURN — MODERATE) | "sign" [⚖️]
+
+📝 The river noise rises for a heartbeat—like a long inhale—then drops. The lantern flame gutters once and steadies.
+
+From outside the room, a single child’s growl drifts faintly—practice, playful—then laughter.
+
+The world keeps moving.
+But this truth-table is set.
+
+TAGS: [000052]
+
+🚪 "RIVERFORD WAYSTATION — BOATS & STORAGE ROOM" | 🌙 "NIGHT QUIET, RIVER MURMUR" | ⏰ "EVENING, 19:31"
+Scene Title: What Door, What For
+The room feels smaller now—not cramped, just intimate with consequence. Rope hangs still. The lantern’s glow holds steady, as if it’s decided to stop flinching.
+🦊 YOU | "intent" [🦊]
+
+💬 “That is what I wanted to ask you.”
+
+💬 “Was Ishen a foxkin? Did he look like a foxkin?”
+
+💬 “Because Liri does not look mixed.”
+
+📝 You breathe once, slow, thinking as you speak—careful with truth, careful with her fear.
+
+💬 “In reality, Mara… everything ends eventually.”
+
+💬 “And I don’t mean in the poetic sense.”
+
+💬 “Time is like that. Things must end.”
+
+💬 “For a universe and all the stars to eventually end, we are talking about a time scale and a number so vast that I do not even think the languages of this world have words to describe it.”
+
+💬 “My world is still very young in the grand scheme of things.”
+
+📝 You hold her gaze.
+
+💬 “I do not have all the answers for you yet, Mara. I wish I did.”
+
+💬 “But if she is a key… and a key to move between worlds… then that means she will need power.”
+
+💬 “And a lot of it.”
+
+💬 “Because to move between worlds is not like just stepping through a door…”
+
+📝 A pause.
+
+💬 “I mean—well—it is.”
+
+💬 “But to use the door is like swimming up a river.”
+
+💬 “You need strength.”
+
+📝 You let the final question sit, sharp and clean.
+
+💬 “But the question is… what is she a key to?”
+
+💬 “Which door… and why do people want to open it?”
+
+🦊 MARA | "remembering" [🦊]
+
+📝 Mara’s eyes go unfocused—not from avoidance, but from reaching backward through years.
+
+💬 “He looked… human.”
+
+📝 She says it slowly, as if testing whether she’s allowed to say it.
+
+💬 “No ears. No tail.”
+
+💬 “No fur.”
+
+📝 A beat, then she adds:
+
+💬 “But.”
+
+📝 Her hand rises to her own temple, fingers pressing lightly.
+
+💬 “Sometimes, when he thought I wasn’t looking… his shadow would…”
+
+💬 “…curve wrong.”
+
+💬 “Like it had a tail it wasn’t admitting.”
+
+📝 She shivers.
+
+💬 “He never said foxkin.”
+
+💬 “He said ferryman.”
+
+💬 “And he said that in some places, looking like yourself gets you killed.”
+
+🦊 MARA | "firm" [🦊]
+
+📝 She leans in now, voice lowering.
+
+💬 “Liri isn’t mixed because I am foxkin and he… wasn’t anything here.”
+
+💬 “Whatever he was, it didn’t… show.”
+
+📝 She swallows.
+
+💬 “But Liri got the river-hum.”
+
+🦊 MARA | "afraid" [🦊]
+
+💬 “As for the door…”
+
+📝 She hesitates like the words might summon it.
+
+💬 “He warned me about a place beneath the river.”
+
+💬 “Not underwater—beneath.”
+
+💬 “A lock that was never meant to be opened from this side.”
+
+📝 Her eyes flick to yours.
+
+💬 “He said there are people who think the Outside is a treasure chest.”
+
+💬 “They want to pry it open.”
+
+💬 “And if they can’t pry… they look for keys.”
+
+🌊 ROOM (RANDOM TURN — MAJOR) | "evidence" [⚖️]
+
+📝 The lantern flame leans again—not toward the river this time, but toward the wall—as if pulled by something behind stone.
+
+A faint knock comes from the other side of the wall.
+Not the door.
+The wall.
+
+Then—nothing.
+
+Mara goes pale.
+
+💬 “That… that’s not normal.”
+
+🦊 MARA | "urgent" [🦊]
+
+📝 Her voice drops to a whisper.
+
+💬 “If someone is listening…”
+
+💬 “If they can make the river answer inside a Waystation…”
+
+💬 “Then it isn’t just slavers.”
+
+📝 She grips the edge of the table.
+
+💬 “Jayson… what do we do right now?”
+
+The room has stopped being theoretical.
+Something heard you say door.
+And it knocked back.
+
+TAGS: [000053]
