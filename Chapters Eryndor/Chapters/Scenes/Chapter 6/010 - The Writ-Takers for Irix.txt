@@ -1,0 +1,223 @@
+﻿🏮 "HARROWFEN — EASTWARD LANEWAYS" | 🌬️ "COOL BREEZE" | 🌌 "NIGHT, 21:08" | 📅 "25/04/1427"
+Scene Title: The Walk That Turns
+The city has softened—lanternlight in puddles, distant footsteps, the faint smell of bread cooling behind shutters. The lane ahead bends toward quieter districts where doors are locked more from habit than fear.
+🦊 Jayson | "grateful" [🦊]
+
+💬 “Thank you.”
+
+📝 You nod to the baker, then fall into step with Kestrel leading and Irix close, the route familiar—you’ve passed the Copper Finch before.
+
+📝 It’s a longer walk than you’d like, but the night air is kind.
+
+🛡️ Kestrel | "steady" [🛡️]
+
+📝 Kestrel keeps you to the lit side of the street, choosing lanes with sightlines and fewer doorways.
+
+💬 “Stay together.”
+
+🎭 Irix | "quiet" [🎭]
+
+📝 Irix walks with her hood where it should be—enough to be unremarkable, not enough to feel trapped. Her attention keeps drifting to reflections in windows.
+
+🌑 RANDOM TURN — Level 8 Event: The Writ-Taker | Difficulty 8
+
+📝 At the next intersection, a small group steps out from a recessed archway—not drunk, not rowdy. Purposeful.
+
+📝 Three in fitted coats with brass-thread cuffs. One holds a flat folio case. Another wears a ring-signet you don’t recognize, but Kestrel does—her shoulders tighten by a hair.
+
+📝 The leader doesn’t look at you first.
+
+📝 He looks at Irix.
+
+💬 “Irythi.”
+
+📝 The word isn’t a slur. It’s worse—a classification.
+
+💬 “House Velaryth-Inael, exiled branch.”
+
+📝 He opens the folio just enough for lanternlight to catch the edge of a sealed writ—not Guild parchment. A different watermark.
+
+💬 “By standing accord, you’re required to present yourself for verification.”
+
+📝 One of the others shifts to the side—subtle, practiced—trying to angle behind Irix without making it look like that’s what they’re doing.
+
+📝 Irix goes very still.
+
+Not fear.
+
+Calculation.
+
+🛡️ Kestrel | "hard" [🛡️]
+
+📝 Kestrel steps half a pace forward—shield not raised, but present—cutting the angle before it becomes a problem.
+
+💬 “This is Harrowfen.”
+
+💬 “State your authority.”
+
+🎭 Irix | "cold" [🎭]
+
+📝 Irix doesn’t retreat. She doesn’t flare. She simply speaks like someone who recognizes the game.
+
+💬 “Verification is not a street matter.”
+
+📝 Her eyes flick once to the writ—then to the ring-signet.
+
+💬 “And you are not Guild.”
+
+🏷️ Writ-Taker | "polite" [🏷️]
+
+📝 The leader smiles as if this is cordial.
+
+💬 “Correct.”
+
+💬 “We don’t need the Guild.”
+
+💬 “We need you.”
+
+📝 He tilts the folio case, letting you see a second document corner—names and dates, neatly penned.
+
+💬 “If you refuse, you’ll be noted as noncompliant.”
+
+💬 “And the next request won’t be courteous.”
+
+📝 The lane stays quiet, but it’s the wrong kind of quiet now—like shutters have decided to listen.
+
+The Copper Finch is still ahead.
+
+But the road just became a question with teeth.
+
+TAGS: [000120]
+
+🏮 "HARROWFEN — EASTWARD LANEWAYS" | 🌬️ "COOL BREEZE" | 🌌 "NIGHT, 21:09" | 📅 "25/04/1427"
+Scene Title: Authority Is Spoken Aloud
+Lanternlight trembles as metal answers metal. The lane narrows—not in stone, but in possibility. Somewhere, a shutter closes. Somewhere else, someone decides not to look.
+🦊 Jayson | "cold-resolve" [🦊]
+
+📝 You step forward, placing yourself cleanly between Irix and the angle they were trying to take.
+
+💬 “You’re right.”
+
+💬 “We’re not Guild.”
+
+💬 “And neither are you.”
+
+📝 Your katana clicks, sliding free a fraction—just enough for lanternlight to bite along its edge.
+
+💬 “The only way non-compliance is registered is if you live to speak of it.”
+
+📝 You don’t raise your voice.
+
+💬 “So speak.”
+
+💬 “Who are you?”
+
+💬 “And why do you want this ‘verification’—”
+
+💬 “Before you’re nothing more than a headline in tomorrow’s paper.”
+
+🏷️ Writ-Taker | "measured" [🏷️]
+
+📝 The leader’s smile fades—not into fear, but calculation. He studies the blade, then your eyes, weighing distances he didn’t expect to need.
+
+💬 “Direct.”
+
+📝 He lifts one hand slowly—not surrender, not threat.
+
+💬 “Very well.”
+
+📝 He closes the folio just enough to snap the seal shut.
+
+💬 “We are Accord Registrars.”
+
+💬 “Independent.”
+
+💬 “Recognized by three capitals and ignored by four.”
+
+📝 He taps the ring-signet with his thumb.
+
+💬 “Our task is to confirm the presence of legacy lineages.”
+
+💬 “Especially those declared… lost.”
+
+📝 His eyes return to Irix—careful now, respectful despite himself.
+
+💬 “Velaryth-Inael carries standing clauses.”
+
+💬 “Verification triggers notifications.”
+
+💬 “Notifications trigger movement.”
+
+🎭 Irix | "controlled-anger" [🎭]
+
+📝 Irix’s voice is ice laid flat.
+
+💬 “You don’t verify people.”
+
+💬 “You verify leverage.”
+
+🏷️ Writ-Taker | "honest" [🏷️]
+
+📝 A pause. Then a nod.
+
+💬 “Correct.”
+
+📝 He looks back to you, blade still half-drawn.
+
+💬 “Which is why we approached politely.”
+
+💬 “And why I am still speaking.”
+
+🌑 RANDOM TURN — Level 8 Pressure Shift | Difficulty 8
+
+📝 One of the two flanking agents subtly shifts—then stops as Kestrel’s shadow realigns, cutting the lane with shield and stance alone.
+
+📝 Another agent’s hand twitches toward a concealed focus—then relaxes when the writ-taker flicks two fingers down.
+
+📝 The power balance tilts.
+
+📝 They came to collect.
+
+📝 They found resistance.
+
+🛡️ Kestrel | "iron" [🛡️]
+
+📝 Kestrel’s voice lands like a gate slamming.
+
+💬 “You’re done here.”
+
+💬 “This city recognizes the Guild.”
+
+💬 “And tonight, so do you.”
+
+🏷️ Writ-Taker | "withdrawing" [🏷️]
+
+📝 The leader exhales—slow, controlled.
+
+💬 “Very well.”
+
+📝 He steps back a single pace and gestures the others to do the same.
+
+💬 “No verification tonight.”
+
+💬 “But understand this—”
+
+📝 His eyes return to Irix, then to you.
+
+💬 “Names written down… echo.”
+
+📝 He inclines his head—professional, not submissive.
+
+💬 “Enjoy your rooms.”
+
+📝 They melt back into the archway—not hurried, not proud—remembering.
+
+📝 The lane breathes again.
+
+But the night has teeth now.
+
+Someone, somewhere, just learned that Irix is not alone—
+and that the fox with the quiet blade does not bluff.
+
+TAGS: [000121]
+

@@ -1,0 +1,866 @@
+﻿🌊 HARROWFEN — RIVERSIDE WALK (UNDER BRIDGE SHADOW) | ☁️ OVERCAST | 🕓 LATE AFTERNOON, 16:19
+Scene Title: An Invitation, Incorrectly Delivered
+The river keeps moving. That’s the trick of it—nothing announces the moment until it’s already behind you.
+
+📝 It happens all at once.
+
+📝 Rough fabric drops over your head, cutting light to brown-black. Rope snaps tight around arms and shoulders with practiced speed—not panicked, not sloppy. This wasn’t a gamble.
+
+📝 Boots scrape stone. Someone grunts with effort. Another breath is close—too close.
+
+📝 You don’t fight it.
+
+🦊 JAYSON | resigned [🦊]
+
+💬 “Don’t struggle.”
+
+💬 “Let’s just see.”
+
+📝 The rope cinches. A sack settles. You tilt your head slightly toward where Kestrel should be.
+
+🦊 JAYSON | dry [🦊]
+
+💬 “We’ll inform them sternly later what an invite is.”
+
+🧔‍♂️ KIDNAPPER | tense [🗡️]
+
+💬 “Shut him up.”
+
+📝 A fist almost comes down—then hesitates when you don’t resist. Confusion ripples through hands that expected thrashing.
+
+📝 Someone swears under their breath.
+
+📝 You’re hauled forward. The sound of water fades as steps change—stone to wood, wood to packed earth.
+
+📝 The sack smells like old grain and fear.
+
+🛡️ KESTREL | controlled [🛡️]
+
+📝 You feel her move beside you—still, deliberate. No wasted motion. No panic given.
+
+💬 “This is a mistake.”
+
+📝 No one answers her.
+
+RANDOM TURN — Difficulty 8
+
+📝 A whistle sounds—one note, clipped—and the group accelerates.
+
+📝 Somewhere behind you, a voice argues in a low hiss: “This wasn’t the plan—”
+
+📝 Another snaps back: “Orders are orders.”
+
+📝 The river is gone now.
+
+📝 Whatever comes next was decided before you were asked.
+
+TAGS: [000078]
+
+🕯️ HARROWFEN — RIVERSIDE STOREHOUSE (LOWER LEVEL) | ☁️ OVERCAST | 🕓 LATE AFTERNOON, 16:27
+Scene Title: The Chairs Were Ready
+The smell hits first when the sacks come off—old wood, damp rope, lamp oil, river mold. The kind of place meant to be forgotten unless someone needed privacy urgently.
+
+📝 You remain quiet, senses stretched outward. You don’t need to look to know Kestrel is close—her breathing is controlled, cadence familiar, presence anchored just off your right.
+
+📝 Hands haul you down into a chair. Rope is added—thicker, tighter, unnecessary. The knot-work is competent but rushed, like they’re more afraid of time than of you.
+
+📝 The hood is pulled away.
+
+📝 Dim lamplight reveals a low-ceilinged storehouse room. Crates stacked along the walls. A long table opposite you. Four men standing. One seated.
+
+🧔‍♂️ FIGURE AT THE TABLE | composed [🕴️]
+
+📝 He’s dressed better than the rest—clean coat, gloves removed and folded neatly beside a ledger. Not a fighter. Not pretending to be.
+
+💬 “Good.”
+
+💬 “You cooperated.”
+
+📝 His eyes move to Kestrel, pause for half a second longer than polite, then return to you.
+
+💬 “That saves us all trouble.”
+
+🧔‍♂️ ENFORCER | uneasy [🗡️]
+
+📝 One of the men shifts his grip on a cudgel, watching your tails like they might move on their own.
+
+💬 “Boss… he didn’t resist at all.”
+
+🧔‍♂️ FIGURE AT THE TABLE | annoyed [🕴️]
+
+💬 “I can see that.”
+
+📝 He steeples his fingers, studying you like a problem he didn’t expect to be voluntary.
+
+🛡️ KESTREL | ice-calm [🛡️]
+
+📝 She sits bound in her chair, posture straight despite the ropes. Her eyes never leave the man at the table.
+
+💬 “If you’re done congratulating yourselves.”
+
+💬 “Say why we’re here.”
+
+RANDOM TURN — Difficulty 7
+
+📝 Somewhere above you, a door opens and closes—twice. Footsteps cross, then stop. Someone is standing guard outside the room, not just inside.
+
+📝 The man at the table taps the ledger once, then slides it shut.
+
+💬 “Fair.”
+
+💬 “We have a proposition.”
+
+📝 His gaze fixes on you now—sharp, curious, not cruel.
+
+💬 “And I’d very much like to hear why a fox who scares Watchers decided to come along so politely.”
+
+📝 The room goes quiet enough to hear the river through the boards.
+
+📝 They have questions.
+
+📝 You are exactly where you wanted to be.
+
+TAGS: [000079]
+
+🕯️ HARROWFEN — RIVERSIDE STOREHOUSE (LOWER LEVEL) | ☁️ OVERCAST | 🕓 LATE AFTERNOON, 16:29
+Scene Title: Terms, Set Aloud
+Lamplight wavers as the river breathes through the boards. Rope creaks softly when you shift—old hemp, too tight, overconfident. Every man in the room is watching for movement that doesn’t come.
+
+📝 You look down at the ropes binding you.
+📝 You look around at the men—counting, weighing, dismissing.
+📝 Then your gaze settles on the one at the table.
+
+🦊 JAYSON | cool [🦊]
+
+💬 “I’m more curious what gave you the metal balls you seem to have grown to take me.”
+
+📝 A pause—just enough to let it land.
+
+🦊 JAYSON | measured [🦊]
+
+💬 “Speak your proposition.”
+
+💬 “Then I’ll decide how far my politeness goes.”
+
+📝 You turn your head slightly toward Kestrel, checking without fuss.
+
+🦊 JAYSON | concerned [🦊]
+
+💬 “You okay?”
+
+💬 “They didn’t hurt you, did they?”
+
+🛡️ KESTREL | steady [🛡️]
+
+📝 She meets your eyes, then flicks a glance at the ropes on her wrists—testing once, controlled.
+
+💬 “I’m fine.”
+
+💬 “They were careful.”
+
+📝 Her gaze returns to the man at the table—flat, promising nothing.
+
+🧔‍♂️ FIGURE AT THE TABLE | tight-smile [🕴️]
+
+📝 He exhales through his nose, amused despite himself. One of the enforcers shifts; another swallows.
+
+💬 “Straight to it, then.”
+
+💬 “Good.”
+
+📝 He leans back, fingers steepled again—trying to reclaim the room.
+
+💬 “We represent interests that prefer problems discussed… privately.”
+
+💬 “You’ve been causing ripples.”
+
+💬 “Watchers. Devices. Dungeons.”
+
+📝 His eyes sharpen.
+
+💬 “We want to know what you are.”
+
+💬 “And whether you’re a liability…”
+
+💬 “Or an asset.”
+
+RANDOM TURN — Difficulty 8
+
+📝 One of the enforcers’ hands trembles—just a fraction—as your tails shift to settle more comfortably.
+
+📝 From above, a muffled shout carries, then cuts off. The guard outside moves position.
+
+📝 The man at the table notices all of it—and tightens his jaw.
+
+📝 He chose this meeting believing he had leverage.
+
+📝 He is starting to realize he only has questions.
+
+TAGS: [000080]
+
+🕯️ HARROWFEN — RIVERSIDE STOREHOUSE (LOWER LEVEL) | ☁️ OVERCAST | 🕓 LATE AFTERNOON, 16:31
+Scene Title: Categories Rejected
+Rope fibers bite as you flex—tight, competent knots meant to remind more than restrain. Lamplight throws long shadows; the men don’t flinch. These aren’t alley bullies. These are professionals who decided today was worth the risk.
+
+📝 You flex again, testing the bind, eyes moving across every face—counting resolve, counting exits—then settle back on the man at the table.
+
+🦊 JAYSON | cold [🦊]
+
+💬 “Liability implies I belong to someone.”
+
+💬 “Which I do not.”
+
+💬 “Asset implies I work for you.”
+
+💬 “Which I also don’t.”
+
+📝 Your gaze hardens; the room feels smaller.
+
+🦊 JAYSON | warning [🦊]
+
+💬 “So what I am…”
+
+💬 “Is a fox losing interest very quickly.”
+
+📝 Movement to your right—boots scuff. Two of the men step closer to Kestrel, not rushing, not hesitating. Their eyes don’t show fear; they show decision. The kind that doesn’t like beastkin and doesn’t intend to be talked out of it.
+
+📝 You look at them.
+
+📝 Your lips peel back just enough.
+
+📝 A low growl rolls out—felt more than heard—threading through the wood and rope like a promise.
+
+🧔‍♂️ ENFORCER | resolved [🗡️]
+
+📝 One of them stops half a step short of Kestrel. Not because of the growl—because the man at the table lifts a finger.
+
+🧔‍♂️ FIGURE AT THE TABLE | tightened [🕴️]
+
+📝 His smile is gone now. He leans forward instead, palms flat.
+
+💬 “Easy.”
+
+💬 “No one’s touching her.”
+
+📝 He looks at you, recalculating—finally.
+
+💬 “You misunderstand the terms.”
+
+💬 “We’re not offering ownership.”
+
+💬 “We’re offering space.”
+
+📝 A breath.
+
+💬 “Room to operate.”
+
+💬 “Information.”
+
+💬 “And a mutual agreement not to cross lines that don’t need crossing.”
+
+RANDOM TURN — Difficulty 9
+
+📝 The rope at your wrist creaks—not breaking, but complaining. A knot slips a hair’s breadth, friction burned by strength you didn’t advertise.
+
+📝 Two enforcers notice at the same time. One tightens his grip on a cudgel. Another shifts his feet—defensive, not aggressive.
+
+📝 The man at the table clocks it all and raises his voice a fraction—authority asserted, not shouted.
+
+💬 “This is the moment.”
+
+💬 “We either talk like adults…”
+
+💬 “Or we find out how expensive this mistake becomes.”
+
+📝 The room waits.
+
+📝 Not for permission.
+
+📝 For your patience.
+
+TAGS: [000081]
+
+🕯️ HARROWFEN — RIVERSIDE STOREHOUSE (LOWER LEVEL) | ☁️ OVERCAST | 🕓 LATE AFTERNOON, 16:33
+Scene Title: Lines That Don’t Overlap
+Lamplight steadies. The river’s hush presses against the walls like a held breath. Your stare pins the two men by Kestrel in place—predators recognizing another predator’s patience.
+
+📝 Your eyes never leave them.
+
+🦊 JAYSON | controlled [🦊]
+
+💬 “Space?”
+
+💬 “I’m an adventurer.”
+
+💬 “Guild jobs. Dungeons.”
+
+💬 “I’m not in the slave trade.”
+
+💬 “Not in the kidnapping trade.”
+
+💬 “So how—”
+
+💬 “Or rather, what—could I possibly do to cross paths with your… interested parties?”
+
+📝 The question lands without heat. It doesn’t need any.
+
+🧔‍♂️ FIGURE AT THE TABLE | precise [🕴️]
+
+📝 He studies your gaze, then follows it to the two enforcers and lifts his hand—two fingers, down. They stop moving. Not because they’re afraid. Because they understand hierarchy.
+
+💬 “You already have.”
+
+📝 He turns the ledger so its spine faces you—closed, symbolic.
+
+💬 “You crossed paths when you interfered with a transfer.”
+
+💬 “When you dismantled a device that wasn’t meant for guild eyes.”
+
+💬 “When a Watcher corrected a problem in public and you were standing there afterward.”
+
+📝 He leans back a fraction.
+
+💬 “You didn’t seek us.”
+
+💬 “You made yourself unavoidable.”
+
+🛡️ KESTREL | warning-quiet [🛡️]
+
+📝 She shifts in her chair—small, deliberate. Enough to remind the room she’s not furniture.
+
+💬 “If your people are in slaving.”
+
+💬 “Say it plainly.”
+
+💬 “So we can stop wasting time.”
+
+📝 One of the men near her bristles. The finger comes up again. He stills.
+
+🧔‍♂️ FIGURE AT THE TABLE | candid-now [🕴️]
+
+💬 “Some of our clients are criminals.”
+
+💬 “Some are merchants who don’t ask where answers come from.”
+
+💬 “Some are officials who prefer deniability to truth.”
+
+📝 He meets your eyes directly.
+
+💬 “We don’t care what you are.”
+
+💬 “We care that you don’t trip alarms we spend years keeping quiet.”
+
+💬 “So here’s the line.”
+
+💬 “Do your guild work.”
+
+💬 “Clear your dungeons.”
+
+💬 “Don’t pry into Watchers.”
+
+💬 “And don’t dismantle machines you find in the field.”
+
+RANDOM TURN — Difficulty 9
+
+📝 A muffled crack sounds overhead—wood settling, or a signal. The outside guard shifts position.
+
+📝 The rope at your wrist loosens another whisper—unnoticed by everyone except the man at the table, whose eyes flick there and back.
+
+💬 “In return,” he adds carefully,
+
+💬 “We forget today happened.”
+
+📝 The offer hangs—thin as paper, sharp as a blade.
+
+📝 This isn’t a threat.
+📝 It’s a map of where they don’t want you to walk.
+
+📝 Whether that’s where you’re headed anyway—
+
+📝 is the part he hasn’t learned how to price.
+
+TAGS: [000082]
+
+🕯️ HARROWFEN — RIVERSIDE STOREHOUSE (LOWER LEVEL) | ☁️ OVERCAST | 🕓 LATE AFTERNOON, 16:35
+Scene Title: Questions They Don’t Like Answering
+The room tightens—not louder, not faster—denser. Lamplight feels heavier when it has something to hide.
+
+📝 You stay still in the chair, but your attention sharpens. The ropes don’t matter right now. The answers do.
+
+🦊 JAYSON | intent [🦊]
+
+💬 “I’m curious now.”
+
+💬 “What did you have to do with that little contraption?”
+
+💬 “Because it clearly wasn’t made by humans.”
+
+💬 “And what do the Watchers have to do with the likes of you lot?”
+
+📝 Silence answers first.
+
+🧔‍♂️ FIGURE AT THE TABLE | guarded [🕴️]
+
+📝 He doesn’t respond immediately. He studies the grain of the table like it might offer advice, then looks up—decision made.
+
+💬 “The device wasn’t ours.”
+
+💬 “Not originally.”
+
+📝 A ripple moves through the room. Not denial—ownership anxiety.
+
+💬 “It came from a salvager.”
+
+💬 “Old ruin. Deep pull.”
+
+💬 “Pre-Guild. Pre-Church.”
+
+📝 He taps the ledger once—finality without proof.
+
+💬 “Not human.”
+
+💬 “Not elf.”
+
+💬 “Not beastkin.”
+
+📝 His eyes flick to you—checking how much lands.
+
+🧔‍♂️ FIGURE AT THE TABLE | candid-but-careful [🕴️]
+
+💬 “Our involvement was… logistics.”
+
+💬 “Moving it.”
+
+💬 “Testing where it could go without drawing attention.”
+
+📝 A breath. Then the harder part.
+
+💬 “The Watchers aren’t ours either.”
+
+💬 “They’re not anyone’s.”
+
+📝 One enforcer shifts uneasily at that.
+
+💬 “They’re a response.”
+
+💬 “When certain thresholds are crossed.”
+
+💬 “Population. Interference. Exposure.”
+
+📝 His jaw tightens.
+
+💬 “They don’t care about us.”
+
+💬 “They don’t care about you.”
+
+💬 “They care about outcomes staying inside tolerances.”
+
+🛡️ KESTREL | low-danger [🛡️]
+
+📝 Her eyes narrow—not angry, connecting dots.
+
+💬 “So the device was bait.”
+
+🧔‍♂️ FIGURE AT THE TABLE | quiet-confirmation [🕴️]
+
+💬 “Yes.”
+
+💬 “A probe.”
+
+💬 “To see what noticed.”
+
+📝 He meets your gaze squarely now. No bravado left.
+
+💬 “We didn’t expect it to be destroyed.”
+
+💬 “We expected it to be… corrected.”
+
+📝 A pause.
+
+💬 “You weren’t part of the plan.”
+
+RANDOM TURN — Difficulty 10
+
+📝 The river outside surges against the pilings—harder than before.
+📝 One of the lamps flickers—not from wind, but pressure.
+📝 Your tails twitch—not voluntarily.
+
+📝 For half a second, the room feels like it’s being observed.
+
+📝 The man at the table notices your reaction and goes very still.
+
+💬 “That,” he says quietly,
+
+💬 “Is why we wanted to talk.”
+
+📝 Whatever built the device
+📝 Whatever triggers the Watchers
+📝 Whatever thresholds they’re afraid of—
+
+📝 You are closer to them than they are.
+
+📝 And they know it now.
+
+TAGS: [000083]
+
+🕯️ HARROWFEN — RIVERSIDE STOREHOUSE (LOWER LEVEL) | ☁️ OVERCAST | 🕓 LATE AFTERNOON, 16:37
+Scene Title: Corrections, Not Courtesies
+The lamplight steadies again, but the room has lost whatever illusion of control it thought it had. The river’s murmur sounds closer now—like it’s listening too.
+
+📝 You frown, the expression slow and deliberate.
+
+🦊 JAYSON | displeased [🦊]
+
+💬 “And this is how you talk?”
+
+💬 “By tying me and my partner up?”
+
+📝 You tilt your head slightly, eyes never leaving the men who moved toward Kestrel earlier.
+
+🦊 JAYSON | clarifying [🦊]
+
+💬 “Your device was deployed by some robed figure.”
+
+💬 “The Watcher didn’t give two shits about it.”
+
+💬 “It stomped it.”
+
+📝 The words land heavier than their volume.
+
+🧔‍♂️ FIGURE AT THE TABLE | recalibrating [🕴️]
+
+📝 His jaw tightens. Not anger—annoyance at missing variables.
+
+💬 “Then the robed courier wasn’t one of ours.”
+
+📝 A beat. He doesn’t like admitting that.
+
+💬 “Which explains the stomp.”
+
+📝 He leans forward, palms flat again—not dominant now, anchoring.
+
+💬 “Watchers correct systems.”
+
+💬 “Not tools.”
+
+📝 His eyes flick briefly to the ropes on you, then back up—acknowledgment without apology.
+
+💬 “And no—this isn’t how we prefer to talk.”
+
+💬 “It’s how we make sure the conversation actually happens.”
+
+🛡️ KESTREL | icy [🛡️]
+
+📝 She shifts against the chair, rope creaking once—measured.
+
+💬 “You wanted answers.”
+
+💬 “You could’ve bought dinner.”
+
+📝 One of the enforcers snorts despite himself. The finger comes up again. Silence returns.
+
+🧔‍♂️ FIGURE AT THE TABLE | more-honest-now [🕴️]
+
+💬 “You’re right about one thing.”
+
+💬 “If the Watcher destroyed it without review—”
+
+💬 “Then it wasn’t crossing the threshold we were testing.”
+
+📝 He exhales through his nose.
+
+💬 “Which means someone else is pushing harder.”
+
+💬 “And doing it sloppily.”
+
+📝 He looks at you—not like a captive now, but like an uncomfortable equal.
+
+💬 “That makes this worse.”
+
+💬 “Not better.”
+
+RANDOM TURN — Difficulty 9
+
+📝 A sudden thud echoes from above—too heavy for a footstep, too controlled for collapse.
+
+📝 Dust drifts from a ceiling beam.
+
+📝 One enforcer turns toward the stairs, hand halfway to his weapon.
+
+💬 “Boss—”
+
+📝 The man at the table raises a hand, eyes never leaving you.
+
+💬 “Hold.”
+
+📝 The ropes at your wrist slip another fraction—heat, friction, or something else entirely.
+
+📝 The room isn’t just being watched anymore.
+
+📝 It’s being re-evaluated.
+
+📝 And for the first time, everyone here understands the same thing:
+
+📝 This meeting was late.
+And whatever they were probing… has already moved on.
+
+TAGS: [000084]
+
+🕯️ HARROWFEN — RIVERSIDE STOREHOUSE (LOWER LEVEL) | ☁️ OVERCAST | 🕓 LATE AFTERNOON, 16:39
+Scene Title: Consequences, Spoken Plainly
+The room holds its breath again. Lamp oil wavers; rope creaks. The river presses closer to the walls, patient and indifferent.
+
+📝 You tip your chin toward Kestrel without looking away from the men.
+
+🦊 JAYSON | sardonic [🦊]
+
+💬 “What she said.”
+
+💬 “You could’ve bought us dinner first before screwing us like this.”
+
+📝 A beat—just enough to let the jab land.
+
+🦊 JAYSON | pointed [🦊]
+
+💬 “And what the hell was that?”
+
+💬 “Another toy of yours?”
+
+📝 Your gaze sharpens, voice steady.
+
+🦊 JAYSON | uncompromising [🦊]
+
+💬 “And let’s say I refuse.”
+
+💬 “I keep doing my own thing.”
+
+💬 “What then?”
+
+🧔‍♂️ FIGURE AT THE TABLE | careful [🕴️]
+
+📝 He exhales, slow. The smile doesn’t come back.
+
+💬 “That wasn’t ours.”
+
+💬 “If it were, it wouldn’t have announced itself.”
+
+📝 He glances to the ceiling where the earlier thud came from—files the sound away.
+
+💬 “If you refuse?”
+
+💬 “Nothing… immediately.”
+
+📝 He lifts a finger—one condition, not a threat.
+
+💬 “We stop smoothing edges.”
+
+💬 “We stop redirecting attention.”
+
+💬 “We stop telling curious people to look elsewhere.”
+
+📝 His eyes meet yours, level.
+
+💬 “You keep doing what you do.”
+
+💬 “And the city reacts the way cities do.”
+
+🛡️ KESTREL | lethal-calm [🛡️]
+
+📝 She leans forward a fraction, rope biting once.
+
+💬 “That’s not a consequence.”
+
+💬 “That’s laziness.”
+
+🧔‍♂️ FIGURE AT THE TABLE | honest-now [🕴️]
+
+💬 “It’s reality.”
+
+💬 “We don’t command Watchers.”
+
+💬 “We don’t own inventors.”
+
+💬 “We don’t stop storms.”
+
+📝 A pause.
+
+💬 “We just decide who gets wet first.”
+
+RANDOM TURN — Difficulty 10
+
+📝 The outside guard hisses—urgent. Footsteps shift above, then halt.
+
+📝 One lamp flickers twice and steadies.
+
+📝 The rope at your wrist finally gives a soft snap—not free, but compromised. Enough to matter.
+
+📝 The man at the table notices and nods once—accepting the change.
+
+💬 “You don’t need us.”
+
+💬 “But refusing us means you’ll find out who else thinks they do.”
+
+📝 The room waits—not for permission.
+
+📝 For your decision to echo.
+
+TAGS: [000085]
+
+🕯️ HARROWFEN — RIVERSIDE STOREHOUSE (LOWER LEVEL) | ☁️ OVERCAST | 🕓 LATE AFTERNOON, 16:41
+Scene Title: Declined, Decisively
+The room goes very still—like it knows something irreversible just happened.
+
+📝 You nod once.
+
+🦊 JAYSON | resolved [🦊]
+
+💬 “Knowledge is power.”
+
+💬 “And you’ve given me enough.”
+
+📝 Your gaze settles on the man at the table—no anger, no heat.
+
+🦊 JAYSON | final [🦊]
+
+💬 “If I ask for names, you’ll tell me to go fuck myself.”
+
+💬 “So I’ll decline.”
+
+💬 “I’ll keep doing what I’m doing.”
+
+💬 “And I’ll see who else comes knocking.”
+
+📝 You rise.
+
+📝 Rope snaps—clean, sharp sounds in quick succession. The chair splits beneath you, wood cracking like a held breath finally released.
+
+📝 A flick of your tail.
+
+📝 Kestrel’s bindings fall away—cut, not torn.
+
+📝 Without thinking, you step to her, gently taking her hands. You check her wrists, thumbs brushing with care, pressure light, deliberate—making sure there’s no damage.
+
+🛡️ KESTREL | steady-warm [🛡️]
+
+📝 She lets you check, eyes on your face, then flexes her fingers once.
+
+💬 “I’m fine.”
+
+📝 A beat.
+
+💬 “Thank you.”
+
+📝 She straightens beside you, free and ready.
+
+🧔‍♂️ FIGURE AT THE TABLE | contained [🕴️]
+
+📝 He doesn’t stand. He doesn’t shout. He simply exhales—accepting the outcome he gambled for.
+
+💬 “That’s… unfortunate.”
+
+📝 One of the enforcers shifts. Another takes a step back. No one advances.
+
+💬 “You’ll find answers.”
+
+💬 “Just not clean ones.”
+
+📝 He lifts his chin a fraction—respect or resignation, hard to tell.
+
+💬 “Try not to burn the city down on your way.”
+
+RANDOM TURN — Difficulty 10
+
+📝 Above you, something moves—heavy, controlled, then gone. Not guards. Not Watchers.
+
+📝 The river outside surges once, slapping the pilings, then settles.
+
+📝 A presence that was considering decides to wait.
+
+📝 The room understands it’s no longer holding you.
+
+📝 Doors remain closed—but no one stops you.
+
+📝 This wasn’t an ending.
+
+📝 It was a line drawn—by you.
+
+TAGS: [000086]
+
+🕯️ HARROWFEN — RIVERSIDE STOREHOUSE (LOWER LEVEL) | ☁️ OVERCAST | 🕓 LATE AFTERNOON, 16:43
+Scene Title: What They Won’t Say Aloud
+The broken chair lies in pieces at your feet. Rope ends curl like shed skin. The lamplight feels smaller now—less in charge of the room than it was a minute ago.
+
+📝 You straighten, hands free, posture easy but unyielding.
+
+🦊 JAYSON | dry [🦊]
+
+💬 “Not unfortunate.”
+
+💬 “Strategic.”
+
+📝 You glance around once—at the men, the door, the ceiling beam that creaked earlier—then back to the man at the table.
+
+🦊 JAYSON | candid [🦊]
+
+💬 “You might’ve gotten a better response out of me if you’d just met me at an inn.”
+
+💬 “Bought a drink.”
+
+💬 “Asked to chat.”
+
+📝 Your eyes lift—tracking the memory of that weight above—then settle back on him.
+
+🦊 JAYSON | probing [🦊]
+
+💬 “You’re not going to tell me what that was, are you?”
+
+🧔‍♂️ FIGURE AT THE TABLE | restrained [🕴️]
+
+📝 He follows your gaze upward, then returns it to you without flinching. Whatever mask he wore earlier is gone—this is as honest as he gets.
+
+💬 “No.”
+
+📝 A pause. He chooses his words like he’s paying for each one.
+
+💬 “Because names give it edges.”
+
+💬 “Edges give people confidence.”
+
+💬 “And confidence gets people killed.”
+
+📝 He folds his gloves once, precisely.
+
+💬 “You noticed it.”
+
+💬 “That’s already more than most.”
+
+🛡️ KESTREL | watchful [🛡️]
+
+📝 She shifts beside you, free now, eyes flicking to the ceiling and back—cataloguing exits, angles, echoes.
+
+💬 “Then we’re done here.”
+
+🧔‍♂️ FIGURE AT THE TABLE | conceding [🕴️]
+
+📝 He nods—one time.
+
+💬 “Yes.”
+
+💬 “We are.”
+
+RANDOM TURN — Difficulty 8
+
+📝 The pressure you felt earlier recedes—not gone, just elsewhere. Like something that decided you were interesting enough to watch later.
+
+📝 Outside, a cart rattles past, laughter cutting through the boards—life refusing to pause for secrets.
+
+📝 One of the enforcers steps aside, clearing the path to the door without being told.
+
+📝 The city has accepted your refusal.
+
+📝 Whatever’s moving behind the Watchers hasn’t.
+
+📝 And now it knows you’re willing to look back.
+
+TAGS: [000087]
+

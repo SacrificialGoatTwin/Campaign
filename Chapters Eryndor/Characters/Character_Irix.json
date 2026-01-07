@@ -1,41 +1,49 @@
 {
   "name": "Irix",
-  "title": "",
-  "quote": "",
+  "title": "Continuity-Bearer of the Ashen Line",
+  "quote": "I am not lost. I am just very hard to keep.",
   "appearance": {
-    "age": "16 by demon years",
-    "height": "",
-    "build": "",
-    "hair": "",
-    "facial_hair": "",
-    "eyes": "",
-    "skin": "",
-    "scent": "Slight Sulphur and charcole with heat",
-    "posture": "Controlled, contained, alert; moves with deliberate economy and constant awareness of exits.",
-    "relationship": "",
-    "race": "Demon",
-    "siblings": {
-      "None": ""
+    "age": {
+      "Visual": "16",
+      "Actual": "Unknown (suspected decades to centuries)"
     },
-    "tails": "1"
+    "height": "160 cm",
+    "build": "Slim, lightweight, compact; built for agility and endurance rather than strength",
+    "hair": "Dark ash-brown to black, straight, usually worn loose or partially tied to keep clear of horns",
+    "facial_hair": "None",
+    "eyes": "Deep ember-gold with low-light adaptation; reflective under stress or heightened awareness",
+    "skin": "Warm umber with subtle heat undertones; unblemished, resilient",
+    "scent": "Slight sulphur and charcoal with residual heat",
+    "posture": "Controlled, contained, alert; moves with deliberate economy and constant awareness of exits.",
+    "relationship": {
+      "Kestrel": "Friend",
+      "Jayson": "Friend"
+    },
+    "race": "Ashen Serathi (Noble Continuity Lineage)",
+    "siblings": {
+      "None": "Only known surviving bearer of her direct line"
+    },
+    "tails": "1 (straight, flexible, non-barbed)",
+    "wings": "Bat-like, demonic in structure; folded tightly against the back, usually concealed beneath clothing",
+    "legs": "Digitigrade with feline-pawed feet; adapted for silent movement and balance"
   },
   "reactions": {
-    "wind": "",
-    "water": "",
-    "sound": "Highly attentive; catalogues sound patterns rather than reacting emotionally.",
-    "temperature": ""
+    "wind": "Instinctively angles wings and stance to avoid revealing silhouette",
+    "water": "Cautious; avoids submersion when possible due to wing sensitivity",
+    "sound": "Highly attentive; catalogues sound patterns rather than reacting emotionally",
+    "temperature": "Heat-tolerant; cold increases muscle tension and vigilance"
   },
   "speech": {
-    "voice": "Quiet, controlled, precise.",
-    "vocabulary": "Careful, economical, avoids unnecessary detail.",
-    "pacing": "Measured; pauses to choose words deliberately.",
-    "accent": "",
+    "voice": "Quiet, controlled, precise",
+    "vocabulary": "Careful, economical, avoids unnecessary detail",
+    "pacing": "Measured; pauses to choose words deliberately",
+    "accent": "Neutral Eryndor trade accent, intentionally flattened",
     "habits": [
       "Keeps voice low in public spaces",
       "Avoids volunteering personal details",
       "Uses brevity as a defensive habit"
     ],
-    "growth": ""
+    "growth": "Beginning to allow humor and mild sarcasm in safe company"
   },
   "emotional": {
     "core_traits": [
@@ -45,23 +53,28 @@
     ],
     "beneath": [
       "Genuine kindness",
-      "Strong internal moral compass"
+      "Strong internal moral compass",
+      "Protective instinct toward non-combatants"
     ],
     "triggers": [
       "Being cornered or exposed",
-      "People who pry without consent"
+      "People who pry without consent",
+      "Being treated as an object or key"
     ],
     "vulnerabilities": [
       "Fear of being known too well",
-      "Long-term isolation"
+      "Long-term isolation",
+      "Internalized belief that attention equals danger"
     ],
     "affection_tells": [
       "Stays instead of fleeing",
-      "Listens more than she speaks"
+      "Listens more than she speaks",
+      "Allows physical proximity without retreat"
     ],
     "growth": [
       "Beginning to trust selectively",
-      "Learning to exist without constant concealment"
+      "Learning to exist without constant concealment",
+      "Accepting protection without viewing it as weakness"
     ]
   },
   "social": {
@@ -70,39 +83,67 @@
       "Strategic",
       "Emotionally guarded"
     ],
-    "with_others": [
-      "Quietly observant",
-      "Careful but honest when trust is offered",
-      "Responds well to clear boundaries"
-    ]
+    "with_others": {
+      "Jayson": [
+        "Tolerates intense curiosity when it is paired with genuine protection rather than control",
+        "Allows close physical proximity without withdrawal, including contact involving wings and horns",
+        "Responds to humor and teasing as grounding, even during emotional distress",
+        "Accepts his role as a shield without interpreting it as ownership",
+        "Listens closely to his moral framing and adjusts her own risk calculations accordingly",
+        "Relaxes vigilance when he is actively present, trusting his awareness to cover blind spots"
+      ],
+      "Kestrel": [
+        "Responds positively to Kestrel’s calm, disciplined leadership",
+        "Feels safer with Kestrel’s predictability and clear boundaries",
+        "Accepts reassurance more readily when it is delivered quietly rather than emotionally",
+        "Mirrors Kestrel’s composure in high-stress situations",
+        "Treats Kestrel as a stabilizing constant rather than a source of interrogation"
+      ]
+    }
+
   },
   "values": {
     "values": [
       "Autonomy",
       "Mutual respect",
-      "Informed consent"
+      "Informed consent",
+      "Choice over destiny"
     ],
     "fears": [
       "Being forcibly categorized",
-      "Losing the ability to choose her own identity"
+      "Losing the ability to choose her own identity",
+      "Becoming a tool rather than a person"
     ],
     "strengths": [
       "Situational awareness",
       "Emotional restraint",
-      "Reading people accurately"
+      "Reading people accurately",
+      "Endurance under pressure"
     ],
     "weaknesses": [
       "Over-cautiousness",
-      "Reluctance to rely on others"
+      "Reluctance to rely on others",
+      "Delayed emotional processing"
     ]
   },
   "combat": {
-    "titles": [ "" ],
-    "style": "Support-oriented; avoids point engagement and prioritizes positioning and survival.",
-    "weapons": [ "" ],
-    "magic": [ "" ],
+    "titles": [
+      "Continuity Anchor",
+      "Unbound Reference"
+    ],
+    "style": "Support-oriented; avoids point engagement and prioritizes positioning, escape vectors, and survival",
+    "weapons": [
+      "Light concealed blade",
+      "Environmental improvisation"
+    ],
+    "magic": [
+      "Passive continuity stabilization",
+      "Localized reality anchoring (unconscious)",
+      "Resistance to temporal and reset-based manipulation"
+    ],
     "recent": [
-      "Agreed to accompany Jayson and Kestrel into a C-rank dungeon in a support role"
+      "Accompanied Jayson and Kestrel into Grey-moss Depths as support",
+      "Targeted by professional assassins seeking extraction rather than termination"
     ]
   },
   "notable_scenes": [
@@ -113,23 +154,39 @@
         "Accepted an invitation to travel with the party under clear terms",
         "Bonded cautiously with Kestrel over shared values of restraint and safety"
       ]
+    },
+    {
+      "chapter6": [
+        "Was publicly defended by Jayson during a hostage attempt by a B-rank rogue",
+        "Granted agency over the fate of slavers who targeted her and chose mercy despite personal risk",
+        "Registered with the Guild under her true noble lineage",
+        "Targeted in a coordinated assassination attempt involving high-tier operatives",
+        "Endured capture and restraint without breaking",
+        "Allowed emotional collapse only after safety was secured",
+        "Accepted protection without surrendering autonomy"
+      ]
     }
   ],
   "character_data": {
+    "level": "unknown",
+    "status": "unknown",
     "inventory": {
       "items": [
-        "Mask (concealing, symbolic)",
-        ""
+        "Okami Mask without the ears (concealing, symbolic)",
+        "Long coat modified to hide wings",
+        "Personal token from her lineage (kept hidden)"
       ]
     }
   },
   "future": {
-    "symbol": "",
-    "role": "Support ally and anomaly-adjacent observer",
+    "symbol": "A closed circle of ash holding a steady ember",
+    "role": "Support ally, continuity anchor, and stabilizing presence",
     "arc": "From concealment toward selective truth",
     "hesitation": "Fear of what full disclosure would cost",
-    "legacy": [],
-    "reminder": "Not everything hidden is dangerous�some things are hidden to survive."
+    "legacy": [
+      "Proof that survival does not require surrendering identity"
+    ],
+    "reminder": "Not everything hidden is dangerous—some things are hidden to survive."
   },
-  "final_note": "Irix is defined less by what she is than by what she refuses to let others decide for her."
+  "final_note": "Irix is defined less by what she is than by the fact that she insists on choosing for herself—and survives every attempt to deny her that right."
 }

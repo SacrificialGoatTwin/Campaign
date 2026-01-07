@@ -1,0 +1,534 @@
+﻿🏘️ HARROWFEN — ROOFTOPS ABOVE THE RIVERWARD | ☁️ OVERCAST | 🕓 LATE AFTERNOON, 16:47
+Scene Title: Cutting the Line
+Roof tiles sweat with river damp; chimneys breathe old smoke. The city opens vertically here—rails, ledges, and bad decisions stacked tight.
+
+📝 You glance back and gesture—clean, practiced.
+
+📝 Kestrel keeps her position without question, pace adjusting to cover below.
+
+📝 You explode upward—boots to wall, hand to railing, tail snapping for balance—then you’re on the roofs, momentum carrying you across uneven tiles.
+
+📝 The scent spikes—incense burned wrong, ozone sharp—close.
+
+📝 You sprint, then drop—
+
+📝 —landing squarely in front of the fleeing shape as it skids to a halt.
+
+🧥 UNKNOWN FIGURE | startled [⚠️]
+
+📝 Robes snap in the wind. A half-mask turns too late. Whatever magic was thinning the air around them stutters—pressure collapsing like a held breath released.
+
+💬 “—Ah.”
+
+📝 They freeze, calculating exits that aren’t there anymore.
+
+🛡️ KESTREL | arriving [🛡️]
+
+📝 From below, boots thunder up the last rail and she comes into view at the edge of the roofline—angle covered, distance measured, blade still sheathed but decided.
+
+💬 “End of the path.”
+
+RANDOM TURN — Difficulty 10
+
+📝 The robed figure’s sleeve flares—not a spell, a trigger. The air tightens for half a second, like a net about to snap shut.
+
+📝 The tiles beneath your feet vibrate—resonance, not force.
+
+📝 Somewhere deeper in the city, something not a Watcher stirs—attention brushing the moment and then pulling back.
+
+📝 The figure hesitates.
+
+📝 They didn’t expect you to take the high line.
+
+📝 And now they have to decide—
+📝 talk, run, or break something they can’t unbreak.
+
+TAGS: [000091]
+
+🏘️ HARROWFEN — ROOFTOPS ABOVE THE RIVERWARD | ☁️ OVERCAST | 🕓 LATE AFTERNOON, 16:48
+Scene Title: The Stone Test
+Wind slides along the tiles, carrying river-cold and chimney ash. The roof feels like a held breath—too quiet for a place this high.
+
+📝 You stop. You don’t advance.
+
+📝 You reach into your pocket and take out a stone—plain, palm-warm, nothing special at all.
+
+📝 You just stare at them, measuring.
+
+🧥 UNKNOWN FIGURE | unsettled [⚠️]
+
+📝 The half-mask tilts. Their eyes flick to the stone, then to your hands, then to the space behind you—counting threats that aren’t moving.
+
+💬 “You’re not going to throw that.”
+
+📝 A pause. The certainty drains a fraction.
+
+💬 “Are you?”
+
+📝 The sleeve that flared before stays perfectly still now. Whatever trigger they primed, they’re afraid to commit it.
+
+🛡️ KESTREL | ready [🛡️]
+
+📝 She holds her ground at the roof’s edge, weight centered, line of approach denied. One hand rests near her weapon—not drawing, just promising.
+
+💬 “He’s waiting.”
+
+💬 “That should worry you.”
+
+RANDOM TURN — Difficulty 10
+
+📝 The air tightens again—not a spell, not yet. The tiles hum once, then stop, like a tuning fork damped by a hand.
+
+📝 The robed figure swallows and makes a choice that costs them leverage.
+
+📝 They raise both hands—slowly.
+
+💬 “All right.”
+
+💬 “No running.”
+
+💬 “No toys.”
+
+📝 A thin cord slips from their sleeve and drops to the tiles with a soft clink—spent, harmless now.
+
+📝 Somewhere distant, the pressure you felt earlier withdraws—interest deferred.
+
+📝 The city watches, then looks away.
+
+📝 The stone remains in your hand.
+
+📝 Waiting to see if the truth does the talking.
+
+TAGS: [000092]
+
+🏘️ HARROWFEN — ROOFTOPS ABOVE THE RIVERWARD | ☁️ OVERCAST | 🕓 LATE AFTERNOON, 16:49
+Scene Title: Plain Questions, High Places
+The wind eases. Chimney smoke thins. The roof stops humming like it’s decided to behave.
+
+📝 You slip the stone back into your pocket, slow and deliberate, hands empty again.
+
+🦊 JAYSON | even [🦊]
+
+💬 “Do you mind telling me what you were doing in that warehouse?”
+
+🧥 UNKNOWN FIGURE | cautious [⚠️]
+
+📝 They lower their hands a fraction—not enough to relax, just enough to signal listening. The half-mask tips, considering how much honesty costs here.
+
+💬 “Observing.”
+
+💬 “Verifying.”
+
+📝 A breath, then a correction—more precise.
+
+💬 “Making sure the people inside didn’t make a mistake they couldn’t walk back from.”
+
+📝 Their eyes flick to Kestrel, then back to you—calculating the triangle.
+
+💬 “They don’t understand what they’re touching.”
+
+💬 “They think Watchers are a lever.”
+
+💬 “They’re wrong.”
+
+🛡️ KESTREL | sharp [🛡️]
+
+📝 She doesn’t move closer, doesn’t soften.
+
+💬 “That doesn’t explain why you were there.”
+
+🧥 UNKNOWN FIGURE | resigned [⚠️]
+
+📝 A pause—longer this time. When they speak again, the words come cleaner.
+
+💬 “Because if they pull too hard…”
+
+💬 “…someone like you shows up.”
+
+💬 “And then things stop being deniable.”
+
+📝 The wind tugs at their robe. They let it.
+
+💬 “I was there to make sure tonight stayed small.”
+
+RANDOM TURN — Difficulty 9
+
+📝 A bell rings far off—not an alarm, just time passing.
+
+📝 From below, voices drift up, unconcerned.
+
+📝 The unknown figure’s gaze sharpens on you, curious now instead of afraid.
+
+💬 “Question answered.”
+
+💬 “Your turn.”
+
+📝 The rooftop waits—high, exposed, honest.
+
+📝 Whatever comes next won’t be hidden behind sacks or rope.
+
+TAGS: [000093]
+
+🏘️ HARROWFEN — ROOFTOPS ABOVE THE RIVERWARD | ☁️ OVERCAST | 🕓 LATE AFTERNOON, 16:50
+Scene Title: Corrections Before Questions
+Wind combs the tiles in soft strokes. The city below resumes its ordinary rhythm, unaware it nearly mattered.
+
+📝 You stay where you are, posture open, voice even.
+
+🦊 JAYSON | dry [🦊]
+
+💬 “You’re not a very good observer.”
+
+💬 “I didn’t show up.”
+
+💬 “My partner and I were kidnapped by those men.”
+
+💬 “Granted… willingly.”
+
+💬 “But still not intentional.”
+
+📝 A pause—enough to reset the board.
+
+🦊 JAYSON | inviting [🦊]
+
+💬 “But fine.”
+
+💬 “My turn.”
+
+💬 “Ask.”
+
+🧥 UNKNOWN FIGURE | recalibrating [⚠️]
+
+📝 The half-mask dips. A breath is taken—measured, respectful now.
+
+💬 “Fair.”
+
+📝 They study you like a line of text that keeps changing when reread.
+
+💬 “What are you?”
+
+💬 “Not your titles.”
+
+💬 “Not your guild rank.”
+
+📝 The question tightens.
+
+💬 “When Watchers ignore you…”
+
+💬 “…and thresholds bend…”
+
+💬 “What are you underneath?”
+
+🛡️ KESTREL | anchored [🛡️]
+
+📝 She remains at the edge, silent, presence unmistakable—no pressure, no retreat.
+
+RANDOM TURN — Difficulty 8
+
+📝 A cloud shifts; light thins. For a heartbeat, the river reflects nothing—then the reflection returns.
+
+📝 The unknown figure notices and stills, waiting to see if the moment escalates.
+
+📝 Somewhere far off, a Watcher’s cadence doesn’t change.
+
+📝 The question hangs clean and dangerous.
+
+📝 Whatever answer comes next will travel farther than this roof.
+
+TAGS: [000094]
+
+🏘️ HARROWFEN — ROOFTOPS ABOVE THE RIVERWARD | ☁️ OVERCAST | 🕓 LATE AFTERNOON, 16:51
+Scene Title: Ordinary Answers to Dangerous Questions
+The wind shifts, tugging at loose tiles. Somewhere below, water slaps stone in a slow, patient rhythm. This roof feels honest—too exposed for myths.
+
+📝 You glance sideways to Kestrel first, brows knit.
+
+🦊 JAYSON | weary [🦊]
+
+💬 “Why do people keep asking me that?”
+
+📝 A breath out. Slow.
+
+🦊 JAYSON | flat [🦊]
+
+💬 “I’m a foxkin.”
+
+📝 You sigh, the sound scraped thin.
+
+🦊 JAYSON | corrective [🦊]
+
+💬 “Watchers don’t ignore me.”
+
+💬 “They attack me.”
+
+📝 Your ears angle back, irritated more than threatened.
+
+🦊 JAYSON | explanatory [🦊]
+
+💬 “I don’t know where people get this idea that those… things… ignore me.”
+
+💬 “When I talk, they listen.”
+
+💬 “And I’m almost certain if anyone else spoke, they’d listen too.”
+
+📝 A small shake of your head.
+
+🦊 JAYSON | dismissive [🦊]
+
+💬 “But no one bothers trying.”
+
+💬 “They see a Watcher and they either run…”
+
+💬 “…or they fight.”
+
+📝 You pause, eyes drifting to the river’s dark line.
+
+🦊 JAYSON | grounded [🦊]
+
+💬 “And that threshold?”
+
+💬 “Nothing special.”
+
+💬 “I just figured out how it works.”
+
+📝 Your shoulders lift, then settle.
+
+🦊 JAYSON | matter-of-fact [🦊]
+
+💬 “Anyone could.”
+
+💬 “The fact people get caught in them proves it.”
+
+💬 “Most just don’t try.”
+
+🧥 UNKNOWN FIGURE | unsettled [⚠️]
+
+📝 They don’t interrupt. They don’t scoff. The half-mask tilts—not disbelief, but recalculation.
+
+💬 “You make it sound… mundane.”
+
+📝 A dry exhale.
+
+💬 “That’s worse.”
+
+🛡️ KESTREL | firm [🛡️]
+
+📝 She finally speaks, voice steady, unembellished.
+
+💬 “He doesn’t chase myths.”
+
+💬 “He solves problems.”
+
+📝 Her eyes stay on the robed figure—challenging them to argue with results.
+
+RANDOM TURN — Difficulty 9
+
+📝 The wind drops suddenly, as if listening too closely.
+
+📝 The unknown figure’s shoulders ease—just a fraction—like someone realizing the monster isn’t dramatic enough to bargain with.
+
+💬 “Then you’re more dangerous than you think.”
+
+📝 The city below continues—unaware, unimpressed.
+
+📝 And somewhere far away, something that measures thresholds logs a quiet note:
+
+📝 Subject exhibits pattern-recognition without reverence.
+
+📝 That observation will matter later.
+
+TAGS: [000095]
+
+🏘️ HARROWFEN — ROOFTOPS ABOVE THE RIVERWARD | ☁️ OVERCAST | 🕓 LATE AFTERNOON, 16:53
+Scene Title: Names Cost More Than Myths
+The roof creaks once as you shift your weight. Somewhere below, someone laughs—ordinary, distant, blissfully uninvolved. The wind brings river-damp and chimney ash, nothing mystical about it.
+
+📝 You shrug, unbothered.
+
+🦊 JAYSON | blunt [🦊]
+
+💬 “There’s no denying I’m dangerous.”
+
+💬 “Just not in the ways people see.”
+
+🦊 JAYSON | dismissive [🦊]
+
+💬 “All this?”
+
+💬 “It’s mundane.”
+
+🦊 JAYSON | dry [🦊]
+
+💬 “When you water a flower and it grows, you don’t scream ‘magic.’”
+
+💬 “You figure out why.”
+
+💬 “You added water.”
+
+📝 A beat. Your ears tilt, irritation sharpened into clarity.
+
+🦊 JAYSON | sarcastic [🦊]
+
+💬 “Oh look.”
+
+💬 “Someone touched a shiny thing and now they’re getting eaten by a Watcher.”
+
+💬 “Oh look.”
+
+💬 “No one touched it and no one’s getting eaten.”
+
+📝 You sigh.
+
+🦊 JAYSON | exasperated [🦊]
+
+💬 “So either everyone on this continent is an absolute fucking moron…”
+
+💬 “…or they just don’t give a shit.”
+
+📝 You lift your chin, eyes steady on the robed figure.
+
+🦊 JAYSON | direct [🦊]
+
+💬 “Now—my turn.”
+
+💬 “Who are you?”
+
+💬 “And what’s with the mask?”
+
+🧥 MASKED FIGURE | measured [⚠️]
+
+📝 They don’t answer right away. One gloved hand rises, thumb tracing the mask’s edge like a habit worn smooth.
+
+💬 “Because faces become stories.”
+
+💬 “Stories become leverage.”
+
+📝 The mask comes off—slowly, deliberately—and is tucked into their sleeve.
+
+📝 Not monstrous. Not ancient. Just a person: sharp eyes, tired lines, someone who’s learned to live between ledgers and secrets.
+
+💬 “Name won’t help you.”
+
+💬 “But you can call me Irix.”
+
+📝 A pause—then the truth, clean and unadorned.
+
+💬 “I don’t work for them.”
+
+💬 “I watch the people who think they do.”
+
+📝 Their gaze flicks toward the river, then back to you.
+
+💬 “I wear the mask so I can stand close to dangerous ideas…”
+
+💬 “…and walk away when they explode.”
+
+🛡️ KESTREL | assessing [🛡️]
+
+📝 She studies Irix’s face now—reading posture, breath, the way lies don’t sit.
+
+💬 “You’re not a believer.”
+
+🧥 IRIX | faint-smile [⚠️]
+
+💬 “Belief is lazy.”
+
+💬 “I prefer patterns.”
+
+RANDOM TURN — Difficulty 9
+
+📝 A ripple passes the rooftops—not pressure, not attention—relief. Like something decided this conversation wasn’t worth interrupting.
+
+📝 From far upriver, a Watcher’s cadence changes—just enough to log and move on.
+
+📝 Irix notices it. So do you.
+
+💬 “See?” Irix says quietly.
+
+💬 “Mundane.”
+
+📝 The city resumes pretending nothing important happened.
+
+📝 But a name has been spoken.
+📝 A mask has come off.
+📝 And paths that were parallel have finally acknowledged each other.
+
+TAGS: [000096]
+
+🏘️ HARROWFEN — ROOFTOPS ABOVE THE RIVERWARD | ☁️ OVERCAST | 🕓 LATE AFTERNOON, 16:55
+Scene Title: The Weight of a Name
+The city exhales again—distant bells, river hush, the scrape of boots somewhere far below. The roof feels steadier now, like it’s decided this conversation can exist.
+
+📝 You tilt your head, studying the name like it’s a texture.
+
+🦊 JAYSON | curious [🦊]
+
+💬 “Irix?”
+
+💬 “Very unique.”
+
+💬 “Very… not human.”
+
+📝 Your eyes lift to their face, then to where the hood once shadowed it.
+
+🦊 JAYSON | probing [🦊]
+
+💬 “Are you human under that hood of yours?”
+
+📝 You extend your hand—open, patient.
+
+🦊 JAYSON | polite [🦊]
+
+💬 “And can I see that mask, please?”
+
+🧥 IRIX | cautious-honest [⚠️]
+
+📝 Irix studies your hand for a long second—measuring intent, not threat. Then they nod once.
+
+💬 “Human.”
+
+💬 “Unfortunately.”
+
+📝 A flicker of dry humor, gone as fast as it came.
+
+📝 They reach into their sleeve and place the mask into your open palm—lightweight, warmer than expected. Its surface isn’t ornate; it’s functional: fine etchings along the inside edge, hairline fractures like stress-maps, not decoration.
+
+💬 “It dampens attention.”
+
+💬 “Not magic.”
+
+💬 “More like… refusal.”
+
+📝 Their eyes stay on the mask, not on you.
+
+💬 “It tells certain systems I’m not worth indexing.”
+
+🛡️ KESTREL | wary-curious [🛡️]
+
+📝 She leans a fraction closer, gaze flicking between the mask and Irix’s face.
+
+💬 “That kind of thing doesn’t come cheap.”
+
+🧥 IRIX | plain [⚠️]
+
+💬 “No.”
+
+💬 “It comes with debts.”
+
+RANDOM TURN — Difficulty 7
+
+📝 The mask thrums once in your hand—not power, but absence—like static cancelling itself out.
+
+📝 For a heartbeat, the river’s reflection blurs again—then stabilizes.
+
+📝 Irix notices your reaction and lets out a breath they didn’t know they were holding.
+
+💬 “Careful.”
+
+💬 “It doesn’t like being noticed.”
+
+📝 The city moves on.
+
+📝 But the thing in your hand very clearly prefers that it hadn’t been.
+
+TAGS: [000097]

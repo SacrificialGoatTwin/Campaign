@@ -1,0 +1,803 @@
+﻿🛣️ "HARROWFEN SOUTH ROAD — HEDGE BEND" | 🌬️ "WINDY" | 🌤️ "MORNING, 09:12" | 📅 "25/04/1427"
+Scene Title: Call Them Out
+Dust hangs where the road tightens, hedges breathing like a held crowd. Sap-smoke still ghosts the air. The bend ahead is quiet in the way a fist is quiet before it closes.
+🦊 Jayson | "impatient" [🦊]
+
+💬 “Oi, buffalo—stop grazing in the bushes. If you’ve got issues, come out and face them. I’ve got things to do.”
+
+📝 You stop dead in the road, stance loose, voice carrying without strain.
+
+🛡️ Kestrel | "authoritative" [🛡️]
+
+💬 “Last chance to make this simple.”
+
+📝 Kestrel holds her ground beside you, shield set—not threatening, just inevitable.
+
+🎭 Irix | "cold" [🎭]
+
+💬 “You’re not hidden. You’re just late.”
+
+📝 Irix angles a half-step, eyes pinning the left hedge, then the right.
+
+⚔️ B-Rank Warrior | "bristling" [⚔️]
+
+💬 “Watch your mouth.”
+
+📝 He pushes through the brush, plate scraping thorns. Two mages follow—one already flaring with half-reined mana—while a rogue peels wider, confidence fraying at the edges. A healer lingers a pace back, jaw tight.
+
+🌑 RANDOM TURN — Public Mistake | Difficulty 8
+
+📝 A ripple passes the hedge-line as the Watcher’s distant attention brushes the scene—no movement, no sound, just a pressure like a ruler laid across the moment. The mages falter mid-gesture, spells stuttering out of sync. The rogue’s step misjudges by a handspan.
+
+📝 For an instant, everyone feels seen.
+
+The B-ranks do not like it.
+They react anyway.
+
+🛡️ Kestrel | "final" [🛡️]
+
+💬 “You’re interfering with a claimed route. Walk away—or answer for it.”
+
+📝 She doesn’t advance. She waits, letting their next choice be unmistakably theirs.
+
+The road is clear.
+So is the decision.
+
+TAGS: [000010]
+
+🛣️ "HARROWFEN SOUTH ROAD — HEDGE BEND" | 🌬️ "WINDY" | 🌤️ "MORNING, 09:18" | 📅 "25/04/1427"
+Scene Title: Wrong Position
+The bend tightens like a throat clearing itself. Dust motes hang, undecided. Thorns creak. Somewhere far off, a crow stops mid-complaint. The light feels skewed—angles not quite agreeing on where center is.
+🦊 Jayson | "playful" [🦊]
+
+💬 “Sorry. I can’t watch my mouth—wrong position.”
+
+📝 You squint, eyes narrowing, crossing, then drift a slow, lazy circle that doesn’t quite match the road’s geometry. It’s just enough to break cadence—enough to make counting hard.
+
+📝 Your hand lifts subtly toward the girls. Let me handle it.
+
+⚔️ B-Rank Warrior | "irritated" [⚔️]
+
+💬 “Stop—what are you doing?”
+
+📝 He shifts his feet, losing his line without realizing why. The rogue hesitates, then overcorrects.
+
+🔮 B-Rank Mage (Left) | "confused" [🔮]
+
+💬 “Focus—hold your mark.”
+
+📝 Mana flickers as his eyes try to track you and fail to settle.
+
+🛡️ Kestrel | "contained" [🛡️]
+
+📝 Kestrel stills at your signal, shield steady, presence firm—no interference, no escalation.
+
+🎭 Irix | "measuring" [🎭]
+
+📝 Irix watches the gaps widen, head tilted a fraction, cataloging who’s already off-balance.
+
+🌑 RANDOM TURN — Perceptual Slip | Difficulty 7
+
+📝 The road skips. Not sound—sense. For half a heartbeat, distances lie. The warrior’s weight commits where the ground isn’t; the rogue’s shadow arrives a step late. A mage’s cantrip sputters as his sigil forms backward, collapsing into harmless sparks.
+
+📝 No spell hits. No blade swings.
+
+They just… lose the count.
+
+⚔️ B-Rank Warrior | "angry" [⚔️]
+
+💬 “Enough games.”
+
+📝 He squares up again, breath quick, confidence patched together from noise and habit.
+
+The space between you hums—thin, taut, waiting to be plucked.
+They’re ready to make a mistake.
+They just haven’t agreed which one yet.
+
+TAGS: [000011]
+
+🛣️ "HARROWFEN SOUTH ROAD — HEDGE BEND" | 🌬️ "WINDY" | 🌤️ "MORNING, 09:24" | 📅 "25/04/1427"
+Scene Title: Ask Nicely
+The air tightens, not with silence but with anticipation. Dust lifts in small spirals around boots that don’t quite trust the ground anymore. Mana residue prickles the skin—unfinished shapes, aborted intent—like sparks waiting for tinder. The hedges lean in, eager spectators.
+🦊 Jayson | "thrilled" [🦊]
+
+💬 “Ooo, are you about to use magic?”
+
+📝 You shiver, eyes bright, pupils blown wide with genuine excitement as you lock onto the mage.
+
+💬 “Well, come on… let’s see.”
+
+📝 You drop into a crouch on your haunches, balanced and patient, like someone waiting for a trick they really want to like.
+
+💬 “Is it fire? Please say it’s fire!”
+
+📝 You lean forward just a little, hands loose, expectant.
+
+🔮 B-Rank Mage (Left) | "rattled" [🔮]
+
+💬 “Don’t—don’t mock me.”
+
+📝 His spell-circle flares too fast, lines overdrawn, mana bleeding at the edges as he forces it to obey him.
+
+🔮 B-Rank Mage (Right) | "panicked" [🔮]
+
+💬 “Just cast! Cast it now!”
+
+📝 He raises his staff half a beat late, scrambling to mirror a pattern he doesn’t fully understand.
+
+⚔️ B-Rank Warrior | "alarmed" [⚔️]
+
+💬 “Mage—wait, something’s—”
+
+📝 He takes a step back despite himself, eyes flicking between you and the unstable glow building behind his flank.
+
+🛡️ Kestrel | "tense" [🛡️]
+
+📝 Kestrel does not move. Shield steady. Jaw tight. She’s trusting your signal—and the line you’re walking.
+
+🎭 Irix | "intent" [🎭]
+
+📝 Irix’s gaze sharpens to a point, fully committed now. Whatever happens next, she’s already tracking how it fails.
+
+🌑 RANDOM TURN — Spell Instability | Difficulty 9
+
+📝 Mana surges—too much. The left mage’s sigil snaps into a fire matrix, but the alignment is wrong, skewed by stress and the earlier perceptual slip. Flame does answer… just not where he aimed.
+
+📝 Fire blossoms sideways instead of forward—an explosive gout that scorches hedge and dirt in a blinding rush of heat. Thorns ignite. Sap pops. The shockwave slams dust into the air and forces the B-rank line to stagger apart.
+
+📝 No one is hit.
+
+But the spell is spent.
+And the road is now on fire.
+
+🔮 B-Rank Mage (Left) | "horrified" [🔮]
+
+💬 “I—I didn’t—”
+
+📝 His hands shake, spell-focus dimming as the reality of what almost happened crashes in.
+
+⚔️ B-Rank Warrior | "furious" [⚔️]
+
+💬 “You idiot!”
+
+📝 He wheels on the mage instead of you—formation fully broken now.
+
+Flames crackle in the hedge.
+Smoke coils upward, visible for leagues.
+
+And somewhere—far above ironwood gates and petty pride—
+attention sharpens.
+
+TAGS: [000012]
+
+🛣️ "HARROWFEN SOUTH ROAD — BURNING HEDGE" | 🌬️ "WINDY" | 🌤️ "MORNING, 09:29" | 📅 "25/04/1427"
+Scene Title: Shiny Things
+Heat ripples across the road as hedge-fire crackles and spits, smoke lifting in dark ribbons that smear the sky. Burnt sap stings the nose. Ash drifts lazily, settling on boots and armor alike. The road is no longer pretending to be neutral—it has chosen spectacle.
+🦊 Jayson | "elated" [🦊]
+
+💬 “Look, look, look—an actual fireball. That was fucking amazing.”
+
+📝 You elbow Kestrel lightly—once, twice—unable to keep the energy contained, eyes locked on the scorched earth like it just performed a miracle.
+
+💬 “Your turn.”
+
+📝 You pivot your attention to the other mage, grin sharp and delighted.
+
+💬 “Water, perhaps?”
+
+📝 Your eyes gleam—wide, bright, feral-curious—like a cat that’s just discovered something shiny and refuses to look away.
+
+🛡️ Kestrel | "strained" [🛡️]
+
+💬 “You’re enjoying this far too much.”
+
+📝 She absorbs the elbows without comment, shield still angled, stance firm—trust held by discipline, not comfort.
+
+🔮 B-Rank Mage (Right) | "terrified" [🔮]
+
+💬 “I—I don’t have water—”
+
+📝 His words trip over each other as his staff jerks up defensively, mana sputtering around his hands without forming.
+
+⚔️ B-Rank Warrior | "desperate" [⚔️]
+
+💬 “Cast something!”
+
+📝 He snaps the order like it’ll glue the moment back together. It doesn’t.
+
+🎭 Irix | "razor-focused" [🎭]
+
+📝 Irix’s gaze flicks from the burning hedge to the mage’s hands—tracking tremor, breath, micro-failure. She’s already marked how this ends.
+
+🌑 RANDOM TURN — Elemental Backwash | Difficulty 9
+
+📝 The second mage panics and forces a counterflow—mana dragged hard from the air to quench rather than shape. Moisture rips free in a violent surge, flash-condensing into a burst of scalding steam that slams into the fireline.
+
+📝 Flames die with a furious hiss. Steam explodes outward, blinding and choking, soaking cloaks and armor. Visibility drops to arm’s length. The road slicks instantly, mud and ash turning treacherous underfoot.
+
+📝 Someone slips.
+Someone swears.
+No one can see who’s where anymore.
+
+🔮 B-Rank Mage (Right) | "panicked" [🔮]
+
+💬 “I—I did it! I stopped it!”
+
+📝 His voice cracks, lost in the steam, triumph curdling into fear as the consequences land.
+
+🛡️ Kestrel | "commanding" [🛡️]
+
+💬 “Hold!”
+
+📝 Her voice cuts through the hiss like a blade, anchoring the space even as sight fails.
+
+Ash rains down.
+Steam coils thick.
+Formations are gone.
+
+And in the chaos, the B-ranks finally understand:
+
+They didn’t bring a fight to the road.
+They brought a show to someone who loves shows.
+
+TAGS: [000013]
+
+🛣️ "HARROWFEN SOUTH ROAD — STEAMED BEND" | 🌬️ "WINDY" | 🌤️ "MORNING, 09:35" | 📅 "25/04/1427"
+Scene Title: Ask the Muscle
+Steam thins in ragged curtains, revealing scorched hedge-stumps and mud slicked black with ash. Heat still breathes from the ground. The road smells of wet iron and burned sap. Shapes re-form out of the haze—too close, too tense—like a stage resetting mid-act.
+🦊 Jayson | "delighted" [🦊]
+
+💬 “Sooo cool.”
+
+📝 The sound slips out of you, small and bright, like it surprised even you.
+
+💬 “What about you, big boy… what tricks do you have?”
+
+📝 Your attention snaps to the warrior, head tilting with unabashed curiosity.
+
+⚔️ B-Rank Warrior | "humiliated" [⚔️]
+
+💬 “Enough.”
+
+📝 He plants his feet hard, dragging his blade free with a scrape meant to sound confident. It doesn’t. Steam beads on the metal; his grip readjusts twice.
+
+🛡️ Kestrel | "iron" [🛡️]
+
+💬 “Sheath it.”
+
+📝 Kestrel’s tone is flat and final, shield still low—authority without volume.
+
+🎭 Irix | "predatory" [🎭]
+
+📝 Irix shifts a fraction to the side, just enough to close the rogue’s best lane without looking like she did anything at all.
+
+🌑 RANDOM TURN — Martial Misstep | Difficulty 8
+
+📝 The warrior lunges anyway—anger overriding sense. His first step skids on wet ash, heel sliding where the road slicked. The swing comes half a beat late and wide, blade cutting steam instead of space.
+
+📝 The rogue, mistiming the moment, commits at the same time—then aborts, colliding shoulder-first into the warrior’s back. Both stumble, formation collapsing into a knot of armor and curses.
+
+📝 No strike lands.
+Pride does.
+
+⚔️ B-Rank Healer | "alarmed" [⚔️]
+
+💬 “Stop! You’re making it worse!”
+
+📝 She raises a hand, light gathering uncertainly, torn between patching bruises and patching egos.
+
+🛡️ Kestrel | "unyielding" [🛡️]
+
+💬 “Weapons down. Now.”
+
+📝 She steps forward one pace—just one—claiming the space they failed to hold.
+
+The steam finally clears.
+
+Five B-ranks stand exposed, tangled by their own choices.
+The road watches—quiet again, but not done.
+
+TAGS: [000014]
+
+🛣️ "HARROWFEN SOUTH ROAD — STEAMED BEND" | 🌬️ "WINDY" | 🌤️ "MORNING, 09:41" | 📅 "25/04/1427"
+Scene Title: Terms and Taunts
+The steam finally thins to tatters, leaving scorched hedge-stubs and wet ash underfoot. Mud sucks softly at boots. Heat bleeds away, replaced by a prickling chill that crawls up armor seams. The road feels like a ring now—improvised, uneven, but unmistakably claimed.
+🦊 Jayson | "amused" [🦊]
+
+💬 “Wait, wait… this is amusing.”
+
+💬 “You’re B-ranked dungeon explorers and you’re this discoordinated.”
+
+💬 “Discoordinated? Uncoordinated? I don’t know… one of those words.”
+
+📝 You remain down on your haunches, laughing openly, the sound light and unbothered.
+
+💬 “Okay, okay. Tell you what—because you’re clearly very angry people…”
+
+📝 You tilt your head, considering them like a puzzle that isn’t very challenging.
+
+💬 “I think he’s compensating.”
+
+📝 You flick a subtle gesture toward the healer, then pinch your pinky in the air with exaggerated delicacy.
+
+💬 “I’ll give you a moment to gather yourselves. Then we do this officially. No blind stumbles.”
+
+💬 “A friendly one versus five.”
+
+📝 You settle back into your crouch, patient—almost courteous.
+
+🛡️ Kestrel | "restrained" [🛡️]
+
+📝 At your signal, Kestrel stills—shield lowering a fraction, jaw tight, but she holds position without a word.
+
+🎭 Irix | "calculating" [🎭]
+
+📝 Irix drifts half a step wider, eyes never leaving the rogue, posture loose in a way that promises speed.
+
+⚔️ B-Rank Warrior | "seething" [⚔️]
+
+💬 “You think this is funny?”
+
+📝 His grip tightens until the leather creaks, knuckles whitening as he forces his feet apart to regain balance.
+
+🔮 B-Rank Mage (Left) | "shaken" [🔮]
+
+💬 “He’s stalling…”
+
+📝 Mana flickers weakly around his hands, uncertain, waiting for someone else to decide first.
+
+⚔️ B-Rank Healer | "mortified" [⚔️]
+
+💬 “Just—get it together!”
+
+📝 She snaps at her own party, cheeks flushed, light guttering out as she drops her casting hand.
+
+🌑 RANDOM TURN — Fractured Nerves | Difficulty 8
+
+📝 The pause stretches—and in it, nerves snap unevenly. The rogue takes one step too many to the left, trying to widen space. The warrior mirrors right at the same time. The mages hesitate, unsure which line to reform on.
+
+📝 For a full breath, no one shares the same plan.
+
+📝 The imbalance settles in like rot.
+
+They’ve been given time.
+They don’t know how to use it.
+
+The road waits.
+So do you.
+
+TAGS: [000015]
+
+🛣️ "HARROWFEN SOUTH ROAD — STEAMED BEND" | 🌬️ "WINDY" | 🌤️ "MORNING, 09:47" | 📅 "25/04/1427"
+Scene Title: Ready When You Are
+Smoke thins to a faint veil, the last hedge-embers ticking as they die. Wet ash gleams like spilled ink across the road. The wind noses at cloaks, curious, as if trying to decide whose side it’s on. The space between bodies feels measured now—no accidents left to hide behind.
+🦊 Jayson | "exultant" [🦊]
+
+💬 “Funny? This is absolutely fucking amazing.”
+
+💬 “Stalling? I haven’t moved. You’re the ones crashing into each other and setting trees on fire.”
+
+💬 “Which was amazing, by the way.”
+
+💬 “You clearly have some rage and hate built up for gods-know-what reason. So—come on. Organise your party, and let me know when you’re ready.”
+
+📝 You smile, unhurried, still low on your haunches—hands loose, posture patient, as if granting a courtesy instead of a challenge.
+
+🛡️ Kestrel | "controlled" [🛡️]
+
+📝 Kestrel remains silent at your hush, shield angled down. She shifts one foot to anchor the lane, claiming space without escalating.
+
+🎭 Irix | "composed" [🎭]
+
+📝 Irix adjusts by a finger’s breadth, closing a line the rogue keeps glancing toward—subtle, final.
+
+🔮 B-Rank Mage (Left) | "defensive" [🔮]
+
+💬 “You’re provoking us.”
+
+📝 His staff lifts, then lowers again. Mana sputters, unsure whether to answer.
+
+⚔️ B-Rank Warrior | "boiling" [⚔️]
+
+💬 “Form up!”
+
+📝 He barks the order like it will fix the moment. It doesn’t—but it forces movement.
+
+⚔️ B-Rank Healer | "tight-lipped" [⚔️]
+
+💬 “Lines. Now.”
+
+📝 She steps where a leader should have been earlier, hands steadying as she pulls her people into something resembling order.
+
+🌑 RANDOM TURN — Faulty Formation | Difficulty 8
+
+📝 They try. The warrior takes center; the mages split; the rogue floats wide; the healer tucks back. It almost works—until the wind shifts again and the road’s slick remembers the steam.
+
+📝 One mage plants too shallow. The rogue overcompensates. The healer hesitates between two cover points.
+
+📝 The formation holds—barely—but its seams are loud.
+
+They’re “ready.”
+And they know it isn’t enough.
+
+The road falls quiet again, expectant.
+All eyes return to you.
+
+TAGS: [000016]
+
+🛣️ "HARROWFEN SOUTH ROAD — STEAMED BEND" | 🌬️ "WINDY" | 🌤️ "MORNING, 09:53" | 📅 "25/04/1427"
+Scene Title: Conditions of Engagement
+The road has settled into a strange stillness—steam gone, fire dead, ash cooling into dark paste beneath boots. The hedges stand ruined and quiet, their shadows jagged. Wind moves again, cautious, as if it learned something and doesn’t want to repeat it. Every sound now feels deliberate.
+🦊 Jayson | "gleeful" [🦊]
+
+💬 “Provoking? No, no, no—you followed us.”
+
+💬 “But come now…”
+
+📝 You tilt your head, eyes flicking across the line they’ve tried to rebuild.
+
+💬 “Let me know when you’re ready.”
+
+💬 “But—I want magic thrown at me.”
+
+💬 “That shit is really cool.”
+
+📝 You stay low on your haunches, perfectly balanced, grin unashamed—like you’re asking for a demonstration, not a fight.
+
+🛡️ Kestrel | "unyielding" [🛡️]
+
+📝 Kestrel exhales once through her nose, silent, shield steady. She doesn’t intervene. She doesn’t warn them again.
+
+🎭 Irix | "intent" [🎭]
+
+📝 Irix’s posture sharpens—not aggressive, just precise. Her eyes lock on the mage’s hands, already predicting failure points.
+
+🔮 B-Rank Mage (Left) | "incensed" [🔮]
+
+💬 “He thinks we’re a joke.”
+
+📝 His fingers tighten on the staff, knuckles pale, mana beginning to coil again—this time with intent instead of panic.
+
+🔮 B-Rank Mage (Right) | "pressured" [🔮]
+
+💬 “Just—pick something and cast.”
+
+📝 Sweat beads at his hairline. He shifts his feet, trying to remember drills that never covered this.
+
+⚔️ B-Rank Warrior | "committed" [⚔️]
+
+💬 “On my mark.”
+
+📝 He raises his blade—not charging, not retreating—trying to reclaim command by ritual alone.
+
+🌑 RANDOM TURN — Premeditated Cast | Difficulty 9
+
+📝 Mana tightens—not sloppy this time. One mage anchors properly, breath syncing, sigil drawing clean and sharp in the air. Heat does not answer. Instead, the air grows heavy, pressure building inward—an elemental choice made carefully, deliberately.
+
+📝 The second mage hesitates… then mirrors late, forced into alignment rather than choosing it.
+
+📝 The spell hasn’t been released yet.
+
+But it will be.
+
+And for the first time since this began,
+they’re not reacting.
+
+They’re about to act.
+
+The road feels it coming.
+So do you.
+
+TAGS: [000017]
+
+🛣️ "HARROWFEN SOUTH ROAD — STEAMED BEND" | 🌬️ "WINDY" | 🌤️ "MORNING, 09:59" | 📅 "25/04/1427"
+Scene Title: Hold That Thought
+The air thickens until it feels padded, sound dulled as if wrapped in wool. Ash clings to boots. The hedges stand scorched and silent, their shadows jagged like teeth. Somewhere above it all, the sky remains offensively calm.
+🦊 Jayson | "giddy" [🦊]
+
+💬 “Oh—oh—oh, they’re about to use more magic.”
+
+📝 You flick a casual wave toward Kestrel without looking away, then settle deeper on your haunches. Your shoulders roll once as you brace—ready, eager, waiting.
+
+🛡️ Kestrel | "braced" [🛡️]
+
+📝 Kestrel tightens her stance at your signal, shield angling just enough to cover Irix’s flank while still leaving you untouched.
+
+🎭 Irix | "locked-in" [🎭]
+
+📝 Irix stills completely. Even her breathing slows, eyes fixed on the forming sigils like she’s counting heartbeats.
+
+🔮 B-Rank Mage (Left) | "determined" [🔮]
+
+💬 “Now!”
+
+📝 He slams the final line of the sigil into place, teeth clenched, mana snapping tight instead of bleeding.
+
+🔮 B-Rank Mage (Right) | "committed" [🔮]
+
+💬 “Together!”
+
+📝 He forces his timing to match, staff tip biting into the mud to ground the surge.
+
+🌑 RANDOM TURN — Convergent Cast | Difficulty 10
+
+📝 The spell releases—clean. Not fire. Not water.
+
+📝 The air implodes inward around you, pressure folding like invisible hands clapping together. Gravel lifts. Ash spirals upward. Sound crushes flat for a heartbeat as kinetic force slams toward your crouched form in a focused burst meant to pin, not kill.
+
+📝 The road buckles a finger’s depth. Hedges bow outward. Kestrel’s shield hums as it drinks stray force at the edge of the cone.
+
+📝 It’s real magic.
+Controlled.
+Meant to end this.
+
+⚔️ B-Rank Warrior | "triumphant" [⚔️]
+
+💬 “Got him!”
+
+📝 He steps forward, blade ready, confidence flooding back on borrowed momentum.
+
+🛡️ Kestrel | "tense" [🛡️]
+
+📝 She does not move yet—eyes on you, waiting for the line only you decide to cross.
+
+The pressure holds for a breath.
+The road groans.
+
+And everyone watches to see what happens to someone who asked for magic—
+and stayed right where they were.
+
+TAGS: [000018]
+
+🛣️ "HARROWFEN SOUTH ROAD — IMPACT SCAR" | 🌬️ "WINDY" | 🌤️ "MORNING, 10:05" | 📅 "25/04/1427"
+Scene Title: Applause on the Ground
+Dust drifts down in slow curtains. Gravel finishes its clatter. A shallow bowl scars the road where pressure folded earth like wet clay. The hedges lean back, stunned. Heat is gone now—only the aftertaste of force and the faint ring in the air where sound was briefly crushed flat.
+🦊 Jayson | "ecstatic" [🦊]
+
+💬 “That was absolutely fucking amazing!”
+
+💬 “What was that called? Was that like spatial magic or something?”
+
+💬 “What else can you do—lightning?”
+
+💬 “Powerful… but—like—did you both have to cast the one spell, or did you both just cast the same thing?”
+
+📝 You lie flat in the shallow crater, then throw your hands up like a stadium cheer. After a beat, you roll to your feet, dust yourself off, still grinning—genuine awe undimmed.
+
+🛡️ Kestrel | "disbelieving" [🛡️]
+
+📝 Kestrel stares at the impact scar, then at you—shield lowering a fraction as the tension leaks into something like incredulity.
+
+🎭 Irix | "fascinated" [🎭]
+
+📝 Irix tilts her head, eyes tracing the distortion lines in the gravel where force braided—studying how it held together.
+
+🔮 B-Rank Mage (Left) | "shocked" [🔮]
+
+💬 “You should be—”
+
+📝 He cuts himself off, blinking hard, staring at you as if checking for missing pieces.
+
+💬 “It’s… a convergent compression. Two anchors. One lattice.”
+
+🔮 B-Rank Mage (Right) | "breathless" [🔮]
+
+💬 “We mirror the framework. He stabilizes. I drive.”
+
+📝 His staff trembles as he plants it again, equal parts pride and disbelief bleeding through the strain.
+
+⚔️ B-Rank Warrior | "conflicted" [⚔️]
+
+💬 “That should’ve ended it.”
+
+📝 He doesn’t advance. The confidence he borrowed drains back into caution.
+
+🌑 RANDOM TURN — Residual Shear | Difficulty 6
+
+📝 The crater ticks. A delayed shear releases with a soft whump, kicking a ring of pebbles outward. Nothing dangerous—just the spell finishing its breath. Both mages flinch in unison, then freeze, embarrassed by the reflex.
+
+📝 The lattice is truly spent.
+
+🛡️ Kestrel | "cool" [🛡️]
+
+💬 “Questions later.”
+
+📝 She finally steps, one measured pace, reclaiming the lane with presence alone.
+
+The road settles.
+The demonstration is over.
+
+And the silence that follows isn’t fear anymore—
+it’s the uneasy quiet of people realizing their best trick didn’t do what it was supposed to do.
+
+TAGS: [000019]
+
+🛣️ "HARROWFEN SOUTH ROAD — IMPACT SCAR" | 🌬️ "WINDY" | 🌤️ "MORNING, 10:11" | 📅 "25/04/1427"
+Scene Title: Damage Report
+The road exhales at last. Pebbles settle into the crater’s rim. Ash sticks to damp leather and scorched leaves curl inward, done burning. The silence now isn’t stunned—it’s listening, like the world waiting to see what you’ll do with the moment it handed you.
+🦊 Jayson | "thrilled" [🦊]
+
+💬 “Well—if it’s any consolation, you dislocated a tail.”
+
+📝 You lift one tail, bent sharply at an ugly angle—then grip it and pull. Bone pops back into place with a wet, visceral snap. You spit blood onto the road like it’s nothing, breath hitching once before you grin again.
+
+💬 “That was epic, by the way.”
+
+📝 You point at the mages, delighted rather than accusing.
+
+💬 “What else can you do? Wait—don’t tell me.”
+
+💬 “Surprise me.”
+
+📝 Your attention slides to the warrior, eyes bright, posture loose but unmistakably ready.
+
+💬 “Alright. What about you? Sparring match—or what?”
+
+🛡️ Kestrel | "hard" [🛡️]
+
+📝 Kestrel’s jaw tightens at the tail reset. She doesn’t move to stop you—only shifts half a step closer, shield angled to intervene if this stops being a choice.
+
+🎭 Irix | "still" [🎭]
+
+📝 Irix’s gaze flicks to the blood, then to the mages’ hands, then back to the warrior. She files away the regeneration speed without comment.
+
+🔮 B-Rank Mage (Left) | "unnerved" [🔮]
+
+💬 “…You just—”
+
+📝 His voice trails off. He swallows, recalculating everything he thought he understood.
+
+🔮 B-Rank Mage (Right) | "awed" [🔮]
+
+💬 “That should’ve crippled you.”
+
+📝 He doesn’t sound proud anymore. He sounds honest.
+
+⚔️ B-Rank Warrior | "cornered" [⚔️]
+
+💬 “You’re not right.”
+
+📝 He squares his stance anyway, blade lifting—not in anger now, but obligation. Pride scraping against fear.
+
+💬 “One bout. No killing.”
+
+🌑 RANDOM TURN — Crowd Draw | Difficulty 7
+
+📝 A presence gathers—not Watcher-pressure this time, but people. Footsteps slow at the far bend. A distant cart halts. Someone has stopped pretending not to see smoke rising from the hedges.
+
+📝 This is no longer private.
+
+Whatever happens next
+will have witnesses.
+
+🛡️ Kestrel | "final-warning" [🛡️]
+
+💬 “Keep it contained.”
+
+📝 It’s not a request. It’s a boundary drawn in stone.
+
+The warrior adjusts his grip.
+The mages hold their breath.
+
+The road has become a ring—
+and you’ve just asked who wants to step into it first.
+
+TAGS: [000020]
+
+🛣️ "HARROWFEN SOUTH ROAD — IMPACT SCAR" | 🌬️ "WINDY" | 🌤️ "MORNING, 10:17" | 📅 "25/04/1427"
+Scene Title: Empty Hands
+The cratered road has cooled enough to hold weight again. Damp ash darkens the packed earth, ringed by crushed gravel. Smoke thins to a memory. The hedges stand back, scorched and quiet, as if they’ve learned better than to lean in now. The space between you and them feels measured—agreed upon.
+🦊 Jayson | "eager" [🦊]
+
+💬 “Okay. Okay.”
+
+💬 “Ready when you are.”
+
+📝 You grin and don’t reach for steel. Instead, you settle—feet angled, knees soft, center dropped. Hands come up empty, open, precise. A stance built for movement, not show.
+
+🛡️ Kestrel | "intent" [🛡️]
+
+📝 Kestrel shifts one pace sideways, clearing the lane and silently marking the boundary. Shield stays low. Eyes don’t leave the warrior.
+
+🎭 Irix | "razor-calm" [🎭]
+
+📝 Irix fades half a step toward the hedge-line, not retreating—triangulating. Her attention flicks once to the mages, then locks on the warrior’s hips.
+
+⚔️ B-Rank Warrior | "grim" [⚔️]
+
+💬 “You sure?”
+
+📝 He rolls his shoulders, blade angling down rather than up. This isn’t a charge. It’s a test. He plants his lead foot, breath syncing, posture tightening into something practiced.
+
+🔮 B-Rank Healer | "anxious" [🔮]
+
+💬 “No killing. Both of you.”
+
+📝 Light gathers faintly at her palm, ready to mend, not meddle.
+
+🌑 RANDOM TURN — Opening Exchange | Difficulty 8
+
+📝 The warrior moves first—not fast, but clean. A probing step, weight committed just enough to draw a reaction. The blade cuts a shallow arc meant to threaten space, not flesh—testing distance, timing, nerve.
+
+📝 Gravel shifts. Ash puffs.
+
+📝 The ring tightens.
+
+All eyes track the same instant—
+the moment before contact,
+where choices become consequences.
+
+The road holds still.
+
+Your move—or his—
+will define how the rest of this ends.
+
+TAGS: [000021]
+
+🛣️ "HARROWFEN SOUTH ROAD — IMPACT SCAR" | 🌬️ "WINDY" | 🌤️ "MORNING, 10:23" | 📅 "25/04/1427"
+Scene Title: Borrowed Steel
+Gravel skitters, ash whispering as the ring tightens for a single breath. The air feels clean now—emptied of excess magic, stripped down to motion and intent. Every witness leans without realizing it.
+🦊 Jayson | "playful" [🦊]
+
+📝 You shift one foot and snap—a precise kick flicks the blade sideways at the exact moment it commits. Your other hand strikes his wrist, clean and sharp. Steel slips free.
+
+📝 You catch the falling sword mid-rotation, pivot around his flank, momentum flowing like a practiced spiral. The blade whistles once—then stops a finger’s breadth from his face.
+
+📝 You grin, roll your wrist, step in, and slide his own sword neatly back into its sheath.
+
+📝 Empty hands again.
+
+⚔️ B-Rank Warrior | "stunned" [⚔️]
+
+📝 He freezes—eyes wide, breath caught halfway in. His hands are up before he remembers to tell them to be.
+
+💬 “…I didn’t even feel it.”
+
+🛡️ Kestrel | "satisfied" [🛡️]
+
+📝 Kestrel exhales once, slow. Her shield lowers fully now. The line is no longer contested.
+
+🎭 Irix | "impressed" [🎭]
+
+📝 Irix’s ears tilt, eyes bright with a private calculation. She clocks the footwork, the timing, the mercy.
+
+🔮 B-Rank Mage (Left) | "shaken" [🔮]
+
+💬 “That was—”
+
+📝 He stops himself, swallowing whatever word he was about to use.
+
+⚔️ B-Rank Healer | "relieved" [⚔️]
+
+💬 “Enough. It’s over.”
+
+📝 The light in her palm fades. Knees unlock. Shoulders drop.
+
+🌑 RANDOM TURN — Witness Effect | Difficulty 7
+
+📝 Someone at the far bend lets out a low whistle. A cart driver mutters a prayer. The moment spreads—not loud, not fast—but sticky. Stories will travel ahead of you now, arriving before names.
+
+📝 The warrior bows his head a fraction without thinking.
+
+The ring dissolves.
+
+No blood spilled.
+No dominance screamed.
+
+Just a lesson delivered with borrowed steel
+and returned intact.
+
+⚔️ B-Rank Warrior | "humbled" [⚔️]
+
+💬 “We’re done.”
+
+📝 He steps back, voice steady but changed, eyes no longer looking past you—only at you.
+
+The road opens again.
+
+Grey-moss Depths still waits.
+And the world has just learned
+you don’t need a blade drawn
+to end a fight.
+
+TAGS: [000022]

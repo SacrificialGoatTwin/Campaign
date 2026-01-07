@@ -197,7 +197,8 @@
       "Sealed Ruins (unauthorized tunnels) outside Westbridge",
       "Quarry / Collapsed Culvert outside Westbridge",
       "Greyreach Dungeon",
-      "Planar Rift / Thin Place"
+      "Planar Rift / Thin Place",
+      "Grey-moss Depths Dungeon"
     ]
   },
   "player_stats_and_items": {
@@ -213,7 +214,9 @@
     "Listener exploitation points to organized research.",
     "Vaelir persecution is systemic.",
     "Watchers are embedded in infrastructure.",
-    "Kestrel is now entangled by proximity and knowledge."
+    "Kestrel is now entangled by proximity and knowledge.",
+    "Irix the demon is now with you",
+    "There are high up and powerful people interested in Irix"
   ],
   "game_notes": [
     "You chose Spark as your first spell"    

@@ -1,0 +1,471 @@
+﻿🛣️ "HARROWFEN SOUTH ROAD — BURNT RUTS" | 🌬️ "WINDY" | 🌤️ "MIDDAY, 13:53" | 📅 "25/04/1427"
+Scene Title: The One That Got Through
+Smoke thins into the sky in ragged ribbons, carrying the last ink-stink of burning ledgers. The road is scarred, but quiet. Grass along the verge bends under the wind like it’s trying to smooth everything over. It doesn’t—yet.
+🦊 Jayson | "pained" [🦊]
+
+💬 “Careful—sorry. Didn’t know that blaze would catch like that.”
+
+💬 “You all have each other. Look after one another.”
+
+📝 You smile and watch them head off, your gaze tracking the cart until it’s just a moving speck on the road.
+
+📝 You turn back to the girls.
+
+💬 “Sorry… I need to sit down…”
+
+📝 You stumble a step and plonk onto the grass, sideways on your elbow.
+
+📝 Under your coat, you reach in and pull a bolt free from your side.
+
+💬 “—ngh.”
+
+💬 “Looks like I’m not as fast as I thought I was.”
+
+💬 “Twenty-five bolts… and one got through.”
+
+🛡️ Kestrel | "alarm" [🛡️]
+
+💬 “You got hit?”
+
+📝 She’s on you instantly, dropping to a knee, shield thumping into the grass beside her. Her hands hover for half a heartbeat—choosing where to touch without making it worse.
+
+💬 “Show me. Don’t move.”
+
+📝 She pulls your coat aside just enough to see the wound, eyes narrowing as she gauges depth and angle.
+
+🎭 Irix | "focused" [🎭]
+
+📝 Irix steps in close, hood shadowing her face as she scans the road and the embankments—eyes not on the blood first, but on threat.
+
+💬 “They didn’t all leave clean.”
+
+📝 Her gaze flicks to the bolt you pulled.
+
+💬 “Barbed?”
+
+📝 She crouches low, keeping herself small, one hand ready to steady you if you tip.
+
+🛡️ Kestrel | "commanding" [🛡️]
+
+💬 “Cloth. Now.”
+
+📝 Kestrel tears a strip from a spare wrap with practiced violence.
+
+💬 “Pressure here.”
+
+📝 She positions the cloth and presses—firm, controlled—then looks up at you without softening her voice.
+
+💬 “Breathe. In. Out.”
+
+🌑 RANDOM TURN — The Road Isn’t Done | Difficulty 7
+
+📝 A faint click answers the wind.
+
+📝 Not close—down the road where the caravan vanished, half-hidden by the embankment: a single crossbowman who didn’t run with the others, crouched low like a coward with a plan. He’s shaking, trying to re-cock his bow with hands that won’t stop trembling.
+
+📝 Irix’s head turns a fraction—too precise to be chance.
+
+💬 “Kestrel.”
+
+📝 She doesn’t point. She doesn’t shout. She just knows where he is.
+
+🛡️ Kestrel | "cold" [🛡️]
+
+📝 Kestrel’s shield comes up in one smooth motion, angling to cover you—body placing itself between you and that line like it’s the most natural thing in the world.
+
+🎭 Irix | "knife-quiet" [🎭]
+
+📝 Irix shifts a half-step into a better angle, eyes locked on the embankment.
+
+💬 “Leave.”
+
+📝 Her voice carries—low, flat, not loud.
+
+💬 “If you shoot again, you die here alone.”
+
+⛓️ Stray Crossbowman | "panicked" [⛓️]
+
+📝 He freezes—caught mid-motion—then scrambles backward on his elbows like the ground is suddenly hot. He drops the crossbow rather than keep holding it, and disappears over the far lip of the ditch, breath ragged, survival overriding spite.
+
+🦊 Jayson | "strained" [🦊]
+
+📝 The world steadies again—wind, grass, distant smoke—while Kestrel keeps pressure on the wound.
+
+🛡️ Kestrel | "urgent" [🛡️]
+
+💬 “Okay.”
+
+📝 She tightens the wrap with a knot that bites.
+
+💬 “Can you stand, or do I carry you?”
+
+🎭 Irix | "practical" [🎭]
+
+💬 “Grey-moss Depths is still ahead.”
+
+📝 She scans once more, then looks down at you—expression unreadable, but attention absolute.
+
+💬 “You don’t get to collapse on the road.”
+
+TAGS: [000059]
+
+🛣️ "HARROWFEN SOUTH ROAD — BURNT RUTS" | 🌬️ "WINDY" | 🌤️ "MIDDAY, 14:02" | 📅 "25/04/1427"
+Scene Title: Familiar Silhouettes
+The road stretches long again, heat shimmering where smoke once hung. Metal fragments glint like bad memories you didn’t bother burying. The world, annoyingly, keeps moving.
+🦊 Jayson | "wry" [🦊]
+
+💬 “You weren’t kidding when you said your kind were… popular.”
+
+📝 You laugh—then groan as you push yourself upright, one hand instinctively guarding your side.
+
+💬 “I’m good.”
+
+📝 You straighten and squint down the road toward Harrowfen.
+
+💬 “Huh.”
+
+💬 “I think that’s our B-ranked friends from before.”
+
+📝 Four figures resolve through the heat-haze: a broad-shouldered warrior in front, two robed shapes arguing as they walk, and a healer keeping pace just behind.
+
+🛡️ Kestrel | "alert" [🛡️]
+
+📝 Kestrel follows your gaze, eyes narrowing as she counts silhouettes and spacing.
+
+💬 “Yeah.”
+
+📝 Her grip tightens on her shield—not raised, just ready.
+
+💬 “They didn’t head for a dungeon.”
+
+🎭 Irix | "amused-guarded" [🎭]
+
+📝 Irix tilts her head slightly, horns still hidden beneath the hood.
+
+💬 “Looks like they decided to be curious.”
+
+📝 Her eyes flick once to the scorched ground and scattered armor fragments.
+
+💬 “Bad timing for them.”
+
+🌑 RANDOM TURN — Reputation Travels | Difficulty 6
+
+📝 The approaching party slows.
+
+📝 One of the mages stops mid-argument, staring at the road ahead.
+
+📝 The healer puts a hand on the warrior’s arm—not to stop him, but to steady him.
+
+📝 Even from here, you can see it: they’ve noticed the aftermath.
+
+And they’re recalculating.
+
+⚔️ B-Rank Warrior | "uneasy" [⚔️]
+
+📝 The warrior raises a hand—not in threat.
+
+💬 “Oi.”
+
+📝 His voice carries cautiously.
+
+💬 “This… uh—”
+
+📝 He gestures vaguely at the burnt ruts, the blood-dark stains that didn’t wash away.
+
+💬 “Everything… settled here?”
+
+The road holds all of you in the same frame now—
+old friction, fresh evidence, and four adventurers trying to decide whether today is the day they learned a lesson
+without having to be taught it the hard way.
+
+TAGS: [000062]
+
+🛣️ "HARROWFEN SOUTH ROAD — BURNT RUTS" | 🌬️ "WINDY" | 🌤️ "MIDDAY, 14:06" | 📅 "25/04/1427"
+Scene Title: Questions With Missing People
+Heat haze wobbles over the ruts as the four approach, boots crunching on scattered grit. Their eyes keep darting—burn marks, torn straps, the broken shape of a fight that ended too quickly. The wind carries the faintest trace of smoke, like an accusation that never learned to shut up.
+🦊 Jayson | "guarded" [🦊]
+
+💬 “Hey— it’s you guys again.”
+
+📝 Your smile fades into a frown as you look them over—then look again, searching.
+
+📝 The rogue isn’t with them. Your caution tightens.
+
+💬 “A slaver caravan decided they wanted my friend.”
+
+💬 “I told them no.”
+
+💬 “So they politely let the slaves go back to town with testimony, and the rest of the slavers went back that way.”
+
+📝 You smile again, thin and controlled.
+
+💬 “You guys came back this way?”
+
+📝 A sting bites your side. You flinch despite yourself.
+
+⚔️ B-Rank Warrior | "stunned" [⚔️]
+
+📝 His gaze snaps to your flinch, then to the wrap at your side, then to the scorched marks.
+
+💬 “You’re bleeding.”
+
+📝 He drags in a breath, jaw working.
+
+💬 “We… yeah. We came back.”
+
+💬 “Not for… revenge.”
+
+📝 He glances at his mages and healer, then back to you.
+
+💬 “We heard shouting on the road.”
+
+💬 “Then we saw smoke.”
+
+🔮 B-Rank Mage (Left) | "uneasy" [🔮]
+
+💬 “And we saw that bolt in the dirt.”
+
+📝 He points to a snapped shaft half-buried near the rut line.
+
+💬 “That’s caravan work.”
+
+🔮 B-Rank Mage (Right) | "grim" [🔮]
+
+💬 “Your ‘politely’ is doing a lot of work.”
+
+📝 His eyes flick to the armor fragments, the sliced rings, the stains.
+
+✚ B-Rank Healer | "concerned" [✚]
+
+📝 The healer steps forward a fraction, palms open—showing she’s not reaching for weapons.
+
+💬 “Can I look at that wound?”
+
+📝 She keeps her distance, asking with her voice first.
+
+💬 “Barbed bolts can tear when you move.”
+
+🛡️ Kestrel | "protective" [🛡️]
+
+📝 Kestrel shifts subtly—enough to be between you and them without making it a challenge.
+
+💬 “He already pulled it.”
+
+💬 “You can help, but you do it carefully.”
+
+🎭 Irix | "watchful" [🎭]
+
+📝 Irix stays half a step back, hood up, reading their hands, their breathing, their eyes—watching for the missing rogue in the treeline more than believing in chance.
+
+🌑 RANDOM TURN — The Rogue’s Shadow | Difficulty 7
+
+📝 A faint rustle answers from the right embankment—too controlled to be wind.
+
+📝 The B-rank warrior’s head snaps toward it at the same time Irix’s gaze hardens.
+
+💬 “He’s not with us.”
+
+📝 The warrior says it fast, like it matters.
+
+💬 “He ran. After… earlier.”
+
+The road tightens again—not into battle, but into readiness.
+
+Because someone missing isn’t just absence.
+
+It’s positioning.
+
+TAGS: [000063]
+
+🛣️ "HARROWFEN SOUTH ROAD — BURNT RUTS" | 🌬️ "WINDY" | 🌤️ "MIDDAY, 14:09" | 📅 "25/04/1427"
+Scene Title: A Different Kind of Magic
+Heat shimmers low over scorched dirt. The wind worries at loose grass. The aftermath sits heavy—but quieter now, like the road is allowing a pause rather than demanding one.
+🦊 Jayson | "contrite-curious" [🦊]
+
+💬 “I’m sorry for the trouble that caused.”
+
+📝 You look down, then exhale.
+
+💬 “Yeah—if you could, please.”
+
+📝 You sit back down again and lift your shirt, angling yourself to make it easier.
+
+📝 As you turn slowly, your pupils blow wide—bright, unashamed awe.
+
+💬 “Oh… my… god…”
+
+💬 “Are you going to use healing magic?”
+
+📝 You grin—wide, delighted, unfiltered.
+
+✚ B-Rank Healer | "professional" [✚]
+
+📝 She nods once, already kneeling, hands clean and steady.
+
+💬 “Yes.”
+
+📝 She studies the wound without touching yet—depth, angle, tissue.
+
+💬 “Try not to move.”
+
+📝 She draws a slow breath, palms hovering a finger’s width from your skin.
+
+🛡️ Kestrel | "watchful" [🛡️]
+
+📝 Kestrel stays close, shield grounded, eyes on the healer’s hands—not the light.
+
+🎭 Irix | "matter-of-fact" [🎭]
+
+📝 Irix turns slightly toward the B-rank warrior, voice low and precise as she gestures back toward the road.
+
+💬 “He intercepted the first volley.”
+
+💬 “Deflected the rest.”
+
+💬 “One bolt made it through.”
+
+📝 She glances to the scattered shafts pinned into dirt and wood like punctuation marks.
+
+⚔️ B-Rank Warrior | "stunned" [⚔️]
+
+📝 The warrior follows her gesture—eyes widening as he takes in the pegs, the angles, the distances.
+
+💬 “…You’re telling me he—”
+
+📝 He stops, swallows.
+
+💬 “—never mind.”
+
+📝 His shoulders sag a fraction, recalibrating what he thought he knew.
+
+✚ B-Rank Healer | "focused" [✚]
+
+📝 Light blooms—soft, steady, warm. Not a flare. A tide.
+
+💬 “You’ll feel pressure first.”
+
+📝 The magic knits—drawing tissue together, easing torn muscle, sealing what should not be open. Pain dulls to a manageable throb.
+
+🌑 RANDOM TURN — The Stitch Pulls | Difficulty 6
+
+📝 A sudden tug—sharp, brief—as the magic catches a stubborn barb-track.
+
+📝 The healer adjusts instantly, murmuring a correction, light dimming then rebalancing.
+
+💬 “There.”
+
+📝 The ache settles again, cleaner this time.
+
+✚ B-Rank Healer | "satisfied" [✚]
+
+📝 The glow fades. She exhales.
+
+💬 “You’ll bruise.”
+
+💬 “But you’ll walk.”
+
+📝 She looks up at you, a faint smile tugging at one corner.
+
+💬 “Try not to collect another today.”
+
+⚔️ B-Rank Warrior | "respectful" [⚔️]
+
+📝 He inclines his head—once, deliberate.
+
+💬 “Looks like you handled yourselves.”
+
+📝 A pause, then quieter.
+
+💬 “Thanks for not… finishing it.”
+
+The road loosens its grip again.
+
+Grey-moss Depths still waits ahead—
+and now, with magic still warm on your skin,
+the day has shifted just enough to continue.
+
+TAGS: [000064]
+
+🛣️ "HARROWFEN SOUTH ROAD — BURNT RUTS" | 🌬️ "WINDY" | 🌤️ "MIDDAY, 14:11" | 📅 "25/04/1427"
+Scene Title: Awe, Applied
+The warmth of magic lingers in the air like a held breath. Grass bends. Ash settles. The road allows this—barely.
+🦊 Jayson | "delighted" [🦊]
+
+💬 “Kestrel—Kestrel—look, look, look…”
+
+💬 “It’s magic—healing this time!”
+
+📝 You vibrate with restraint, trying not to move while your hand still sneaks down to tug at Kestrel’s boot—once, twice—barely containing it.
+
+📝 You turn your head toward the warrior, excitement softening into earnest candor.
+
+💬 “If it makes you feel better—they struck first.”
+
+💬 “And I only killed twelve out of thirty-five.”
+
+🛡️ Kestrel | "exasperated-fond" [🛡️]
+
+📝 Kestrel plants her boot firmly—right where you’re tugging—and rests her weight there like a quiet reminder.
+
+💬 “Hold still.”
+
+📝 She glances at the healer’s hands, then back to you.
+
+💬 “You’re going to make her miss a stitch.”
+
+📝 A beat—then the corner of her mouth lifts despite herself.
+
+💬 “Yes. Magic. We see it.”
+
+✚ B-Rank Healer | "amused-focused" [✚]
+
+📝 The healer exhales a tiny laugh without breaking concentration.
+
+💬 “You’re allowed to be impressed.”
+
+💬 “Just not wiggly.”
+
+📝 She smooths the last of the glow away, checking the seal with two careful fingers.
+
+💬 “There. Done.”
+
+⚔️ B-Rank Warrior | "processing" [⚔️]
+
+📝 He blinks at you—then at the scorched ruts, the broken armor, the pegs of bolts still marking trajectories.
+
+💬 “Twelve…”
+
+📝 He nods once, slow.
+
+💬 “Given the scene?”
+
+💬 “That is restraint.”
+
+📝 His gaze flicks to Irix, then back to you—measured, respectful now.
+
+💬 “They won’t be coming back.”
+
+🎭 Irix | "dry" [🎭]
+
+📝 Irix tilts her head a fraction.
+
+💬 “They’ll be telling this story instead.”
+
+🌑 RANDOM TURN — Word Travels | Difficulty 5
+
+📝 A distant horn echoes from the Harrowfen side—short, official. Not alarm. Notice.
+
+📝 The B-rank healer stiffens a hair, then relaxes.
+
+💬 “Guild patrol.”
+
+📝 She looks at the road, then at you.
+
+💬 “You timed this… interestingly.”
+
+The moment settles—
+magic fades, excitement remains,
+and consequences start walking this way at a reasonable pace.
+
+TAGS: [000065]
+

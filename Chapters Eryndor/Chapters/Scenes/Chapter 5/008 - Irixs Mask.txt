@@ -1,0 +1,362 @@
+﻿🏘️ HARROWFEN — ROOFTOPS ABOVE THE RIVERWARD | ☁️ OVERCAST | 🕓 LATE AFTERNOON, 16:56
+Scene Title: Echoes in the Pattern
+The roof is quiet again—no pressure, no hum—just wind and the river breathing below. Tile dust hangs where you’ve knelt.
+
+📝 You run your fingers along the mask—white surface, red line running clean up the nose. Not decoration. Alignment.
+
+📝 You draw a claw.
+
+📝 Stone gives easily as you carve—confident, economical cuts. In moments, the shape emerges in the tile beside you: an Okami mask, lines sharp, intent unmistakable.
+
+📝 You flick the original mask back to Irix.
+
+🦊 JAYSON | intent [🦊]
+
+💬 “Tell me something.”
+
+💬 “Where did you get that mask from?”
+
+💬 “And does this look familiar?”
+
+🧥 IRIX | shaken [⚠️]
+
+📝 The mask is caught on reflex. Then Irix freezes.
+
+📝 Their eyes drop to the carving.
+
+📝 Color drains—not fear, not awe—recognition.
+
+💬 “…Yes.”
+
+📝 A slow breath in. Slower out.
+
+💬 “That’s older than the version I wear.”
+
+💬 “Cleaner.”
+
+📝 They crouch despite themselves, gloved fingers hovering just above the carved lines, never quite touching.
+
+💬 “I got mine through a broker.”
+
+💬 “Three hands removed.”
+
+💬 “Pulled out of a collapsed archive beneath a pre-Church ruin.”
+
+📝 Their jaw tightens.
+
+💬 “They called it a ‘null-face.’”
+
+💬 “Said it was used by observers who didn’t want to be recorded by the world.”
+
+🛡️ KESTREL | alert [🛡️]
+
+📝 Her eyes snap from the carving to you.
+
+💬 “Observers?”
+
+🧥 IRIX | careful-now [⚠️]
+
+📝 A nod. Small. Uncomfortable.
+
+💬 “Not Watchers.”
+
+💬 “Something adjacent.”
+
+📝 They look back up at you—really look this time.
+
+💬 “Where did you learn that shape?”
+
+RANDOM TURN — Difficulty 10
+
+📝 The carved mask in the tile catches the light wrong—edges briefly too sharp, like the idea of it is aligning with something unseen.
+
+📝 Far upriver, a Watcher pauses mid-cycle—then resumes, as if reassured.
+
+📝 Irix swallows.
+
+💬 “That symbol isn’t folklore.”
+
+💬 “It’s a signature.”
+
+📝 The rooftop feels smaller—not trapped, just closer to answers than it should be.
+
+📝 Two masks.
+📝 One pattern.
+📝 And a world that keeps pretending it doesn’t recognize its own handwriting.
+
+TAGS: [000098]
+
+🏘️ HARROWFEN — ROOFTOPS ABOVE THE RIVERWARD | ☁️ OVERCAST | 🕓 LATE AFTERNOON, 16:57
+Scene Title: Names for Old Shapes
+The wind lifts your hood as the city holds still—tiles quiet, river hush deepening, like even Harrowfen wants to hear this part.
+
+📝 You correct them without heat.
+
+🦊 JAYSON | certain [🦊]
+
+💬 “You call it a null mask.”
+
+💬 “Add ears to it and what you have is what we call an Okami mask.”
+
+💬 “Where I come from.”
+
+📝 You reach up and pull your hood back.
+
+📝 Nine tails flare—controlled, deliberate—fanning behind you in a silent declaration of fact, not threat.
+
+🦊 JAYSON | declarative [🦊]
+
+💬 “I am what is called a Kitsune.”
+
+💬 “That mask represents a wolf spirit.”
+
+💬 “An Okami.”
+
+💬 “They are divine.”
+
+🧥 IRIX | stunned [⚠️]
+
+📝 For the first time, Irix forgets to manage their breathing. The mask in their hands dips a fraction.
+
+💬 “…That’s not how our texts frame it.”
+
+📝 Their eyes track your tails—counting despite themselves—then snap back to your face, mind racing.
+
+💬 “Divinity without hierarchy.”
+
+💬 “Observation without dominion.”
+
+📝 A short, disbelieving laugh escapes them.
+
+💬 “That explains the dampening.”
+
+💬 “It’s not hiding from the world.”
+
+💬 “It’s refusing to be indexed by it.”
+
+🛡️ KESTREL | steady-realization [🛡️]
+
+📝 She doesn’t step back. She doesn’t step forward. She simply re-evaluates everything she thought she understood—and keeps her footing.
+
+💬 “So the Watchers aren’t gods.”
+
+💬 “They’re… caretakers?”
+
+🧥 IRIX | grim-clarity [⚠️]
+
+📝 A slow nod.
+
+💬 “Or janitors.”
+
+💬 “Or antibodies.”
+
+📝 They look at the carved Okami mask again, reverent now in a way that isn’t religious—technical awe.
+
+💬 “Which means if this symbol predates the Watchers…”
+
+💬 “…then whatever authored it didn’t need to watch.”
+
+💬 “It belonged.”
+
+RANDOM TURN — Difficulty 10
+
+📝 The air tightens—not hostile, not curious—acknowledging. Like a system recognizing a legacy key it wasn’t designed to revoke.
+
+📝 Far away, a Watcher adjusts its route by a fraction—nothing dramatic, just enough to avoid alignment.
+
+📝 Irix swallows hard.
+
+💬 “You’re not an anomaly.”
+
+💬 “You’re a remainder.”
+
+📝 The word lands heavier than any threat.
+
+📝 A remnant of a design older than thresholds.
+📝 A fox standing on a roof, explaining divinity like plumbing.
+📝 And a city below that will keep calling it coincidence—
+📝 until coincidence runs out.
+
+TAGS: [000099]
+
+🏘️ HARROWFEN — ROOFTOPS ABOVE THE RIVERWARD | ☁️ OVERCAST | 🕓 LATE AFTERNOON, 16:58
+Scene Title: Scale and Distance
+The river breathes below. The tiles are warm where the day hasn’t quite let go. Wind slides past like it doesn’t want to interrupt.
+
+📝 You crouch on your haunches, tails settling, posture grounded rather than looming.
+
+🦊 JAYSON | clarifying [🦊]
+
+💬 “You misunderstand.”
+
+💬 “I’m not saying the power of the masks is divine.”
+
+💬 “I’m saying what they’re modeled after is.”
+
+💬 “And I come from a long way from here.”
+
+📝 Your gaze drops to the mask in her hands, then lifts—weight shifting as the thought lands.
+
+🦊 JAYSON | concerned [🦊]
+
+💬 “What you’re holding there should, quite frankly, not exist in this world.”
+
+📝 You study her properly now—head to toe, not judging, measuring.
+
+🦊 JAYSON | blunt-curious [🦊]
+
+💬 “Not to be rude…”
+
+💬 “But you are really fucking small.”
+
+💬 “How old are you?”
+
+🧥 IRIX | dry-honest [⚠️]
+
+📝 She blinks once. Then snorts—quiet, unoffended.
+
+💬 “Thirty-two.”
+
+📝 A beat.
+
+💬 “By our calendars.”
+
+💬 “Closer to fifty by the time I stopped aging the normal way.”
+
+📝 She lifts the mask slightly, turning it so the red line catches the light.
+
+💬 “I didn’t get smaller.”
+
+💬 “The work made everything else… heavier.”
+
+📝 Her eyes meet yours—steady, curious rather than defensive.
+
+💬 “If this thing shouldn’t exist here—”
+
+💬 “Then someone brought it.”
+
+💬 “And they didn’t come through a door the Watchers watch.”
+
+🛡️ KESTREL | grounded [🛡️]
+
+📝 She shifts closer to you—subtle, supportive.
+
+💬 “Which means the problem isn’t size.”
+
+💬 “It’s reach.”
+
+RANDOM TURN — Difficulty 8
+
+📝 The wind dies for half a heartbeat. Sound flattens—river, bells, footsteps—then returns.
+
+📝 Far off, something updates a ledger that doesn’t use paper.
+
+📝 Irix feels it and tightens her grip on the mask.
+
+💬 “If your home is that far away…”
+
+💬 “Then this world wasn’t supposed to remember it.”
+
+📝 The rooftop holds three truths at once:
+
+A mask that shouldn’t be here
+
+A fox who knows why it exists
+
+And a watcher-system that just realized memory can travel without permission
+
+📝 None of that is loud.
+
+📝 All of it matters.
+
+TAGS: [000100]
+
+🏘️ HARROWFEN — ROOFTOPS ABOVE THE RIVERWARD | ☁️ OVERCAST | 🕓 LATE AFTERNOON, 17:00
+Scene Title: Familiar Shapes in Foreign Places
+The wind carries river-cold along the tiles. Somewhere below, a cart rattles. Life keeps going—oblivious, stubborn.
+
+📝 You lift your gaze to Irix.
+
+🦊 JAYSON | certain [🦊]
+
+💬 “It’s not something this world is ready to hear.”
+
+💬 “Never mind the city.”
+
+📝 You step past her without hostility, deliberately leaving space at her back—an exit unblocked, a choice respected.
+
+📝 You stop beside Kestrel and lean in close, voice lowered to breath.
+
+🦊 JAYSON | confidential [🦊]
+
+💬 “I thought being somewhere completely new…”
+
+💬 “…I’d see things I’d never seen before.”
+
+📝 A pause. Your ears angle, listening beyond sound.
+
+🦊 JAYSON | uneasy [🦊]
+
+💬 “But every time something weird shows up…”
+
+💬 “I recognize it.”
+
+📝 You exhale slowly.
+
+🦊 JAYSON | wary [🦊]
+
+💬 “Something is really wrong.”
+
+💬 “And I think she knows more.”
+
+📝 You straighten and turn back.
+
+🧥 IRIX | thoughtful [⚠️]
+
+📝 She hasn’t moved. She watches you with a different expression now—not alarmed, not threatened—testing.
+
+💬 “Recognition doesn’t require origin.”
+
+💬 “Patterns repeat.”
+
+📝 A beat.
+
+💬 “But if you’re seeing echoes where others see noise…”
+
+💬 “Then you’re either very good at noticing.”
+
+💬 “Or very close to the source.”
+
+📝 She shifts her stance—still not fleeing, but no longer anchored.
+
+💬 “If you decide to keep pulling that thread—”
+
+💬 “Don’t do it alone.”
+
+🛡️ KESTREL | resolved [🛡️]
+
+📝 She meets your eyes once—no questions, just alignment.
+
+💬 “We won’t.”
+
+RANDOM TURN — Difficulty 8
+
+📝 A bell tolls across the river—evening beginning its claim.
+
+📝 The light shifts, washing the rooftops in a flatter, truer grey.
+
+📝 Somewhere distant, a Watcher alters its route by a fraction—again avoiding alignment.
+
+📝 Irix steps back toward the parapet, leaving the choice open.
+
+📝 Three paths remain:
+
+Walk away with what you know
+
+Keep Irix talking while she’s still willing
+
+Or follow the next echo before it decides to hide
+
+📝 The city waits.
+
+TAGS: [000102]

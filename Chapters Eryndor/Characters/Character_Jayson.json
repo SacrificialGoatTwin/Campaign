@@ -14,7 +14,11 @@
   ],
   "quote": "When the world calls me broken, I answer with flame.",
   "appearance": {
-    "age": "Physically late 20s; biologically altered by crystal-veil integration",
+    "age": {
+      "Visual": "28",
+      "Actual": "79",
+      "Fox Spirit": "Ancient"
+    },
     "height": "Was 185 cm (6'1\"), now 175 cm post-evolution",
     "build": "Lean, trauma-shaped, predator-like posture; honed by survival and internal heat; posture goes statue-still when containing rage",
     "hair": "Reddish-brown, short and tousled; greys/ashens under duress; Kitsune form: blood-red with black undertones",
@@ -30,7 +34,9 @@
       "Lysera": "Wife",
       "Varethyn": "Wife",
       "Naru": "Wife",
-      "Fei": "Wife"
+      "Fei": "Wife",
+      "Kestrel": "Friend",
+      "Irix": "Friend"
     },
     "race": "Kitsune (power-suppressed; Spark active)",
     "siblings": {
@@ -142,7 +148,22 @@
       "naru": "Compass and intelligence anchor; he trusts her systems and her steadiness; her moral hesitation can frustrate him, but he does not dismiss it",
       "shion": "Tactical ally; sharp presence on operations and medical readiness; he respects her discipline and uses her as a 'ready at the door' contingency without giving her the burden of his rage",
       "fei": "Twin soul and co-operator; now entrusted with deep infrastructure intrusions and black-site enumeration; acts as a strategic equal rather than a helper",
-      "lysera": "Wolf-mate by rite; healing hall logistics and pack-justice discussions clash with his need for controlled consequences; he tries to preserve her dignity while refusing to outsource his darkest impulses"
+      "lysera": "Wolf-mate by rite; healing hall logistics and pack-justice discussions clash with his need for controlled consequences; he tries to preserve her dignity while refusing to outsource his darkest impulses",
+      "Irix": [
+        "Defaults to protective positioning without restricting her autonomy",
+        "Uses humor, curiosity, and physical presence as grounding tools rather than interrogation",
+        "Treats her as a person first and a threat vector last",
+        "Becomes immediately lethal when she is endangered, without hesitation or spectacle",
+        "Adjusts his behavior when he realizes his actions increase her exposure",
+        "Offers emotional validation without demanding reassurance or loyalty in return"
+      ],
+      "Kestrel": [
+        "Defers to her leadership in structured environments such as dungeon runs",
+        "Allows her to ground and interrupt him when escalation risks outweigh gains",
+        "Uses banter and teasing to relieve tension, especially after violence",
+        "Trusts her judgment implicitly in matters of safety and logistics",
+        "Shows vulnerability more openly in her presence than elsewhere"
+      ]
     }
   },
   "values": {
@@ -312,7 +333,47 @@
         "Claimed a fresh C-rank dungeon posting: Grey-moss Depths (planned run with Kestrel leading, Irix support)",
         "Bought a high-quality leather satchel; regrouped at Harrowfen South Gate ready to depart"
       ]
+    },
+    {
+      "chapter6": [
+        "Departed Harrowfen with Kestrel and Irix toward the Grey-moss Depths, maintaining situational awareness of nearby B-rank adventurers and deliberately allowing proximity to assess intent",
+        "Provoked and destabilized an aggressive B-rank party through controlled verbal needling to disrupt coordination, drawing out spellcasting to observe local magic styles firsthand",
+        "Demonstrated extreme close-quarters superiority by disarming and neutralizing the B-rank warrior without lethal force, stopping a strike centimeters from the warrior’s face to assert dominance without escalation",
+        "Engaged in a philosophical de-escalation with the B-rank warrior, reframing achievement, rage, and insecurity; established that humiliation was tactical, not personal",
+        "Intervened instantly when the B-rank rogue attempted to take Irix hostage; forced a binary choice between release and death, stopping short of execution once compliance was achieved",
+        "Publicly rejected racial essentialism, explicitly defending Irix and stating that judgment by species rather than action is moral failure",
+        "Allowed the B-rank party to withdraw intact, later learning the rogue deserted them, confirming internal fracture caused by the confrontation",
+        "Encountered a large human slaver caravan en route to the dungeon; attempted deterrence before escalation",
+        "Engaged in full lethal combat when slavers attempted to seize Irix, deploying all nine tails and dual-wielding his katana and Kestrel’s sword",
+        "Killed approximately twelve slavers in seconds with surgical precision, demonstrating overwhelming speed, spatial awareness, and joint-disarticulation strikes",
+        "Explicitly gave Irix agency over the fate of the remaining slavers; honored her decision for mercy and enforced retreat rather than total annihilation",
+        "Freed all slaves, redistributed coin and supplies, ordered testimony to be delivered to the Guild, and destroyed slaver records and infrastructure to prevent recovery",
+        "Sustained a crossbow bolt wound during the slaver engagement; accepted healing assistance later without protest",
+        "Completed the Grey-moss Depths dungeon under Kestrel’s lead, providing environmental support (water traversal, hazard probing) and rear-guard control",
+        "Identified the dungeon’s core mechanic as intent-responsive rather than violence-based",
+        "Was separated from the party during the dungeon’s final trial and confronted by a controlling intelligence offering conquest and dominance",
+        "Rejected conquest and reward outright, choosing instead the guaranteed safety and release of Kestrel and Irix over personal advancement",
+        "Successfully forced the dungeon to comply, resulting in non-hostile completion and safe extraction of the entire party",
+        "Returned to Harrowfen and formally completed the dungeon report, advancing his standing and unlocking further Spark development",
+        "Supported Irix during her Guild registration, questioning the use of derogatory racial labels and advocating for her right to self-identify",
+        "Reinforced Irix’s confidence publicly when bystanders made disparaging remarks, using humor rather than threat to shut down hostility",
+        "Became the target of a coordinated night-time extraction attempt by professional assassins seeking Irix, indicating long-term tracking and high-level interest",
+        "Detected and countered a multi-vector assassination attempt inside an inn, correctly identifying at least two high-tier operatives and a commanding observer",
+        "Blindfolded himself deliberately to reduce cognitive bias and rely on non-visual sensory input during close-quarters combat",
+        "Engaged the Observer in near-equal hand-to-hand combat, sustaining impacts but preventing the extraction of Irix",
+        "Intentionally maneuvered to recover his katana mid-fight and used it to cut down operatives holding Irix, prioritizing her retrieval over personal safety",
+        "Forced the Observer to retreat after throwing his katana with lethal intent, severing the Observer’s ear as a permanent warning rather than pursuing the kill",
+        "Delivered an explicit message through action rather than words: that those targeting Irix would be hunted in return",
+        "Provided full and honest disclosure to the Guild Marshal after the incident, accepting scrutiny without deflection or minimization",
+        "Assumed emotional responsibility for Irix’s exposure following her public registration, acknowledging unintended consequences without withdrawing support",
+        "Provided physical and emotional grounding for Irix after delayed shock response, explicitly validating fear as survival rather than weakness",
+        "Reframed Irix’s years of flight as competence rather than cowardice, emphasizing that the threat network is now exposed to the Guild",
+        "Included Kestrel physically and emotionally during Irix’s breakdown, reinforcing the trio as a bonded unit rather than a loose party",
+        "Shifted the group dynamic from temporary alliance to explicit mutual protection, stating clearly that Irix is no longer alone",
+        "Ended the chapter having openly declared hostility with unknown higher-order collectors and systems, while solidifying party cohesion and trust"
+      ]
     }
+
   ],
   "character_data": {
     "level": 1,
@@ -327,9 +388,11 @@
         "katana (concealed)",
         "engraved stone with spiral and seven portraits",
         "Anchor Ring (rare stabilization ring from Greyreach boss; worn)",
-        "Greyreach Boss Core (large, stable; high value)",
         "Greyreach Dungeon Plate (structural stone reinforcement material)",
-        "High-quality leather satchel (new; market purchase)"
+        "High-quality leather satchel (new; market purchase)",
+        "Leveling Plaque (Guild-issued; tracks experience and rank progress)",
+        "Mana Battery",
+        "Microchip like flat rectangle from the contraption you pulled apart"
       ]
     },
     "Other": {

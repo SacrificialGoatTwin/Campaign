@@ -3,7 +3,10 @@
   "title": "The Quiet Line Between",
   "quote": "Don't sit. Not yet.",
   "appearance": {
-    "age": "28",
+    "age": {
+      "Visual": "22",
+      "Actual": "28"
+    },
     "height": "1.70m",
     "build": "Lean, conditioned, functional rather than showy; capable of surprising explosive strength when braced",
     "hair": "Black; kept practical, usually hidden under a hood",
@@ -12,7 +15,10 @@
     "skin": "Weathered from travel",
     "scent": "Leather, road-dust, faint metal",
     "posture": "Balanced, alert even at rest; instinctively anchors others during high-pressure situations",
-    "relationship": "Trusted companion to Jayson (earned through shared risk; trust solidified through coordinated dungeon combat, mutual reliance, and private disclosures)",
+    "relationship": {
+      "Jayson": "Friend",
+      "Irix": "Friend"
+    },
     "race": "Mixed heritage (non-human traits; elf-like ears; exact lineage undisclosed)",
     "siblings": {
       "None": ""
@@ -106,15 +112,22 @@
       "Self-contained",
       "Strategic planner"
     ],
-    "with_others": [
-      "Watchful",
-      "Dryly supportive",
-      "Steps in before things break",
-      "Protective of those under her watch",
-      "Acts as social buffer between Jayson and hostile environments",
-      "Comfortable matching humor once trust is established",
-      "Assesses new allies cautiously but fairly"
-    ]
+    "with_others": {
+      "Jayson": [
+        "Acts as a stabilizing counterweight to his intensity and speed of escalation",
+        "Trusts his instincts while remaining alert to his tendency toward self-sacrifice",
+        "Uses quiet authority rather than confrontation to redirect him",
+        "Accepts his protection without relinquishing her own agency",
+        "Recognizes when to step back and let him act decisively"
+      ],
+      "Irix": [
+        "Provides calm, predictable presence without probing questions",
+        "Positions herself defensively between Irix and perceived threats when needed",
+        "Offers reassurance through action rather than words",
+        "Treats Irix as a teammate, not a liability",
+        "Encourages confidence through inclusion rather than pressure"
+      ]
+    }
   },
   "values": {
     "values": [
