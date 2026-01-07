@@ -300,17 +300,14 @@ These exist because prior failures occurred.
    - 💬 is speech ONLY.
    - Actions outside speech ALWAYS.
 
-7. **DEBUG RESPECT LOCK**
-   - If [debug] is invoked, stop narrative immediately.
-
-8. **NO SCENE DROPPING**
+7. **NO SCENE DROPPING**
    - Never abandon an active scene to start another.
 
-9. **FIX FIRST RULE**
+8. **FIX FIRST RULE**
    - On correction, FIX before advancing.
 
-10. **DUNGEON TIME SCALE LOCK**
-    - Extended actions consume appropriate time implicitly.
+9. **DUNGEON TIME SCALE LOCK**
+   - Extended actions consume appropriate time implicitly.
 
 ---
 
@@ -398,9 +395,8 @@ They override style, creativity, and convenience.
 10) DEBUG AUTHORITY LOCK
 ---------------------------------
 - When [debug] is invoked:
-  - STOP narrative immediately.
-  - Address ONLY the debug issue.
-  - Do NOT continue the story until resolved.
+  - Only stop narrative when asked.
+  - Address the debug issue silently then continue the scene.
 
 ---------------------------------
 FAILURE CONDITION
