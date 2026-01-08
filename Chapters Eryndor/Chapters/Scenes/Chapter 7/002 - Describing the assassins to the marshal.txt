@@ -1,0 +1,322 @@
+﻿🏛️ "HARROWFEN ADVENTURERS’ GUILD — MARSHAL’S CHAMBER" | 🌧️ "RAINING SOFTLY" | 🌤️ "MORNING, 08:08" | 📅 "26/04/1427"
+Scene Title: Seated Under Oathwood
+
+The chamber is paneled in dark oathwood, its grain worn smooth by decades of verdicts. A single window ticks with rain. Lamplight holds steady—no flicker—casting clean shadows that refuse to hide anything.
+
+🔥 JAYSON | "courteous" [🔥]
+
+💬 “Marshal.”
+
+📝 You head inside and take a seat, posture easy.
+📝 You nod.
+
+🛡️ GUILD MARSHAL | "assessing" [🛡️]
+
+📝 The Marshal waits until all are seated before closing the door. The latch settles with a sound that means private.
+
+💬 “Goodwin.”
+💬 “Kestrel. Irix.”
+
+📝 He does not sit immediately. He studies the room as if confirming the walls will remember what’s said.
+
+🗡️ KESTREL | "formal" [🗡️]
+
+📝 Kestrel sits straight-backed, hands relaxed, eyes forward—ready without advertising it.
+
+🔥 IRIX | "contained" [🔥]
+
+📝 Irix chooses her seat carefully, keeping a clear line to the door and the Marshal both. Hood stays up. Breath steady.
+
+📝 RANDOM TURN (Difficulty 3): A runner pauses outside the chamber, parchment in hand—then turns away at a subtle signal from the Marshal. Whatever it was can wait.
+
+🛡️ GUILD MARSHAL | "measured" [🛡️]
+
+📝 He finally takes his seat, folding his hands.
+
+💬 “Let’s be clear from the start.”
+💬 “You are not here to be charged.”
+💬 “You are here because last night moved faster than the Guild did.”
+
+📝 Rain taps the window once, harder—then returns to its patient rhythm.
+
+TAGS: [000014]
+
+🏛️ "HARROWFEN ADVENTURERS’ GUILD — MARSHAL’S CHAMBER" | 🌧️ "RAINING SOFTLY" | 🌤️ "MORNING, 08:08" | 📅 "26/04/1427"
+Scene Title: What Moved First
+
+The oathwood seems to drink the sound, rain tapping the window like a metronome set for restraint. Wax seals rest unbroken on the desk—choices waiting to be made.
+
+🔥 JAYSON | "matter-of-fact" [🔥]
+
+💬 “Thank you.”
+💬 “Yeah—no idea.”
+💬 “We were stopped outside the inn by some people wanting Irix to prove who she was, out of the blue. They tried to take her.”
+💬 “I told them to get lost.”
+💬 “Then we were attacked by assassins that night.”
+💬 “That was… intense.”
+
+📝 You nod once as you finish, hands still.
+
+🛡️ GUILD MARSHAL | "intent" [🛡️]
+
+📝 The Marshal listens without interruption. When you finish, he turns a ring once—slow, deliberate.
+
+💬 “Names were not offered?”
+💬 “No writ shown. No Guild colors.”
+
+📝 He doesn’t ask—he checks alignment with what he already knows.
+
+🗡️ KESTREL | "measured" [🗡️]
+
+📝 Kestrel’s gaze stays forward, posture unchanged—present, not pushing.
+
+🔥 IRIX | "contained" [🔥]
+
+📝 Irix keeps her breathing even. Her hood shadows her eyes; her hands rest where they can be seen.
+
+📝 RANDOM TURN (Difficulty 4): A muffled thump travels the wall—someone in the outer hall arguing, cut short by a firm voice. The Marshal’s jaw tightens a fraction. Whatever is spreading is still spreading.
+
+🛡️ GUILD MARSHAL | "controlled" [🛡️]
+
+📝 He opens a folio already marked.
+
+💬 “We have corroboration of an approach attempt before dusk.”
+💬 “And a separate cell operating after nightfall.”
+💬 “Different hands. Same interest.”
+
+📝 His eyes lift—steady.
+
+💬 “Tell me about the first approach. Clothing. Accents. How close they got.”
+
+The rain steadies again, as if the room has decided what matters next.
+
+TAGS: [000015]
+
+🏛️ "HARROWFEN ADVENTURERS’ GUILD — MARSHAL’S CHAMBER" | 🌧️ "RAINING SOFTLY" | 🌤️ "MORNING, 08:08" | 📅 "26/04/1427"
+Scene Title: Confidence Without Colors
+
+Rain ticks once against the glass, then softens. The oathwood desk holds steady beneath lamplight; the folio lies open like a mouth waiting to be fed facts.
+
+🗡️ KESTREL | "precise" [🗡️]
+
+📝 Kestrel answers without embellishment, eyes forward.
+
+💬 “Lowlands cadence. Clean vowels. No Harrowfen slip.”
+💬 “Practiced. Not regional—trained.”
+
+🔥 JAYSON | "analytical" [🔥]
+
+💬 “Their clothing was… priest-like. Religious garments, almost.”
+💬 “They walked right up to us with full confidence.”
+💬 “No names. No Guild colours or emblems. Nothing.”
+
+📝 You pause.
+
+💬 “Even the assassins—same thing.”
+💬 “The only thing I got was that they’re a guild of sorts.”
+💬 “An assassins’ guild.”
+💬 “He said he hears a lot of protectors say what I said—and they all died.”
+💬 “Which tells me they do this for a living.”
+
+🛡️ GUILD MARSHAL | "tightening" [🛡️]
+
+📝 The Marshal closes the folio halfway—enough to mark a boundary—then opens a different page already tabbed.
+
+💬 “Confidence without colors is doctrine.”
+💬 “Priest-cut garments, no heraldry, and approach-before-dusk…”
+💬 “That narrows it.”
+
+📝 He glances once to Irix—brief, assessing—then back to the page.
+
+🔥 IRIX | "contained" [🔥]
+
+📝 Irix remains still, hands visible. Her jaw sets—not fear, resolve.
+
+📝 RANDOM TURN (Difficulty 4): A seal cracks softly as the Marshal presses a signet into wax on a blank slip. He doesn’t look up while doing it. A bell cord shifts—unpulled—then settles, as if a decision was weighed and deferred.
+
+🛡️ GUILD MARSHAL | "measured" [🛡️]
+
+📝 He finally looks up, voice level.
+
+💬 “We’re treating these as two doctrines with a shared interest.”
+💬 “Clerical front, professional blade.”
+💬 “And neither sought Guild sanction.”
+
+📝 The rain steadies again, patient. The room feels smaller—not trapped, but focused—like a lens drawing tight around the truth.
+
+TAGS: [000016]
+
+🏛️ "HARROWFEN ADVENTURERS’ GUILD — MARSHAL’S CHAMBER" | 🌧️ "RAINING SOFTLY" | 🌤️ "MORNING, 08:08" | 📅 "26/04/1427"
+Scene Title: Confidence Cuts Both Ways
+
+The wax cools to a dull sheen. Outside the chamber, footsteps pass and fade—routine resuming its careful orbit around whatever this room decides.
+
+🔥 JAYSON | "level" [🔥]
+
+💬 “Yeah.”
+💬 “They did say they don’t need the Guild.”
+
+📝 You shrug, unconcerned.
+
+💬 “I think they’ll back off for a while.”
+
+🛡️ GUILD MARSHAL | "considering" [🛡️]
+
+📝 The Marshal steeples his fingers, gaze steady on you—not challenging, weighing.
+
+💬 “They might.”
+💬 “Or they might change angles.”
+
+📝 He slides the sealed slip aside, turning another page already dense with marginal notes.
+
+💬 “Groups that announce independence usually want witnesses to remember it.”
+
+🗡️ KESTREL | "alert" [🗡️]
+
+📝 Kestrel’s eyes lift briefly at that, then settle again—filed, not fretted.
+
+🔥 IRIX | "resolved" [🔥]
+
+📝 Irix inhales once, slow. Her shoulders stay square.
+
+📝 RANDOM TURN (Difficulty 3): A faint vibration passes through the chamber door—raised voices in the hall, abruptly cut. A marshal’s boots cross, stop, then move on. Whatever was about to spill did not.
+
+🛡️ GUILD MARSHAL | "firm" [🛡️]
+
+📝 He closes the folio with finality.
+
+💬 “For now, you move openly.”
+💬 “Stay inside Guild roads. Announce arrivals.”
+💬 “If they press again, I want it loud.”
+
+📝 His eyes flick—briefly—to the window, then back.
+
+💬 “And if you’re wrong…”
+💬 “We’ll know soon.”
+
+Rain resumes its patient rhythm, as if agreeing to keep count.
+
+TAGS: [000017]
+
+🏛️ "HARROWFEN ADVENTURERS’ GUILD — MARSHAL’S CHAMBER" | 🌧️ "RAINING SOFTLY" | 🌤️ "MORNING, 08:08" | 📅 "26/04/1427"
+Scene Title: Lines That Hold
+
+Rain draws thin paths down the window, each one finding its own way. The oathwood desk seems darker now, as if it has decided to remember this part.
+
+🔥 JAYSON | "steadfast" [🔥]
+
+📝 You nod and set a hand on Irix’s shoulder—firm, present.
+
+💬 “I will protect her.”
+💬 “She is my friend now.”
+
+🔥 IRIX | "moved" [🔥]
+
+📝 Irix stiffens for half a breath—then eases into the contact. Her chin lifts a fraction. She does not look away.
+
+🛡️ GUILD MARSHAL | "resolved" [🛡️]
+
+📝 The Marshal watches the contact, not the words. He nods once, satisfied with what he sees rather than what he hears.
+
+💬 “Then the Guild recognizes that bond.”
+💬 “Harm to her is now a Guild matter while you’re under our roads.”
+
+📝 He turns a page and adds a single line—short, decisive—then sands the ink.
+
+🗡️ KESTREL | "affirmed" [🗡️]
+
+📝 Kestrel’s posture loosens a hair. She shifts just enough to stand with you, not behind.
+
+📝 RANDOM TURN (Difficulty 3): Outside, the bell tolls once—an unscheduled ring. A runner’s steps hurry past the chamber, then slow. News is moving again, but it’s moving with the Guild this time.
+
+The rain keeps falling. The line has been drawn where everyone can see it.
+
+TAGS: [000018]
+
+🏛️ "HARROWFEN ADVENTURERS’ GUILD — MARSHAL’S CHAMBER" | 🌧️ "RAINING SOFTLY" | 🌤️ "MORNING, 08:08" | 📅 "26/04/1427"
+Scene Title: Doors That Notice Interest
+
+Rain ticks once against the windowframe, then fades into the room’s quiet. The oathwood desk creaks softly as the Marshal shifts his weight—old wood responding to old routes opening.
+
+🔥 JAYSON | "hopeful" [🔥]
+
+💬 “We’re going to stick around town for a bit.”
+💬 “I heard there might be some mages here looking for students for the University in the capital.”
+
+📝 You grin.
+
+🛡️ GUILD MARSHAL | "alert" [🛡️]
+
+📝 The Marshal’s eyes sharpen—not surprised, but attentive.
+
+💬 “There are.”
+💬 “They don’t advertise loudly.”
+
+📝 He taps the desk once with a knuckle—measured.
+
+💬 “Three delegations passed through this tenday.”
+💬 “One left. One stayed quiet.”
+💬 “One is still deciding who’s worth noticing.”
+
+🗡️ KESTREL | "curious" [🗡️]
+
+📝 Kestrel tilts her head a fraction, filing the cadence of that answer.
+
+🔥 IRIX | "careful" [🔥]
+
+📝 Irix’s fingers curl briefly at her side—interest contained, not chased.
+
+📝 RANDOM TURN (Difficulty 3): A pulse of pressure passes through the room—subtle, wrong for stone and rain. Not magic cast here, but magic arriving nearby. The Marshal feels it too; his gaze flicks to a sigil on the wall that warms a shade brighter, then cools.
+
+🛡️ GUILD MARSHAL | "decisive" [🛡️]
+
+📝 He reaches into a drawer and produces a narrow token—unmarked, matte, warm to the touch.
+
+💬 “If you intend to be seen…”
+💬 “Attend the midday circuit in the outer hall.”
+💬 “Say nothing impressive.”
+💬 “Let them look.”
+
+📝 He sets the token on the desk, sliding it forward just enough.
+
+💬 “Capital eyes prefer candidates who don’t perform when asked.”
+
+Rain resumes its patient rhythm. Somewhere in Harrowfen, interest has just learned your names.
+
+TAGS: [000019]
+
+🏛️ "HARROWFEN ADVENTURERS’ GUILD — MARSHAL’S CHAMBER" | 🌧️ "RAINING SOFTLY" | 🌤️ "MORNING, 08:08" | 📅 "26/04/1427"
+Scene Title: Leave Taken, Eyes Kept
+
+The chamber exhales. The rain beyond the window steadies, like a ledger finding its line. The oathwood desk no longer leans forward; it waits.
+
+🔥 JAYSON | "grateful" [🔥]
+
+💬 “Thanks, Marshal.”
+💬 “Are we dismissed?”
+
+📝 You nod once, smiling.
+
+🛡️ GUILD MARSHAL | "final" [🛡️]
+
+📝 The Marshal inclines his head a fraction—enough to count.
+
+💬 “You are.”
+💬 “Midday circuit.”
+💬 “Stay visible.”
+
+📝 He stands, signaling the end without ceremony, and opens the door himself—an intentional courtesy.
+
+🗡️ KESTREL | "ready" [🗡️]
+
+📝 Kestrel rises smoothly, already aligned to the exit, attention back on corridors and corners.
+
+🔥 IRIX | "steadied" [🔥]
+
+📝 Irix follows, shoulders square. She passes the threshold without hesitation.
+
+📝 RANDOM TURN (Difficulty 2): As the door swings wide, a ripple of hush rolls through the outer hall—eyes lift, then drop. Somewhere above, a bell is not rung. Someone chose patience.
+
+📝 The corridor receives you—lampwarm, narrow, and aware.
+
+TAGS: [000020]
