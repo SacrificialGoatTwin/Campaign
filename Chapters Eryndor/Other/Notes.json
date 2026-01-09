@@ -1,10 +1,4 @@
 {
-  "powers": [
-    {
-      "name": "Spark",
-      "description": "A seed. Small. It grows only when you spend yourself for others—or survive what should have ended you."
-    }
-  ],
   "locations": [
     {
       "name": "Harrowfen",
@@ -168,6 +162,16 @@
       "name": "Marlen Voss",
       "species": "Human",
       "notes": "Guild scribe; mole."
+    },
+    {
+      "name": "Irix",
+      "species": "Demon",
+      "notes": "New companion."
+    },
+    {
+      "name": "Rell",
+      "species": "Human",
+      "notes": "Scout for the university."
     }
   ],
   "places": {

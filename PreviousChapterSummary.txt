@@ -68,172 +68,197 @@ https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/I
 [PREVIOUS CHAPTER SUMMARY]
 ==========================
 CAMPAIGN SUMMARY
-CHAPTER 6 — ERYNDOR
-TAGS: [000001] → [000161]
+CHAPTER 7 — ERYNDOR
+TAGS: [000001] → [000154]
 ==========================
 
-SETTING & START STATE
----------------------
-• Date: 25/04/1427 (Eryndor calendar)
+DATE & TIME
+-----------
+• Date: 26/04/1427 (Eryndor calendar)
 • Time: Morning → Late Night
-• Location start: Outside Harrowfen Gate
-• Party: Jayson (PC), Kestrel (C-rank), Irix (unranked anomaly)
-• Objective: Travel to Grey-moss Depths (fresh C-rank dungeon) to complete Jayon's advancement requirements
+• Weather: Persistent rain, easing toward night
+• Primary Locations:
+  - Harrowfen (Guild Hall, Tailor, Market District)
+  - Large central inn hosting adventurers & university scouts
+  - Court Park (near the Guild)
+  - Copper Finch Inn (party’s lodging)
 
-Jayson is emotionally stabilized after confirmation that his four wives (Ayaka, Shion, Seika, Lysera) are alive. Irix’s true nature is known only to Jayson at the start of the chapter. Kestrel is unaware initially.
-
----------------------------------
-ROAD TO GREY-MOSS DEPTHS
----------------------------------
-• The party leaves Harrowfen calmly.
-• They encounter farmers, peddlers, and signs of another adventuring group (B-rank party previously humiliated at the Guild).
-• Jayson identifies tracks and scents indicating the B-rank group is nearby.
-• A confrontation occurs:
-  - The B-rank party initiates aggression.
-  - Jayson deliberately provokes them to disrupt coordination.
-  - Magic is exchanged (fire, spatial effects); Jayson is visibly excited by spellcasting.
-  - Jayson disarms and humiliates the warrior without lethal force.
-  - Emotional confrontation reveals the B-rank warrior’s resentment and inferiority complex.
-  - Jayson de-escalates philosophically, reframing skill, achievement, and rage.
-• A rogue from the B-rank party attempts to take Irix hostage.
-• Irix’s hood falls, revealing her non-human nature.
-• Jayson intervenes at lethal speed, forcing the rogue to choose between release and death.
-• The rogue releases her.
-• Jayson publicly rejects racial judgment and protects Irix.
-• The B-rank party withdraws shaken; the rogue later deserts them.
-• Trust between Kestrel and Irix deepens.
-
----------------------------------
-SLAVER CARAVAN INCIDENT
----------------------------------
-• The party encounters a large slaver caravan (≈25 infantry + leadership).
-• Slavers show interest in Irix.
-• Jayson attempts verbal deterrence.
-• Slavers escalate to violence.
-• Jayson engages fully:
-  - Displays nine tails.
-  - Executes ~12 slavers rapidly and precisely.
-  - Uses Kestrel’s sword and his katana simultaneously.
-• Jayson gives Irix agency:
-  - Asks if she wants the rest dead.
-  - She chooses mercy.
-• Remaining slavers are forced to retreat.
-• Slaves are freed, given supplies, instructed to report to the Guild.
-• Evidence is destroyed.
-• Jayson sustains a bolt wound; healed later by a healer from the B-rank party.
-• Guild patrol is notified and informed.
-• Reputation impact: Jayson is now a known extreme-force actor.
-
----------------------------------
-GREY-MOSS DEPTHS DUNGEON
----------------------------------
-• Party enters dungeon.
-• Environmental hazards: slick stone, deep water.
-• Jayson carries Irix and Kestrel through water safely.
-• Subtle unseen/ethereal threats detected but not engaged.
-• Dungeon reacts to **intent** rather than violence.
-• Final chamber separates the party:
-  - Jayson is isolated with the dungeon “boss” / intelligence.
-  - The entity tempts conquest and power.
-• Jayson rejects domination.
-• He chooses the safety of Kestrel and Irix over dungeon rewards.
-• Dungeon releases them unharmed.
-• Dungeon considered completed.
-• Party exits safely.
-
----------------------------------
-RETURN TO HARROWFEN & GUILD
----------------------------------
-• Party reports dungeon completion.
-• Jayson receives updated plaque (F-rank progressing).
-• Kestrel confirmed C-rank.
-• Irix registers with the Guild:
-  - Rejects the term “Demon”.
-  - Declares a rare, noble lineage (recognized by clerk).
-• Unsavory comments are made by bystanders.
-• Jayson dismisses them theatrically, reinforcing pride and belonging.
-• Irix gains Guild protection status.
-• Party shares food and reviews Jayon's menu/“Spark” growth.
-
----------------------------------
-NIGHT INCIDENT — ASSASSINATION ATTEMPT
----------------------------------
-• On the way to an inn, unknown agents attempt “verification” of Irix.
-• Jayson senses danger and secures four rooms under false allocation.
-• Party barricades in a private room.
-• Professional assassins infiltrate:
-  - At least two high-tier assassins.
-  - Several operatives.
-  - One leader (“Observer”).
-• It is revealed:
-  - Irix is a **continuity anchor** — a living reference point stabilizing reality across resets.
-  - She is sought by collectors, capitals, and higher systems.
-• Jayson blindfolds himself to reduce variables.
-• Combat erupts:
-  - Extreme close-quarters fighting.
-  - Jayson throws one assassin through a window.
-  - Kestrel holds the hallway against another.
-  - Irix is briefly captured and dragged by her horns.
-  - Jayson retrieves his katana intentionally and cuts her free.
-• Jayson positions himself as a literal gate between Irix and attackers.
-• The Observer attempts withdrawal.
-• Jayson throws his katana down the hall:
-  - The Observer escapes but loses an ear.
-  - Message delivered: “I am coming.”
-
----------------------------------
-AFTERMATH & EMOTIONAL RESOLUTION
----------------------------------
-• Guild arrives; scene secured.
-• Jayson gives a full, honest report.
-• Incident sealed officially.
-• Party relocates to a new room.
-• After adrenaline fades, Irix breaks down emotionally:
-  - Years of running.
-  - Fear, exhaustion, resentment of being “important”.
-• Jayson physically comforts her:
-  - Lifts her into his lap with tails.
-  - Includes Kestrel physically and emotionally.
-  - Reframes fear as survival, not weakness.
-• Jayson acknowledges partial responsibility for exposure.
-• Reframes openness as power: enemies are now visible.
-• Mood lightens with humor:
-  - Teasing about wings.
-  - Gentle jokes.
-  - Future plans (clothes tailored for Irix, capital travel).
-• Trust solidifies:
-  - Irix accepts she is no longer alone.
-  - Kestrel accepts Irix fully.
-• The three fall asleep together safely.
-• No further incidents overnight.
-
----------------------------------
-END STATE (FOR NEXT CHAPTER)
----------------------------------
-• Party cohesion: STRONG
-• Irix status:
-  - Guild-registered under noble lineage.
-  - Known continuity anchor.
-  - Actively targeted by high-level actors.
-• Jayson status:
-  - Reputation escalated significantly.
-  - Known to assassins and higher systems.
-  - Spark evolving; power returning in nontraditional ways.
-• Kestrel status:
-  - Fully committed to the group.
-  - Witnessed Jayon's true lethality.
-• Narrative threads active:
-  - Continuity systems aware of Jayson.
-  - Collectors and capitals will respond.
-  - “I am coming” message delivered.
-  - Capital / University of Magic planned.
-  - Irix no longer hiding — protected openly.
+PARTY
+-----
+• Jayson (PC) — Kitsune anomaly, diminished power, extreme restraint/lethality
+• Kestrel — C-rank adventurer, disciplined, observant, trusted ally
+• Irix — Serathi (misidentified by many as “demon”), continuity anchor, wings hidden, new Guild protection
 
 ==========================
-END OF CHAPTER 6 SUMMARY
+MORNING & DAY EVENTS
 ==========================
 
+• Party wakes at Copper Finch Inn after assassination attempt the night before.
+• Jayson reassures Irix about her horns and healing; swelling is gone.
+• Party heads to Guild Hall to report the assassination attempt.
+• Racist remarks from other adventurers occur; Jayson deflects with humor and provocation rather than violence.
+• Marshal interviews the party:
+  - Unknown religiously dressed figures attempted to “verify” Irix.
+  - Assassins identified as a professional guild outside Guild authority.
+  - No emblems, strong confidence, organized withdrawal.
+• Jayson openly declares Irix under his protection.
+• Party plans to stay in Harrowfen due to rumors of University of Magic recruiters.
 
+==========================
+TAILOR & Irix’s NEW CLOTHING
+==========================
+
+• Party visits a tailor experienced with non-humans.
+• Irix receives:
+  - Custom clothing for digigrade legs, tail, and wings
+  - Comfortable footwear designed to protect pads while leaving claws free
+• Jayson is openly fascinated by Irix’s feet (playful, non-sexual curiosity).
+• Tailor crafts items same-day using dungeon leather provided by Jayson.
+• Jayson commissions cloaks for Kestrel and Irix and tips generously.
+• Irix gains visible confidence from clothing that finally fits her body.
+
+==========================
+UNIVERSITY HALL & SPARK USE
+==========================
+
+• Party waits in a massive hall filled with mana and high-ranking adventurers.
+• Jayson upgrades Spark:
+  - Chooses Hearthbound and Heatwave.
+• Jayson experiments with Hearth magic:
+  - Discovers it can act as a thermal container.
+  - Learns to heat and cool air inside controlled zones.
+• Jayson experiments with mana mechanics:
+  - Creates a leather “filter” that condenses ambient mana into liquid form.
+  - Produces extremely pure white/silver mana.
+  - Uses it to power a self-made stone interface (holographic projection of party).
+• Jayson realizes this level of mana manipulation would draw attention and destroys the filter afterward.
+
+==========================
+MARKET & ESCALATING HOSTILITY
+==========================
+
+• Party walks through market district under Hearth rain-shield.
+• Irix receives heavy stares and racist comments due to her exposed appearance.
+• Jayson intervenes with theatrical provocation instead of violence.
+• Jayson gifts Irix a horn ornament, custom-shaped and optional.
+• Mood remains light, but hostility around them increases.
+
+==========================
+THE INN INCIDENT (MAJOR ESCALATION)
+==========================
+
+• Party enters a massive inn crowded with high-ranking adventurers and scouts.
+• Racism toward beastfolk and Serathi escalates.
+• Jayson uses:
+  - Sexualized mockery
+  - Literal interpretation of insults
+  - Social humiliation
+• A known high-ranking adventuring group becomes openly hostile.
+• They attempt intimidation, then surround the party.
+
+==========================
+COURT PARK CONFRONTATION
+==========================
+
+• Hostile adventurers lure the party outside.
+• Their intent becomes explicit:
+  - Threats to drain Irix’s mana (equivalent to blood).
+  - Threats to break her legs.
+  - Threats to make Jayson watch.
+• Jayson shifts from joking to silent, controlled violence.
+• Combat:
+  - Jayson disables multiple attackers non-lethally.
+  - Splits the leader’s steel chest plate cleanly in half.
+  - Uses tails and terrain as weapons.
+  - Kestrel controls flanks and disarms attackers.
+• City guards arrive mid-confrontation.
+• Jayson de-escalates verbally:
+  - Frames the scene as an apology.
+  - Forces the aggressors to kneel and apologize to Irix.
+• Guards order all aggressors to report to the Guild Marshal at first bell.
+• Incident is officially recorded.
+
+==========================
+RETURN TO COPPER FINCH INN
+==========================
+
+• Party returns safely to their rooms.
+• Jayson apologizes to Irix for frightening her.
+• Lighthearted teasing about her height follows.
+• Jayson collapses onto the floor from exhaustion.
+
+==========================
+INTIMATE, QUIET CHARACTER MOMENTS
+==========================
+
+• Jayson removes boots, relaxes, and openly admires:
+  - Kestrel’s ears
+  - Irix’s paws
+• Boundaries and consent are explicitly discussed:
+  - Kitsune tails are sacred and soul-linked.
+  - Jayson is an exception and allows free contact.
+• Irix reveals her wings privately:
+  - Functional for short flight and gliding.
+  - Culturally significant—symbol of rank, bloodline, and expectation.
+• Jayson explains Kitsune tail culture:
+  - Tails earned through trials.
+  - Born with 9 tails (extremely rare).
+  - Gained a 10th, later sacrificed to create a homeland for his people.
+• Mutual understanding forms between Jayson and Irix regarding bodily symbolism and burden.
+
+==========================
+EMOTIONAL RESOLUTION
+==========================
+
+• Jayson declares his long-term intent:
+  - To make Eryndor safe from discrimination and hate once his power returns.
+  - This is the reason he was sent to this world.
+• Kestrel acknowledges belief in him.
+• Irix feels seen and respected rather than targeted or hidden.
+
+==========================
+NIGHT & SLEEP
+==========================
+
+• Jayson falls asleep mid-conversation from exhaustion.
+• Irix and Kestrel talk privately:
+  - Pasts, family, conditional love, survival strategies.
+  - No discussion about Jayson.
+  - Mutual trust forms.
+• Jayson sleep-talks nonsense involving:
+  - Dumplings
+  - Fish wagons
+  - Rats that eat stress
+• His tails drape protectively over both women.
+• Eventually, Jayson enters deep REM sleep.
+• Ward settles into night-cycle.
+• Scene ends in safety, calm, and trust.
+
+==========================
+END STATE FOR NEXT CHAPTER
+==========================
+
+• Party cohesion: VERY STRONG
+• Irix:
+  - Fully equipped with proper clothing and shoes
+  - Wings known privately
+  - Gaining confidence and trust
+• Kestrel:
+  - Deepened trust in Jayson
+  - Bond formed with Irix independently
+• Jayson:
+  - Demonstrated extreme restraint despite overwhelming power
+  - Publicly recorded incident against racist A-rank adventurers
+  - Clear ideological mission stated
+• Narrative Threads Active:
+  - University of Magic recruitment
+  - Guild repercussions for hostile adventurers
+  - Growing reputation of Jayson as controlled but terrifying
+  - Long-term goal: reshaping Eryndor’s social order
+
+==========================
+END OF CHAPTER 7 SUMMARY
+==========================
 
 [ENFORCEMENT ANCHORS — READ FIRST]
 PC SANCTITY: Do not add/answer/invent for Jayson. Only micro grammar fixes; my lines are stage directions.
@@ -246,7 +271,9 @@ Use the correct #, ## and ###
 
 [START NEXT CHAPTER NOW]
 This is the world of Eryndor. This will be Chapter 7
-Lets continue from where we left off, dont confirm, just start, TAGS: [000001], 07:00 26/04/1427 on Eryndor. Raining softly 
+Lets continue from where we left off, dont confirm, just start, TAGS: [000001], 07:00 27/04/1427 on Eryndor. Raining softly 
 Inside the Copper Finch Inn, Harrowfen. Inside the room. all asleep.
-I got confirmation that my 4 wives are well and ok.
-After we got attacked by the assassins last night, Irix broke down emotionally, and I comforted her and Kestrel.
+After the confrontation with the A ranked adventurers, the party has returned to their rooms at the Copper Finch Inn.
+The rain outside patters gently against the windows, creating a soothing rhythm that contrasts with the tension of the previous day.
+The room is dimly lit by a small lantern on the bedside table, casting warm shadows on the walls.
+After we give our statements to the Guild, we need to head to East Annex about the assessments for thee university.
