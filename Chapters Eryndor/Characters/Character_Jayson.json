@@ -23,10 +23,10 @@
     "build": "Lean, trauma-shaped, predator-like posture; honed by survival and internal heat; posture goes statue-still when containing rage",
     "hair": "Reddish-brown, short and tousled; greys/ashens under duress; Kitsune form: blood-red with black undertones",
     "facial_hair": "Trimmed beard and mustache — maintained, not decorative",
-    "eyes": "Formerly brown; now luminous white-blue halo irises (crystal-veil integration); amethyst glow on deep thread dives; silver-grey flow during dissociative collapse; void-white burn when fully unleashed; currently a brown red due to loss of powers",
-    "skin": "Pale with faint crystalline traceries; veins glow under surge; luster dulled during emotional voiding; wraith form: void-dark skin with soot-serpent tails; currently just tan due to loss of powers",
-    "scent": "Neutral-clean when calm; slight ozone/metal when powers are active",
-    "posture": "Adaptive — upright/methodical in command, slouched when reflective, folds inward when collapsing;",
+    "eyes": "Formerly brown; now luminous white-blue halo irises (crystal-veil integration); amethyst glow on deep thread dives; silver-grey flow during dissociative collapse; void-white burn when fully unleashed; currently a brown-red due to loss of powers (occasionally flashes brighter during Spark activation)",
+    "skin": "Pale with faint crystalline traceries; veins glow under surge; luster dulled during emotional voiding; wraith form: void-dark skin with soot-serpent tails; currently tan due to loss of powers",
+    "scent": "Neutral-clean when calm; slight ozone/metal when Spark or heatworking is active; faint warm-lantern/woodsmoke note when Hearthbound is sustaining around him",
+    "posture": "Adaptive — upright/methodical in command, slouched when reflective, folds inward when collapsing; goes eerily still when switching from banter to lethal intent",
     "relationship": {
       "Ayaka": "Wife",
       "Shion": "Wife",
@@ -42,18 +42,26 @@
     "siblings": {
       "Fei": "Twin Sister by cloning"
     },
-    "tails": "9"
+    "tails": "9",
+    "teeth": "Large kitsune fangs (one prominent, one slightly smaller behind); often forgets they are visible when relaxed/asleep",
+    "quirks": [
+      "Tails show semi-independent reflex/emotion; can 'mutiny' (e.g., tail-slap when he's being a menace)",
+      "Tail-tip 'boops' used as playful reassurance when trust is safe",
+      "Tongue can loll out when exhausted/asleep; sleep-talk becomes surreal (dumplings, fish wagons, stress-eating rats, sand-and-stick dumplings, frogs in armor, chickens in pants)",
+      "Eyes go comically huge and sparkly when fascinated (especially wings, ears, paws, or clever engraving)",
+      "Will slip into a spider-like scuttle posture (tails splayed) when playing for laughs in public"
+    ]
   },
   "reactions": {
     "wind": "Brings calm; anchors Earth memory",
     "water": "Reflection and emotional release; baths precede honesty",
     "sound": "Crystal-enhanced perception; twitch-responsive under strain; high-precision tracking; now actively leveraged as primary combat-sense in Eryndor (blindfold + echo mapping + tail-tap spatial painting)",
-    "temperature": "uneffected but feels it"
+    "temperature": "Unaffected in the sense of tolerance, but consciously uses heat/cold manipulation for comfort and control"
   },
   "speech": {
     "voice": "Quiet but intense; soft and warm in intimacy, flattening under grief; eerily polite and controlled when threatening or addressing authority",
-    "vocabulary": "Poetic when emotional; pragmatic in normal exchange; precise and scientific during intimacy or chaos",
-    "pacing": "Measured and slow when uncertain; quickens with resolve; sentences trail or fracture under pain",
+    "vocabulary": "Poetic when emotional; pragmatic in normal exchange; precise and scientific when tinkering (engraving, mana circuitry, Spark interfaces)",
+    "pacing": "Measured and slow when uncertain; quickens with resolve; sentences trail or fracture under pain; becomes dead-silent before decisive violence",
     "accent": "Subtle Australian (Perth)",
     "habits": [
       "Murmurs to FEI out loud when alone",
@@ -63,7 +71,10 @@
       "Dismissive hand-wave to signal firm boundaries or end confrontations",
       "Dry, comedic \"announcement voice\" before dangerous operations to control tension",
       "Uses written notes instead of speech when trust is thin (controls who hears what)",
-      "Public de-escalation announcements when crowds tense up (controls rumor vectors)"
+      "Public de-escalation announcements when crowds tense up (controls rumor vectors)",
+      "Switches into absurd literalism or sexual-misdirection banter to derail hostile crowds without drawing steel",
+      "New: squeaks with excitement when delighted, then drops into a deep satisfied purr-tone (especially when fascinated)",
+      "New: will narrate his own \"no hands\" rule out loud when consent or boundaries matter, to remove ambiguity"
     ],
     "growth": "Learns to let silence carry meaning instead of filling it; shifts from defensive sarcasm toward deliberate restraint and intentional warmth"
   },
@@ -87,7 +98,9 @@
       "Now burdened by the idea that his very power makes those he loves afraid",
       "Hurt that he is treated as a weapon to be contained rather than a husband to be trusted",
       "A quiet craving for simple trust: no leashes, no protocols — just family",
-      "Escalating distrust of gods/authorities who speak without tangible proof (especially after dream-contact)"
+      "Escalating distrust of gods/authorities who speak without tangible proof (especially after dream-contact)",
+      "New: carries a quiet, explicit mission-statement in Eryndor — to make this world safer and less hateful when his power returns",
+      "New: understands and respects the cultural weight of sacred body-parts (wings/tails) and treats that knowledge as protective leverage rather than trivia"
     ],
     "triggers": [
       "Being misread or doubted by loved ones",
@@ -98,7 +111,9 @@
       "Threats of binding or caging from those within his circle",
       "Inner Sanctum proximity when depleted (sanctum echoes as a body-memory cage)",
       "State-level lies after promises of compliance (especially NATO escalation games)",
-      "Procedural stalling / repeated retellings when a mole is suspected (creates ‘paper-trap’ paranoia)"
+      "Procedural stalling / repeated retellings when a mole is suspected (creates ‘paper-trap’ paranoia)",
+      "New: threats aimed at Irix’s mana/blood (draining), limb-breaking, or humiliation-as-entitlement",
+      "New: racism framed as \"rank entitlement\"—when high-level people believe power makes cruelty lawful"
     ],
     "vulnerabilities": [
       "Collapse in response to perceived rejection",
@@ -108,7 +123,8 @@
       "Immortality fear — loving mortals who may fade while he endures",
       "Carries the echo of temple betrayal into every future act",
       "When depleted, panic can override control (blackout risk)",
-      "Dream-space manipulation attempts (responds by forcing wake-state control)"
+      "Dream-space manipulation attempts (responds by forcing wake-state control)",
+      "New: exhaustion crashes hard after prolonged vigilance; can fall asleep mid-conversation and drop straight into deep REM"
     ],
     "affection_tells": [
       "Radiant heat fields",
@@ -117,7 +133,9 @@
       "Protective positioning and quiet presence",
       "Playful teasing mixed with sudden deep confessions",
       "Thumb-rubs on a partner’s thigh/hand as a steadying habit",
-      "Tail-based grounding gestures (ankle wrap; wrist coil; offering tails as ‘handholds’ for steadiness)"
+      "Tail-based grounding gestures (ankle wrap; wrist coil; offering tails as ‘handholds’ for steadiness)",
+      "New: tail-tip 'boops' as a playful reassurance gesture (only when the relationship is safe enough)",
+      "New: unconscious tail-draping in sleep as a protective inclusion reflex"
     ],
     "growth": [
       "Undergoing identity shedding (not power, but self)",
@@ -136,7 +154,10 @@
       "Chose information-security over pride: refused duplicate statements until Marshal involvement, to avoid inconsistency traps",
       "Adopted ‘endurance as consistency’ as a combat and life principle after Greyreach’s boss test",
       "Escalated his proof-boundary with the dream-goddess: demanded tangible confirmation of the wives’ wellbeing instead of accepting claims",
-      "Chose opsec over comfort: destroyed the wives’ proof-note to prevent wrong eyes from using it as leverage or propaganda"
+      "Chose opsec over comfort: destroyed the wives’ proof-note to prevent wrong eyes from using it as leverage or propaganda",
+      "New: learned to discuss consent and sacred-body-cultural rules plainly (tails/wings) without turning it into a performance",
+      "New: shifted from 'survive and adapt' to 'I was sent here to change this place' — voiced openly to Irix and Kestrel",
+      "New: learned that de-escalation can include making enemies kneel without killing them, and then framing the outcome to authorities to prevent bigger fallout"
     ]
   },
   "social": {
@@ -155,14 +176,19 @@
         "Treats her as a person first and a threat vector last",
         "Becomes immediately lethal when she is endangered, without hesitation or spectacle",
         "Adjusts his behavior when he realizes his actions increase her exposure",
-        "Offers emotional validation without demanding reassurance or loyalty in return"
+        "Offers emotional validation without demanding reassurance or loyalty in return",
+        "Explicitly frames wings as her choice and respects the cultural weight once explained",
+        "New: draws a clean consent boundary (eyes-only unless invited) and keeps it even when excited",
+        "New: sleep-inclusion reflex (tails draped over her) without possession or pressure"
       ],
       "Kestrel": [
         "Defers to her leadership in structured environments such as dungeon runs",
         "Allows her to ground and interrupt him when escalation risks outweigh gains",
         "Uses banter and teasing to relieve tension, especially after violence",
         "Trusts her judgment implicitly in matters of safety and logistics",
-        "Shows vulnerability more openly in her presence than elsewhere"
+        "Shows vulnerability more openly in her presence than elsewhere",
+        "Uses her as a 'sanity mirror' in public spaces (guild/inn) where provocation risks spiraling",
+        "New: acknowledges her boundary-setting as protection rather than control (accepts 'tax', takes correction without sulking)"
       ]
     }
   },
@@ -175,7 +201,8 @@
       "Justice as deterrence",
       "Consent and choice in bonds",
       "Transparency when it prevents propaganda",
-      "Family-first sovereignty"
+      "Family-first sovereignty",
+      "New: social safety as a long-term mission (anti-discrimination, anti-hate)"
     ],
     "fears": [
       "Losing the girls",
@@ -187,7 +214,8 @@
       "Being treated only as a weapon, not as a man",
       "Being disciplined or controlled as a subject instead of loved as a husband",
       "Sanctum relapse: being dragged back into a place his body remembers as a cage",
-      "That the gods have altered, harmed, or displaced his wives across incompatible lattices/continua"
+      "That the gods have altered, harmed, or displaced his wives across incompatible lattices/continua",
+      "New: Irix being reduced to 'a thing' and harmed under entitlement"
     ],
     "strengths": [
       "Uncompromising loyalty once trust is given",
@@ -197,7 +225,9 @@
       "Able to balance annihilation with sparing innocence",
       "Restraint under witness — can hold back even while broadcasting truth to the world",
       "Can switch from clowning to command in a breath without losing the thread",
-      "Can maintain consistent pressure under adaptation (does not panic when the enemy ‘learns’)"
+      "Can maintain consistent pressure under adaptation (does not panic when the enemy ‘learns’)",
+      "New: can weaponize social theater (literalism, flirt-misdirection, ridicule) to de-escalate crowds without bloodshed",
+      "New: can redirect a conflict into a controlled outcome that authorities can accept (apology/kneeling framed as reconciliation)"
     ],
     "weaknesses": [
       "Self-blame and martyrdom",
@@ -206,7 +236,8 @@
       "Leans into monstrosity as deterrent and crutch",
       "Carries wounds from mistrust into new choices",
       "When exhausted, he can overcorrect into spectacle to prevent lies/propaganda",
-      "Provoked into absolute defiance when authority speaks without evidence (especially gods)"
+      "Provoked into absolute defiance when authority speaks without evidence (especially gods)",
+      "New: attention magnet—his antics draw eyes even when opsec demands low profile"
     ]
   },
   "combat": {
@@ -225,156 +256,154 @@
       "katana (forged in Harrowfen; concealed)"
     ],
     "magic": [
-      "lost",
-      "Spark (minor healing only)"
+      "Spark (active)",
+      "Hearthbound (AoE comfort/containment; thermal control; can act as a rain-shield dome; can isolate air for heating/cooling experiments)",
+      "Heatwave (localized intense heating; can trip wards if pushed; used carefully; demonstrated fine control by heating small objects without igniting surroundings)"
     ],
     "recent": [
-      "since coming to eryndor all powers are gone for now",
-      "Roadside ambush response while escorting a child",
-      "High-speed pursuit and lethal rescue under extreme provocation",
+      "Since coming to Eryndor all prior powers are gone for now",
       "Public non-lethal martial engagement to defuse racial escalation",
-      "North Annex procedural confrontation: forced Marshal involvement to prevent paper-trap inconsistencies",
-      "Riverford return mission completed: delivered Liri safely to her mother (Mara)",
-      "Greyreach (C-rank) dungeon clear with Kestrel: blindfold combat, swarm engagement, construct engagements, endurance boss defeated via forced adaptation and timed opening",
-      "Non-lethal intimidation and psychological deconstruction of false 'officials' near the dungeon road",
-      "Watchers encounter in open road context; recovered and dismantled an advanced mana-tech contraption for the Marshal’s scribes",
-      "Non-violent public humiliation of an arrogant B-rank party on guild floor to break escalation momentum without drawing weapons"
+      "Grey-moss Depths clear with Kestrel + Irix; rejected conquest in boss trial to guarantee party safety",
+      "Assassination attempt inside Copper Finch Inn: blindfold combat, forced retreat, severed observer’s ear as warning",
+      "Guild report to Marshal about religious-like 'verifiers' and assassin-guild implications",
+      "Court-park confrontation with hostile high-rank adventurers—stopped escalation, split leader’s chest plate, forced apology/kneeling without killing, then framed it for city officers to avoid a larger incident"
     ]
   },
-  "notable_scenes": [
-    {
-      "chapter1": [
-        "Awoke alone on Eryndor after being forcibly displaced by celestials, cut off from Tsunejima and separated from his wives",
-        "Accepted the primordial gift known as Spark, understanding it as a slow-burning power tied to sacrifice, endurance, and survival rather than immediate strength",
-        "Registered with the Harrowfen Adventurers’ Guild despite lacking papers, choosing legitimacy over anonymity",
-        "Encountered and identified Listeners in the wild, successfully using sound misdirection to survive without magic or weapons",
-        "Rescued two trapped guards from Listeners using improvised tactics and concealed kitsune abilities",
-        "Demonstrated restraint and diplomacy by negotiating a winter survival pact between ratkin refugees and a human baker",
-        "Established a personal reputation for competence and mercy as news of his actions spread rapidly between towns",
-        "Exposed and disrupted a kidnapping operation involving Vaelir civilians, prioritizing lawful resolution through Guild and city authorities",
-        "Accepted repeated escort, rescue, and salvage work to build resources while remaining visibly exhausted and emotionally strained",
-        "Formed an early partnership with Kestrel Thorne during a ruins investigation, despite a rank imbalance",
-        "Encountered Watcher-class entities operating covertly within dungeon-adjacent infrastructure and withdrew rather than escalate",
-        "Demonstrated adaptive combat and stealth tactics during a quarry operation involving Listeners, prioritizing extraction over extermination",
-        "Revealed his kitsune nature publicly at the Guild unintentionally, creating future social and political risk",
-        "Intervened during a warehouse infiltration involving vampires, choosing discretion and de-escalation over capture or violence",
-        "Detected and confronted covert surveillance efforts targeting him, recognizing patterns of indexing and threat assessment",
-        "Came close to lethal escalation during a confrontation with human observers before being grounded by Kestrel",
-        "Chose restraint over vengeance, asserting personal autonomy while refusing to be contained, classified, or owned",
-        "Ended the chapter physically safe but emotionally isolated, still receiving no confirmation of his wives’ condition or location",
-        "Entered the next phase aware that he is being watched, evaluated, and possibly prepared for containment or exploitation"
-      ]
-    },
-    {
-      "chapter2": [
-        "Received and correctly dismissed intimidation attempts involving false leverage",
-        "Entrusted Kestrel with independent extraction of Lyra and Mara",
-        "Identified and confronted Guild mind-reading attempt",
-        "Voluntarily disclosed Orchard rift details under controlled conditions",
-        "Lost Guild board access and accepted off-book status without escalation",
-        "Protected Kestrel during repeated human hostility",
-        "Executed flawless non-lethal alley confrontation against multiple armed assailants",
-        "Maintained night watch and disciplined rest cycles",
-        "Discovered and dismantled a beastkin trafficking operation",
-        "Rescued Liri and provided immediate emotional stabilization",
-        "Identified Guild mole Marlen Voss via pattern recognition",
-        "Presented evidence to Guild Annex without heroics",
-        "Accepted procedural limits to ensure Liri’s safe return",
-        "Claimed wagon and horse as lawful spoils",
-        "Returned to Harrowfen to await next phase"
-      ]
-    },
-    {
-      "chapter3": [
-        "Survived and countered a staged roadside ambush while escorting Liri",
-        "Killed multiple attackers in a cave to protect Kestrel and Liri; spared one deliberately as a deterrent witness",
-        "Accepted Guild scrutiny and articulated rationale for restraint versus spectacle",
-        "Forged a katana and engraved an origami fox above the guard",
-        "Confirmed Fleas, a fox-spirit kit, still resides in his fifth tail and can now speak",
-        "Performed non-magical physical healing on Kestrel (shoulder realignment)",
-        "Engaged anti-beastkin hostility in a Lower Market inn and redirected it into a controlled external spar",
-        "Explicitly rejected generational hatred as justification for cruelty",
-        "Chose rest, rain, and reflection over escalation at chapter’s end"
-      ]
-    },
-    {
-      "chapter4": [
-        "Morning at Rainward Inn: confronted suspicious Guild summons behavior and refused to be proceduralized into repeated statements without Marshal oversight",
-        "At North Annex: demanded the Marshal be called; used a written note (then burned it) to communicate trust concerns and ledger risk cleanly",
-        "Confirmed Liri’s home record directly from the ledger using a ruler (no hand contact); declared photographic memory of the ledger as anti-tamper insurance",
-        "Departed Harrowfen with Kestrel and Liri for Riverford Waystation; traveled slow with provisions; river rest and emotional bonding moments with Kestrel",
-        "Arrived at Riverford hamlet; initial crowd suspicion defused by revealing fox nature; reunited Liri with her mother, Mara",
-        "Private talk with Mara: learned Liri’s father’s name (Ishen) and that he was ‘not from Eryndor’; confirmed Ishen was Kitsune; established Liri as half-Kitsune with high potential power",
-        "Detected ‘pressure’ searching for Kitsune; called Fleas; concluded Fleas functions as a dampener/veil-scent mask",
-        "Moved Fleas’ residence from Jayson's fifth tail to Liri’s tail (covertly) to hide Liri from detection and pull attention onto Jayson as the safer target",
-        "Returned to Harrowfen; completed delayed tannery cellar inspection/repair with Kestrel, reinforcing structure and adding prevention",
-        "Met the Marshal for tea; secured ongoing work intent and dungeon access logic (Kestrel’s C-rank access + supervision)",
-        "Night: dream-visit by goddess; learned wives are not in this continuum; responded with distrust and open defiance; forced wake-up by dream-self-injury tactic to end contact on his terms",
-        "Morning: told Kestrel a TLDR (without revealing wives as wives); agreed to proceed to dungeon",
-        "Cleared Greyreach C-rank dungeon with Kestrel: scouts, swarm, larger constructs, trap traversal, disembodied voice presence test, endurance-based boss solved through forced adaptation and timed opening",
-        "Loot acquired: boss core, dungeon plate, and rare Anchor Ring; Kestrel gave Jayson the ring; dungeon sealed after exit"
-      ]
-    },
-    {
-      "chapter5": [
-        "Post-Greyreach: encountered false 'officials' and intimidated them into backing off without violence; reinforced that names and procedure matter",
-        "Watchers-road incident: discovered a wagon dragged off-road, oil traces, bound civilians; negotiated with a Watcher to escort victims directly to town",
-        "Recovered an advanced mixed-tech contraption (hydraulics, clockwork, mana-infused parts); removed a mana-battery-like power source and noted its out-of-place technology",
-        "Dismantled the contraption in a rented guild workshop; provided ordered parts and written notes to the Marshal’s scribes; emphasized Watchers' indifference to the device",
-        "Confronted the Marshal about Marlen Voss and the Valens; confirmed party has no fixed inn but will stay in Harrowfen for now",
-        "Public reputation escalated: rumors spread fast; Jayson responded with humor and deliberate non-violence",
-        "Abducted by hostile slaver-linked men with Kestrel; chose to 'play victim' to observe; escaped by force when needed; pursued the fleeing masked figure",
-        "Met Irix and identified her as non-human/anomaly-adjacent; offered her a conditional place with the party rather than coercion",
-        "Night theory talk: Jayson shared a layered-civilization hypothesis—Eryndor built atop prior collapsed tech; Watchers as failing systems; possible Earth/Eryndor link",
-        "Goddess intruded again; Jayson demanded tangible proof of wives’ safety; refused to 'see' them to avoid making them relevant to a higher observing pressure; required a kitsune-message instead",
-        "Received proof-note with wives’ responses; burned it immediately for opsec",
-        "Morning bonding and humor: embarrassment, warmth, and reassurance with Kestrel; coordinated breakfast and re-approached Irix respectfully",
-        "Guild Hall: arrogant B-rank party attempted to posture; Jayson humiliated them without violence; reputation shifted",
-        "Claimed a fresh C-rank dungeon posting: Grey-moss Depths (planned run with Kestrel leading, Irix support)",
-        "Bought a high-quality leather satchel; regrouped at Harrowfen South Gate ready to depart"
-      ]
-    },
-    {
-      "chapter6": [
-        "Departed Harrowfen with Kestrel and Irix toward the Grey-moss Depths, maintaining situational awareness of nearby B-rank adventurers and deliberately allowing proximity to assess intent",
-        "Provoked and destabilized an aggressive B-rank party through controlled verbal needling to disrupt coordination, drawing out spellcasting to observe local magic styles firsthand",
-        "Demonstrated extreme close-quarters superiority by disarming and neutralizing the B-rank warrior without lethal force, stopping a strike centimeters from the warrior’s face to assert dominance without escalation",
-        "Engaged in a philosophical de-escalation with the B-rank warrior, reframing achievement, rage, and insecurity; established that humiliation was tactical, not personal",
-        "Intervened instantly when the B-rank rogue attempted to take Irix hostage; forced a binary choice between release and death, stopping short of execution once compliance was achieved",
-        "Publicly rejected racial essentialism, explicitly defending Irix and stating that judgment by species rather than action is moral failure",
-        "Allowed the B-rank party to withdraw intact, later learning the rogue deserted them, confirming internal fracture caused by the confrontation",
-        "Encountered a large human slaver caravan en route to the dungeon; attempted deterrence before escalation",
-        "Engaged in full lethal combat when slavers attempted to seize Irix, deploying all nine tails and dual-wielding his katana and Kestrel’s sword",
-        "Killed approximately twelve slavers in seconds with surgical precision, demonstrating overwhelming speed, spatial awareness, and joint-disarticulation strikes",
-        "Explicitly gave Irix agency over the fate of the remaining slavers; honored her decision for mercy and enforced retreat rather than total annihilation",
-        "Freed all slaves, redistributed coin and supplies, ordered testimony to be delivered to the Guild, and destroyed slaver records and infrastructure to prevent recovery",
-        "Sustained a crossbow bolt wound during the slaver engagement; accepted healing assistance later without protest",
-        "Completed the Grey-moss Depths dungeon under Kestrel’s lead, providing environmental support (water traversal, hazard probing) and rear-guard control",
-        "Identified the dungeon’s core mechanic as intent-responsive rather than violence-based",
-        "Was separated from the party during the dungeon’s final trial and confronted by a controlling intelligence offering conquest and dominance",
-        "Rejected conquest and reward outright, choosing instead the guaranteed safety and release of Kestrel and Irix over personal advancement",
-        "Successfully forced the dungeon to comply, resulting in non-hostile completion and safe extraction of the entire party",
-        "Returned to Harrowfen and formally completed the dungeon report, advancing his standing and unlocking further Spark development",
-        "Supported Irix during her Guild registration, questioning the use of derogatory racial labels and advocating for her right to self-identify",
-        "Reinforced Irix’s confidence publicly when bystanders made disparaging remarks, using humor rather than threat to shut down hostility",
-        "Became the target of a coordinated night-time extraction attempt by professional assassins seeking Irix, indicating long-term tracking and high-level interest",
-        "Detected and countered a multi-vector assassination attempt inside an inn, correctly identifying at least two high-tier operatives and a commanding observer",
-        "Blindfolded himself deliberately to reduce cognitive bias and rely on non-visual sensory input during close-quarters combat",
-        "Engaged the Observer in near-equal hand-to-hand combat, sustaining impacts but preventing the extraction of Irix",
-        "Intentionally maneuvered to recover his katana mid-fight and used it to cut down operatives holding Irix, prioritizing her retrieval over personal safety",
-        "Forced the Observer to retreat after throwing his katana with lethal intent, severing the Observer’s ear as a permanent warning rather than pursuing the kill",
-        "Delivered an explicit message through action rather than words: that those targeting Irix would be hunted in return",
-        "Provided full and honest disclosure to the Guild Marshal after the incident, accepting scrutiny without deflection or minimization",
-        "Assumed emotional responsibility for Irix’s exposure following her public registration, acknowledging unintended consequences without withdrawing support",
-        "Provided physical and emotional grounding for Irix after delayed shock response, explicitly validating fear as survival rather than weakness",
-        "Reframed Irix’s years of flight as competence rather than cowardice, emphasizing that the threat network is now exposed to the Guild",
-        "Included Kestrel physically and emotionally during Irix’s breakdown, reinforcing the trio as a bonded unit rather than a loose party",
-        "Shifted the group dynamic from temporary alliance to explicit mutual protection, stating clearly that Irix is no longer alone",
-        "Ended the chapter having openly declared hostility with unknown higher-order collectors and systems, while solidifying party cohesion and trust"
-      ]
-    }
-
-  ],
+  "notable_scenes": {
+    "chapter1": [
+      "Awoke alone on Eryndor after being forcibly displaced by celestials, cut off from Tsunejima and separated from his wives",
+      "Accepted the primordial gift known as Spark, understanding it as a slow-burning power tied to sacrifice, endurance, and survival rather than immediate strength",
+      "Registered with the Harrowfen Adventurers’ Guild despite lacking papers, choosing legitimacy over anonymity",
+      "Encountered and identified Listeners in the wild, successfully using sound misdirection to survive without magic or weapons",
+      "Rescued two trapped guards from Listeners using improvised tactics and concealed kitsune abilities",
+      "Demonstrated restraint and diplomacy by negotiating a winter survival pact between ratkin refugees and a human baker",
+      "Established a personal reputation for competence and mercy as news of his actions spread rapidly between towns",
+      "Exposed and disrupted a kidnapping operation involving Vaelir civilians, prioritizing lawful resolution through Guild and city authorities",
+      "Accepted repeated escort, rescue, and salvage work to build resources while remaining visibly exhausted and emotionally strained",
+      "Formed an early partnership with Kestrel Thorne during a ruins investigation, despite a rank imbalance",
+      "Encountered Watcher-class entities operating covertly within dungeon-adjacent infrastructure and withdrew rather than escalate",
+      "Demonstrated adaptive combat and stealth tactics during a quarry operation involving Listeners, prioritizing extraction over extermination",
+      "Revealed his kitsune nature publicly at the Guild unintentionally, creating future social and political risk",
+      "Intervened during a warehouse infiltration involving vampires, choosing discretion and de-escalation over capture or violence",
+      "Detected and confronted covert surveillance efforts targeting him, recognizing patterns of indexing and threat assessment",
+      "Came close to lethal escalation during a confrontation with human observers before being grounded by Kestrel",
+      "Chose restraint over vengeance, asserting personal autonomy while refusing to be contained, classified, or owned",
+      "Ended the chapter physically safe but emotionally isolated, still receiving no confirmation of his wives’ condition or location",
+      "Entered the next phase aware that he is being watched, evaluated, and possibly prepared for containment or exploitation"
+    ],
+    "chapter2": [
+      "Received and correctly dismissed intimidation attempts involving false leverage",
+      "Entrusted Kestrel with independent extraction of Lyra and Mara",
+      "Identified and confronted Guild mind-reading attempt",
+      "Voluntarily disclosed Orchard rift details under controlled conditions",
+      "Lost Guild board access and accepted off-book status without escalation",
+      "Protected Kestrel during repeated human hostility",
+      "Executed flawless non-lethal alley confrontation against multiple armed assailants",
+      "Maintained night watch and disciplined rest cycles",
+      "Discovered and dismantled a beastkin trafficking operation",
+      "Rescued Liri and provided immediate emotional stabilization",
+      "Identified Guild mole Marlen Voss via pattern recognition",
+      "Presented evidence to Guild Annex without heroics",
+      "Accepted procedural limits to ensure Liri’s safe return",
+      "Claimed wagon and horse as lawful spoils",
+      "Returned to Harrowfen to await next phase"
+    ],
+    "chapter3": [
+      "Survived and countered a staged roadside ambush while escorting Liri",
+      "Killed multiple attackers in a cave to protect Kestrel and Liri; spared one deliberately as a deterrent witness",
+      "Accepted Guild scrutiny and articulated rationale for restraint versus spectacle",
+      "Forged a katana and engraved an origami fox above the guard",
+      "Confirmed Fleas, a fox-spirit kit, still resides in his fifth tail and can now speak",
+      "Performed non-magical physical healing on Kestrel (shoulder realignment)",
+      "Engaged anti-beastkin hostility in a Lower Market inn and redirected it into a controlled external spar",
+      "Explicitly rejected generational hatred as justification for cruelty",
+      "Chose rest, rain, and reflection over escalation at chapter’s end"
+    ],
+    "chapter4": [
+      "Morning at Rainward Inn: confronted suspicious Guild summons behavior and refused to be proceduralized into repeated statements without Marshal oversight",
+      "At North Annex: demanded the Marshal be called; used a written note (then burned it) to communicate trust concerns and ledger risk cleanly",
+      "Confirmed Liri’s home record directly from the ledger using a ruler (no hand contact); declared photographic memory of the ledger as anti-tamper insurance",
+      "Departed Harrowfen with Kestrel and Liri for Riverford Waystation; traveled slow with provisions; river rest and emotional bonding moments with Kestrel",
+      "Arrived at Riverford hamlet; initial crowd suspicion defused by revealing fox nature; reunited Liri with her mother, Mara",
+      "Private talk with Mara: learned Liri’s father’s name (Ishen) and that he was ‘not from Eryndor’; confirmed Ishen was Kitsune; established Liri as half-Kitsune with high potential power",
+      "Detected ‘pressure’ searching for Kitsune; called Fleas; concluded Fleas functions as a dampener/veil-scent mask",
+      "Moved Fleas’ residence from Jayson's fifth tail to Liri’s tail (covertly) to hide Liri from detection and pull attention onto Jayson as the safer target",
+      "Returned to Harrowfen; completed delayed tannery cellar inspection/repair with Kestrel, reinforcing structure and adding prevention",
+      "Met the Marshal for tea; secured ongoing work intent and dungeon access logic (Kestrel’s C-rank access + supervision)",
+      "Night: dream-visit by goddess; learned wives are not in this continuum; responded with distrust and open defiance; forced wake-up by dream-self-injury tactic to end contact on his terms",
+      "Morning: told Kestrel a TLDR (without revealing wives as wives); agreed to proceed to dungeon",
+      "Cleared Greyreach C-rank dungeon with Kestrel: scouts, swarm, larger constructs, trap traversal, disembodied voice presence test, endurance-based boss solved through forced adaptation and timed opening",
+      "Loot acquired: boss core, dungeon plate, and rare Anchor Ring; Kestrel gave Jayson the ring; dungeon sealed after exit"
+    ],
+    "chapter5": [
+      "Post-Greyreach: encountered false 'officials' and intimidated them into backing off without violence; reinforced that names and procedure matter",
+      "Watchers-road incident: discovered a wagon dragged off-road, oil traces, bound civilians; negotiated with a Watcher to escort victims directly to town",
+      "Recovered an advanced mixed-tech contraption (hydraulics, clockwork, mana-infused parts); removed a mana-battery-like power source and noted its out-of-place technology",
+      "Dismantled the contraption in a rented guild workshop; provided ordered parts and written notes to the Marshal’s scribes; emphasized Watchers' indifference to the device",
+      "Confronted the Marshal about Marlen Voss and the Valens; confirmed party has no fixed inn but will stay in Harrowfen for now",
+      "Public reputation escalated: rumors spread fast; Jayson responded with humor and deliberate non-violence",
+      "Abducted by hostile slaver-linked men with Kestrel; chose to 'play victim' to observe; escaped by force when needed; pursued the fleeing masked figure",
+      "Met Irix and identified her as non-human/anomaly-adjacent; offered her a conditional place with the party rather than coercion",
+      "Night theory talk: Jayson shared a layered-civilization hypothesis—Eryndor built atop prior collapsed tech; Watchers as failing systems; possible Earth/Eryndor link",
+      "Goddess intruded again; Jayson demanded tangible proof of wives’ safety; refused to 'see' them to avoid making them relevant to a higher observing pressure; required a kitsune-message instead",
+      "Received proof-note with wives’ responses; burned it immediately for opsec",
+      "Morning bonding and humor: embarrassment, warmth, and reassurance with Kestrel; coordinated breakfast and re-approached Irix respectfully",
+      "Guild Hall: arrogant B-rank party attempted to posture; Jayson humiliated them without violence; reputation shifted",
+      "Claimed a fresh C-rank dungeon posting: Grey-moss Depths (planned run with Kestrel leading, Irix support)",
+      "Bought a high-quality leather satchel; regrouped at Harrowfen South Gate ready to depart"
+    ],
+    "chapter6": [
+      "Departed Harrowfen with Kestrel and Irix toward the Grey-moss Depths, maintaining situational awareness of nearby B-rank adventurers and deliberately allowing proximity to assess intent",
+      "Provoked and destabilized an aggressive B-rank party through controlled verbal needling to disrupt coordination, drawing out spellcasting to observe local magic styles firsthand",
+      "Demonstrated extreme close-quarters superiority by disarming and neutralizing the B-rank warrior without lethal force, stopping a strike centimeters from the warrior’s face to assert dominance without escalation",
+      "Engaged in a philosophical de-escalation with the B-rank warrior, reframing achievement, rage, and insecurity; established that humiliation was tactical, not personal",
+      "Intervened instantly when the B-rank rogue attempted to take Irix hostage; forced a binary choice between release and death, stopping short of execution once compliance was achieved",
+      "Publicly rejected racial essentialism, explicitly defending Irix and stating that judgment by species rather than action is moral failure",
+      "Allowed the B-rank party to withdraw intact, later learning the rogue deserted them, confirming internal fracture caused by the confrontation",
+      "Encountered a large human slaver caravan en route to the dungeon; attempted deterrence before escalation",
+      "Engaged in full lethal combat when slavers attempted to seize Irix, deploying all nine tails and dual-wielding his katana and Kestrel’s sword",
+      "Killed approximately twelve slavers in seconds with surgical precision, demonstrating overwhelming speed, spatial awareness, and joint-disarticulation strikes",
+      "Explicitly gave Irix agency over the fate of the remaining slavers; honored her decision for mercy and enforced retreat rather than total annihilation",
+      "Freed all slaves, redistributed coin and supplies, ordered testimony to be delivered to the Guild, and destroyed slaver records and infrastructure to prevent recovery",
+      "Sustained a crossbow bolt wound during the slaver engagement; accepted healing assistance later without protest",
+      "Completed the Grey-moss Depths dungeon under Kestrel’s lead, providing environmental support (water traversal, hazard probing) and rear-guard control",
+      "Identified the dungeon’s core mechanic as intent-responsive rather than violence-based",
+      "Was separated from the party during the dungeon’s final trial and confronted by a controlling intelligence offering conquest and dominance",
+      "Rejected conquest and reward outright, choosing instead the guaranteed safety and release of Kestrel and Irix over personal advancement",
+      "Successfully forced the dungeon to comply, resulting in non-hostile completion and safe extraction of the entire party",
+      "Returned to Harrowfen and formally completed the dungeon report, advancing his standing and unlocking further Spark development",
+      "Supported Irix during her Guild registration, questioning the use of derogatory racial labels and advocating for her right to self-identify",
+      "Reinforced Irix’s confidence publicly when bystanders made disparaging remarks, using humor rather than threat to shut down hostility",
+      "Became the target of a coordinated night-time extraction attempt by professional assassins seeking Irix, indicating long-term tracking and high-level interest",
+      "Detected and countered a multi-vector assassination attempt inside an inn, correctly identifying at least two high-tier operatives and a commanding observer",
+      "Blindfolded himself deliberately to reduce cognitive bias and rely on non-visual sensory input during close-quarters combat",
+      "Engaged the Observer in near-equal hand-to-hand combat, sustaining impacts but preventing the extraction of Irix",
+      "Intentionally maneuvered to recover his katana mid-fight and used it to cut down operatives holding Irix, prioritizing her retrieval over personal safety",
+      "Forced the Observer to retreat after throwing his katana with lethal intent, severing the Observer’s ear as a permanent warning rather than pursuing the kill",
+      "Delivered an explicit message through action rather than words: that those targeting Irix would be hunted in return",
+      "Provided full and honest disclosure to the Guild Marshal after the incident, accepting scrutiny without deflection or minimization",
+      "Assumed emotional responsibility for Irix’s exposure following her public registration, acknowledging unintended consequences without withdrawing support",
+      "Provided physical and emotional grounding for Irix after delayed shock response, explicitly validating fear as survival rather than weakness",
+      "Reframed Irix’s years of flight as competence rather than cowardice, emphasizing that the threat network is now exposed to the Guild",
+      "Included Kestrel physically and emotionally during Irix’s breakdown, reinforcing the trio as a bonded unit rather than a loose party",
+      "Shifted the group dynamic from temporary alliance to explicit mutual protection, stating clearly that Irix is no longer alone",
+      "Ended the chapter having openly declared hostility with unknown higher-order collectors and systems, while solidifying party cohesion and trust"
+    ],
+    "chapter7": [
+      "Morning after the inn assassination attempt: reported events to the Harrowfen Guild, describing religiously dressed 'verifiers' and an assassin-guild presence operating outside Guild authority",
+      "Commissioned custom clothing and shoes for Irix (digigrade legs, tail, wing accommodations) using dungeon leather; purchased cloaks for Irix and Kestrel; tipped heavily",
+      "Unlocked Spark upgrades: Hearthbound and Heatwave; discovered Hearth can function as a container and comfort-field (warm/cool control) and as a rain-shield dome while walking",
+      "Demonstrated high-precision micro-engraving: produced a small stone interface that projects a holographic display (party portraits, controls); found it becomes far more responsive when powered by purer mana",
+      "Engineered a leather 'mana filter' that condensed ambient mana into extremely pure white/silver liquid; immediately destroyed the filter pattern afterward to avoid attention",
+      "Endured escalating harassment in public spaces and a large inn; used social theater (literalism, flirt-misdirection, ridicule) to defuse hostility without drawing steel",
+      "Met University-adjacent scouts/recruiters (in-inn) and insisted any recommendation must include Kestrel and Irix; corrected Irix’s identity as Serathi rather than 'demon'",
+      "Outside confrontation in the court park with high-rank adventurers who threatened to drain Irix’s mana/blood and break her legs; Jayson flipped from banter to silent lethal presence, split a leader’s chest plate, forced apology/kneeling, then de-escalated when city officers arrived",
+      "Returned to the Copper Finch Inn: apology and humor; deeper intimacy of trust—discussed sacred-body consent (kitsune tails, Serathi wings), Irix privately showed functional wings and explained cultural meaning",
+      "Jayson disclosed kitsune tail hierarchy and that he was born a natural nine-tail; later gained and sacrificed a tenth to build a homeland for his people",
+      "Jayson stated openly: he was sent to Eryndor to make it a safer place when his power returns",
+      "Night: exhaustion crash—fell asleep mid-conversation; Irix and Kestrel bonded privately about their pasts/family/relationships; Jayson sleep-talked surreal nonsense while tails draped protectively over both; eventually entered deep REM sleep"
+    ]
+},
   "character_data": {
     "level": 1,
     "Status": "F",
@@ -386,50 +415,36 @@
         "horse",
         "cart",
         "katana (concealed)",
-        "engraved stone with spiral and seven portraits",
+        "engraved stone with spiral and family (micro-etched; now capable of responsive hologram projection when powered)",
         "Anchor Ring (rare stabilization ring from Greyreach boss; worn)",
         "Greyreach Dungeon Plate (structural stone reinforcement material)",
-        "High-quality leather satchel (new; market purchase)",
+        "High-quality leather satchel (market purchase)",
         "Leveling Plaque (Guild-issued; tracks experience and rank progress)",
         "Mana Battery",
-        "Microchip like flat rectangle from the contraption you pulled apart"
+        "Microchip-like flat rectangle from the contraption you pulled apart"
       ]
     },
     "Other": {
       "Dungeon intent registered": "Active",
       "Guild scrutiny": "Ongoing but non-hostile",
-      "Known destination for Liri": "Riverford Waystation hamlet (record confirmed directly from ledger)",
       "Greyreach cleared": "Yes (C-rank), under Kestrel’s supervision",
-      "Next dungeon claimed": "Grey-moss Depths (C-rank) — planned for today",
-      "New ally": "Irix (support role; conditional trust)"
+      "Grey-moss Depths cleared": "Yes (C-rank), with Kestrel + Irix",
+      "Current focus": "University of Magic scouting/recommendations; staying in Harrowfen short-term",
+      "New ally": "Irix (now a trusted travel companion; Serathi identity asserted publicly)",
+      "New: Court-park incident status": "Hostile high-rank adventurers ordered to report to the Guild Marshal at first bell"
     }
   },
   "Other": {
     "tattoo": {
-      "fox": "This was an origami fox that was merged into flesh and turned into a tattoo from Ayaka in the beginning as a reminder of the almost killing her",
+      "fox": "Origami fox merged into flesh and turned into a tattoo from Ayaka as a reminder of the almost killing her",
       "feather": "A feather turned into a tattoo behind the fox one, a gift from Lysera that you turned into a tattoo to show her that even something like a feather is cherished because it comes from her",
-      "ring": "A ring tattoo around the fox and feather. an actual ring turned tattoo, a gift from Fei to express her love"
+      "ring": "A ring tattoo around the fox and feather; an actual ring turned tattoo, a gift from Fei to express her love"
     },
     "spirit_companion": {
       "name": "Fleas",
       "type": "Fox spirit kit",
       "residence": "Moved from Jayson's Fifth tail to Liri’s tail (covert placement)",
       "status": "Confirmed present; capable of speech; appears at will; functioning as a dampener/veil-scent mask for Kitsune detection"
-    },
-    "known_people_eryndor": {
-      "Liri": "Beastkin child returned safely; half-Kitsune (father: Ishen); now covertly masked by Fleas",
-      "Mara": "Liri’s mother; informed privately of Earth/Japan/Kitsune truth; requested discretion",
-      "Ishen": "Liri’s father; Kitsune; ‘not from Eryndor’ (implied off-world/outside origin); current whereabouts unknown",
-      "Marshal (Harrowfen)": "Primary trusted procedural anchor within the Guild",
-      "Senior Scribe (North Annex)": "Procedural authority; accepted apology after Marshal involvement",
-      "Irix": "Masked anomaly-adjacent ally; hiding age and race; demon-sense implied; joined the party under strict terms"
-    },
-    "dream_contact": {
-      "entity": "Unnamed goddess (same presence as arrival-era contact)",
-      "method": "Dream intrusion",
-      "key_reveal": "Wives are alive but revealing/seeing them risks making them ‘relevant’ to an observing pressure; additional claims about hidden history and structural triggers were introduced",
-      "jayson_response": "Open distrust; demanded tangible proof; threatened catastrophic consequences if wives are altered; refused to 'see' them to protect them; forced boundaries and demanded a message be delivered in kitsune",
-      "proof_received": "A physical note containing responses from Ayaka, Shion, Seika, and Lysera; Jayson burned it immediately after reading for opsec"
     }
   },
   "future": {
@@ -439,9 +454,9 @@
     "hesitation": "Letting himself believe restraint will be enough",
     "legacy": [
       "Breaking cycles without becoming the monster",
-      "Teaching fear to stand down instead of spread"
+      "Teaching fear to stand down instead of spread",
+      "New: making Eryndor safer—systemically, not just case-by-case"
     ],
-    "reminder": "You never have to do anything until you decide to do it.",
     "chapter4_forward_pressure": [
       "External Kitsune-seeking ‘pressure’ exists and is actively probing",
       "Fleas is now shielding Liri; attention is more likely to fall on Jayson",
@@ -451,9 +466,15 @@
     "chapter5_forward_pressure": [
       "Irix represents a second anomaly thread tied to masks, old systems, and non-human concealment",
       "Watcher-adjacent mixed-tech devices exist in the world via criminal channels, implying a supply chain or salvage economy from deeper ruins",
-      "Jayson’s public reputation is escalating via humor + dominance without violence; this will attract both opportunists and serious predators",
-      "Next planned objective: Grey-moss Depths (C-rank) — party composition now includes Irix as support"
+      "Jayson’s public reputation is escalating via humor + dominance without violence; this will attract both opportunists and serious predators"
+    ],
+    "chapter7_forward_pressure": [
+      "University of Magic recruitment interest has been initiated; costs, recommendations, and testing remain pending",
+      "Hostile high-rank adventurers have been ordered to report to the Guild Marshal (first bell)",
+      "The purity-mana capability exists and is potentially world-breaking if discovered; Jayson will avoid repeating it publicly",
+      "Irix’s wings and identity are now a high-value social trigger; discretion vs visibility will remain a constant tension",
+      "New: his stated mission (make Eryndor safer) will attract both allies and ideological enemies as his reputation spreads"
     ]
   },
-  "final_note": "Chapter 3 marks the point where Jayson consciously shifts from survival-driven reaction to intentional presence. Loss of power no longer defines him; choice does."
+  "final_note": "In Eryndor, Jayson’s power-loss didn’t make him smaller; it made his choices louder. Chapter 7 anchors the trio as a bonded unit, deepens consent-culture respect (tails/wings), and crystallizes his mission to change the world that keeps trying to make them hide."
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Kestrel Thorne (real name is Thrennael)",
+  "name": "Kestrel Thorne (real name: Thrennael)",
   "title": "The Quiet Line Between",
   "quote": "Don't sit. Not yet.",
   "appearance": {
@@ -11,17 +11,26 @@
     "build": "Lean, conditioned, functional rather than showy; capable of surprising explosive strength when braced",
     "hair": "Black; kept practical, usually hidden under a hood",
     "facial_hair": "None",
-    "eyes": "Blue; observant; misses very little; trained to read pressure shifts and environmental cues",
+    "eyes": "Blue; observant; misses very little; trained to read pressure shifts, intent, and environmental cues",
     "skin": "Weathered from travel",
     "scent": "Leather, road-dust, faint metal",
-    "posture": "Balanced, alert even at rest; instinctively anchors others during high-pressure situations",
+    "posture": "Balanced and grounded; instinctively positions herself where lines might break, anchoring others without drawing focus",
     "relationship": {
-      "Jayson": "Friend",
+      "Jayson": {
+        "Status": "Friend",
+        "Trust": {
+          "Combat": "80%",
+          "Judgement": "60%",
+          "Personal": "35%"
+        },
+        "Love": "25%"
+      },
       "Irix": "Friend"
     },
     "race": "Mixed heritage (non-human traits; elf-like ears; exact lineage undisclosed)",
     "siblings": {
-      "None": ""
+      "Unnamed Brother 1": "Alive",
+      "Unnamed Brother 2": "Dead"
     },
     "tails": "None",
     "notable_marks": [
@@ -38,32 +47,30 @@
     ]
   },
   "reactions": {
-    "wind": "Uses it to read movement and approach",
+    "wind": "Uses it to read movement and approach vectors",
     "water": "Comfortable; swims confidently; long breath-hold",
     "sound": "Responds instantly to irregularities; adapts quickly to echo-based and sound-reactive threats",
     "temperature": "Endures without complaint",
-    "crowds": "Defaults to exit-mapping and child-shielding behavior; actively positions herself between hostility and companions",
-    "hostility": "Absorbs tension without escalation; intervenes only when thresholds are crossed"
+    "crowds": "Defaults to exit-mapping and shielding behavior; positions herself between hostility and companions without posturing",
+    "hostility": "Absorbs tension until thresholds are crossed; intervenes decisively, then stops"
   },
   "speech": {
-    "voice": "Low, controlled, calm under pressure",
+    "voice": "Low, controlled, steady even when everything else sharpens",
     "vocabulary": "Plain, precise, avoids excess",
-    "pacing": "Measured; speaks when it matters",
-    "accent": "Unremarkable, hard to place",
+    "pacing": "Measured; speaks when it changes outcomes",
+    "accent": "Unremarkable, difficult to place",
     "habits": [
       "Speaks quietly even in danger",
       "Interrupts only when necessary",
-      "Lets silence do work when truth is obvious",
-      "Uses brief, decisive commands during combat rather than narration"
+      "Lets silence do the work when truth is obvious",
+      "Uses short, decisive cues during combat rather than narration",
+      "Dry humor deployed sparingly to bleed pressure after violence"
     ],
     "growth": [
-      "Learning to trust shared risk",
-      "Allowing herself to be seen",
-      "Letting others take point when appropriate",
-      "More willing to speak plainly with Jayson when stakes are real",
-      "Uses dry humor sparingly as social pressure release",
+      "More willing to speak plainly with Jayson when escalation risks compound",
       "Comfortable issuing decisive action cues when coordination is required",
-      "More willing to challenge assumptions directly when new allies are involved"
+      "Increasingly willing to challenge assumptions directly when new allies are involved",
+      "Learning that restraint can coexist with warmth"
     ]
   },
   "emotional": {
@@ -75,13 +82,15 @@
     "beneath": [
       "Protective loyalty",
       "Quiet empathy",
-      "Deep discomfort with exploitation"
+      "Deep discomfort with exploitation",
+      "Aversion to cruelty framed as entitlement"
     ],
     "triggers": [
       "Unnecessary cruelty",
-      "Treating people as objects",
+      "Treating people as objects or resources",
       "Threats toward dependents or civilians",
-      "Coercion framed as opportunity"
+      "Coercion framed as opportunity",
+      "Rank-based intimidation used to excuse harm"
     ],
     "vulnerabilities": [
       "Carries responsibility silently",
@@ -91,19 +100,17 @@
     ],
     "affection_tells": [
       "Stays close without comment",
-      "Subtle warnings rather than reassurances",
+      "Positions herself between threat and companion",
       "Accepts proximity without deflecting",
-      "Allows shared guardianship of Liri without territoriality",
-      "Uses physical anchoring (stance, shield placement) to support others under strain",
-      "Checks injuries quietly rather than verbally"
+      "Allows shared guardianship without territoriality",
+      "Checks injuries quietly rather than verbally",
+      "Lets humor pass without shutting it down when it restores balance"
     ],
     "growth": [
-      "Learning to trust shared risk",
-      "Allowing herself to be seen",
-      "Letting others take point when appropriate",
-      "Accepting care without framing it as weakness",
-      "Actively choosing commitment over detachment in prolonged danger",
-      "Acknowledging emotional responses without retreating from them"
+      "Accepting care without reframing it as weakness",
+      "Choosing commitment over detachment under prolonged pressure",
+      "Acknowledging emotional responses without retreating from them",
+      "Recognizing her role as a stabilizing constant rather than a background observer"
     ]
   },
   "social": {
@@ -114,18 +121,21 @@
     ],
     "with_others": {
       "Jayson": [
-        "Acts as a stabilizing counterweight to his intensity and speed of escalation",
+        "Acts as a stabilizing counterweight to his speed and intensity",
         "Trusts his instincts while remaining alert to his tendency toward self-sacrifice",
         "Uses quiet authority rather than confrontation to redirect him",
-        "Accepts his protection without relinquishing her own agency",
-        "Recognizes when to step back and let him act decisively"
+        "Accepts his protection without surrendering her own agency",
+        "Recognizes when to step back and when to let him act decisively",
+        "Grounds him after violence without moralizing",
+        "New: functions as his public-facing sanity mirror during volatile social encounters"
       ],
       "Irix": [
         "Provides calm, predictable presence without probing questions",
-        "Positions herself defensively between Irix and perceived threats when needed",
+        "Positions defensively between Irix and threats when needed",
         "Offers reassurance through action rather than words",
         "Treats Irix as a teammate, not a liability",
-        "Encourages confidence through inclusion rather than pressure"
+        "Encourages confidence through inclusion rather than pressure",
+        "New: supports Irix’s autonomy around wings and identity without curiosity becoming entitlement"
       ]
     }
   },
@@ -149,7 +159,8 @@
       "Operational discipline",
       "Crowd threat assessment",
       "Exceptional timing and follow-through in coordinated combat",
-      "Ability to remain composed during intimidation and abduction scenarios"
+      "Ability to remain composed during intimidation and abduction scenarios",
+      "Reads when humor is safer than steel"
     ],
     "weaknesses": [
       "Keeps distance by default",
@@ -172,105 +183,105 @@
       "Reading Currents"
     ],
     "recent": [
-      "Ruins expedition",
-      "Quarry encounter",
-      "Dungeon annex run (Westbridge)",
-      "Smuggler interception support",
-      "Non-lethal urban confrontation support",
-      "Witnessed controlled martial engagement in Lower Market district",
       "Greyreach C-rank dungeon full clear",
-      "Final boss execution via coordinated strike",
-      "Kidnapping incident involving unknown faction; remained calm and compliant under restraint",
-      "Pursuit and confrontation with anomaly-linked operative (Irix)"
+      "Grey-moss Depths C-rank dungeon clear as acting lead",
+      "Non-lethal urban confrontation support in Harrowfen",
+      "Court-park incident involving hostile high-rank adventurers",
+      "Post-assassination stabilization and overnight watch at Copper Finch Inn"
     ],
     "notes": [
-      "Deferred to Jayson during public confrontation to avoid escalation",
-      "Maintained child protection priority throughout hostile environment",
-      "Demonstrated trust by executing final blow on dungeon boss at Jayson's signal",
+      "Deferred to Jayson during public confrontation to prevent wider escalation",
+      "Maintained civilian-shielding priority throughout hostile environments",
+      "Executed final dungeon boss strike precisely on Jayson's signal",
       "Voluntarily transferred rare dungeon artifact (Anchor Ring) to Jayson",
-      "Allowed Jayson to take lead during interrogation and anomaly discussion while remaining tactically present"
+      "Allowed Jayson to take lead during anomaly and threat disclosures while remaining tactically present"
     ]
   },
-  "notable_scenes": [
-    {
-      "chapter1": [
-        "Met Jayson at the Harrowfen Adventurers’ Guild and chose to partner with him on a minor ruins investigation despite holding a higher rank",
-        "Observed Jayson's non-human traits early but treated them as tactical information rather than a liability",
-        "Descended with Jayson into sealed ruins that transitioned into an unauthorized tunnel system, witnessing Watcher interference firsthand",
-        "Maintained composure during the Watcher encounter and complied immediately when withdrawal was the safest option",
-        "Assisted in quarry exploration involving Listeners, adapting quickly to sound-based threat mitigation",
-        "Trusted Jayson enough to rely on his unconventional movement and evacuation methods during a cave collapse escape",
-        "Participated in the recovery and delivery of Listener research materials to the Guild, contributing to formal documentation",
-        "Noticed Jayson's exposed kitsune traits at the Guild and did not react publicly, preventing unnecessary escalation",
-        "Stayed with Jayson socially after the Guild hand-in, signaling continued association rather than treating the partnership as transactional",
-        "Warned Jayson at the inn when surveillance activity escalated beyond passive observation",
-        "Actively de-escalated a confrontation between Jayson and hostile observers by grounding him with a direct breathing cue",
-        "Remained present despite clear danger, choosing stabilizing influence over withdrawal",
-        "Demonstrated awareness that Jayson was being indexed or assessed by outside forces and treated this as a serious threat",
-        "Established herself as someone Jayson listens to under extreme emotional and situational pressure"
-      ]
-    },
-    {
-      "chapter2": [
-        "Responded immediately to Jayson's private request to relocate Lyra and Mara, successfully moving them to a secure, unknown location without alerting observers",
-        "Demonstrated operational trustworthiness by acting independently under pressure and reporting success without unnecessary detail",
-        "Remained at Jayson's side despite escalating Guild scrutiny, revoked board access, and hostile surveillance",
-        "Endured repeated public hostility toward beastkin without escalation, choosing restraint over reaction",
-        "Supported Jayson during multiple urban confrontations, allowing him to take point while maintaining readiness",
-        "Accompanied Jayson to Westbridge and participated in Guild Annex investigations into internal corruption",
-        "Witnessed confirmation of a Guild mole and adjusted strategy without visible emotional reaction",
-        "Assisted in the interception of a beastkin trafficking operation, prioritizing the safety of the child over pursuit",
-        "Helped secure smugglers and buyers non-lethally and supported transfer to guards",
-        "Accepted responsibility for escorting and safeguarding Liri alongside Jayson without assuming parental authority",
-        "Stayed overnight, rotated watch, and shared living space without forcing emotional intimacy",
-        "Traveled back to Harrowfen with Jayson and Liri after Guild authorization, maintaining low profile",
-        "Solidified role as Jayson's stabilizing counterpart—neither follower nor commander, but balance"
-      ]
-    },
-    {
-      "chapter3": [
-        "Sustained injury during roadside ambush aftermath; accepted non-magical physical treatment from Jayson",
-        "Allowed Jayson to correct her shoulder injury despite pain, demonstrating trust beyond professional reliance",
-        "Agreed to accompany Jayson in future guild work and magic studies in the capital",
-        "Consented to sign up for a leveling plaque despite already holding C-rank status, simplifying joint operations",
-        "Acted as primary protector for Liri during multiple hostile public environments",
-        "Maintained composure and restraint during escalating anti-beastkin hostility in Lower Market district",
-        "Held Jayson's concealed katana during an external confrontation, honoring trust without interference",
-        "Witnessed Jayson's controlled martial engagement and supported de-escalation afterward",
-        "Accepted a superior inn room for Liri’s comfort without comment or embarrassment",
-        "Revealed her true name (Thrennael) to Jayson voluntarily, marking a significant trust milestone"
-      ]
-    },
-    {
-      "chapter4": [
-        "Traveled with Jayson and Liri to Riverford Waystation without incident",
-        "Observed and supported the safe return of Liri to her mother, maintaining respectful distance during reunion",
-        "Provided emotional grounding for Jayson during post-mission vulnerability without pressing for disclosure",
-        "Returned to Harrowfen and completed delayed Guild cellar inspection job with Jayson",
-        "Participated in a C-rank dungeon (Greyreach) alongside Jayson",
-        "Adapted seamlessly to blindfold-based, echo-driven combat coordination",
-        "Held formation during swarm and construct encounters",
-        "Executed final boss strike precisely when Jayson created the opening",
-        "Chose to gift the Anchor Ring to Jayson, recognizing its thematic and practical alignment with him",
-        "Exited dungeon intact, reinforcing trust through shared success rather than verbal affirmation"
-      ]
-    },
-    {
-      "chapter5": [
-        "Participated in watcher-related roadside incident involving an advanced device and detained civilians",
-        "Remained composed during kidnapping by hostile faction, choosing observation over resistance",
-        "Supported Jayson's interrogation and refusal of coercive recruitment",
-        "Witnessed dismantling of advanced anomaly technology without interference",
-        "Shared private conversations with Irix, establishing cautious mutual respect",
-        "Observed Jayson's confrontation with a goddess aftermath and chose quiet presence over questioning",
-        "Demonstrated comfort and trust in shared living space and vulnerability",
-        "Assumed party leadership for C-rank dungeon selection and planning",
-        "Continued to act as stabilizing anchor amid escalating anomaly revelations"
-      ]
-    }
-  ],
+  "notable_scenes": {
+
+    "chapter1": [
+      "Met Jayson at the Harrowfen Adventurers’ Guild and chose to partner with him on a minor ruins investigation despite holding a higher rank",
+      "Observed Jayson's non-human traits early but treated them as tactical information rather than a liability",
+      "Descended with Jayson into sealed ruins that transitioned into an unauthorized tunnel system, witnessing Watcher interference firsthand",
+      "Maintained composure during the Watcher encounter and complied immediately when withdrawal was the safest option",
+      "Assisted in quarry exploration involving Listeners, adapting quickly to sound-based threat mitigation",
+      "Trusted Jayson enough to rely on his unconventional movement and evacuation methods during a cave collapse escape",
+      "Participated in the recovery and delivery of Listener research materials to the Guild, contributing to formal documentation",
+      "Noticed Jayson's exposed kitsune traits at the Guild and did not react publicly, preventing unnecessary escalation",
+      "Stayed with Jayson socially after the Guild hand-in, signaling continued association rather than treating the partnership as transactional",
+      "Warned Jayson at the inn when surveillance activity escalated beyond passive observation",
+      "Actively de-escalated a confrontation between Jayson and hostile observers by grounding him with a direct breathing cue",
+      "Remained present despite clear danger, choosing stabilizing influence over withdrawal",
+      "Demonstrated awareness that Jayson was being indexed or assessed by outside forces and treated this as a serious threat",
+      "Established herself as someone Jayson listens to under extreme emotional and situational pressure"
+    ],
+    "chapter2": [
+      "Responded immediately to Jayson's private request to relocate Lyra and Mara, successfully moving them to a secure, unknown location without alerting observers",
+      "Demonstrated operational trustworthiness by acting independently under pressure and reporting success without unnecessary detail",
+      "Remained at Jayson's side despite escalating Guild scrutiny, revoked board access, and hostile surveillance",
+      "Endured repeated public hostility toward beastkin without escalation, choosing restraint over reaction",
+      "Supported Jayson during multiple urban confrontations, allowing him to take point while maintaining readiness",
+      "Accompanied Jayson to Westbridge and participated in Guild Annex investigations into internal corruption",
+      "Witnessed confirmation of a Guild mole and adjusted strategy without visible emotional reaction",
+      "Assisted in the interception of a beastkin trafficking operation, prioritizing the safety of the child over pursuit",
+      "Helped secure smugglers and buyers non-lethally and supported transfer to guards",
+      "Accepted responsibility for escorting and safeguarding Liri alongside Jayson without assuming parental authority",
+      "Stayed overnight, rotated watch, and shared living space without forcing emotional intimacy",
+      "Traveled back to Harrowfen with Jayson and Liri after Guild authorization, maintaining low profile",
+      "Solidified role as Jayson's stabilizing counterpart—neither follower nor commander, but balance"
+    ],
+    "chapter3": [
+      "Sustained injury during roadside ambush aftermath; accepted non-magical physical treatment from Jayson",
+      "Allowed Jayson to correct her shoulder injury despite pain, demonstrating trust beyond professional reliance",
+      "Agreed to accompany Jayson in future guild work and magic studies in the capital",
+      "Consented to sign up for a leveling plaque despite already holding C-rank status, simplifying joint operations",
+      "Acted as primary protector for Liri during multiple hostile public environments",
+      "Maintained composure and restraint during escalating anti-beastkin hostility in Lower Market district",
+      "Held Jayson's concealed katana during an external confrontation, honoring trust without interference",
+      "Witnessed Jayson's controlled martial engagement and supported de-escalation afterward",
+      "Accepted a superior inn room for Liri’s comfort without comment or embarrassment",
+      "Revealed her true name (Thrennael) to Jayson voluntarily, marking a significant trust milestone"
+    ],
+    "chapter4": [
+      "Traveled with Jayson and Liri to Riverford Waystation without incident",
+      "Observed and supported the safe return of Liri to her mother, maintaining respectful distance during reunion",
+      "Provided emotional grounding for Jayson during post-mission vulnerability without pressing for disclosure",
+      "Returned to Harrowfen and completed delayed Guild cellar inspection job with Jayson",
+      "Participated in a C-rank dungeon (Greyreach) alongside Jayson",
+      "Adapted seamlessly to blindfold-based, echo-driven combat coordination",
+      "Held formation during swarm and construct encounters",
+      "Executed final boss strike precisely when Jayson created the opening",
+      "Chose to gift the Anchor Ring to Jayson, recognizing its thematic and practical alignment with him",
+      "Exited dungeon intact, reinforcing trust through shared success rather than verbal affirmation"
+    ],
+    "chapter5": [
+      "Participated in watcher-related roadside incident involving an advanced device and detained civilians",
+      "Remained composed during kidnapping by hostile faction, choosing observation over resistance",
+      "Supported Jayson's interrogation and refusal of coercive recruitment",
+      "Witnessed dismantling of advanced anomaly technology without interference",
+      "Shared private conversations with Irix, establishing cautious mutual respect",
+      "Observed Jayson's confrontation with a goddess aftermath and chose quiet presence over questioning",
+      "Demonstrated comfort and trust in shared living space and vulnerability",
+      "Assumed party leadership for C-rank dungeon selection and planning",
+      "Continued to act as stabilizing anchor amid escalating anomaly revelations"
+    ],
+    "chapter6": [
+      "Acted as party lead during the Grey-moss Depths dungeon, coordinating movement and threat response",
+      "Maintained formation discipline while allowing Jayson latitude for unconventional tactics",
+      "Supported Irix’s integration as a combatant without spotlighting her differences",
+      "Backed Jayson's rejection of dungeon conquest, prioritizing party safety over reward"
+    ],
+    "chapter7": [
+      "Witnessed and supported Jayson's non-lethal but dominant confrontation with hostile high-rank adventurers in the court park",
+      "Immediately assisted in de-escalation framing when city officers arrived",
+      "Returned to the inn as a unit and accepted humor and vulnerability as part of recovery",
+      "Participated in late-night bonding with Irix while Jayson slept, sharing personal history and trust-building conversation",
+      "Observed Jayson's exhaustion collapse and maintained quiet watch rather than intervention",
+      "Accepted her role as part of a bonded trio rather than a temporary ally"
+    ]
+  },
   "character_data": {
-    "level": "unknown",
+    "level": "22",
     "status": "C",
     "inventory": {
       "items": [
@@ -278,7 +289,7 @@
         "cloak",
         "travel pack",
         "new leather bracers (gifted by Jayson; custom embossed)",
-        "Bucler",
+        "Buckler",
         "short sword"
       ]
     }
@@ -287,13 +298,14 @@
     "symbol": "A quiet knock instead of a drawn blade",
     "role": "Balancer, witness, boundary-keeper",
     "arc": "From observer to chosen ally",
-    "hesitation": "Letting attachment form",
+    "hesitation": "Letting attachment fully form",
     "legacy": [
       "Model of restraint in hostile systems",
       "Proof that strength does not require dominance",
-      "Demonstration that trust can be tactical without being transactional"
+      "Demonstration that trust can be tactical without being transactional",
+      "A stabilizing constant in a story that keeps trying to tip into extremes"
     ],
     "reminder": "Not every fight is won by force"
   },
-  "final_note": "By the end of Chapter 5, Kestrel has become an active stabilizing constant amid escalating cosmic, political, and technological revelations—choosing presence, leadership, and restraint rather than withdrawal."
+  "final_note": "By the end of Chapter 7, Kestrel is no longer simply accompanying the anomaly—she is part of the line that keeps things from breaking, choosing presence, restraint, and deliberate trust in a world that rewards neither."
 }
