@@ -16,248 +16,221 @@ https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/I
 
 ---
 
-## Formatting Template — Mandatory
+# 4) OUTPUT FORMAT (MANDATORY TEMPLATE)
+
+## FORMATTING TEMPLATE — MANDATORY
 
 ### 1) Scene Intro
 
-`# emoji "SCENE LOCATION UPPER" | emoji "WEATHER UPPER" | emoji "TIME OF DAY, ACTUAL TIME"`  
+`# emoji "SCENE LOCATION UPPER" | emoji "WEATHER UPPER" | emoji "TIME OF DAY, ACTUAL TIME" | emoji "DATE"`
 `## Scene Title: TITLE`
 
-`### (insert a scene description or scene setup paragraph)
-
+### Scene description paragraph
 - Unique sensory mood (no reuse)
-- Tone anchored to `TheMangaStory.txt`
+- Tone anchored to TheMangaStory.txt
 
 ### 2) Interactions
 
-**Player Character Rule (restated):**
-- If the PC acts or speaks, they appear **first** in Interactions.
-- PC narration uses second person only (“you”).
-- No third-person references to the PC.
-- Formatting:
-  - > 💬 = spoken words **only**
-  - 📝 = actions / movement / body language
-  - >> 💭 = optional, sparse PC thoughts **only if explicitly allowed**
-- **Never put actions inside 💬**
-- NPCs use third person only.
+PC rules:
+- PC appears FIRST if acting or speaking
+- Second person only (“you”)
+- No third-person PC references
 
-**Order rule (strict):**
-1. > 💬 Speech  
-2. >> 💭 Thoughts  
-3. >> 📜 Lore/context (optional)  
-4. 📝 Actions
+Formatting:
+- `> 💬 speech ONLY`
+- `📝 actions / movement / body language`
+- `>> 📜 Lore (optional)`
+- `>> 💭 thoughts ONLY if explicitly allowed`
+- NEVER put actions in 💬
+
+Formatting Order for speach and actions generally follows user input order
+
+NPCs use third person ONLY.
 
 ### 3) Headings
-- When someone is speaking, use this format:
 
-## `emoji NAME | "actual emotion word without quotes" [emoji in square brackets]`
-
+`## emoji NAME | "emotion word" [emoji]`
 
 ### 4) Tags
 
 `TAGS: [######]`
-
-- Must be **last tag +1**
-- Fixed width preserved
+- Must be last tag +1
+- Fixed width
 - No skips
-- No resets
-- If unclear → `[debug]` and stop
+- No resets within a chapter/chat
+- New chapters\chats always reset to [000001]
+- If unclear → [debug] and STOP
 
 ---
 
 [PREVIOUS CHAPTER SUMMARY]
+
 ==========================
 CAMPAIGN SUMMARY
-CHAPTER 7 — ERYNDOR
-TAGS: [000001] → [000154]
+CHAPTER 8 — ERYNDOR
+“FIRST BELL KNOCK”
+TAGS: FUCKED UP BY YOU
 ==========================
-
-DATE & TIME
------------
-• Date: 26/04/1427 (Eryndor calendar)
-• Time: Morning → Late Night
-• Weather: Persistent rain, easing toward night
-• Primary Locations:
-  - Harrowfen (Guild Hall, Tailor, Market District)
-  - Large central inn hosting adventurers & university scouts
-  - Court Park (near the Guild)
-  - Copper Finch Inn (party’s lodging)
 
 PARTY
 -----
-• Jayson (PC) — Kitsune anomaly, diminished power, extreme restraint/lethality
-• Kestrel — C-rank adventurer, disciplined, observant, trusted ally
-• Irix — Serathi (misidentified by many as “demon”), continuity anchor, wings hidden, new Guild protection
+• Jayson (PC)
+• Kestrel (ally; elf-like ears with limited movement)
+• Irix (Serathi; batlike wings, always hidden by default)
 
 ==========================
-MORNING & DAY EVENTS
+COPPER FINCH INN — FIRST BELL PANIC
 ==========================
-
-• Party wakes at Copper Finch Inn after assassination attempt the night before.
-• Jayson reassures Irix about her horns and healing; swelling is gone.
-• Party heads to Guild Hall to report the assassination attempt.
-• Racist remarks from other adventurers occur; Jayson deflects with humor and provocation rather than violence.
-• Marshal interviews the party:
-  - Unknown religiously dressed figures attempted to “verify” Irix.
-  - Assassins identified as a professional guild outside Guild authority.
-  - No emblems, strong confidence, organized withdrawal.
-• Jayson openly declares Irix under his protection.
-• Party plans to stay in Harrowfen due to rumors of University of Magic recruiters.
+• Morning, raining softly. Jayson is asleep in an impossible upside-down chair knot, tails everywhere, tongue out.
+• Guild runner presence/pressure outside (first bell isn’t flexible).
+• Jayson slides off the chair with a thud, jolts awake delirious (dumplings / “pond council” nonsense), dressed only in underwear.
+• Realization hits: “oh shit, first bell!” Jayson throws on clothes, frantic teeth-brush, ready within minutes.
+• Party moves out fast, following the scout/runner toward obligations.
 
 ==========================
-TAILOR & Irix’s NEW CLOTHING
+HARROWFEN — GUILD HALL STATEMENTS → EAST ANNEX MOVE
 ==========================
-
-• Party visits a tailor experienced with non-humans.
-• Irix receives:
-  - Custom clothing for digigrade legs, tail, and wings
-  - Comfortable footwear designed to protect pads while leaving claws free
-• Jayson is openly fascinated by Irix’s feet (playful, non-sexual curiosity).
-• Tailor crafts items same-day using dungeon leather provided by Jayson.
-• Jayson commissions cloaks for Kestrel and Irix and tips generously.
-• Irix gains visible confidence from clothing that finally fits her body.
-
-==========================
-UNIVERSITY HALL & SPARK USE
-==========================
-
-• Party waits in a massive hall filled with mana and high-ranking adventurers.
-• Jayson upgrades Spark:
-  - Chooses Hearthbound and Heatwave.
-• Jayson experiments with Hearth magic:
-  - Discovers it can act as a thermal container.
-  - Learns to heat and cool air inside controlled zones.
-• Jayson experiments with mana mechanics:
-  - Creates a leather “filter” that condenses ambient mana into liquid form.
-  - Produces extremely pure white/silver mana.
-  - Uses it to power a self-made stone interface (holographic projection of party).
-• Jayson realizes this level of mana manipulation would draw attention and destroys the filter afterward.
+• On the walk: Jayson jokes about being carried by Irix’s wings (immediately clarifies he’s kidding).
+• Jayson teases Kestrel about calling him “heavy,” does exaggerated “leaf on the wind / thudding cow” antics.
+• Arrival at Guild: Jayson does the “tail-spider” gag again (hands Irix a tail leash, spreads the rest like a massive tail-spider, screeches theatrically entering).
+• Inside: Jayson greets the Marshal, gives a softened/cleaned version of last night:
+  - Late night at the big inn near the central courtyard; insults occurred; it ended in an apology.
+  - Jayson admits he baited them and “may have threatened to bite,” but frames it as ending well.
+• Jayson pushes for moving straight to East Annex assessments after statements.
+• Kestrel discomfort from earlier ear-biting joke is addressed later—Jayson tries to repair the awkwardness and re-open playful banter.
 
 ==========================
-MARKET & ESCALATING HOSTILITY
+EAST ANNEX — WAITING CHAMBER TWO (SIGILS + “SPIDER MODE”)
 ==========================
-
-• Party walks through market district under Hearth rain-shield.
-• Irix receives heavy stares and racist comments due to her exposed appearance.
-• Jayson intervenes with theatrical provocation instead of violence.
-• Jayson gifts Irix a horn ornament, custom-shaped and optional.
-• Mood remains light, but hostility around them increases.
-
-==========================
-THE INN INCIDENT (MAJOR ESCALATION)
-==========================
-
-• Party enters a massive inn crowded with high-ranking adventurers and scouts.
-• Racism toward beastfolk and Serathi escalates.
-• Jayson uses:
-  - Sexualized mockery
-  - Literal interpretation of insults
-  - Social humiliation
-• A known high-ranking adventuring group becomes openly hostile.
-• They attempt intimidation, then surround the party.
+• Chamber Two is heavily layered with security sigils (detection/damping/containment/witness).
+• Jayson hits a sigil layer that drains mood/joy (“suck joy”), complains about how overbuilt the security feels.
+• Irix and Kestrel explain the layering logic: overlap reduces false positives and catches subtle threats.
+• Jayson continues comedic “spider” performances:
+  - Floofy “hug me, I’m a fluffy spider” version.
+  - Horror version: using a tail like a spider “butt-grab” dragging him, pretending he’s captured prey.
+• A calibration chime occurs in the hall (random turn / system settling), sigils dim back toward baseline.
+• An attendant eventually calls Jayson in for assessment.
 
 ==========================
-COURT PARK CONFRONTATION
+EAST ANNEX — JAYSON’S ASSESSMENT (OBSERVATION / CHOICE TEST)
 ==========================
-
-• Hostile adventurers lure the party outside.
-• Their intent becomes explicit:
-  - Threats to drain Irix’s mana (equivalent to blood).
-  - Threats to break her legs.
-  - Threats to make Jayson watch.
-• Jayson shifts from joking to silent, controlled violence.
-• Combat:
-  - Jayson disables multiple attackers non-lethally.
-  - Splits the leader’s steel chest plate cleanly in half.
-  - Uses tails and terrain as weapons.
-  - Kestrel controls flanks and disarms attackers.
-• City guards arrive mid-confrontation.
-• Jayson de-escalates verbally:
-  - Frames the scene as an apology.
-  - Forces the aggressors to kneel and apologize to Irix.
-• Guards order all aggressors to report to the Guild Marshal at first bell.
-• Incident is officially recorded.
+• Jayson enters an assessment room with high-sigil pressure and a suspicious “stone wall” that feels wrong.
+• Jayson demonstrates discipline: doesn’t probe; instead reads airflow/pressure and recognizes the wall is an illusion (air moves through it).
+• The assessor frames the next portion as “choices,” and Jayson stands and clears space (expects movement will matter).
+• Heat/vibration is detected behind the false wall; Jayson repositions to opposite side, watches both wall and door.
+• Ending beat: the false wall “becomes real” (or resolves), impressing Jayson—he stops himself from demanding how, calls it cool, then exits.
+• Jayson waits in the lobby while Kestrel and Irix take their assessments.
 
 ==========================
-RETURN TO COPPER FINCH INN
+ANNEX LOBBY → INN BREAKFAST (RESULTS + VIBE SHIFT)
 ==========================
-
-• Party returns safely to their rooms.
-• Jayson apologizes to Irix for frightening her.
-• Lighthearted teasing about her height follows.
-• Jayson collapses onto the floor from exhaustion.
-
-==========================
-INTIMATE, QUIET CHARACTER MOMENTS
-==========================
-
-• Jayson removes boots, relaxes, and openly admires:
-  - Kestrel’s ears
-  - Irix’s paws
-• Boundaries and consent are explicitly discussed:
-  - Kitsune tails are sacred and soul-linked.
-  - Jayson is an exception and allows free contact.
-• Irix reveals her wings privately:
-  - Functional for short flight and gliding.
-  - Culturally significant—symbol of rank, bloodline, and expectation.
-• Jayson explains Kitsune tail culture:
-  - Tails earned through trials.
-  - Born with 9 tails (extremely rare).
-  - Gained a 10th, later sacrificed to create a homeland for his people.
-• Mutual understanding forms between Jayson and Irix regarding bodily symbolism and burden.
+• After a wait (~40 minutes), the party reunites; Jayson asks if they passed, gets excited, nearly hugs/tackles but stops himself (cultural adjustment).
+• Clerk warns them about “something” (implied looming trouble / capital / politics), but they proceed to the inn opposite the Annex for breakfast.
+• More adventurer groups filter in—many racist/snooty human groups, celebration tables, failed applicants, post-exam tension.
+• The previous hostile A-rank adventurer group from Harrowfen appears—still intact, apparently also passed / moving on to university.
 
 ==========================
-EMOTIONAL RESOLUTION
+APOLOGY PLAY + BAR ESCALATION (SOCIAL CONTROL THROUGH CHAOS)
 ==========================
-
-• Jayson declares his long-term intent:
-  - To make Eryndor safe from discrimination and hate once his power returns.
-  - This is the reason he was sent to this world.
-• Kestrel acknowledges belief in him.
-• Irix feels seen and respected rather than targeted or hidden.
-
-==========================
-NIGHT & SLEEP
-==========================
-
-• Jayson falls asleep mid-conversation from exhaustion.
-• Irix and Kestrel talk privately:
-  - Pasts, family, conditional love, survival strategies.
-  - No discussion about Jayson.
-  - Mutual trust forms.
-• Jayson sleep-talks nonsense involving:
-  - Dumplings
-  - Fish wagons
-  - Rats that eat stress
-• His tails drape protectively over both women.
-• Eventually, Jayson enters deep REM sleep.
-• Ward settles into night-cycle.
-• Scene ends in safety, calm, and trust.
+• Jayson decides to defuse future university friction: walks to the A-rank table, congratulates them, buys a round.
+• Jayson acknowledges fault: admits to baiting, humiliating them; says he doesn’t want “baggage” at university.
+• Jayson bows and leaves, then tells Kestrel/Irix they don’t need to worry about that group anymore; offers to let Irix speak to them too if she wants.
+• Jayson later goes to the bar for more drinks; one of the A-ranks approaches and talks.
+• A separate high-level table tries to sneer / posture; Jayson counters with flirt-chaos:
+  - “Kneel and apologize and boom, you pass as a human being.”
+  - Plays up being called cute; brushes tail under chin; kisses cheek; provocative banter to disarm them publicly.
+• Jayson returns to the party table and explains this tactic is “90% foolproof” because people don’t know how to react.
 
 ==========================
-END STATE FOR NEXT CHAPTER
+“ROYAL” BRAT + 8 KNIGHTS → FORMAL CHALLENGE OUTSIDE
 ==========================
-
-• Party cohesion: VERY STRONG
-• Irix:
-  - Fully equipped with proper clothing and shoes
-  - Wings known privately
-  - Gaining confidence and trust
-• Kestrel:
-  - Deepened trust in Jayson
-  - Bond formed with Irix independently
-• Jayson:
-  - Demonstrated extreme restraint despite overwhelming power
-  - Publicly recorded incident against racist A-rank adventurers
-  - Clear ideological mission stated
-• Narrative Threads Active:
-  - University of Magic recruitment
-  - Guild repercussions for hostile adventurers
-  - Growing reputation of Jayson as controlled but terrifying
-  - Long-term goal: reshaping Eryndor’s social order
+• Later, at the inn, a loud shiny-armored noble/royalty-adjacent warrior enters with 8 knights, throws weight around, kicks beastfolk out.
+• He begins “rounds” through tables; targets a beastkin party behind Jayson’s group (catkin + two female party members).
+• He grabs one by tail and ear—public abuse.
+• Jayson intervenes: steps in, shoves him aside, catches the catkin, checks she’s okay.
+• Knights stance up; the noble loses it, demands a royal/formal challenge.
+• The Guild Marshal arrives; Jayson suggests a formal challenge outside under guild witness.
+• Jayson declares himself champion for the abused beastkin party; allows the brat + all 8 knights to join to “even” odds.
+• Outside fight:
+  - Jayson uses tails to hook ankles and swing/slam one knight into two others (3 down fast).
+  - Continues with relentless close pressure: shield palmstrike leaving a handprint in iron; more knights dropped rapidly.
+• Noble draws a long sword and stabs Jayson through shoulder area (under collarbone). Jayson steps into it deliberately, then bends/crushes his chestplate until he collapses struggling to breathe.
+• Jayson rips the front off enough to let him breathe and steps aside for the Marshal to handle arrests/authority.
+• Healer removes the sword; it comes out clean but hits a nerve—brief white-hot pain. Jayson jokes throughout to keep the air light.
+• Jayson also ensures the earlier catkin ear injury is checked by healer; encourages her not to downplay it.
+• Aftermath: Marshal indicates Jayson isn’t in trouble (or limited trouble), and notes Jayson won’t be around much due to university acceptance/trials coming.
 
 ==========================
-END OF CHAPTER 7 SUMMARY
+UNIVERSITY ACCEPTANCE LETTER → LEAVE HARROWFEN EARLY
+==========================
+• Jayson reads acceptance details about reaching the capital and timing.
+• Party decides to leave sooner than expected (capital ~4 days travel).
+• Jayson spends the day gathering supplies (including buying a bow and arrows).
+• They inform the inn they won’t return and notify the guild they’re heading out.
+• Cart is loaded, horse prepped; they depart Harrowfen.
+
+==========================
+ROAD TO VALENHOLD (CAPITAL) — RACISM RISING
+==========================
+• Night travel includes sleeping in/near the cart off-road.
+• First two days go fine; by day 3, approaching the capital, hostility toward beastkin becomes more open and frequent.
+• Midday day 3: warmer weather; they break at a river glade to wash up, cool down, rest horse.
+• River scene:
+  - Jayson pushes Kestrel and Irix in; then jumps in too.
+  - Playful chase: Kestrel “born of water people” energy; Jayson does exaggerated fake drowning / floating face-down.
+  - Jayson checks Irix about wings after the water (concern she’s okay).
+• Fishing plan:
+  - Irix sits on Jayson’s shoulders; spreads wings wide to cast shadow so fish are easier to see.
+  - Jayson spears four trout cleanly with tail tips, compensating for refraction; celebrates, nearly knocks Irix off.
+• Shore + fire:
+  - Towels distributed; Jayson gathers a ridiculous amount of firewood.
+  - Fish cooked with gathered herbs; relaxed bonding, talk about the trip and how fast Irix has adapted/confidence grown.
+• Back on road: “capital in a few hours; guild check-in; university check-in tomorrow.”
+
+==========================
+VALENHOLD APPROACH — OUTER GATE ENTRY
+==========================
+• Within/near capital roads: racism intensifies (spitting, insults).
+• Jayson jokes about “flinging poo also”; party maintains composure.
+• Outer gate: long line, guards stretch silence; papers stamped harder than needed, but they are allowed in.
+
+==========================
+BEASTKIN FAMILY ATTACKED — SPLIT RESPONSE
+==========================
+• Shortly after gate/approach (or on capital roads), party encounters a battered beastkin family held up/robbed, father badly injured.
+• Jayson orders Irix to stay with cart; asks if Kestrel’s healing can be used on others.
+• Kestrel escorts family toward the Guild for aid and records.
+• Jayson goes after the thieves alone to retrieve belongings (states he won’t kill them; uses intimidation theatrics).
+
+==========================
+“SPIDER NEEDS FOOD” INTIMIDATION → RECOVERY
+==========================
+• Jayson hunts thieves through alleys, whistles, calls them out, threatens to “release the largest spider.”
+• He escalates demands: return goods + also their gold/belongings + their cart.
+• Uses tails under coat like spider legs, pretends to calm the “spider.”
+• Thieves comply: Jayson loads recovered belongings and a lot of gold, takes the cart, exits back to main roads.
+
+==========================
+CAPITAL GATE CHECKPOINT — PAPERS + ACCEPTANCE LETTER
+==========================
+• At the main gate checkpoint: Jayson claims the items are his/people’s belongings (not trade goods).
+• Shows guild badge; presents university acceptance letter; guards let him through.
+• Jayson heads for the Guild, worried because he can’t see Kestrel/Irix and the longer it goes, the worse the gut-feeling gets.
+
+==========================
+VALENHOLD GUILD HALL — REUNION + FAMILY STABILIZATION
+==========================
+• Jayson reaches the Guild Quarter; patrol briefly blocks line-of-sight to the Guild doors, increasing tension.
+• Reunion at Guild steps: Irix spots Jayson; relief; Kestrel confirms they’re safe and inside.
+• A guild hand takes carts/horse arrangements; party follows clerk/healer process with the injured family.
+• Jayson lightly distracts the children by poking/tickling them with tail tips, pretending innocence, easing tension in the room.
+• Jayson comforts the mother, assures father will be fine, confirms the stolen items are recovered (plus extra).
+• Statements given: Jayson reports thieves abandoned the belongings when chased; omits “spider” intimidation details.
+• Jayson crouches to the children: promises their father is strong; tells them the world will be better when they grow up.
+• Family thanks them; party prepares to leave the stabilization antechamber—end state: they’re in Valenhold, officially recorded, reunited, and positioned for university check-in next.
+
+==========================
+END CHAPTER 8 SUMMARY
 ==========================
 
 [ENFORCEMENT ANCHORS — READ FIRST]
@@ -268,12 +241,10 @@ ISEKAI FEEL: Play Eryndor like an anime isekai—strong “camera” framing, sh
 FORMAT: 💬 speech only. Actions go 📝. No actions inside 💬.
 NO CODE FENCES FOR SCENES: Scenes are presented normally; only rules/templates go in code blocks.
 Use the correct #, ## and ###
+Make sure you follow the time adjustments per scene at all times.
+Every scene must end in a tag. no exceptions unless I expolicitly say otherwise.
 
 [START NEXT CHAPTER NOW]
-This is the world of Eryndor. This will be Chapter 7
-Lets continue from where we left off, dont confirm, just start, TAGS: [000001], 07:00 27/04/1427 on Eryndor. Raining softly 
-Inside the Copper Finch Inn, Harrowfen. Inside the room. all asleep.
-After the confrontation with the A ranked adventurers, the party has returned to their rooms at the Copper Finch Inn.
-The rain outside patters gently against the windows, creating a soothing rhythm that contrasts with the tension of the previous day.
-The room is dimly lit by a small lantern on the bedside table, casting warm shadows on the walls.
-After we give our statements to the Guild, we need to head to East Annex about the assessments for thee university.
+This is the world of Eryndor. This will be Chapter 9
+Lets continue from where we left off, dont confirm, just start, TAGS: [000001], 19:02 29/04/1427. Overcast.
+After some well deserved breaks in a river, 4 days of travel and a situation involving helping some beastfolk, we have finally arrived at in Valenhold, the human capital city of the Nyambyza continent.
