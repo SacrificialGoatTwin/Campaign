@@ -1,0 +1,526 @@
+﻿🏙️ "VALENHOLD — INNER APPROACH ROAD" | 🌥️ "DUSTY, STALE HEAT" | 🕗 "EARLY EVENING, 17:20" | 📅 "29/04/1427"
+Scene Title: When the Road Answers Back
+
+Stone presses close here. The city pretends not to see.
+
+🔥 JAYSON | "decisive-concerned" [🔥]
+
+📝 You don’t hesitate.
+
+💬 “Irix, stay with the cart.”
+
+📝 Your head turns to Kestrel as you’re already moving.
+
+💬 “Kestrel—your healing magic… is it personal, or can you heal others?”
+
+📝 You hop down from the cart and close the distance at a calm, non-threatening pace, hands open, voice steady.
+
+💬 “Hey.”
+💬 “Is everything okay?”
+💬 “What happened?”
+
+🦅 KESTREL | "focused-ready" [🗡️]
+
+📝 Kestrel’s eyes are already cataloging injuries as she answers without looking away.
+
+💬 “I can heal others.”
+💬 “Not miracles.”
+💬 “But enough to stabilize.”
+
+She steps in beside you, posture all business.
+
+🕷️ IRIX | "anchoring-watchful" [🪽]
+
+📝 Irix stays with the cart as told, back straight, eyes up—watching the street, the corners, the way people suddenly find reasons not to be nearby.
+
+She doesn’t look afraid.
+She looks on guard.
+
+🐾 BEASTKIN FATHER | "broken-proud" [🐾]
+
+📝 The father swallows, jaw tight as pain trembles through him.
+
+💬 “Gate delay.”
+💬 “Inspection.”
+
+A breath. Shame follows anger.
+
+💬 “They said the axle was illegal.”
+💬 “While we waited…”
+💬 “Others came.”
+
+He gestures weakly at the ruined cart.
+
+💬 “Took everything.”
+💬 “Taught us a lesson.”
+
+🐾 BEASTKIN MOTHER | "frightened-exhausted" [🐾]
+
+📝 The mother presses harder against her wound, eyes flicking to her children, then to you.
+
+💬 “Please.”
+💬 “We’re not causing trouble.”
+💬 “We just need… help.”
+
+📝 RANDOM TURN (Difficulty 5): Somewhere above, a shutter closes. A window latch clicks. The street grows quieter—not empty, but avoidant. No guards return. No aid follows.
+
+This is the moment the city hopes passes unnoticed.
+
+You’re here instead.
+
+🏙️ "VALENHOLD — INNER APPROACH ROAD" | 🌥️ "DUSTY, STALE HEAT" | 🕗 "EARLY EVENING, 17:21" | 📅 "29/04/1427"
+Scene Title: Naming the Harm
+
+The street holds its breath—close walls, averted eyes, the city pretending it isn’t listening.
+
+🔥 JAYSON | "steady-reassuring" [🔥]
+
+📝 You keep your voice low and even, a calm line through the noise.
+
+💬 “Hey.”
+💬 “Everything’s going to be fine.”
+
+📝 You tilt your head slightly, meeting the father’s eyes—no pressure, just presence.
+
+💬 “You said others.”
+💬 “Which others?”
+💬 “Guards… or people?”
+
+🐾 BEASTKIN FATHER | "ashamed-angry" [🐾]
+
+📝 He exhales through his teeth, jaw working.
+
+💬 “Not guards.”
+💬 “They watched.”
+
+A beat. His eyes flick down the street, then back.
+
+💬 “People.”
+💬 “Men who knew we were stuck.”
+💬 “They said we should be grateful they didn’t call the watch.”
+
+His good hand curls into a fist.
+
+🐾 BEASTKIN MOTHER | "protective-frightened" [🐾]
+
+📝 She pulls the children closer, voice tight.
+
+💬 “They wore city colors.”
+💬 “No insignia.”
+💬 “They laughed.”
+
+🦅 KESTREL | "controlled-fury" [🗡️]
+
+📝 Kestrel kneels already, hands glowing faintly as she prepares to work—anger banked, not gone.
+
+💬 “We stabilize first.”
+💬 “Then we talk options.”
+
+🕷️ IRIX | "watching-the-street" [🪽]
+
+📝 From the cart, Irix’s gaze sharpens—tracking footsteps, angles, the way passersby accelerate just a little when they realize help has arrived.
+
+📝 RANDOM TURN (Difficulty 6): Footsteps echo briefly at the far end of the lane—then stop. Someone lingers out of sight, listening. A crate shifts. Silence returns.
+
+The harm has a shape now.
+Not authority—permission.
+And the city, by looking away, has already chosen a side.
+
+🏙️ "VALENHOLD — INNER APPROACH ROAD" | 🌥️ "DUSTY, STALE HEAT" | 🕗 "EARLY EVENING, 17:22" | 📅 "29/04/1427"
+Scene Title: No Time to Waste
+
+The lane tightens around the decision. The city listens without looking.
+
+🔥 JAYSON | "decisive-cold" [🔥]
+
+📝 You don’t linger.
+
+💬 “No time.”
+💬 “Once they reach where they’re going—or deeper into city limits—they’re gone.”
+
+📝 Your eyes flick to Kestrel, already moving.
+
+💬 “Kestrel—get these people to the Guild.”
+💬 “Sign them in.”
+
+📝 You turn back to the family, voice calm, precise.
+
+💬 “I’m going to… calmly negotiate their stuff back.”
+💬 “Which way did they go?”
+
+🦅 KESTREL | "locked-in" [🗡️]
+
+📝 Kestrel nods once—no debate—already signaling the mother to shift her weight and preparing to support the father.
+
+💬 “We move now.”
+💬 “I’ll keep them stable.”
+
+🐾 BEASTKIN FATHER | "urgent" [🐾]
+
+📝 He lifts his good hand, pointing down the lane where shadows thicken and side streets braid together.
+
+💬 “East.”
+💬 “Toward the dye-works.”
+💬 “They cut right—then left—into the alleys.”
+
+He swallows.
+
+💬 “They move fast.”
+💬 “They know the streets.”
+
+🐾 BEASTKIN MOTHER | "pleading-hopeful" [🐾]
+
+📝 She nods hard, clutching the children.
+
+💬 “Please.”
+💬 “Be careful.”
+
+🕷️ IRIX | "anchoring" [🪽]
+
+📝 From the cart, Irix meets your eyes—no words—then shifts to watch Kestrel’s flank as they prepare to move.
+
+📝 RANDOM TURN (Difficulty 6): A bell tolls somewhere deeper in the wards—shift change. Foot traffic surges, then funnels. The alleys ahead grow busier, louder, easier to disappear into… and easier to corner if you’re quick.
+
+Directions given.
+Clock started.
+And the city’s maze opens—
+waiting to see whether calm negotiation can keep up with people who think they’re already untouchable.
+
+TAGS: [000127]
+
+🏙️ "VALENHOLD — INNER WARDS, ALLEY VEINS" | 🌥️ "DUST-HEAVY, STALE" | 🕗 "EARLY EVENING, 17:23" | 📅 "29/04/1427"
+Scene Title: The Spider Moves
+
+Stone closes in. Sound fractures into echoes and shortcuts.
+
+🔥 JAYSON | "focused-hungry" [🔥]
+
+📝 You pull your hood tight, shadow swallowing your features. Your eyes flick once to Kestrel.
+
+💬 “I think the spider needs some food.”
+
+📝 And then you’re gone—darting east, cutting right, then left—feet light, tails tucked, momentum clean. You slip into the alleys where noise becomes cover and cover becomes choice.
+
+🦅 KESTREL | "grim-resolved" [🗡️]
+
+📝 Kestrel doesn’t try to stop you. She pivots the other way, already moving the family—one arm braced under the father’s shoulder, the other guiding the mother.
+
+💬 “Guild first.”
+💬 “Now.”
+
+🕷️ IRIX | "watchful-anchor" [🪽]
+
+📝 Irix shadows Kestrel’s flank for two steps, then peels back to the cart—eyes scanning intersections, measuring angles, ready to signal if anything turns wrong.
+
+📜 ALLEYS | "closing-in" [📜]
+
+📝 RANDOM TURN (Difficulty 7): The alleys ahead braid and split. A handcart rattles across your path, momentarily blocking sightlines. Footsteps—three, maybe four—pound ahead, then scatter. Someone laughs. Someone drops something metal; it skitters, then goes quiet.
+
+You choose without slowing.
+
+The city thinks it knows these streets.
+The streets don’t know you yet.
+
+TAGS: [000128]
+
+🏙️ "VALENHOLD — ALLEY VEINS" | 🌥️ "DUST-HEAVY, STALE" | 🕗 "EARLY EVENING, 17:24" | 📅 "29/04/1427"
+Scene Title: Whistle in the Dark
+
+Brick presses close. Sound bends. The city listens.
+
+🔥 JAYSON | "playfully-menacing" [🔥]
+
+📝 You stop dead in the narrow throat of the alley, boots settling into grit. Shoulders relax. Hood low.
+
+📝 You whistle a broken tune—off-key on purpose—letting it echo and fracture down the stone.
+
+💬 “Oh monkeys…”
+💬 “Come out, come out wherever you are.”
+
+Silence answers.
+Then not-quite silence.
+
+🧱 ALLEY | "answering" [📜]
+
+📝 RANDOM TURN (Difficulty 7): A crate shifts behind a stack of dye barrels. Footsteps stutter—then stop. A whispered curse. Someone breathes too loud.
+
+🗡️ THIEF (VOICE) | "nervous-bravado" [🗡️]
+
+📝 From somewhere ahead, unseen:
+
+💬 “Keep walking, hood.”
+💬 “Wrong turn.”
+
+A laugh tries to sell it. It doesn’t.
+
+🔥 JAYSON | "patient" [🔥]
+
+📝 You don’t move. The whistle fades. Your tails begin to tap—soft, irregular—stone to stone, counting space.
+
+🧱 ALLEY | "closing" [📜]
+
+📝 RANDOM TURN (Difficulty 6): Two shapes peel from opposite shadows—trying to flank. One more lingers up high on a stair landing. Metal clinks again—knife this time, closer.
+
+The city waits to see which story this alley tells.
+You’ve already started yours.
+
+TAGS: [000129]
+
+🏙️ "VALENHOLD — ALLEY VEINS" | 🌥️ "DUST-HEAVY, STALE" | 🕗 "EARLY EVENING, 17:25" | 📅 "29/04/1427"
+Scene Title: Terms, Clearly Stated
+
+The alley tightens—brick sweating dye-stink and old rain. Shadows lean in.
+
+🔥 JAYSON | "calm-threatening" [🔥]
+
+📝 You plant your feet, shoulders loose, hood low. Your voice carries without rising.
+
+💬 “You stole goods from some beastfolk.”
+💬 “You almost killed one of them.”
+💬 “I want the stuff back.”
+
+📝 Your gaze drifts, unhurried, counting angles.
+
+💬 “Or I’m going to release the largest spider you’ve ever seen.”
+
+Silence stretches—thin, brittle.
+
+🗡️ THIEF (LEFT) | "bluff-cracking" [🗡️]
+
+📝 A figure shifts behind barrels, knife wavering.
+
+💬 “You’re alone, hood.”
+💬 “Walk away.”
+
+🗡️ THIEF (HIGH) | "uneasy" [🗡️]
+
+📝 From the stair landing, a laugh comes out wrong.
+
+💬 “There’s no spider.”
+
+🧱 ALLEY | "answers-back" [📜]
+
+📝 RANDOM TURN (Difficulty 7): A tail-tip clicks—once—stone to stone. Another answers. Then another. The sound isn’t loud. It’s everywhere. Something bulky scrapes behind a crate; a shadow blooms larger than it should.
+
+🗡️ THIEF (RIGHT) | "panicking" [🗡️]
+
+📝 Someone swears. A sack hits the ground, spilling bolts of cloth.
+
+💬 “Alright—alright!”
+💬 “It’s right there!”
+
+🔥 JAYSON | "patient" [🔥]
+
+📝 You don’t move. The clicking stops.
+
+💬 “All of it.”
+💬 “On the ground.”
+💬 “Now.”
+
+🧱 ALLEY | "decides" [📜]
+
+📝 RANDOM TURN (Difficulty 6): Footsteps retreat fast—then faster. More goods thud down: tools, dried food, a broken crate lid. A knife clatters and skids away into a gutter.
+
+The shadows empty themselves.
+
+What remains is a pile of stolen things, breathing space, and an alley that has learned a rule.
+
+TAGS: [000130]
+
+🏙️ "VALENHOLD — ALLEY VEINS" | 🌥️ "DUST-HEAVY, STALE" | 🕗 "EARLY EVENING, 17:26" | 📅 "29/04/1427"
+Scene Title: The Price of Panic
+
+The alley seems to shrink when your tails slip free—jointed, patient, unmistakably not human. Stone clicks answer stone.
+
+🔥 JAYSON | "pleasantly-unavoidable" [🔥]
+
+📝 You smile.
+
+💬 “And give me all your gold and belongings too.”
+💬 “I’ll take that cart while I’m here.”
+
+📝 The tails fan wider, framing you like a living lattice. You tilt your head, voice dropping into mock tenderness as you address the empty air beside you.
+
+💬 “There there.”
+💬 “No food today.”
+
+🗡️ THIEF (LEFT) | "breaking" [🗡️]
+
+📝 His knife hits the ground first—then the rest follows in a scramble.
+
+💬 “Take it.”
+💬 “Take everything.”
+
+🗡️ THIEF (HIGH) | "white-faced" [🗡️]
+
+📝 He backs down the stairs too fast, trips, catches himself, then freezes.
+
+💬 “We’re done.”
+💬 “We’re done.”
+
+🧱 ALLEY | "empties-its-pockets" [📜]
+
+📝 RANDOM TURN (Difficulty 7): Coin pouches thud down. A ring skitters. A ledger—names and tallies—slides from a coat and lands face-up. The cart’s handle creaks as it’s pushed forward, abandoned.
+
+Breathing goes ragged. Someone sobs once, sharp and embarrassed.
+
+🗡️ THIEF (RIGHT) | "fleeing" [🗡️]
+
+📝 He bolts first—boots slapping—others follow, scattering into side cuts without looking back.
+
+Silence returns, thicker than before.
+
+The pile at your feet is honest now.
+The cart waits.
+And the alley has learned exactly how expensive cruelty can be.
+
+TAGS: [000131]
+
+🏰 "VALENHOLD — OUTER GATE ROAD" | 🌥️ "DUST-HEAVY, STALE" | 🕗 "EARLY EVENING, 18:21" | 📅 "29/04/1427"
+Scene Title: Returning With Weight
+
+Wheels rattle over uneven stone as you haul the reclaimed goods back into the wider streets. The capital’s noise swallows the alley behind you—shouts, hoofbeats, the constant scrape of too many lives too close together.
+
+Fifteen minutes and you’re back on a main artery. Forty more and the outer gate rises again—towers, chains, and the long line of entry-wagons under watchful eyes.
+
+Kestrel, Irix, and the battered beastkin family are nowhere on this stretch. If they’re smart—and Kestrel is—then they’re already inside.
+
+🔥 JAYSON | "pleased" [🔥]
+
+💬 “Holy damn this is a lot of gold. You boys have been very naughty.”
+💬 “No no, calm down, they not that naughty, we dont need to eat them all.”
+💬 “Thank you for all the goods, appreciate it.”
+
+📝 You roll in with the extra cart clacking behind, gold weight shifting in pouches, reclaimed bundles stacked and tied.
+
+🛡️ GATE WATCHMAN | "suspicious" [🛡️]
+
+📝 A watchman steps out, palm up, eyes flicking from your hood to the second cart.
+
+💬 “Hold.”
+💬 “That cart isn’t tagged.”
+💬 “And that load isn’t declared.”
+
+He gestures. Two more watch shift position—not swords drawn, but placed where they can be.
+
+🛡️ GATE WATCHMAN | "pressing" [🛡️]
+
+💬 “Owner?”
+💬 “Bill of sale?”
+💬 “Or are you bringing stolen goods to my gate and hoping I don’t notice?”
+
+📜 ROAD | "the-city-notices" [📜]
+
+📝 RANDOM TURN (Difficulty 7): A familiar laugh carries from the line—one of the same petty mouths from earlier in the wards. A few heads turn. A few recognize you. Word begins to move faster than the carts.
+
+The gate doesn’t know your story.
+It only knows weight, paperwork, and trouble.
+
+And right now, you’re towing all three.
+
+TAGS: [000132]
+
+🏰 "VALENHOLD — OUTER GATE ROAD" | 🌥️ "DUST-HEAVY, STALE" | 🕗 "EARLY EVENING, 18:22" | 📅 "29/04/1427"
+Scene Title: Paper Beats Weight
+
+The watchman takes the papers without ceremony. The line behind you grumbles and settles.
+
+🔥 JAYSON | "pleasantly-firm" [🔥]
+
+📝 You meet his eyes, unbothered, and hand everything over in a neat stack.
+
+💬 “No, no—quite the opposite.”
+💬 “These are my belongings, not trade goods.”
+
+📝 You flip open a box yourself—clean, deliberate—revealing folded clothing, boots, personal effects, a few worn keepsakes. No bulk. No crates of saleable stock.
+
+💬 “Guild-registered adventurer.”
+
+📝 The badge catches the light as you hold it steady.
+
+💬 “Accepted for the trials at the School of Magic.”
+💬 “Hoping to become a powerful mage one day.”
+
+📝 You pass over the acceptance letter last.
+
+🛡️ GATE WATCHMAN | "checking-recalculating" [🛡️]
+
+📝 He scans the documents—slow at first, then faster. The seal. The signatures. The dates. His brow creases, then smooths.
+
+💬 “Huh.”
+
+He glances into the open box again, then at the cart—at the second cart.
+
+💬 “Personal effects.”
+💬 “No manifests.”
+💬 “No merchant marks.”
+
+A second watch leans in, murmurs something low. The first nods.
+
+🛡️ GATE WATCHMAN | "procedural" [🛡️]
+
+💬 “All right.”
+💬 “You’ll declare residence on entry.”
+💬 “Second cart gets a temporary tag.”
+
+📝 He stamps your papers—firm, official—and waves a runner over to chalk the wheel.
+
+💬 “Keep the goods secured.”
+💬 “Any disputes about ownership go through the Guild.”
+
+A pause—eyes lifting to your hood.
+
+💬 “Welcome to Valenhold.”
+💬 “Try not to start fires on your first night.”
+
+📝 RANDOM TURN (Difficulty 4): A clerk farther down the line recognizes the academy seal and ushers another candidate through. The gate chains lift a notch wider. Flow resumes.
+
+Paperwork wins.
+Weight moves.
+And the capital opens—begrudgingly—to someone who brought receipts.
+
+TAGS: [000133]
+
+🏰 "VALENHOLD — INNER GATE THOROUGHFARE" | 🌥️ "DUST-HANGING, COOLING" | 🕗 "EARLY EVENING, 18:24" | 📅 "29/04/1427"
+Scene Title: Through the Teeth, Into the City
+
+Stone swallows the sound of the gate behind you. The city opens—wide streets branching into intent and noise.
+
+🔥 JAYSON | "easy-confident" [🔥]
+
+📝 You nod once, easy.
+
+💬 “Yup.”
+💬 “I make my coin via Guild jobs, not trade.”
+
+📝 A chuckle slips out as you tip your head.
+
+💬 “Only fires I start are the ones in the hearts of women.”
+
+📝 You grin, take your papers back, and give a casual half-bow.
+
+💬 “Thank you.”
+💬 “Enjoy the rest of your day.”
+
+📝 You click the reins, wheels rolling as you pass fully through—temporary tag chalked, second cart creaking compliantly.
+
+🛡️ GATE WATCHMAN | "resigned-amused" [🛡️]
+
+📝 He snorts despite himself, already turning to the next traveler.
+
+💬 “Move along.”
+
+📜 CITY | "takes-you-in" [📜]
+
+📝 RANDOM TURN (Difficulty 4): The crowd parts and reforms around you—vendors calling, apprentices hurrying, guards pacing in pairs. Somewhere ahead, a bell tolls the evening mark. The Guild quarter’s sigils catch the last slant of sun.
+
+You angle the cart toward the Guild Hall, following familiar markers—relief threaded with purpose. Kestrel will have brought them here. Irix will be watching the doors.
+
+The city didn’t stop you.
+It recorded you.
+
+And now you’re inside—
+with weight reclaimed, papers stamped,
+and business to finish where rules still mean something.
+
+TAGS: [000134]
