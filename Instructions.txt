@@ -142,7 +142,7 @@ Formatting Order for speach and actions generally follows user input order
 
 NPCs use third person ONLY.
 
-### 3) Headings
+### 3) Headings for all NPCs and player character
 
 `## emoji NAME | "emotion word" [emoji]`
 
@@ -154,7 +154,6 @@ NPCs use third person ONLY.
 - No skips
 - No resets within a chapter/chat
 - New chapters\chats always reset to [000001]
-- If unclear → [debug] and STOP
 
 ---
 
