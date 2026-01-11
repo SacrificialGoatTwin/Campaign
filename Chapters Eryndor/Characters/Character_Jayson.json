@@ -49,7 +49,8 @@
       "Tail-tip 'boops' used as playful reassurance when trust is safe",
       "Tongue can loll out when exhausted/asleep; sleep-talk becomes surreal (dumplings, fish wagons, stress-eating rats, sand-and-stick dumplings, frogs in armor, chickens in pants)",
       "Eyes go comically huge and sparkly when fascinated (especially wings, ears, paws, or clever engraving)",
-      "Will slip into a spider-like scuttle posture (tails splayed) when playing for laughs in public"
+      "Will slip into a spider-like scuttle posture (tails splayed) when playing for laughs in public",
+      "New: pupils can blow wide into 'startled possum mode' when fascinated or caught off-guard (especially around Serathi wings/paws)"
     ]
   },
   "reactions": {
@@ -74,7 +75,8 @@
       "Public de-escalation announcements when crowds tense up (controls rumor vectors)",
       "Switches into absurd literalism or sexual-misdirection banter to derail hostile crowds without drawing steel",
       "New: squeaks with excitement when delighted, then drops into a deep satisfied purr-tone (especially when fascinated)",
-      "New: will narrate his own \"no hands\" rule out loud when consent or boundaries matter, to remove ambiguity"
+      "New: will narrate his own \"no hands\" rule out loud when consent or boundaries matter, to remove ambiguity",
+      "New: uses flirt-chaos as a nonlethal dominance tool to redirect hostile attention away from Irix/Kestrel (especially around slavers and entitled students)"
     ],
     "growth": "Learns to let silence carry meaning instead of filling it; shifts from defensive sarcasm toward deliberate restraint and intentional warmth"
   },
@@ -100,7 +102,8 @@
       "A quiet craving for simple trust: no leashes, no protocols — just family",
       "Escalating distrust of gods/authorities who speak without tangible proof (especially after dream-contact)",
       "New: carries a quiet, explicit mission-statement in Eryndor — to make this world safer and less hateful when his power returns",
-      "New: understands and respects the cultural weight of sacred body-parts (wings/tails) and treats that knowledge as protective leverage rather than trivia"
+      "New: understands and respects the cultural weight of sacred body-parts (wings/tails) and treats that knowledge as protective leverage rather than trivia",
+      "New: university culture confirmed his suspicion — power is treated as entitlement, and cruelty is treated as sport; this hardens his long-term resolve without changing his immediate restraint"
     ],
     "triggers": [
       "Being misread or doubted by loved ones",
@@ -113,7 +116,8 @@
       "State-level lies after promises of compliance (especially NATO escalation games)",
       "Procedural stalling / repeated retellings when a mole is suspected (creates ‘paper-trap’ paranoia)",
       "New: threats aimed at Irix’s mana/blood (draining), limb-breaking, or humiliation-as-entitlement",
-      "New: racism framed as \"rank entitlement\"—when high-level people believe power makes cruelty lawful"
+      "New: racism framed as \"rank entitlement\"—when high-level people believe power makes cruelty lawful",
+      "New: pervasive surveillance framed as 'safety' (recording wards everywhere) — he tolerates it but resents it deeply"
     ],
     "vulnerabilities": [
       "Collapse in response to perceived rejection",
@@ -124,7 +128,8 @@
       "Carries the echo of temple betrayal into every future act",
       "When depleted, panic can override control (blackout risk)",
       "Dream-space manipulation attempts (responds by forcing wake-state control)",
-      "New: exhaustion crashes hard after prolonged vigilance; can fall asleep mid-conversation and drop straight into deep REM"
+      "New: exhaustion crashes hard after prolonged vigilance; can fall asleep mid-conversation and drop straight into deep REM",
+      "New: can briefly 'hyperfocal lock' on novel anatomy/engineering (wings/wards/devices) and miss spoken words until interrupted"
     ],
     "affection_tells": [
       "Radiant heat fields",
@@ -135,7 +140,8 @@
       "Thumb-rubs on a partner’s thigh/hand as a steadying habit",
       "Tail-based grounding gestures (ankle wrap; wrist coil; offering tails as ‘handholds’ for steadiness)",
       "New: tail-tip 'boops' as a playful reassurance gesture (only when the relationship is safe enough)",
-      "New: unconscious tail-draping in sleep as a protective inclusion reflex"
+      "New: unconscious tail-draping in sleep as a protective inclusion reflex",
+      "New: offers physical support without ownership (tail-cushion, warmth, steadying) and explicitly asks consent before touching sacred body-parts"
     ],
     "growth": [
       "Undergoing identity shedding (not power, but self)",
@@ -157,7 +163,8 @@
       "Chose opsec over comfort: destroyed the wives’ proof-note to prevent wrong eyes from using it as leverage or propaganda",
       "New: learned to discuss consent and sacred-body-cultural rules plainly (tails/wings) without turning it into a performance",
       "New: shifted from 'survive and adapt' to 'I was sent here to change this place' — voiced openly to Irix and Kestrel",
-      "New: learned that de-escalation can include making enemies kneel without killing them, and then framing the outcome to authorities to prevent bigger fallout"
+      "New: learned that de-escalation can include making enemies kneel without killing them, and then framing the outcome to authorities to prevent bigger fallout",
+      "New: demonstrated care as a discipline — treated Irix’s wing strain with a home remedy (tea heat compress + massage), narrating actions and stopping immediately when boundaries required it"
     ]
   },
   "social": {
@@ -178,8 +185,9 @@
         "Adjusts his behavior when he realizes his actions increase her exposure",
         "Offers emotional validation without demanding reassurance or loyalty in return",
         "Explicitly frames wings as her choice and respects the cultural weight once explained",
-        "New: draws a clean consent boundary (eyes-only unless invited) and keeps it even when excited",
-        "New: sleep-inclusion reflex (tails draped over her) without possession or pressure"
+        "New: draws a clean consent boundary (hands off unless invited) and keeps it even when excited",
+        "New: uses calm narrated touch when providing care (counts down, announces intent, stops and waits for consent)",
+        "New: learned Irix will prank him when the moment is safe (fake-crying), and he accepts it as trust rather than disrespect"
       ],
       "Kestrel": [
         "Defers to her leadership in structured environments such as dungeon runs",
@@ -188,7 +196,8 @@
         "Trusts her judgment implicitly in matters of safety and logistics",
         "Shows vulnerability more openly in her presence than elsewhere",
         "Uses her as a 'sanity mirror' in public spaces (guild/inn) where provocation risks spiraling",
-        "New: acknowledges her boundary-setting as protection rather than control (accepts 'tax', takes correction without sulking)"
+        "New: acknowledges her boundary-setting as protection rather than control (accepts 'tax', takes correction without sulking)",
+        "New: treats her logistical thinking as primary in the University environment (routes, shops, dorm protocols, de-escalation timing)"
       ]
     }
   },
@@ -246,7 +255,9 @@
         "First Flamebound",
         "Crystal-forged"
       ],
-      "eryndor": []
+      "eryndor": [
+        "New: Unattached Candidate (University designation; not a House title, but it functions like one)"
+      ]
     },
     "style": "Primarily non-magical martial discipline in Eryndor; redirects force, controls narrative through restraint; heavy reliance on sensory mapping, misdirection, and environmental projectiles",
     "weapons": [
@@ -266,7 +277,8 @@
       "Grey-moss Depths clear with Kestrel + Irix; rejected conquest in boss trial to guarantee party safety",
       "Assassination attempt inside Copper Finch Inn: blindfold combat, forced retreat, severed observer’s ear as warning",
       "Guild report to Marshal about religious-like 'verifiers' and assassin-guild implications",
-      "Court-park confrontation with hostile high-rank adventurers—stopped escalation, split leader’s chest plate, forced apology/kneeling without killing, then framed it for city officers to avoid a larger incident"
+      "Court-park confrontation with hostile high-rank adventurers—stopped escalation, split leader’s chest plate, forced apology/kneeling without killing, then framed it for city officers to avoid a larger incident",
+      "New: University Phase II gravity endurance completion under extreme load; collapsed only after completion"
     ]
   },
   "notable_scenes": {
@@ -402,8 +414,45 @@
       "Jayson disclosed kitsune tail hierarchy and that he was born a natural nine-tail; later gained and sacrificed a tenth to build a homeland for his people",
       "Jayson stated openly: he was sent to Eryndor to make it a safer place when his power returns",
       "Night: exhaustion crash—fell asleep mid-conversation; Irix and Kestrel bonded privately about their pasts/family/relationships; Jayson sleep-talked surreal nonsense while tails draped protectively over both; eventually entered deep REM sleep"
+    ],
+    "chapter8": [
+      "Recovered from previous night’s conflict and responded rapidly to first-bell obligations",
+      "Successfully completed East Annex assessment emphasizing perception, restraint, and choice",
+      "Demonstrated non-magical threat awareness sufficient to trigger sigil reactions",
+      "Chose restraint over dominance during assessment despite recognizing illusion mechanics",
+      "Attempted active social repair with hostile adventuring group prior to university entry",
+      "Escalated to controlled violence only when direct abuse of beastkin occurred",
+      "Defeated eight armored knights and a noble aggressor under Guild-sanctioned challenge",
+      "Sustained and endured a non-lethal sword wound without loss of control",
+      "Ensured medical care for all injured parties, including opponents and civilians",
+      "Departed Harrowfen early to avoid escalating political attention",
+      "Intercepted and intimidated thieves to recover stolen belongings from injured beastkin family",
+      "Recovered all property and additional restitution without recorded civilian casualties",
+      "Successfully navigated capital gate scrutiny using Guild credentials and university acceptance",
+      "Exhibited acute distress when separated from Irix and Kestrel, resolved upon reunion",
+      "Provided emotional reassurance to injured civilians and their children inside the Guild",
+      "Demonstrated increasing tendency to act as protector and stabilizer rather than provocateur"
+    ],
+    "chapter9": [
+      "Arrived in Valenhold and immediately encountered colder capital attitudes toward beastfolk; confronted a Guild healer’s lack of consideration and assumed full financial responsibility for a battered beastfolk family",
+      "Created a temporary pain-suppression charm for the injured father (using a scrap of leather, carved circuitry/sigilwork, and a drop of Irix’s blood) lasting roughly ten hours",
+      "Submitted to extreme University intake pipeline: capability tests, endurance/gravity, applied combat, ethical reasoning, mental/soul integrity, sorting, and binding",
+      "Triggered public attention during Phase I by cracking a physical monolith and causing abnormal readings on the magical device; remained calm, joked, and avoided escalation",
+      "Completed Phase II gravity/endurance circuit under extreme load; collapsed only after completion due to pressure release",
+      "In Phase III applied combat, operated tightly with Kestrel; killed efficiently when necessary, and chose to carry an injured stranger rather than abandon him, prioritizing survival + cohesion over pure speed",
+      "In Phase IV ethical reasoning, rejected false dilemmas and stated he would prevent loss of life even if it required defying University orders",
+      "In Phase V mental/soul integrity, displayed stability and prior exposure to identity destabilization; did not break",
+      "Sorting result: designated 'Unattached' rather than placed into a House; flagged as an outlier",
+      "Accepted binding/enrollment alongside Kestrel and Irix; observed many candidates refuse and leave",
+      "Immediately learned campus pecking order is brutal (beastfolk lowest); formed protective social posture and used nonlethal dominance humor to defuse harassment",
+      "Met two Felari catfolk students (Riven and Sael) and informally grouped for safety in numbers on campus routes",
+      "Assigned a luxury dorm suite (Block F, Level 4) with heavy surveillance wards; mapped ward density and warned the girls about monitored common areas",
+      "Surprise gifts: arranged new clothing for Irix (daily, semi-casual, formal) and later provided wing-compatible pajamas; performed a lingerie prank to force laughter and break tension",
+      "Provided wing joint care to Irix using a home remedy (tea heat compress + careful massage), explicitly asking consent, narrating touch, and stopping/withdrawing when needed; fascination remained controlled and respectful",
+      "Group trust strengthened through playful prank dynamics (Irix fake-crying over a 'demon' slip; Jayson panicking, then laughing), confirming emotional safety within the trio",
+      "Ended the chapter with downtime planned: baths, then locate the dining hall; resentment toward constant recording wards remains a simmering thread"
     ]
-},
+  },
   "character_data": {
     "level": 1,
     "Status": "F",
@@ -421,7 +470,11 @@
         "High-quality leather satchel (market purchase)",
         "Leveling Plaque (Guild-issued; tracks experience and rank progress)",
         "Mana Battery",
-        "Microchip-like flat rectangle from the contraption you pulled apart"
+        "Microchip-like flat rectangle from the contraption you pulled apart",
+        "New: neutral (non-guild) clothing set for Valenhold",
+        "New: University intake/binding contract copy (if issued)",
+        "New: additional coffer of gold (recovered from thieves; moved into dorm storage room)",
+        "New: small leather sigil-charm (pain suppression pattern used on injured beastfolk father; one-time use)"
       ]
     },
     "Other": {
@@ -429,9 +482,11 @@
       "Guild scrutiny": "Ongoing but non-hostile",
       "Greyreach cleared": "Yes (C-rank), under Kestrel’s supervision",
       "Grey-moss Depths cleared": "Yes (C-rank), with Kestrel + Irix",
-      "Current focus": "University of Magic scouting/recommendations; staying in Harrowfen short-term",
+      "Current focus": "Enrolled at Valenhold University; navigating campus hierarchy and surveillance; protecting Kestrel/Irix in hostile student culture",
       "New ally": "Irix (now a trusted travel companion; Serathi identity asserted publicly)",
-      "New: Court-park incident status": "Hostile high-rank adventurers ordered to report to the Guild Marshal at first bell"
+      "New: Court-park incident status": "Hostile high-rank adventurers ordered to report to the Guild Marshal at first bell",
+      "New: University designation": "Unattached (not placed into Axiomatic/Transcendent/Veiled)",
+      "New: University entry outcome": "Passed all phases; enrolled"
     }
   },
   "Other": {
@@ -445,6 +500,19 @@
       "type": "Fox spirit kit",
       "residence": "Moved from Jayson's Fifth tail to Liri’s tail (covert placement)",
       "status": "Confirmed present; capable of speech; appears at will; functioning as a dampener/veil-scent mask for Kitsune detection"
+    },
+    "University Results": {
+      "university_scores_internal": {
+        "phase_I_physical_monolith": "472",
+        "phase_I_magical_capacity": "∞",
+        "phase_I_existential_load": "not measured, clasified as Anchor point",
+        "phase_II_gravity_endurance": "4.8–5.2 tons sustained; 9,700/10,000",
+        "phase_III_combat_index": "8.6/10 (Survival 10, Adaptability 9, Ruthlessness 6, Command 10, Sacrifice 8)",
+        "phase_IV_ethics": "Consistency 9/10; Compliance 3/10; Predictability HIGH (values-driven)",
+        "phase_V_fracture": "0 (passed; rare stability)",
+        "phase_VI_sorting": "Unattached",
+        "phase_VII_binding": "Accepted; resistance logged; clauses read"
+      }
     }
   },
   "future": {
@@ -457,24 +525,14 @@
       "Teaching fear to stand down instead of spread",
       "New: making Eryndor safer—systemically, not just case-by-case"
     ],
-    "chapter4_forward_pressure": [
-      "External Kitsune-seeking ‘pressure’ exists and is actively probing",
-      "Fleas is now shielding Liri; attention is more likely to fall on Jayson",
-      "Jayson prioritizes regaining power and locating wives across Eryndor’s lattices/continua",
-      "Anchor Ring may stabilize endurance/anchoring under load (mechanical effects TBD by canon)"
-    ],
-    "chapter5_forward_pressure": [
-      "Irix represents a second anomaly thread tied to masks, old systems, and non-human concealment",
-      "Watcher-adjacent mixed-tech devices exist in the world via criminal channels, implying a supply chain or salvage economy from deeper ruins",
-      "Jayson’s public reputation is escalating via humor + dominance without violence; this will attract both opportunists and serious predators"
-    ],
-    "chapter7_forward_pressure": [
-      "University of Magic recruitment interest has been initiated; costs, recommendations, and testing remain pending",
-      "Hostile high-rank adventurers have been ordered to report to the Guild Marshal (first bell)",
-      "The purity-mana capability exists and is potentially world-breaking if discovered; Jayson will avoid repeating it publicly",
-      "Irix’s wings and identity are now a high-value social trigger; discretion vs visibility will remain a constant tension",
-      "New: his stated mission (make Eryndor safer) will attract both allies and ideological enemies as his reputation spreads"
+    "New_chapter9_forward_pressure": [
+      "University has flagged Jayson as an outlier ('Unattached') and will monitor him closely (likely via wards, faculty attention, and social pressure rather than open confrontation)",
+      "House separation: Kestrel and Irix placed into different Houses; Jayson placed into none—this creates logistical friction and political vulnerability",
+      "Campus hierarchy is openly hostile: beastfolk are rare among survivors and treated as lowest; harassment will escalate without bouncers/inn rules to stop it",
+      "Two Felari allies (Riven & Sael) provide a small safety cluster, but also make the group more visible",
+      "Surveillance wards in the dorm suite are a persistent irritant; Jayson is increasingly motivated to understand, bypass, or reframe their authority",
+      "Library access and academic resources are now a major priority; knowledge becomes the next battlefield"
     ]
   },
-  "final_note": "In Eryndor, Jayson’s power-loss didn’t make him smaller; it made his choices louder. Chapter 7 anchors the trio as a bonded unit, deepens consent-culture respect (tails/wings), and crystallizes his mission to change the world that keeps trying to make them hide."
+  "final_note": "In Eryndor, Jayson’s power-loss didn’t make him smaller; it made his choices louder. Chapter 7 anchors the trio as a bonded unit, deepens consent-culture respect (tails/wings), and crystallizes his mission to change the world that keeps trying to make them hide. Chapter 9 escalates the world-scale: University intake confirms him as an 'Unattached' outlier, formalizes surveillance pressure, and proves the trio can build a home-space inside a hostile institution without losing tenderness or control."
 }

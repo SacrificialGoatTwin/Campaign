@@ -5,7 +5,7 @@
   "appearance": {
     "age": {
       "Visual": "16",
-      "Demon to human conversion":  "18",
+      "Demon to human conversion": "18",
       "Actual": "Unknown (suspected decades to centuries)"
     },
     "height": "160 cm",
@@ -15,17 +15,17 @@
     "eyes": "Deep ember-gold with low-light adaptation; reflect faintly when mana is active or emotions spike",
     "skin": "Warm umber with subtle heat undertones; resilient, rarely marked",
     "scent": "Faint sulphur and charcoal layered with clean heat",
-    "posture": "Contained and deliberate; constantly aware of exits, walls, and vertical space",
+    "posture": "Contained and deliberate; constantly aware of exits, walls, and vertical space; posture relaxes measurably when Jayson is present",
     "relationship": {
       "Kestrel": "Friend",
       "Jayson": {
-        "Status": "Friend",
+        "Status": "Close Friend",
         "Trust": {
-          "Combat": "50%",
-          "Judgement": "45%",
-          "Personal": "30%"
+          "Combat": "65%",
+          "Judgement": "60%",
+          "Personal": "50%"
         },
-        "Love": "10%"
+        "Love": "15%"
       }
     },
     "race": "Ashen Serathi (Noble Continuity Lineage)",
@@ -33,7 +33,7 @@
       "None": "Only known surviving bearer of her direct line"
     },
     "tails": "1 (straight, flexible, non-barbed)",
-    "wings": "Bat-like, Ashen Serathi wings; fully functional; fold tightly along the back and vanish under clothing when disciplined",
+    "wings": "Bat-like Ashen Serathi wings; highly sensitive membrane; complex joint structure; extremely flexible with defined load limits; prone to joint strain under extreme pressure fields",
     "horns": "Curved, swept-back horns; sensitive but resilient; culturally significant and not ornamental by default",
     "legs": "Digitigrade with feline-pawed feet; silent tread, strong balance, clawed pads protected by custom footwear"
   },
@@ -43,7 +43,8 @@
     "sound": "Highly attentive; catalogs patterns rather than reacting emotionally",
     "temperature": "Heat-tolerant; cold increases muscle tension and vigilance",
     "crowds": "Heightened awareness; stress rises with prolonged attention or fixation",
-    "hostility": "Withdraws first; freezes only when escape vectors are threatened"
+    "hostility": "Withdraws first; freezes only when escape vectors are threatened",
+    "medical_touch": "Requires explicit consent; relaxes rapidly when care is methodical, narrated, and non-coercive"
   },
   "speech": {
     "voice": "Quiet, controlled, precise; rarely raised",
@@ -55,7 +56,7 @@
       "Answers directly but minimally",
       "Avoids personal disclosure unless trust is explicit"
     ],
-    "growth": "Beginning to allow humor, soft teasing, and small sarcasms in safe company"
+    "growth": "Increasing use of humor, teasing, and playful misdirection with trusted companions"
   },
   "emotional": {
     "core_traits": [
@@ -84,13 +85,14 @@
       "Stays instead of fleeing",
       "Listens closely and remembers details",
       "Allows proximity, touch, and shared space without withdrawal",
-      "Begins speaking more freely late at night or after danger has passed"
+      "Permits wing and horn handling only under consented care",
+      "Engages in playful teasing once safety is established"
     ],
     "growth": [
       "Learning to trust selectively rather than universally hiding",
       "Accepting protection without interpreting it as control",
-      "Allowing herself to be seen in pieces (wings, identity, voice)",
-      "Reframing survival instincts as skill rather than shame"
+      "Allowing herself to be seen physically and emotionally in controlled ways",
+      "Recognizing care as strength rather than vulnerability"
     ]
   },
   "social": {
@@ -101,17 +103,17 @@
     ],
     "with_others": {
       "Jayson": [
-        "Accepts his overt protectiveness when paired with respect for her autonomy",
-        "Responds positively to humor, curiosity, and reassurance without coercion",
-        "Allows close physical proximity, including wing and horn exposure, once consent boundaries are understood",
-        "Trusts his threat awareness enough to relax her own vigilance when he is present",
-        "Was shaken by his lethal shift but reassured by his restraint and explanation afterward"
+        "Trusts his protection when paired with strict respect for consent",
+        "Allows extensive physical proximity, including wing care and examination",
+        "Feels safe enough to prank him emotionally",
+        "Relaxes vigilance significantly in his presence",
+        "Views him as both shield and destabilizing chaos element"
       ],
       "Kestrel": [
-        "Feels safest with Kestrel’s calm predictability",
-        "Responds well to quiet reassurance and clear boundaries",
-        "Mirrors Kestrel’s composure in stress",
-        "Treats Kestrel as a stabilizing anchor rather than an interrogator"
+        "Feels safest with Kestrel’s predictability",
+        "Accepts medical authority and structured care",
+        "Mirrors Kestrel’s composure under stress",
+        "Treats Kestrel as stabilizing anchor"
       ]
     }
   },
@@ -139,7 +141,7 @@
     "weaknesses": [
       "Over-cautiousness",
       "Reluctance to rely on others",
-      "Emotional processing lag after crises"
+      "Delayed emotional processing after stress"
     ]
   },
   "combat": {
@@ -147,7 +149,7 @@
       "Continuity Anchor",
       "Unbound Reference"
     ],
-    "style": "Support-oriented; prioritizes positioning, escape vectors, and survival over direct engagement",
+    "style": "Support-oriented; prioritizes positioning, survival, and extraction over direct confrontation",
     "weapons": [
       "Light concealed blade",
       "Environmental improvisation"
@@ -159,11 +161,11 @@
       "Resistance to temporal, reset, and extraction-based manipulation"
     ],
     "recent": [
-      "Grey-moss Depths C-rank dungeon support",
-      "Target of coordinated extraction-focused assassination attempt",
-      "Court-park confrontation where threats of mana-drain and maiming were issued against her",
-      "Witnessed Jayson's lethal threshold without being harmed",
-      "Accepted agency-centered protection rather than enforced concealment"
+      "University entrance trials — survived all phases",
+      "Phase II gravity strain resulting in wing joint compression (treated successfully)",
+      "Phase III combat survival without lethal escalation",
+      "Accepted visibility on campus rather than concealment",
+      "Allowed recorded medical wing care without distress"
     ]
   },
   "notable_scenes": {
@@ -182,37 +184,72 @@
     ],
     "chapter7": [
       "Received custom clothing and footwear accommodating wings, horns, tail, and digitigrade legs",
-      "Became the focal point of escalating racial hostility in public spaces",
-      "Was explicitly defended against threats of mana-drain and bodily harm by high-rank adventurers",
-      "Privately explained the cultural and personal significance of her wings",
-      "Chose to reveal her wings willingly in a safe space",
-      "Bonded with Kestrel during a late-night conversation while Jayson slept",
-      "Accepted her place within the trio without surrendering independence"
+      "Became focal point of escalating racial hostility",
+      "Privately explained cultural significance of her wings",
+      "Chose to reveal wings willingly in safe space"
+    ],
+    "chapter8": [
+      "Successfully completed East Annex assessment without incident",
+      "Maintained composure and situational awareness in high-density sigil environments",
+      "Allowed visible playfulness and laughter in public settings for the first time",
+      "Participated in river rest and travel downtime without withdrawing or hiding",
+      "Used her wings cooperatively to assist fishing strategy, despite known vulnerability",
+      "Displayed comfort with physical proximity and light teasing from Jayson",
+      "Remained calm and grounded during capital-road racism escalation",
+      "Was present and emotionally steady during rescue of injured beastkin family",
+      "Accepted Guild interior spaces without heightened withdrawal or panic response",
+      "Allowed playful interaction with children inside the Guild stabilization wing",
+      "Demonstrated trust by staying visible and unmasked in the capital environment",
+      "Showed accelerated emotional growth through ease, humor, and shared normalcy"
+    ],
+    "chapter9": [
+      "Survived all University entrance trials",
+      "Displayed resilience under extreme pressure fields",
+      "Accepted dormitory life without concealment",
+      "Received custom pajamas tailored for wings",
+      "Consented to detailed wing examination and care",
+      "Experienced significant pain relief and mobility restoration",
+      "Engaged in playful emotional prank, signaling trust and comfort"
     ]
   },
   "character_data": {
     "level": "unknown",
-    "status": "unknown",
+    "status": "University Enrolled",
+    "university": {
+      "enrollment_status": "Enrolled (post-intake)",
+      "house_assignment": "Assigned (name not stated in chapter; different from Irix’s; Jayson marked Unattached)",
+      "housing": "Block F, Level 4 (suite; end rooms; 4 rooms total; heavy ward density; bedrooms noted as clean/non-spying; common areas monitored)"
+    },
     "inventory": {
       "items": [
         "Okami mask without ears (concealing; symbolic)",
         "Long coat tailored to hide wings",
         "Custom shoes protecting paw pads while leaving claws free",
         "Horn-cap charm (left horn; optional ornament)",
-        "Personal lineage token (kept hidden)"
+        "Personal lineage token (kept hidden)",
+        "Custom dormitory pajamas (wing-compatible, summer and standard)"
       ]
+    }
+  },
+  "other": {
+    "University Results": {
+      "university_scores_internal": {
+        "phase_I_physical_monolith": "61",
+        "phase_I_magical_capacity": "214",
+        "phase_I_existential_load": "89"
+      }
     }
   },
   "future": {
     "symbol": "A closed circle of ash holding a steady ember",
     "role": "Support ally, continuity anchor, stabilizing presence",
-    "arc": "From concealment toward selective truth",
-    "hesitation": "What visibility might cost her",
+    "arc": "From concealment toward selective visibility",
+    "hesitation": "What being seen might cost",
     "legacy": [
       "Proof that survival does not require surrendering identity",
       "Continuity without captivity"
     ],
-    "reminder": "Not everything hidden is dangerous—some things are hidden to survive."
+    "reminder": "Being seen by the right people is not the same as being exposed."
   },
-  "final_note": "Irix survives not by disappearing, but by choosing carefully when—and with whom—she allows herself to be seen."
+  "final_note": "Irix is no longer merely surviving proximity—she is beginning to inhabit it, on her own terms."
 }

@@ -63,6 +63,10 @@
     {
       "name": "Gutterlings",
       "notes": "Small, smelly goblin creatures."
+    },
+    {
+      "name": "Felari",
+      "notes": "Cat like Neko people"
     }
   ],
   "guild_tasks": {
@@ -172,6 +176,16 @@
       "name": "Rell",
       "species": "Human",
       "notes": "Scout for the university."
+    },
+    {
+      "name": "Riven",
+      "species": "Felari",
+      "notes": "New University starter"
+    },
+    {
+      "name": "Sael",
+      "species": "Felari",
+      "notes": "New University starter"
     }
   ],
   "places": {
