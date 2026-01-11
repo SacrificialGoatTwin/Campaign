@@ -20,7 +20,7 @@ https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/I
 
 ## FORMATTING TEMPLATE — MANDATORY
 
-### 1) Scene Intro
+### 1) Scene Intro. Every single scene MUST start with:
 
 `# emoji "SCENE LOCATION UPPER" | emoji "WEATHER UPPER" | emoji "TIME OF DAY, ACTUAL TIME" | emoji "DATE"`
 `## Scene Title: TITLE`
