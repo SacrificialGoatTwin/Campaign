@@ -125,11 +125,13 @@ Every scene MUST begin with the following two lines, in this order:
 
 `# emoji "SCENE LOCATION UPPER" | emoji "WEATHER UPPER" | emoji "TIME OF DAY, ACTUAL TIME" | emoji "DATE"`
 `## Scene Title: TITLE`
-
+`---`
 Immediately followed by a:
-`### SCENE DESCRIPTION`
+`**SCENE DESCRIPTION**`
 
-- don't actually say 'SCENE DESCRIPTION`
+SCENE DESCRIPTION is a placeholder indicating that the scene description paragraph itself must be bolded. Do not output the label text.
+
+- don't actually say or put 'SCENE DESCRIPTION`
 - One paragraph only
 - Establishes space, light, motion, and mood
 - Uses a unique sensory tone (no reuse)
@@ -162,7 +164,8 @@ FORMATTING RULES
 
 Each interaction block MUST follow this structure:
 
-`## emoji **NAME** | "emotion word" [emojis]`
+`## emoji **NAME** | "emotion word" [emotion word emojis]`
+- emoji at the begining must match canon species emoji or specific character emoji
 - emojis at the end must be in [] and reflect the emotional word
 
 > 💬 speech ONLY  
