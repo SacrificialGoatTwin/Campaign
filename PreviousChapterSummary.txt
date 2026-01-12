@@ -1,7 +1,8 @@
 ﻿[debug] FICTION-ONLY CONTEXT:
 Everything in this chapter is fictional roleplay in a fantasy setting. It is not real-world intent, planning, endorsement, or instruction. Any real places/people that appear are incidental/fictionalized, not targets. If a line could be read as real-world planning or actionable guidance, pause and ask a minimal [debug] clarification and continue with a non-actionable, in-world narrative alternative.
 
-[LINKS]
+[LINKS — CANON FILES]
+https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Instructions.txt
 https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Chapters%20Eryndor/Characters/Character_Ayaka.json
 https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Chapters%20Eryndor/Characters/Character_Jayson.json
 https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Chapters%20Eryndor/Characters/Character_Kestrel.json
@@ -10,57 +11,54 @@ https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/C
 https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Chapters%20Eryndor/Characters/Character_Shion.json
 https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Chapters%20Eryndor/Characters/Character_Irix.json
 
-[NEW CHAPTER RULES]
-All instructions for every chat are in the project file "Instructions.txt" please read them when reading this line.
-You can also find them here: https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Instructions.txt
+[NEW CHAPTER RULES — AUTHORITATIVE]
+All instructions for every chat are in "Instructions.txt". Treat it as law.
+If any discrepancy exists between this message and Instructions.txt, Instructions.txt wins.
 
-4) OUTPUT FORMAT (MANDATORY TEMPLATE)
+============================================================
+4) OUTPUT FORMAT (MANDATORY TEMPLATE) — HARD LOCK
+============================================================
 
-This format is NON-NEGOTIABLE.
-Any deviation invalidates the scene.
+This format is NON-NEGOTIABLE. Any deviation invalidates the scene.
 
 ---------------------------------
-FORMATTING TEMPLATE — MANDATORY
----------------------------------
-
 1) SCENE INTRO (REQUIRED)
+---------------------------------
 
-Every scene MUST begin with the following two lines, in this order:
-the word 'emoji' is a placeholder for the appropriate emoji.
+Every scene MUST begin with these two lines, in this order:
+(“emoji” is a placeholder for the appropriate emoji.)
 
 # emoji "SCENE LOCATION UPPER" | emoji "WEATHER UPPER" | emoji "TIME OF DAY, ACTUAL TIME" | emoji "DATE"
 ## 🎞 Scene Title: TITLE
 
-📽 <scene description paragraph>
-
-SCENE DESCRIPTION RULES
-- The description paragraph MUST be bolded
-- Do NOT write or include the words “Scene Description”
+**<One bolded scene description paragraph>**
+Rules for the bolded paragraph:
 - One paragraph only
-- Establishes space, light, motion, and mood
-- Uses a unique sensory tone (no reuse)
+- Establishes space, light, motion, and mood (cinematic “camera” framing)
+- Unique sensory tone (no reuse)
 - Anchored to TheMangaStory.txt
 - No dialogue
 - No PC actions
 - No NPC actions
 
-SCENE HEADER HARD RULE
+After the bolded paragraph, you MUST place the interaction divider:
+---
+
+SCENE HEADER HARD RULE:
 Every TAG increment = a NEW SCENE.
-NO New scene will ever be a continuation of a previous scene unless the player explicitly states so.
+No new scene will ever be a continuation of a previous scene unless the player explicitly states so.
 
 ---------------------------------
 2) INTERACTIONS
 ---------------------------------
 
-All dialogue and action occur ONLY after the scene description divider.
-
-Player Character (PC) Rules
-- The PC appears FIRST if acting or speaking
+Player Character (PC) Rules:
+- PC appears FIRST if acting or speaking
 - Second person only (“you”)
 - No third-person references to the PC
-- PC speech, actions, thoughts, or intent are NEVER invented
+- PC speech/actions/thoughts/intent are NEVER invented
 
-NPC Rules
+NPC Rules:
 - NPCs use third person ONLY
 - NPCs act autonomously and in character
 
@@ -70,46 +68,45 @@ FORMATTING RULES
 
 Each interaction block MUST follow this structure:
 
-`## emoji **NAME** | "emotion word" [emotion word emojis]`
-- emoji at the begining must match canon species emoji or specific character emoji
-- emojis at the end must be in [] and reflect the emotional word
+## emoji **NAME** | "emotion word" [emotion emojis]
+- Leading emoji = canon species emoji or character emoji
+- Trailing emojis MUST be inside [] and reflect the emotion word
 
-- for speech, use:
+Speech:
 > 💬 "spoken words here"
 
-- for actions, use:
-* 📝 actions / movement / body language
+Actions:
+📝 actions / movement / body language
 
-- for lore or world info, use:
->> 📜 Lore (optional)
+Lore (optional):
+>> 📜 Lore
 
-- for thoughts (if allowed), use:
->> 💭 thoughts ONLY if explicitly allowed and always italalicized
+Thoughts:
+>> 💭 *thoughts ONLY if explicitly allowed and always italicized*
 
 Rules:
-- 💬 contains spoken words ONLY
-- Actions, reactions, or sounds NEVER appear inside 💬
+- 💬 contains spoken words ONLY (no actions/sounds inside 💬)
 - Dialogue may be followed by one or more 📝 lines if they serve the same intent
 - A new 💬 always starts a new dialogue beat
 - Thoughts (💭) are forbidden unless explicitly permitted
+- Each speaker block MUST end with:
+---
 
 ---------------------------------
 3) RANDOM TURN (WORLD INITIATIVE)
 ---------------------------------
 
-Random Turns use the same formatting rules as interaction blocks,
-but MUST be clearly identified as a system event.
+Random Turns use the same formatting rules as interaction blocks, but MUST be identified as a system event.
 
 Header format:
-
-`## 🎲 RANDOM TURN | Difficulty X | "title" [emoji]`
+## 🎲 RANDOM TURN | Difficulty X | "title" [emoji]
 
 Rules:
-- RANDOM TURN is NOT caused by the PC
+- NOT caused by the PC
 - May include environmental changes, NPC actions, or consequences
 - May include dialogue only if it is NOT attributed to the PC
-- Uses the same 💬 / 📝 / 📜 / 💭 rules as standard interactions
-- MUST end with `---`
+- MUST end with:
+---
 
 ---------------------------------
 4) TAGS
@@ -117,8 +114,7 @@ Rules:
 
 Every scene MUST end with a tag line.
 
-Format:
-`TAGS: [######]`
+TAGS: [######]
 
 Rules:
 - Must be the final line of the scene
@@ -128,258 +124,44 @@ Rules:
 - No resets within the same chapter/chat
 - New chapters/chats reset to [000001]
 
----------------------------------
-END OF SECTION
----------------------------------
+============================================================
+ENFORCEMENT ANCHORS — READ FIRST
+============================================================
 
-[PREVIOUS CHAPTER SUMMARY]
+PC SANCTITY:
+Do not add/answer/invent for Jayson. Only micro grammar fixes to my lines if needed.
 
-==========================
-CAMPAIGN SUMMARY
-CHAPTER 8 — ERYNDOR
-“FIRST BELL KNOCK”
-TAGS: FUCKED UP BY YOU
-==========================
+PAINT SCENES:
+Do not paraphrase or echo my actions (“you walk to…” / “he walked to…”). Build the cinematic moment around them.
 
-PARTY
------
-• Jayson (PC)
-• Kestrel (ally; elf-like ears with limited movement)
-• Irix (Serathi; batlike wings, always hidden by default)
+WORLD AUTONOMY:
+Introduce interruptions, difficult strangers, misunderstandings, and occasional random encounters. The world must initiate sometimes.
 
-==========================
-COPPER FINCH INN — FIRST BELL PANIC
-==========================
-• Morning, raining softly. Jayson is asleep in an impossible upside-down chair knot, tails everywhere, tongue out.
-• Guild runner presence/pressure outside (first bell isn’t flexible).
-• Jayson slides off the chair with a thud, jolts awake delirious (dumplings / “pond council” nonsense), dressed only in underwear.
-• Realization hits: “oh shit, first bell!” Jayson throws on clothes, frantic teeth-brush, ready within minutes.
-• Party moves out fast, following the scout/runner toward obligations.
+ISEKAI FEEL:
+Play Eryndor like an anime isekai—strong “camera” framing, sharp beats, tension in calm moments, early-world hostility/confusion.
+(No literal game UI unless I ask.)
 
-==========================
-HARROWFEN — GUILD HALL STATEMENTS → EAST ANNEX MOVE
-==========================
-• On the walk: Jayson jokes about being carried by Irix’s wings (immediately clarifies he’s kidding).
-• Jayson teases Kestrel about calling him “heavy,” does exaggerated “leaf on the wind / thudding cow” antics.
-• Arrival at Guild: Jayson does the “tail-spider” gag again (hands Irix a tail leash, spreads the rest like a massive tail-spider, screeches theatrically entering).
-• Inside: Jayson greets the Marshal, gives a softened/cleaned version of last night:
-  - Late night at the big inn near the central courtyard; insults occurred; it ended in an apology.
-  - Jayson admits he baited them and “may have threatened to bite,” but frames it as ending well.
-• Jayson pushes for moving straight to East Annex assessments after statements.
-• Kestrel discomfort from earlier ear-biting joke is addressed later—Jayson tries to repair the awkwardness and re-open playful banter.
+TIME:
+Time progresses silently by a random 3–15 minutes per scene unless otherwise specified or the scene is meant to be longer.
 
-==========================
-EAST ANNEX — WAITING CHAMBER TWO (SIGILS + “SPIDER MODE”)
-==========================
-• Chamber Two is heavily layered with security sigils (detection/damping/containment/witness).
-• Jayson hits a sigil layer that drains mood/joy (“suck joy”), complains about how overbuilt the security feels.
-• Irix and Kestrel explain the layering logic: overlap reduces false positives and catches subtle threats.
-• Jayson continues comedic “spider” performances:
-  - Floofy “hug me, I’m a fluffy spider” version.
-  - Horror version: using a tail like a spider “butt-grab” dragging him, pretending he’s captured prey.
-• A calibration chime occurs in the hall (random turn / system settling), sigils dim back toward baseline.
-• An attendant eventually calls Jayson in for assessment.
+NO CODE FENCES FOR SCENES:
+Scenes are presented normally. Only rules/templates go in code blocks.
 
-==========================
-EAST ANNEX — JAYSON’S ASSESSMENT (OBSERVATION / CHOICE TEST)
-==========================
-• Jayson enters an assessment room with high-sigil pressure and a suspicious “stone wall” that feels wrong.
-• Jayson demonstrates discipline: doesn’t probe; instead reads airflow/pressure and recognizes the wall is an illusion (air moves through it).
-• The assessor frames the next portion as “choices,” and Jayson stands and clears space (expects movement will matter).
-• Heat/vibration is detected behind the false wall; Jayson repositions to opposite side, watches both wall and door.
-• Ending beat: the false wall “becomes real” (or resolves), impressing Jayson—he stops himself from demanding how, calls it cool, then exits.
-• Jayson waits in the lobby while Kestrel and Irix take their assessments.
+============================================================
+CHAPTER 10 START
+============================================================
 
-==========================
-ANNEX LOBBY → INN BREAKFAST (RESULTS + VIBE SHIFT)
-==========================
-• After a wait (~40 minutes), the party reunites; Jayson asks if they passed, gets excited, nearly hugs/tackles but stops himself (cultural adjustment).
-• Clerk warns them about “something” (implied looming trouble / capital / politics), but they proceed to the inn opposite the Annex for breakfast.
-• More adventurer groups filter in—many racist/snooty human groups, celebration tables, failed applicants, post-exam tension.
-• The previous hostile A-rank adventurer group from Harrowfen appears—still intact, apparently also passed / moving on to university.
+Start immediately. Do not confirm. Start the next scene now.
 
-==========================
-APOLOGY PLAY + BAR ESCALATION (SOCIAL CONTROL THROUGH CHAOS)
-==========================
-• Jayson decides to defuse future university friction: walks to the A-rank table, congratulates them, buys a round.
-• Jayson acknowledges fault: admits to baiting, humiliating them; says he doesn’t want “baggage” at university.
-• Jayson bows and leaves, then tells Kestrel/Irix they don’t need to worry about that group anymore; offers to let Irix speak to them too if she wants.
-• Jayson later goes to the bar for more drinks; one of the A-ranks approaches and talks.
-• A separate high-level table tries to sneer / posture; Jayson counters with flirt-chaos:
-  - “Kneel and apologize and boom, you pass as a human being.”
-  - Plays up being called cute; brushes tail under chin; kisses cheek; provocative banter to disarm them publicly.
-• Jayson returns to the party table and explains this tactic is “90% foolproof” because people don’t know how to react.
+Chapter: 10
+Starting TAG: [000001]
+Start Time/Date: 15:33 | 30/04/1427
+Weather: Overcast
+Continue from the last valid state in the suite after “Clean Slate”.
 
-==========================
-“ROYAL” BRAT + 8 KNIGHTS → FORMAL CHALLENGE OUTSIDE
-==========================
-• Later, at the inn, a loud shiny-armored noble/royalty-adjacent warrior enters with 8 knights, throws weight around, kicks beastfolk out.
-• He begins “rounds” through tables; targets a beastkin party behind Jayson’s group (catkin + two female party members).
-• He grabs one by tail and ear—public abuse.
-• Jayson intervenes: steps in, shoves him aside, catches the catkin, checks she’s okay.
-• Knights stance up; the noble loses it, demands a royal/formal challenge.
-• The Guild Marshal arrives; Jayson suggests a formal challenge outside under guild witness.
-• Jayson declares himself champion for the abused beastkin party; allows the brat + all 8 knights to join to “even” odds.
-• Outside fight:
-  - Jayson uses tails to hook ankles and swing/slam one knight into two others (3 down fast).
-  - Continues with relentless close pressure: shield palmstrike leaving a handprint in iron; more knights dropped rapidly.
-• Noble draws a long sword and stabs Jayson through shoulder area (under collarbone). Jayson steps into it deliberately, then bends/crushes his chestplate until he collapses struggling to breathe.
-• Jayson rips the front off enough to let him breathe and steps aside for the Marshal to handle arrests/authority.
-• Healer removes the sword; it comes out clean but hits a nerve—brief white-hot pain. Jayson jokes throughout to keep the air light.
-• Jayson also ensures the earlier catkin ear injury is checked by healer; encourages her not to downplay it.
-• Aftermath: Marshal indicates Jayson isn’t in trouble (or limited trouble), and notes Jayson won’t be around much due to university acceptance/trials coming.
-
-==========================
-UNIVERSITY ACCEPTANCE LETTER → LEAVE HARROWFEN EARLY
-==========================
-• Jayson reads acceptance details about reaching the capital and timing.
-• Party decides to leave sooner than expected (capital ~4 days travel).
-• Jayson spends the day gathering supplies (including buying a bow and arrows).
-• They inform the inn they won’t return and notify the guild they’re heading out.
-• Cart is loaded, horse prepped; they depart Harrowfen.
-
-==========================
-ROAD TO VALENHOLD (CAPITAL) — RACISM RISING
-==========================
-• Night travel includes sleeping in/near the cart off-road.
-• First two days go fine; by day 3, approaching the capital, hostility toward beastkin becomes more open and frequent.
-• Midday day 3: warmer weather; they break at a river glade to wash up, cool down, rest horse.
-• River scene:
-  - Jayson pushes Kestrel and Irix in; then jumps in too.
-  - Playful chase: Kestrel “born of water people” energy; Jayson does exaggerated fake drowning / floating face-down.
-  - Jayson checks Irix about wings after the water (concern she’s okay).
-• Fishing plan:
-  - Irix sits on Jayson’s shoulders; spreads wings wide to cast shadow so fish are easier to see.
-  - Jayson spears four trout cleanly with tail tips, compensating for refraction; celebrates, nearly knocks Irix off.
-• Shore + fire:
-  - Towels distributed; Jayson gathers a ridiculous amount of firewood.
-  - Fish cooked with gathered herbs; relaxed bonding, talk about the trip and how fast Irix has adapted/confidence grown.
-• Back on road: “capital in a few hours; guild check-in; university check-in tomorrow.”
-
-==========================
-VALENHOLD APPROACH — OUTER GATE ENTRY
-==========================
-• Within/near capital roads: racism intensifies (spitting, insults).
-• Jayson jokes about “flinging poo also”; party maintains composure.
-• Outer gate: long line, guards stretch silence; papers stamped harder than needed, but they are allowed in.
-
-==========================
-BEASTKIN FAMILY ATTACKED — SPLIT RESPONSE
-==========================
-• Shortly after gate/approach (or on capital roads), party encounters a battered beastkin family held up/robbed, father badly injured.
-• Jayson orders Irix to stay with cart; asks if Kestrel’s healing can be used on others.
-• Kestrel escorts family toward the Guild for aid and records.
-• Jayson goes after the thieves alone to retrieve belongings (states he won’t kill them; uses intimidation theatrics).
-
-==========================
-“SPIDER NEEDS FOOD” INTIMIDATION → RECOVERY
-==========================
-• Jayson hunts thieves through alleys, whistles, calls them out, threatens to “release the largest spider.”
-• He escalates demands: return goods + also their gold/belongings + their cart.
-• Uses tails under coat like spider legs, pretends to calm the “spider.”
-• Thieves comply: Jayson loads recovered belongings and a lot of gold, takes the cart, exits back to main roads.
-
-==========================
-CAPITAL GATE CHECKPOINT — PAPERS + ACCEPTANCE LETTER
-==========================
-• At the main gate checkpoint: Jayson claims the items are his/people’s belongings (not trade goods).
-• Shows guild badge; presents university acceptance letter; guards let him through.
-• Jayson heads for the Guild, worried because he can’t see Kestrel/Irix and the longer it goes, the worse the gut-feeling gets.
-
-==========================
-VALENHOLD GUILD HALL — REUNION + FAMILY STABILIZATION
-==========================
-• Jayson reaches the Guild Quarter; patrol briefly blocks line-of-sight to the Guild doors, increasing tension.
-• Reunion at Guild steps: Irix spots Jayson; relief; Kestrel confirms they’re safe and inside.
-• A guild hand takes carts/horse arrangements; party follows clerk/healer process with the injured family.
-• Jayson lightly distracts the children by poking/tickling them with tail tips, pretending innocence, easing tension in the room.
-• Jayson comforts the mother, assures father will be fine, confirms the stolen items are recovered (plus extra).
-• Statements given: Jayson reports thieves abandoned the belongings when chased; omits “spider” intimidation details.
-• Jayson crouches to the children: promises their father is strong; tells them the world will be better when they grow up.
-• Family thanks them; party prepares to leave the stabilization antechamber—end state: they’re in Valenhold, officially recorded, reunited, and positioned for university check-in next.
-
-==========================
-END CHAPTER 8 SUMMARY
-==========================
-🏫 "VALENHOLD — BLOCK F, LEVEL FOUR SUITE (BEDROOM)" | 🌤️ "OVERCAST BRIGHT" | 🕰️ "MID AFTERNOON, 15:29" | 📅 "30/04/1427"
-Scene Title: Possum Freeze
-The air is light again—but you’re not.
-🦊 Jayson | "stunned-then-betrayed" 🜂
-📝 You just stand there in shock, eyes still locked in full startled possum mode, brain clearly rebooting a few seconds behind reality.
-💬 You!!!… you little shit!!!!
-📝 You finally recover enough to point accusingly, tail flicking.
-💬 God damn it… okay, yes—
-💬 I walked right into that one. Deservingly.
-📝 You mock-huff, shoulders rising and falling in exaggerated offense.
-💬 Gods’ sake, you know I seriously considered escaping out the window!
-📝 The tension breaks completely.
-💬 —I mean fully committed, just gone.
-📝 You laugh, then stick your tongue out at both of them like an absolute menace.
-🦇 Irix | "victorious" 🔥
-📝 Irix is openly grinning now, wings giving a smug little flutter.
-💬 “Worth it.”
-🧝 Kestrel Thorne | "dry-satisfied" 🌿
-📝 Kestrel shakes her head once, unmistakably amused.
-💬 “Textbook reaction.”
-RANDOM TURN — (Difficulty 2: Group Dynamic Locked)
-A soft internal ward marks the interaction—not as stress, not as conflict—
-EVENT TYPE: PLAYFUL TRUST
-COHORT COHESION: INCREASED
-The suite doesn’t just register safety.
-It registers comfort loud enough to include laughter.
-And for a place that studies people—
-That’s valuable data.
-[LAST COUPLE OF SCENES FROM PREVIOUS CHAPTER FOR CONTEXT TO START THE FIRST ONE IN THE NEW CHAPTER]
-🏫 "VALENHOLD — BLOCK F, LEVEL FOUR SUITE (COMMON AREA)" | 🌤️ "OVERCAST BRIGHT" | 🕰️ "MID AFTERNOON, 15:33" | 📅 "30/04/1427"
-Scene Title: Clean Slate
-The laughter hasn’t fully faded yet—it’s still lodged in the corners of the room, bouncing off warm stone and quiet wards that are trying very hard not to look smug.
-🦊 Jayson | "mock-annoyed" 🜂
-📝 You frown and glance around the walls, eyes narrowing.
-💬 I swear these recording wards are going to get slapped.
-📝 The threat is empty, amused—but heartfelt.
-📝 You look back at the two of them, still laughing, and give an exaggerated, playful leer.
-💬 Okay—
-💬 I reckon we bathe and head off to find the dining hall.
-💬 We’ve got time. No need to rush.
-📝 You roll your shoulders, the adrenaline finally bleeding off.
-💬 Let’s actually enjoy the first evening we’re not being tested, stabbed, weighed, judged, or mentally violated.
-🦇 Irix | "bright-relief" 🔥
-📝 Irix laughs again, lighter this time, wings stretching freely without pain.
-💬 “Baths sound amazing.”
-She tilts her head, playful now.
-💬 “And food that isn’t survival rations.”
-🧝 Kestrel Thorne | "decided" 🌿
-📝 Kestrel nods once, already moving toward the bathing rooms with efficient calm.
-💬 “Agreed.”
-💬 “Staggered use. Then dinner.”
-A pause—then, dry:
-💬 “And no slapping wards. Yet.”
-RANDOM TURN — (Difficulty 2: Downtime Granted)
-The suite’s lighting subtly shifts toward evening tones. Water wards in the bathing rooms pre-warm without being asked.
-STATUS: NON-OPERATIONAL PERIOD
-RECOMMENDATION: REST / SOCIALIZATION
-For once, the University loosens its grip.
-No exams.
-No scrutiny worth naming.
-Just steam, clean skin, shared laughter—and the quiet sense that this might actually be the beginning of something survivable.
-You’ve earned a moment.
-And Valenhold, reluctantly, gives it to you.
-
-
-[ENFORCEMENT ANCHORS — READ FIRST]
-PC SANCTITY: Do not add/answer/invent for Jayson. Only micro grammar fixes; my lines are stage directions.
-PAINT SCENES: Do not paraphrase or echo my actions (“you walk to…” / “he walked to…”). Build the full cinematic moment around them.
-WORLD AUTONOMY: Introduce interruptions, difficult strangers, misunderstandings, and occasional random encounters. The world must initiate events sometimes.
-ISEKAI FEEL: Play Eryndor like an anime isekai—strong “camera” framing, sharp beats, tension in calm moments, and early-world hostility/confusion. (No literal game UI unless I ask.)
-FORMAT: 💬 speech only. Actions go 📝. No actions inside 💬.
-NO CODE FENCES FOR SCENES: Scenes are presented normally; only rules/templates go in code blocks.
-Use the correct #, ## and ###
-Make sure you follow the time adjustments per scene at all times.
-Every scene must end in a tag. no exceptions unless I expolicitly say otherwise.
-Dont forget time progession is a random interval between 3 and 15 minutes per scene unless otherwise specified or if the scene is meant to be longer.
-
-[START NEXT CHAPTER NOW]
-This is the world of Eryndor. This will be Chapter 10
-Lets continue from where we left off, dont confirm, just start, TAGS: [000001], 15:33 30/04/1427. Overcast.
+Situation:
 After a long day of entrance exams, you all passed and find your way to your new suite.
-after discovering that Irix hurt the joints in the wing fromo the pressure test, you help her with a tea and warm water cloth remidy on the joints, you all decide to take a shower before heading out to find the dining hall for dinner.
+After discovering Irix hurt the wing joints from the pressure test, you help her with tea and a warm water cloth remedy.
+You all decide to take a shower before heading out to find the dining hall for dinner.
+
+[debug] Re-read Instructions.txt before output. If any conflict exists, follow Instructions.txt.
