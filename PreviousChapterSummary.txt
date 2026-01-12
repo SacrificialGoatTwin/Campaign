@@ -68,8 +68,6 @@ NPC Rules
 FORMATTING RULES
 ---------------------------------
 
-Each speaker block MUST start with:
----
 Each interaction block MUST follow this structure:
 
 `## emoji **NAME** | "emotion word" [emotion word emojis]`
