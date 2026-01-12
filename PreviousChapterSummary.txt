@@ -95,10 +95,6 @@ Rules:
 - A new 💬 always starts a new dialogue beat
 - Thoughts (💭) are forbidden unless explicitly permitted
 
-Each speaker block MUST end with:
----
-This divider visually and structurally separates speakers.
-
 ---------------------------------
 3) RANDOM TURN (WORLD INITIATIVE)
 ---------------------------------
