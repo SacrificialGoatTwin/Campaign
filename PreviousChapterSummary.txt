@@ -27,24 +27,30 @@ FORMATTING TEMPLATE — MANDATORY
 
 Every scene MUST begin with the following two lines, in this order:
 
-`# emoji "SCENE LOCATION UPPER" | emoji "WEATHER UPPER" | emoji "TIME OF DAY, ACTUAL TIME" | emoji "DATE"`
-`## Scene Title: TITLE`
-`---`
-Immediately followed by a:
-`**SCENE DESCRIPTION**`
+# emoji "SCENE LOCATION UPPER" | emoji "WEATHER UPPER" | emoji "TIME OF DAY, ACTUAL TIME" | emoji "DATE"
+## Scene Title: TITLE
 
-SCENE DESCRIPTION is a placeholder indicating that the scene description paragraph itself must be bolded. Do not output the label text.
+---
+**<scene description paragraph>**
+---
+---
 
-- don't actually say or put 'SCENE DESCRIPTION`
+SCENE DESCRIPTION RULES
+- The description paragraph MUST be bolded
+- Do NOT write or include the words “Scene Description”
 - One paragraph only
 - Establishes space, light, motion, and mood
 - Uses a unique sensory tone (no reuse)
 - Anchored to TheMangaStory.txt
 - No dialogue
+- No PC actions
+- No NPC actions
 
-The scene description MUST end with:
-`---`
-This divider marks the transition from environment → interaction.
+DIVIDER RULES
+- The first `---` opens the scene description
+- The second `---` closes the scene description
+- The third `---` is a hard transition barrier
+- All interactions begin ONLY after the third divider
 
 ---------------------------------
 2) INTERACTIONS
@@ -314,4 +320,5 @@ Dont forget time progession is a random interval between 3 and 15 minutes per sc
 [START NEXT CHAPTER NOW]
 This is the world of Eryndor. This will be Chapter 10
 Lets continue from where we left off, dont confirm, just start, TAGS: [000001], 15:33 30/04/1427. Overcast.
-After a long day of entrance exams, you all passed and find your way to your suite. after helping Irix with her wing, you all decide to take a shower before heading out to find the dining hall for dinner.
+After a long day of entrance exams, you all passed and find your way to your new suite.
+after discovering that Irix hurt the joints in the wing fromo the pressure test, you help her with a tea and warm water cloth remidy on the joints, you all decide to take a shower before heading out to find the dining hall for dinner.

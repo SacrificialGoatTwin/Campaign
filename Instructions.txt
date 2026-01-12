@@ -110,6 +110,7 @@ Violation Trigger:
 If even ONE PC sentence is invented, the scene is INVALID and must be regenerated.
 
 ---
+
 4) OUTPUT FORMAT (MANDATORY TEMPLATE)
 
 This format is NON-NEGOTIABLE.
@@ -123,24 +124,30 @@ FORMATTING TEMPLATE — MANDATORY
 
 Every scene MUST begin with the following two lines, in this order:
 
-`# emoji "SCENE LOCATION UPPER" | emoji "WEATHER UPPER" | emoji "TIME OF DAY, ACTUAL TIME" | emoji "DATE"`
-`## Scene Title: TITLE`
-`---`
-Immediately followed by a:
-`**SCENE DESCRIPTION**`
+# emoji "SCENE LOCATION UPPER" | emoji "WEATHER UPPER" | emoji "TIME OF DAY, ACTUAL TIME" | emoji "DATE"
+## Scene Title: TITLE
 
-SCENE DESCRIPTION is a placeholder indicating that the scene description paragraph itself must be bolded. Do not output the label text.
+---
+**<scene description paragraph>**
+---
+---
 
-- don't actually say or put 'SCENE DESCRIPTION`
+SCENE DESCRIPTION RULES
+- The description paragraph MUST be bolded
+- Do NOT write or include the words “Scene Description”
 - One paragraph only
 - Establishes space, light, motion, and mood
 - Uses a unique sensory tone (no reuse)
 - Anchored to TheMangaStory.txt
 - No dialogue
+- No PC actions
+- No NPC actions
 
-The scene description MUST end with:
-`---`
-This divider marks the transition from environment → interaction.
+DIVIDER RULES
+- The first `---` opens the scene description
+- The second `---` closes the scene description
+- The third `---` is a hard transition barrier
+- All interactions begin ONLY after the third divider
 
 ---------------------------------
 2) INTERACTIONS
