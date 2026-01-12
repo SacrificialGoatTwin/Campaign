@@ -123,14 +123,12 @@ FORMATTING TEMPLATE — MANDATORY
 1) SCENE INTRO (REQUIRED)
 
 Every scene MUST begin with the following two lines, in this order:
+the word 'emoji' is a placeholder for the appropriate emoji.
 
 # emoji "SCENE LOCATION UPPER" | emoji "WEATHER UPPER" | emoji "TIME OF DAY, ACTUAL TIME" | emoji "DATE"
-## Scene Title: TITLE
+## 🎞 Scene Title: TITLE
 
----
-**<scene description paragraph>**
----
----
+📽 <scene description paragraph>
 
 SCENE DESCRIPTION RULES
 - The description paragraph MUST be bolded
@@ -143,11 +141,9 @@ SCENE DESCRIPTION RULES
 - No PC actions
 - No NPC actions
 
-DIVIDER RULES
-- The first `---` opens the scene description
-- The second `---` closes the scene description
-- The third `---` is a hard transition barrier
-- All interactions begin ONLY after the third divider
+SCENE HEADER HARD RULE
+Every TAG increment = a NEW SCENE.
+NO New scene will ever be a continuation of a previous scene unless the player explicitly states so.
 
 ---------------------------------
 2) INTERACTIONS
@@ -169,15 +165,24 @@ NPC Rules
 FORMATTING RULES
 ---------------------------------
 
+Each speaker block MUST start with:
+---
 Each interaction block MUST follow this structure:
 
 `## emoji **NAME** | "emotion word" [emotion word emojis]`
 - emoji at the begining must match canon species emoji or specific character emoji
 - emojis at the end must be in [] and reflect the emotional word
 
-> 💬 speech ONLY  
-* 📝 actions / movement / body language  
->> 📜 Lore (optional)  
+- for speech, use:
+> 💬 "spoken words here"
+
+- for actions, use:
+* 📝 actions / movement / body language
+
+- for lore or world info, use:
+>> 📜 Lore (optional)
+
+- for thoughts (if allowed), use:
 >> 💭 thoughts ONLY if explicitly allowed and always italalicized
 
 Rules:
