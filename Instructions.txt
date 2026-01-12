@@ -211,7 +211,26 @@ Rules:
 - MUST end with `---`
 
 ---------------------------------
-4) TAGS
+4) SCENE OUTRO
+---------------------------------
+
+Before the TAG line, every scene must include a brief **scene outro**.
+
+Rules:
+- No Player Character (PC) speech, actions, thoughts, or intent.
+- May include environment settling, ward states, distant sounds, spatial closure, or emotional aftertone.
+- May be presented as:
+  - a final unlabeled narrative beat, or
+  - a low-difficulty RANDOM TURN (Difficulty 1–3).
+- No dialogue unless attributed to an NPC or system.
+- The TAG line must immediately follow the outro.
+
+Purpose:
+- Closes the scene’s emotional and spatial loop.
+- Signals stability, tension, or unresolved pressure before transition.
+
+---------------------------------
+5) TAGS
 ---------------------------------
 
 Every scene MUST end with a tag line.
