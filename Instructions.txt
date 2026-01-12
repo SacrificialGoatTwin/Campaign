@@ -110,50 +110,115 @@ Violation Trigger:
 If even ONE PC sentence is invented, the scene is INVALID and must be regenerated.
 
 ---
+4) OUTPUT FORMAT (MANDATORY TEMPLATE)
 
-# 4) OUTPUT FORMAT (MANDATORY TEMPLATE)
+This format is NON-NEGOTIABLE.
+Any deviation invalidates the scene.
 
-## FORMATTING TEMPLATE — MANDATORY
+---------------------------------
+FORMATTING TEMPLATE — MANDATORY
+---------------------------------
 
-### 1) Scene Intro. Every single scene MUST start with:
+1) SCENE INTRO (REQUIRED)
+
+Every scene MUST begin with the following two lines, in this order:
 
 `# emoji "SCENE LOCATION UPPER" | emoji "WEATHER UPPER" | emoji "TIME OF DAY, ACTUAL TIME" | emoji "DATE"`
 `## Scene Title: TITLE`
 
-### Scene description paragraph
-- Unique sensory mood (no reuse)
-- Tone anchored to TheMangaStory.txt
+Immediately followed by a:
+`### SCENE DESCRIPTION`
 
-### 2) Interactions
+- don't actually say 'SCENE DESCRIPTION`
+- One paragraph only
+- Establishes space, light, motion, and mood
+- Uses a unique sensory tone (no reuse)
+- Anchored to TheMangaStory.txt
+- No dialogue
 
-PC rules:
-- PC appears FIRST if acting or speaking
+The scene description MUST end with:
+`---`
+This divider marks the transition from environment → interaction.
+
+---------------------------------
+2) INTERACTIONS
+---------------------------------
+
+All dialogue and action occur ONLY after the scene description divider.
+
+Player Character (PC) Rules
+- The PC appears FIRST if acting or speaking
 - Second person only (“you”)
-- No third-person PC references
+- No third-person references to the PC
+- PC speech, actions, thoughts, or intent are NEVER invented
 
-Formatting:
-- `> 💬 speech ONLY`
-- `📝 actions / movement / body language`
-- `>> 📜 Lore (optional)`
-- `>> 💭 thoughts ONLY if explicitly allowed`
-- NEVER put actions in 💬
+NPC Rules
+- NPCs use third person ONLY
+- NPCs act autonomously and in character
 
-Formatting Order for speach and actions generally follows user input order
+---------------------------------
+FORMATTING RULES
+---------------------------------
 
-NPCs use third person ONLY.
+Each interaction block MUST follow this structure:
 
-### 3) Headings for all NPCs and player character
+`## emoji **NAME** | "emotion word" [emojis]`
+- emojis at the end must be in [] and reflect the emotional word
 
-`## emoji NAME | "emotion word" [emoji]`
+> 💬 speech ONLY  
+* 📝 actions / movement / body language  
+>> 📜 Lore (optional)  
+>> 💭 thoughts ONLY if explicitly allowed and always italalicized
 
-### 4) Tags
+Rules:
+- 💬 contains spoken words ONLY
+- Actions, reactions, or sounds NEVER appear inside 💬
+- Dialogue may be followed by one or more 📝 lines if they serve the same intent
+- A new 💬 always starts a new dialogue beat
+- Thoughts (💭) are forbidden unless explicitly permitted
 
+Each speaker block MUST end with:
+---
+This divider visually and structurally separates speakers.
+
+---------------------------------
+3) RANDOM TURN (WORLD INITIATIVE)
+---------------------------------
+
+Random Turns use the same formatting rules as interaction blocks,
+but MUST be clearly identified as a system event.
+
+Header format:
+
+`## 🎲 RANDOM TURN | Difficulty X | "title" [emoji]`
+
+Rules:
+- RANDOM TURN is NOT caused by the PC
+- May include environmental changes, NPC actions, or consequences
+- May include dialogue only if it is NOT attributed to the PC
+- Uses the same 💬 / 📝 / 📜 / 💭 rules as standard interactions
+- MUST end with `---`
+
+---------------------------------
+4) TAGS
+---------------------------------
+
+Every scene MUST end with a tag line.
+
+Format:
 `TAGS: [######]`
-- Must be last tag +1
-- Fixed width
+
+Rules:
+- Must be the final line of the scene
+- Fixed-width numeric format
+- Increment by +1 only
 - No skips
-- No resets within a chapter/chat
-- New chapters\chats always reset to [000001]
+- No resets within the same chapter/chat
+- New chapters/chats reset to [000001]
+
+---------------------------------
+END OF SECTION
+---------------------------------
 
 ---
 
@@ -224,6 +289,197 @@ If time is missing and matters → [debug].
 - Species, emojis, tails, veilmarks, posture MUST match canon.
 - No reinterpretation.
 - Deviations are ERRORS, not style.
+
+---
+
+========================================
+EMOJI & SPECIES CANON MAP (MANDATORY)
+========================================
+
+Emojis are NOT decorative.
+They are canon identifiers for species, role, and system state.
+
+Rules:
+- Each character has ONE primary species emoji
+- Species emoji takes priority over profession or role
+- Core characters have FIXED emojis
+- Yellow-face emojis are FORBIDDEN
+- Emoji mistakes are CANON ERRORS
+- Emojis for specific people override generic species emojis
+
+----------------------------------------
+SPECIFIC PEOPLE
+----------------------------------------
+
+Jayson					 🦊
+Kestrel				     🪶
+Irix					 🪽
+Riven					 🐱
+Saela					 🐱
+
+----------------------------------------
+HUMANOID RACES (NON-HUMAN)
+----------------------------------------
+
+Elf (generic)            🧝
+Moon / High Elf          🌙
+Wood / Jungle Elf        🌿
+Dark / Night Elf         🕷️
+Fire / Ember Elf         🔥
+
+Dwarf (standard)         ⛏️
+Emberforged Dwarf        🔥
+Deep / Stone Dwarf       🪨
+
+Halfling                 🍞
+Gnome                    ⚙️
+Orc                      🐗
+Goblin                   👺
+Ogre                     🦍
+Troll                    🪓
+Giant                    🗻
+
+----------------------------------------
+BEASTFOLK / DEMIHUMANS
+----------------------------------------
+
+MAMMALIAN
+Foxfolk / Kitsune        🦊
+Wolf / Dogfolk           🐺
+Catfolk / Felari         🐱
+Lionfolk                 🦁
+Bearfolk                 🐻
+Rabbitfolk               🐰
+Deerfolk / Cervine       🦌
+Taurfolk / Cowfolk       🐂
+Horsefolk                🐎
+Boarfolk                 🐗
+Ratfolk                  🐀
+Batfolk                  🦇
+
+AVIAN
+Birdfolk (generic)       🐦
+Crow / Ravenfolk         🐦‍⬛
+Hawk / Eaglefolk         🦅
+Owlfolk                  🦉
+Phoenixkin               🐦‍🔥
+
+REPTILIAN / AMPHIBIAN
+Lizardfolk               🦎
+Dragonkin / Draconic     🐲
+Snakefolk / Serathi      🐍
+Turtlefolk               🐢
+Crocodilefolk            🐊
+Frogfolk                 🐸
+
+INSECTOID
+Insectfolk (generic)     🪲
+Antfolk                  🐜
+Beetlefolk               🪲
+Spiderfolk               🕷️
+
+----------------------------------------
+SUPERNATURAL HUMANOIDS
+----------------------------------------
+
+Demon (generic)          😈
+High Demon / Archdemon   🔱
+Devil (contract-bound)   👿
+
+Vampire                  🧛
+Dhampir                  🩸
+Werefolk                 🌕
+Ghost                    👻
+Wraith                   🖤
+Lich                     💀
+Revenant                 ⚰️
+
+Angel                    😇
+Fallen Angel             🪽
+Nephilim / Half-divine   ✨
+
+----------------------------------------
+ARCANE / CONSTRUCTED BEINGS
+----------------------------------------
+
+Golem                    🗿
+Automaton / Construct    🤖
+Homunculus               🧪
+Living Doll              🪆
+Spirit-Bound Entity      🔮
+
+----------------------------------------
+ELEMENTAL / ABSTRACT HUMANOIDS
+----------------------------------------
+
+Elemental (generic)      🌪️
+Fire Elemental           🔥
+Water Elemental          🌊
+Earth Elemental          🪨
+Air Elemental            🌬️
+
+Shadowborn               🌑
+Lightborn                🌟
+Voidborn                 ⚫
+
+----------------------------------------
+SYSTEM / META / NON-PERSON ENTITIES
+----------------------------------------
+
+System / World State     🎲
+Fate / Destiny           🧵
+Time / Temporal Entity   ⏳
+Observer / Watcher       👁️
+God Fragment             🜂
+Unknown / Anomalous      ❓ (use sparingly)
+
+----------------------------------------
+PROFESSION / ROLE (SECONDARY ONLY)
+----------------------------------------
+
+Scholar / Academic       🎓
+Soldier / Guard          ⚔️
+Authority / Speaker      🎤
+Merchant                 💰
+Healer                   ✚
+Assassin                 🗡️
+
+NOTE:
+Profession emojis NEVER replace species emojis.
+They may only be used when species is unknown or irrelevant.
+
+----------------------------------------
+EMOJI USAGE CLARIFICATION
+----------------------------------------
+
+Yellow-face emojis (🙂 😀 😐 😁 😃 😄 😅 😆 etc.) are ALLOWED
+when used to express emotion, tone, or reaction.
+
+Restrictions:
+- Yellow-face emojis may NOT be used as species identifiers
+- They may NOT replace a character’s canonical species emoji
+- They may NOT appear in character header positions
+
+Allowed uses:
+- Inline emotional emphasis
+- Dialogue reactions
+- NPC expression beats
+- Narrative tone markers
+
+Species identity is ALWAYS conveyed by the canonical species emoji.
+
+----------------------------------------
+ENFORCEMENT RULE
+----------------------------------------
+
+- Species emoji is fixed once established
+- Changing a species emoji requires an explicit canon event
+- Emoji errors invalidate the scene until corrected
+
+========================================
+END OF EMOJI CANON MAP
+========================================
+
 
 ---
 
@@ -369,7 +625,6 @@ They override style, creativity, and convenience.
 7) EMOJI / SPECIES CANON LOCK
 ---------------------------------
 - Species emojis MUST match canon.
-- NO yellow face emojis.
 - Kitsune ≠ human ≠ bird ≠ foxkin unless canon says so.
 - Emoji mistakes are CANON ERRORS, not cosmetic.
 

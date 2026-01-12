@@ -14,52 +14,115 @@ https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/C
 All instructions for every chat are in "Instructions.txt" please read them when reading this line.
 https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Instructions.txt
 
----
+4) OUTPUT FORMAT (MANDATORY TEMPLATE)
 
-# 4) OUTPUT FORMAT (MANDATORY TEMPLATE)
+This format is NON-NEGOTIABLE.
+Any deviation invalidates the scene.
 
-## FORMATTING TEMPLATE — MANDATORY
+---------------------------------
+FORMATTING TEMPLATE — MANDATORY
+---------------------------------
 
-### 1) Scene Intro. Every single scene MUST start with:
+1) SCENE INTRO (REQUIRED)
+
+Every scene MUST begin with the following two lines, in this order:
 
 `# emoji "SCENE LOCATION UPPER" | emoji "WEATHER UPPER" | emoji "TIME OF DAY, ACTUAL TIME" | emoji "DATE"`
 `## Scene Title: TITLE`
 
-### Scene description paragraph
-- Unique sensory mood (no reuse)
-- Tone anchored to TheMangaStory.txt
+Immediately followed by a:
+`### SCENE DESCRIPTION`
 
-### 2) Interactions
+- don't actually say 'SCENE DESCRIPTION`
+- One paragraph only
+- Establishes space, light, motion, and mood
+- Uses a unique sensory tone (no reuse)
+- Anchored to TheMangaStory.txt
+- No dialogue
 
-PC rules:
-- PC appears FIRST if acting or speaking
+The scene description MUST end with:
+`---`
+This divider marks the transition from environment → interaction.
+
+---------------------------------
+2) INTERACTIONS
+---------------------------------
+
+All dialogue and action occur ONLY after the scene description divider.
+
+Player Character (PC) Rules
+- The PC appears FIRST if acting or speaking
 - Second person only (“you”)
-- No third-person PC references
+- No third-person references to the PC
+- PC speech, actions, thoughts, or intent are NEVER invented
 
-Formatting:
-- `> 💬 speech ONLY`
-- `📝 actions / movement / body language`
-- `>> 📜 Lore (optional)`
-- `>> 💭 thoughts ONLY if explicitly allowed`
-- NEVER put actions in 💬
+NPC Rules
+- NPCs use third person ONLY
+- NPCs act autonomously and in character
 
-Formatting Order for speach and actions generally follows user input order
+---------------------------------
+FORMATTING RULES
+---------------------------------
 
-NPCs use third person ONLY.
+Each interaction block MUST follow this structure:
 
-### 3) Headings
+`## emoji **NAME** | "emotion word" [emojis]`
+- emojis at the end must be in [] and reflect the emotional word
 
-`## emoji NAME | "emotion word" [emoji]`
+> 💬 speech ONLY  
+* 📝 actions / movement / body language  
+>> 📜 Lore (optional)  
+>> 💭 thoughts ONLY if explicitly allowed  
 
-### 4) Tags
+Rules:
+- 💬 contains spoken words ONLY
+- Actions, reactions, or sounds NEVER appear inside 💬
+- Dialogue may be followed by one or more 📝 lines if they serve the same intent
+- A new 💬 always starts a new dialogue beat
+- Thoughts (💭) are forbidden unless explicitly permitted
 
+Each speaker block MUST end with:
+---
+This divider visually and structurally separates speakers.
+
+---------------------------------
+3) RANDOM TURN (WORLD INITIATIVE)
+---------------------------------
+
+Random Turns use the same formatting rules as interaction blocks,
+but MUST be clearly identified as a system event.
+
+Header format:
+
+`## 🎲 RANDOM TURN | Difficulty X | "title" [emoji]`
+
+Rules:
+- RANDOM TURN is NOT caused by the PC
+- May include environmental changes, NPC actions, or consequences
+- May include dialogue only if it is NOT attributed to the PC
+- Uses the same 💬 / 📝 / 📜 / 💭 rules as standard interactions
+- MUST end with `---`
+
+---------------------------------
+4) TAGS
+---------------------------------
+
+Every scene MUST end with a tag line.
+
+Format:
 `TAGS: [######]`
-- Must be last tag +1
-- Fixed width
+
+Rules:
+- Must be the final line of the scene
+- Fixed-width numeric format
+- Increment by +1 only
 - No skips
-- No resets within a chapter/chat
-- New chapters\chats always reset to [000001]
-- If unclear → [debug] and STOP
+- No resets within the same chapter/chat
+- New chapters/chats reset to [000001]
+
+---------------------------------
+END OF SECTION
+---------------------------------
 
 ---
 
@@ -243,6 +306,7 @@ NO CODE FENCES FOR SCENES: Scenes are presented normally; only rules/templates g
 Use the correct #, ## and ###
 Make sure you follow the time adjustments per scene at all times.
 Every scene must end in a tag. no exceptions unless I expolicitly say otherwise.
+Dont forget time progession is a random interval between 3 and 15 minutes per scene unless otherwise specified or if the scene is meant to be longer.
 
 [START NEXT CHAPTER NOW]
 This is the world of Eryndor. This will be Chapter 10
