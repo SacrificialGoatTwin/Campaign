@@ -128,11 +128,13 @@ the word 'emoji' is a placeholder for the appropriate emoji.
 # emoji "SCENE LOCATION UPPER" | emoji "WEATHER UPPER" | emoji "TIME OF DAY, ACTUAL TIME" | emoji "DATE"
 ## 🎞 Scene Title: TITLE
 
-📽 <scene description paragraph>
+followed by `---`
+
+### 📽 <scene description paragraph>
+
+followed by `---`
 
 SCENE DESCRIPTION RULES
-- The description paragraph MUST be bolded
-- Do NOT write or include the words “Scene Description”
 - One paragraph only
 - Establishes space, light, motion, and mood
 - Uses a unique sensory tone (no reuse)
@@ -143,7 +145,7 @@ SCENE DESCRIPTION RULES
 
 SCENE HEADER HARD RULE
 Every TAG increment = a NEW SCENE.
-NO New scene will ever be a continuation of a previous scene unless the player explicitly states so.
+NO New scene will ever be a continuation of a previous scene unless the player explicitly states so. SO make sure every single scene has an INTRO
 
 ---------------------------------
 2) INTERACTIONS
@@ -167,7 +169,7 @@ FORMATTING RULES
 
 Each interaction block MUST follow this structure:
 
-`## emoji **NAME** | "emotion word" [emotion word emojis]`
+`## emoji NAME | "emotion word" [emotion word emojis]`
 - emoji at the begining must match canon species emoji or specific character emoji
 - emojis at the end must be in [] and reflect the emotional word
 
@@ -206,7 +208,7 @@ Rules:
 - May include environmental changes, NPC actions, or consequences
 - May include dialogue only if it is NOT attributed to the PC
 - Uses the same 💬 / 📝 / 📜 / 💭 rules as standard interactions
-- MUST start with `---`
+- A Random Turn is essentially a random event initiated by the world
 
 ---------------------------------
 4) SCENE OUTRO
@@ -592,7 +594,6 @@ These exist because prior failures occurred.
 9. **DUNGEON TIME SCALE LOCK**
    - Extended actions consume appropriate time implicitly.
 
----
 
 These rules exist because repeated failures occurred.
 They override style, creativity, and convenience.

@@ -99,7 +99,7 @@ Rules:
 Random Turns use the same formatting rules as interaction blocks, but MUST be identified as a system event.
 
 Header format:
-## 🎲 RANDOM TURN | Difficulty X | "title" [emoji]
+`## 🎲 RANDOM TURN | Difficulty X | "title" [emoji]`
 
 Rules:
 - NOT caused by the PC
