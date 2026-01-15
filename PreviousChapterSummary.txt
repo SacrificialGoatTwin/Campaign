@@ -178,17 +178,16 @@ NO CODE FENCES FOR SCENES:
 Scenes are presented normally. Only rules/templates go in code blocks.
 
 ============================================================
-CHAPTER 10 START
+CHAPTER 11 START
 ============================================================
 
 Start immediately. Do not confirm. Start the next scene now.
 
-Chapter: 10
+Chapter: 11
 Starting TAG: [000001]
-Start Time/Date: 15:33 | 30/04/1427
-Weather: Overcast
+Start Time/Date: 15:33 | 01/05/1427
+Weather: Clear
 
 Situation:
-After a long day of entrance exams, you all passed and find your way to your new suite.
-After discovering Irix hurt the wing joints from the pressure test, you help her with tea and a warm water cloth remedy.
-You all decide to take a shower before heading out to find the dining hall for dinner. you are all in the lounge at the moment.
+All 3 of you are at lunch, Irix stucks up for herself thanks to you from a bully, and now the table is feeling good about itself.
+you all 3 discuss afternoon plans.

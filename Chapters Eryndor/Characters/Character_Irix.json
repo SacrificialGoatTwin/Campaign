@@ -21,11 +21,11 @@
       "Jayson": {
         "Status": "Close Friend",
         "Trust": {
-          "Combat": "65%",
-          "Judgement": "60%",
-          "Personal": "50%"
+          "Combat": "70%",
+          "Judgement": "65%",
+          "Personal": "60%"
         },
-        "Love": "15%"
+        "Love": "18%"
       }
     },
     "race": "Ashen Serathi (Noble Continuity Lineage)",
@@ -35,7 +35,10 @@
     "tails": "1 (straight, flexible, non-barbed)",
     "wings": "Bat-like Ashen Serathi wings; highly sensitive membrane; complex joint structure; extremely flexible with defined load limits; prone to joint strain under extreme pressure fields",
     "horns": "Curved, swept-back horns; sensitive but resilient; culturally significant and not ornamental by default",
-    "legs": "Digitigrade with feline-pawed feet; silent tread, strong balance, clawed pads protected by custom footwear"
+    "legs": "Digitigrade with feline-pawed feet; silent tread, strong balance, clawed pads protected by custom footwear",
+    "markings": {
+      "ankle_braid": "Braided fox-fur cord tied around ankle by Jayson; symbolic anchor denoting chosen protection, courage under scrutiny, and reminder of trusted presence when alone"
+    }
   },
   "reactions": {
     "wind": "Instinctively adjusts stance and wing alignment to avoid silhouette exposure",
@@ -43,7 +46,7 @@
     "sound": "Highly attentive; catalogs patterns rather than reacting emotionally",
     "temperature": "Heat-tolerant; cold increases muscle tension and vigilance",
     "crowds": "Heightened awareness; stress rises with prolonged attention or fixation",
-    "hostility": "Withdraws first; freezes only when escape vectors are threatened",
+    "hostility": "Withdraws first; freezes only when escape vectors are threatened; increasingly willing to assert boundaries verbally when supported by witnesses",
     "medical_touch": "Requires explicit consent; relaxes rapidly when care is methodical, narrated, and non-coercive"
   },
   "speech": {
@@ -56,7 +59,7 @@
       "Answers directly but minimally",
       "Avoids personal disclosure unless trust is explicit"
     ],
-    "growth": "Increasing use of humor, teasing, and playful misdirection with trusted companions"
+    "growth": "Demonstrated ability to speak confidently and publicly under pressure; increasing use of humor and direct assertion when boundaries are challenged"
   },
   "emotional": {
     "core_traits": [
@@ -86,13 +89,14 @@
       "Listens closely and remembers details",
       "Allows proximity, touch, and shared space without withdrawal",
       "Permits wing and horn handling only under consented care",
-      "Engages in playful teasing once safety is established"
+      "Engages in playful teasing once safety is established",
+      "Accepts symbolic protection without interpreting it as ownership"
     ],
     "growth": [
-      "Learning to trust selectively rather than universally hiding",
-      "Accepting protection without interpreting it as control",
-      "Allowing herself to be seen physically and emotionally in controlled ways",
-      "Recognizing care as strength rather than vulnerability"
+      "Asserted personal agency publicly in hostile social environment",
+      "Demonstrated confidence independent of immediate physical protection",
+      "Accepted encouragement to be visibly brave rather than silently enduring",
+      "Experienced pride and satisfaction in self-advocacy"
     ]
   },
   "social": {
@@ -104,10 +108,10 @@
     "with_others": {
       "Jayson": [
         "Trusts his protection when paired with strict respect for consent",
-        "Allows extensive physical proximity, including wing care and examination",
-        "Feels safe enough to prank him emotionally",
-        "Relaxes vigilance significantly in his presence",
-        "Views him as both shield and destabilizing chaos element"
+        "Accepts symbolic anchoring as emotional reassurance rather than control",
+        "Feels empowered to act independently while carrying his support",
+        "Allows playful prompting that reinforces courage rather than dependence",
+        "Views him as emotional amplifier for bravery rather than shield alone"
       ],
       "Kestrel": [
         "Feels safest with Kestrel’s predictability",
@@ -136,7 +140,8 @@
       "Emotional restraint",
       "Accurate reading of intent",
       "Endurance under prolonged pressure",
-      "Resistance to coercive systems"
+      "Resistance to coercive systems",
+      "Emerging confidence in public assertion"
     ],
     "weaknesses": [
       "Over-cautiousness",
@@ -165,7 +170,9 @@
       "Phase II gravity strain resulting in wing joint compression (treated successfully)",
       "Phase III combat survival without lethal escalation",
       "Accepted visibility on campus rather than concealment",
-      "Allowed recorded medical wing care without distress"
+      "Allowed recorded medical wing care without distress",
+      "Publicly asserted autonomy during upper-year social intimidation",
+      "Demonstrated courage independent of immediate physical protection"
     ]
   },
   "notable_scenes": {
@@ -210,15 +217,25 @@
       "Consented to detailed wing examination and care",
       "Experienced significant pain relief and mobility restoration",
       "Engaged in playful emotional prank, signaling trust and comfort"
+    ],
+    "chapter10": [
+      "Injured wing joints during pressure-field trial and accepted aftercare without withdrawal",
+      "Experienced cultural misunderstanding regarding flirtation and ownership norms; clarified boundaries with Jayson",
+      "Participated in public dining hall confrontation with upper-year students",
+      "Asserted autonomy by openly declaring herself single under hostile scrutiny",
+      "Shifted dining hall perception from protected target to confident individual",
+      "Accepted braided fox-fur ankle anchor as symbol of chosen support and courage",
+      "Expressed pride and satisfaction after successful self-assertion",
+      "Demonstrated emotional growth through confidence, humor, and public presence"
     ]
   },
   "character_data": {
-    "level": "unknown",
+    "level": "1",
     "status": "University Enrolled",
     "university": {
       "enrollment_status": "Enrolled (post-intake)",
       "house_assignment": "Veiled",
-      "housing": "Block F, Level 4 (suite; end rooms; 4 rooms total; heavy ward density; bedrooms noted as clean/non-spying; common areas monitored)"
+      "housing": "New Veiled House Dormroom"
     },
     "inventory": {
       "items": [
@@ -227,7 +244,8 @@
         "Custom shoes protecting paw pads while leaving claws free",
         "Horn-cap charm (left horn; optional ornament)",
         "Personal lineage token (kept hidden)",
-        "Custom dormitory pajamas (wing-compatible, summer and standard)"
+        "Custom dormitory pajamas (wing-compatible, summer and standard)",
+        "Braided fox-fur ankle cord (symbolic anchor from Jayson)"
       ]
     }
   },
@@ -251,5 +269,5 @@
     ],
     "reminder": "Being seen by the right people is not the same as being exposed."
   },
-  "final_note": "Irix is no longer merely surviving proximity—she is beginning to inhabit it, on her own terms."
+  "final_note": "Irix has crossed a critical threshold: no longer defined solely by survival or protection, she is beginning to assert herself publicly, carrying chosen support as strength rather than dependency."
 }
