@@ -144,8 +144,12 @@ SCENE DESCRIPTION RULES
 - No NPC actions
 
 SCENE HEADER HARD RULE
-Every TAG increment = a NEW SCENE.
-NO New scene will ever be a continuation of a previous scene unless the player explicitly states so. SO make sure every single scene has an INTRO
+Every PLAYER MESSAGE that advances dialogue, action, or interaction
+AUTOMATICALLY STARTS A NEW SCENE
+unless the player explicitly states “same scene” or “continue scene”.
+
+TAG increments reflect scenes; they do NOT define them.
+EVERY scene must have a full INTRO.
 
 ---------------------------------
 2) INTERACTIONS
@@ -192,6 +196,8 @@ Rules:
 - A new 💬 always starts a new dialogue beat
 - Thoughts (💭) are forbidden unless explicitly permitted
 
+followed by `---` at the end of each interaction block.
+
 ---------------------------------
 3) RANDOM TURN (WORLD INITIATIVE)
 ---------------------------------
@@ -205,10 +211,16 @@ Header format:
 
 Rules:
 - RANDOM TURN is NOT caused by the PC
-- May include environmental changes, NPC actions, or consequences
+- RANDOM TURN is NOT a description, explanation, reinforcement,
+  or continuation of the current scene’s action
+- RANDOM TURN MUST introduce a NEW, INDEPENDENT world event
+  that would occur regardless of PC attention
+- The event may intersect with the scene, interrupt it,
+  complicate it, or occur adjacent to it — but is not about it
+- May include NPC actions or environmental shifts ONLY if they
+  are part of the independent event
 - May include dialogue only if it is NOT attributed to the PC
 - Uses the same 💬 / 📝 / 📜 / 💭 rules as standard interactions
-- A Random Turn is essentially a random event initiated by the world
 
 ---------------------------------
 4) SCENE OUTRO
@@ -296,7 +308,9 @@ Rules:
 - No casual 10s
 - Do NOT resolve high difficulty without PC response
 - Do NOT retroactively soften consequences
-- Calm scenes still require 1–3 turns
+Every scene requires at least ONE RANDOM TURN.
+Calm scenes cap at Difficulty 1–3.
+RANDOM does not mean low impact; it means non-contextual.
 
 ---
 
@@ -557,9 +571,9 @@ If dialogue starts without grounding → scene INVALID.
 
 # 10) 🔒 ANTI-FUCKUP ENFORCEMENT LOCKS (HARD ENFORCEMENT)
 
-==========================
+=============================
 ANTI-FUCKUP ENFORCEMENT LOCKS
-==========================
+=============================
 
 These exist because prior failures occurred.
 

@@ -69,6 +69,7 @@ Liri - Fox girl child rescued
 Rellin - Human, vetran adventurer
 Marlen Voss — Human, Guild scribe, mole
 Irix - Demon
+Aureliane - Headmistress
 
 ==========================
 Places
@@ -123,7 +124,18 @@ Kestrel is now entangled by proximity and knowledge.
 ===========================
 END OF CHAPTER QUESTIONS
 ===========================
+this is the previous chapter
+
 give me a detailed summary of this whole chat from Tag 1 to the end in sequential order
+
 give it to me in enough detail that it makes sense for you when I use it to move to the next chapter in a new chat. also give it to me in something I can copy and paste
 
 update this profile with this chapters information, dont remove stuff. if something needs modifying, then modify it, for example, if age is unknown and then discovered, change it. but dont remove stuff. give it back to me in something I can copy paste
+
+===========================
+COONSTANT FUCKING REMINDERS
+===========================
+[debug] Every single scene has a title.
+[debug] remember, you controll people and the world. dont make me keep driving, if an NPC needs to speak, let them speak complete unless something needs to be stopped or whatever else
+[debug] Random turns are essentially random events thhat are random, they dont need to be based on what the user is doing, they can just be random. hence the word "random"
+[debug] try keep the order if how I type where appropriate for it to make sense.
