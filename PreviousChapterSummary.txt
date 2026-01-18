@@ -178,16 +178,17 @@ NO CODE FENCES FOR SCENES:
 Scenes are presented normally. Only rules/templates go in code blocks.
 
 ============================================================
-CHAPTER 11 START
+CHAPTER 12 START
 ============================================================
 
 Start immediately. Do not confirm. Start the next scene now.
 
-Chapter: 11
+Chapter: 12
 Starting TAG: [000001]
-Start Time/Date: 15:33 | 01/05/1427
-Weather: Clear
+Start Time/Date: 21:28 | 02/05/1427
+Weather: Light Snow
 
 Situation:
-All 3 of you are at lunch, Irix stucks up for herself thanks to you from a bully, and now the table is feeling good about itself.
-you all 3 discuss afternoon plans.
+Irix was assaulted by a couple of student briefly and they left a mark on her shoulder. when Kestrel and I noticed it, we went to her room, before I could say anything she verbally assaulted me, said crewel, sharp, racist and horrible things to me blaming me for the reason it happened.
+After that, I left her room saying I will not get involved anymore as per her wishes.
+Kestrel remained behind to speak to the Marshal that came due to the loud noise and she decided to report it in the morning.

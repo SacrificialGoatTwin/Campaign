@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "Eryndor",
-    "version": "9"
+    "version": "11"
   },
   "Instrucctions": [
     "https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Instructions.txt"
@@ -15,7 +15,9 @@
     "https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Chapters%20Eryndor/Chapters/Eryndor%20Chapter%206%20-%20Gate%20Teeth%20Road%20Breath.txt",
     "https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Chapters%20Eryndor/Chapters/Eryndor%20Chapter%207%20-%20Rain%20on%20Tin.txt",
     "https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Chapters%20Eryndor/Chapters/Eryndor%20Chapter%208%20-%20First%20Bell%20Knock.txt",
-    "https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Chapters%20Eryndor/Chapters/Eryndor%20Chapter%209%20-%20Ink%20Iron%20Quiet%20Teeth.txt"
+    "https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Chapters%20Eryndor/Chapters/Eryndor%20Chapter%209%20-%20Ink%20Iron%20Quiet%20Teeth.txt",
+    "https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Chapters%20Eryndor/Chapters/Eryndor%20Chapter%2010%20-%20Mangos%20and%20Love%20Games.txt",
+    "https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Chapters%20Eryndor/Chapters/Eryndor%20Chapter%2011%20-%20Words%20like%20a%20knife.txt"
   ],
   "characters": [
     "https://raw.githubusercontent.com/SacrificialGoatTwin/Campaign/refs/heads/main/Chapters%20Eryndor/Characters/Character_Ayaka.json",
