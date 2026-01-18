@@ -6,26 +6,31 @@
     "age": {
       "Visual": "16",
       "Demon to human conversion": "18",
-      "Actual": "Unknown (suspected decades to centuries)"
+      "Actual": "Approx. 350–360 years (estimated via spirit-blood reaction test; biological age does not present linearly)"
     },
     "height": "160 cm",
     "build": "Slim, lightweight, compact; built for agility, balance, and endurance rather than raw strength",
     "hair": "Dark ash-brown to black, straight; usually worn loose or partially tied to keep clear of horns",
     "facial_hair": "None",
     "eyes": "Deep ember-gold with low-light adaptation; reflect faintly when mana is active or emotions spike",
-    "skin": "Warm umber with subtle heat undertones; resilient, rarely marked",
+    "skin": "Warm umber with subtle heat undertones; resilient, rarely marked (notable exception: minor ward-abrasion mark at shoulder after corridor grab)",
     "scent": "Faint sulphur and charcoal layered with clean heat",
-    "posture": "Contained and deliberate; constantly aware of exits, walls, and vertical space; posture relaxes measurably when Jayson is present",
+    "posture": "Contained and deliberate; constantly aware of exits, walls, and vertical space; posture relaxes measurably when Jayson is present (but can tighten sharply when she feels watched, cornered, or labeled)",
     "relationship": {
       "Kestrel": "Friend",
+      "Mirell": "New acquaintance/friend (early campus connection; shared seating/social proximity during meals)",
       "Jayson": {
         "Status": "Close Friend",
         "Trust": {
           "Combat": "70%",
           "Judgement": "65%",
-          "Personal": "60%"
+          "Personal": "55%"
         },
-        "Love": "18%"
+        "Love": "18%",
+        "notes": [
+          "Chapter 11 strain event: fear and shame triggered a verbal lash-out; later clarified she does not hate him and does not want him gone.",
+          "Feels conflicted: his ‘loud’ protection works, but can also make her feel like she stands in his shadow."
+        ]
       }
     },
     "race": "Ashen Serathi (Noble Continuity Lineage)",
@@ -37,29 +42,31 @@
     "horns": "Curved, swept-back horns; sensitive but resilient; culturally significant and not ornamental by default",
     "legs": "Digitigrade with feline-pawed feet; silent tread, strong balance, clawed pads protected by custom footwear",
     "markings": {
-      "ankle_braid": "Braided fox-fur cord tied around ankle by Jayson; symbolic anchor denoting chosen protection, courage under scrutiny, and reminder of trusted presence when alone"
+      "ankle_braid": "Braided fox-fur cord tied around ankle by Jayson; symbolic anchor denoting chosen protection, courage under scrutiny, and reminder of trusted presence when alone",
+      "shoulder_abrasion": "Minor ward-abrasion/pressure-drag mark (top of shoulder) from corridor shove/grab; intended to be documented before treatment"
     }
   },
   "reactions": {
     "wind": "Instinctively adjusts stance and wing alignment to avoid silhouette exposure",
     "water": "Cautious; avoids full submersion due to wing membranes and vulnerability while wet",
-    "sound": "Highly attentive; catalogs patterns rather than reacting emotionally",
+    "sound": "Highly attentive; catalogs patterns rather than reacting emotionally (but in quiet-hours settings will self-regulate volume to avoid records/discipline)",
     "temperature": "Heat-tolerant; cold increases muscle tension and vigilance",
     "crowds": "Heightened awareness; stress rises with prolonged attention or fixation",
-    "hostility": "Withdraws first; freezes only when escape vectors are threatened; increasingly willing to assert boundaries verbally when supported by witnesses",
+    "hostility": "Withdraws first; freezes only when escape vectors are threatened; increasingly willing to assert boundaries verbally when supported by witnesses; also learned to deny aggressors the ‘scene’ they want to prevent hostile records",
     "medical_touch": "Requires explicit consent; relaxes rapidly when care is methodical, narrated, and non-coercive"
   },
   "speech": {
-    "voice": "Quiet, controlled, precise; rarely raised",
-    "vocabulary": "Economical and careful; avoids embellishment",
+    "voice": "Quiet, controlled, precise; rarely raised (can go razor-quiet when cornered or ashamed)",
+    "vocabulary": "Economical and careful; avoids embellishment (but can become cutting when fear spikes)",
     "pacing": "Measured, with deliberate pauses",
     "accent": "Neutral Eryndor trade accent, intentionally flattened",
     "habits": [
       "Keeps voice low in public",
       "Answers directly but minimally",
-      "Avoids personal disclosure unless trust is explicit"
+      "Avoids personal disclosure unless trust is explicit",
+      "During campus conflict, tries to avoid ‘performing’ reactions that become weaponized in records"
     ],
-    "growth": "Demonstrated ability to speak confidently and publicly under pressure; increasing use of humor and direct assertion when boundaries are challenged"
+    "growth": "Demonstrated ability to speak confidently and publicly under pressure; increasing use of humor and direct assertion when boundaries are challenged; beginning to separate anger from cruelty and re-aim it toward true threats"
   },
   "emotional": {
     "core_traits": [
@@ -77,12 +84,14 @@
       "Being cornered or restrained",
       "Threats involving mana-drain or bodily violation",
       "Being treated as an object, key, or resource",
-      "Attention that feels entitled rather than curious"
+      "Attention that feels entitled rather than curious",
+      "Being labeled a ‘pet,’ ‘stray,’ or anything implying ownership/captivity"
     ],
     "vulnerabilities": [
       "Delayed emotional processing",
       "Long-term isolation patterns",
-      "Fear that visibility always escalates danger"
+      "Fear that visibility always escalates danger",
+      "Fear that needing protection makes her ‘less’ (shame-response can convert into harsh words)"
     ],
     "affection_tells": [
       "Stays instead of fleeing",
@@ -96,7 +105,8 @@
       "Asserted personal agency publicly in hostile social environment",
       "Demonstrated confidence independent of immediate physical protection",
       "Accepted encouragement to be visibly brave rather than silently enduring",
-      "Experienced pride and satisfaction in self-advocacy"
+      "Experienced pride and satisfaction in self-advocacy",
+      "Chapter 11: admitted fear and conflict openly (does not want to be alone; hates needing help), and apologized for mis-aimed cruelty"
     ]
   },
   "social": {
@@ -111,13 +121,20 @@
         "Accepts symbolic anchoring as emotional reassurance rather than control",
         "Feels empowered to act independently while carrying his support",
         "Allows playful prompting that reinforces courage rather than dependence",
-        "Views him as emotional amplifier for bravery rather than shield alone"
+        "Views him as emotional amplifier for bravery rather than shield alone",
+        "Chapter 11 conflict: fears becoming ‘the reason’ he gets hurt; tries to push him away to protect him, then regrets it"
       ],
       "Kestrel": [
         "Feels safest with Kestrel’s predictability",
         "Accepts medical authority and structured care",
         "Mirrors Kestrel’s composure under stress",
-        "Treats Kestrel as stabilizing anchor"
+        "Treats Kestrel as stabilizing anchor",
+        "Responds to Kestrel’s ‘pick one true sentence’ grounding technique during emotional overload"
+      ],
+      "Mirell": [
+        "First signs of peer-connection on campus outside the core trio",
+        "Allows shared space at meals without immediate withdrawal",
+        "Represents a small but meaningful step toward independent social stability"
       ]
     }
   },
@@ -141,12 +158,14 @@
       "Accurate reading of intent",
       "Endurance under prolonged pressure",
       "Resistance to coercive systems",
-      "Emerging confidence in public assertion"
+      "Emerging confidence in public assertion",
+      "Learning to deny aggressors the reaction they want"
     ],
     "weaknesses": [
       "Over-cautiousness",
       "Reluctance to rely on others",
-      "Delayed emotional processing after stress"
+      "Delayed emotional processing after stress",
+      "When cornered, can convert fear into verbal cruelty before regaining control"
     ]
   },
   "combat": {
@@ -163,7 +182,8 @@
       "Passive continuity stabilization",
       "Localized reality anchoring (unconscious)",
       "Mana-integrated physiology (blood-bound)",
-      "Resistance to temporal, reset, and extraction-based manipulation"
+      "Resistance to temporal, reset, and extraction-based manipulation",
+      "High mana-blood compatibility: pure mana infusion can function as fast-acting recovery/analgesic (best used after documentation when injuries must be recorded)"
     ],
     "recent": [
       "University entrance trials — survived all phases",
@@ -172,7 +192,8 @@
       "Accepted visibility on campus rather than concealment",
       "Allowed recorded medical wing care without distress",
       "Publicly asserted autonomy during upper-year social intimidation",
-      "Demonstrated courage independent of immediate physical protection"
+      "Demonstrated courage independent of immediate physical protection",
+      "Chapter 11: endured corridor shove/grab and refused to provide aggressors a ‘scene’; sustained minor ward-abrasion mark at shoulder"
     ]
   },
   "notable_scenes": {
@@ -227,6 +248,17 @@
       "Accepted braided fox-fur ankle anchor as symbol of chosen support and courage",
       "Expressed pride and satisfaction after successful self-assertion",
       "Demonstrated emotional growth through confidence, humor, and public presence"
+    ],
+    "chapter11": [
+      "Developed first independent peer connection on campus (Mirell) and tolerated shared public space without withdrawing",
+      "Became target of escalating ‘stray/pet’ narrative tied to Ashen hostility on campus",
+      "After Veiled seminar, was shoved and briefly grabbed in a connector corridor; sustained minor ward-abrasion mark at shoulder",
+      "Chose restraint to deny aggressors the reaction needed to label her ‘unstable’ in records",
+      "Disclosed the corridor incident privately after being confronted about downplaying it",
+      "Under fear and shame, lashed out verbally at Jayson with demeaning language, then later admitted she aimed her teeth at the wrong person",
+      "Stated core conflict: wants safety but fears being trapped in someone’s shadow; hates needing help but does not want to be alone",
+      "Quiet-hours escalation triggered steward response; elected to file a formal incident report in the morning for accuracy (with option for timestamp placeholder)",
+      "Received a pure-mana recovery vial intended to be taken after the report so visible marks can be documented; Jayson committed to attend the morning report with her"
     ]
   },
   "character_data": {
@@ -245,7 +277,8 @@
         "Horn-cap charm (left horn; optional ornament)",
         "Personal lineage token (kept hidden)",
         "Custom dormitory pajamas (wing-compatible, summer and standard)",
-        "Braided fox-fur ankle cord (symbolic anchor from Jayson)"
+        "Braided fox-fur ankle cord (symbolic anchor from Jayson)",
+        "Pure white mana vial (fast recovery/analgesic; to be consumed after formal incident report so marks can be documented)"
       ]
     }
   },
@@ -269,5 +302,5 @@
     ],
     "reminder": "Being seen by the right people is not the same as being exposed."
   },
-  "final_note": "Irix has crossed a critical threshold: no longer defined solely by survival or protection, she is beginning to assert herself publicly, carrying chosen support as strength rather than dependency."
+  "final_note": "Irix has crossed a critical threshold: no longer defined solely by survival or protection, she is beginning to assert herself publicly, carrying chosen support as strength rather than dependency. Chapter 11 adds a harsher edge to that threshold: she confronted the shame of needing help, mis-aimed her anger, then corrected course by admitting fear, choosing procedure, and committing to document harm rather than silently absorb it."
 }

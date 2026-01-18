@@ -1,0 +1,694 @@
+﻿🌿 "VALENHOLD — MOON GARDENS, LIT PATH" | 🌤️ "CLEAR" | ⏰ "NIGHT, 22:18" | 📅 "01/05/1427"
+🎞 Scene Title: Flowers for a Blade
+📽 Moonlight combs through clipped hedges and wild overgrowth alike, turning dew into tiny glass beads that wink and vanish as you pass, while lantern-stones embedded along the path glow a calm gold that feels deliberately soothing; somewhere nearby a fountain murmurs like distant applause, and the gardens smell of crushed stems, damp soil, and the sharp green bite of leaves torn free, as if even beauty here is measured by what it costs to touch it.
+🦊 JAYSON | "buoyant" [😄🦊]
+
+📝 You head off through the gardens, you pick some flowers here and there. some wild, some planted
+
+📝 You smile at Kestrel and stick one above her ear
+
+💬 "There, now you dont look so stressed. I will be fine Kestrel. Yes I act like a clown, do and say some things that seem like I am a complete idiot,, but every single thing I do or say.... is planned, never random"
+💬 "Even though it totally looks that way"
+
+📝 You grin
+
+🪶 KESTREL | "softened" [🪶😮‍💨]
+
+📝 Her hand lifts halfway toward the flower, then stops, deciding to let it stay.
+
+💬 "You plan like a storm plans."
+💬 "By instinct."
+💬 "By memory."
+💬 "By hunger."
+
+📝 She glances sideways at you, the smallest hint of warmth cutting through the caution.
+
+💬 "But I’ll take the disguise."
+💬 "If the clown keeps knives guessing."
+
+🧑‍🌿 GROUNDSKEEPER HALLA | "irritated" [🌱😠]
+
+💬 "Planted beds aren’t snacks."
+
+📝 A groundskeeper steps out from behind a trellis, lantern-hook in hand, eyes narrowing at the stems you’ve collected.
+
+💬 "Wildflowers, fine."
+💬 "Border plantings, no."
+
+📝 Her gaze flicks to your band, then to Kestrel’s, and the irritation shifts into the careful tone of someone who knows how quickly students become problems.
+
+💬 "Curfew’s on. Keep moving."
+
+🪶 KESTREL | "polite" [🪶🙂]
+
+💬 "Understood."
+
+📝 She adjusts her stance so the groundskeeper’s attention lands on her calm instead of your handful of petals.
+
+💬 "We’re passing through."
+
+🎲 RANDOM TURN | Difficulty 6 | "Garden Wards Taste the Air" [🧿🌿]
+
+📝 The lantern-stones along the path brighten in sequence, one after another, like a slow ripple of recognition, and a thin veil of wardlight drifts across the walkway at ankle height.
+
+📝 For a heartbeat, the wardlight clings to the picked stems, then slips off as if reconsidering what “theft” means when it’s small and smiling.
+
+💬 "Curfew route confirmed."
+
+📜 Lore: Valenhold’s gardens are not decorative. They are corridors that can become cages if the lights decide you’re interesting.
+
+🪶 KESTREL | "quietly-firm" [🪶⚠️]
+
+💬 "You hear that?"
+💬 "The lights are paying attention."
+
+📝 She touches the flower above her ear once, a small grounding gesture, then lowers her hand.
+
+💬 "If you’re going to do this, you do it fast."
+💬 "And you do it on stone, not in leaves."
+
+🎲 RANDOM TURN | Difficulty 7 | "Ember Trail Ahead" [🔥🧷]
+
+📝 Up the path, near a junction where hedges form a narrow throat, a faint ember-glow flickers twice, not a lantern, a signal.
+
+📝 A silhouette shifts behind the greenery, then stills, as if waiting for you to choose which way to walk.
+
+💬 "Third landing."
+
+📜 Lore: When bait is confident, it stops hiding. It just starts choosing where you’ll stand when it snaps.
+
+The fountain keeps murmuring, steady and indifferent, while the garden path narrows toward that hedge-throat, and the night air suddenly tastes less like flowers and more like paper being prepared for ink.
+
+TAGS: [000039]
+
+🪜 "VALENHOLD — NORTH STAIRWELL, THIRD LANDING" | 🌤️ "CLEAR" | ⏰ "NIGHT, 22:29" | 📅 "01/05/1427"
+🎞 Scene Title: The Landing That Isn’t a Place
+📽 The third landing sits between floors like a held note, a square of stone and iron railing where lanternlight thins and shadows gather with deliberate neatness; the air is colder here, tasting of damp slate, old varnish, and the faint metallic bite of ward-ozone, and every sound behaves strangely, footsteps arriving a moment late, whispers seeming to come from the stairwell’s ribs rather than any mouth, as if the building itself is rehearsing how to testify.
+🦊 JAYSON | "polite" [🙇🦊]
+
+💬 "My appologies, I love gardening, when I have free time I will come and mend these beds"
+
+📝 You two scuttle off to the third landing.
+
+🪶 KESTREL | "tight" [🪶😐]
+
+💬 "Fast in. Fast out."
+
+📝 Her pace is controlled, but the angle of her shoulders says she’s already counting exits, angles, lines of sight.
+
+💬 "No speeches."
+💬 "No accepting ‘dares’ as terms."
+
+🎲 RANDOM TURN | Difficulty 8 | "Curfew Hush Clamp" [🔒🧿]
+
+📝 The moment you step onto the landing, the lantern sigil above the stairwell dims by a fraction, and the ward-hum shifts into a lower register that feels like pressure on the eardrums.
+
+📝 A thin line of pale light traces the edge of the landing’s stone, forming a subtle ring that isn’t quite a barrier, but is definitely a boundary.
+
+💬 "Quiet zone integrity engaged."
+
+📜 Lore: Some wards don’t stop you. They make sure anything that happens to you stays tidy.
+
+🧑‍🎓 EMBER-PIN STUDENT | "amused" [😏📎]
+
+💬 "He came."
+
+📝 A student steps out of the shadow where the railing meets the wall, ember-in-circle pin glinting once then vanishing as they shift.
+
+💬 "And he brought a bodyguard."
+
+📝 The tone is playful, but the spacing isn’t. Two more shapes are present, not close enough to look like a group, close enough to close a lane.
+
+🧑‍🎓 EMBER-PIN STUDENT | "taunting" [😈📎]
+
+💬 "So here’s the deal."
+💬 "No fighting."
+💬 "No shouting."
+💬 "Just a conversation."
+
+📝 A hand lifts, palm out, like they’re offering peace while standing on a knife.
+
+💬 "You’re new."
+💬 "You’re loud in a classroom."
+💬 "You’re getting notes."
+💬 "We want to know what you are."
+💬 "And what you’re going to be."
+
+🪶 KESTREL | "cold" [🪶🧊]
+
+💬 "You could ask in daylight."
+
+📝 She doesn’t advance. She doesn’t retreat. She plants herself on the landing’s brightest stone and refuses to be shepherded off it.
+
+💬 "So this isn’t curiosity."
+💬 "It’s leverage."
+
+🧑‍🎓 EMBER-PIN STUDENT | "mock-innocent" [😇📎]
+
+💬 "Leverage is such an ugly word."
+💬 "We prefer… calibration."
+
+📝 Their gaze flicks to your wrist band, then to Kestrel’s, then away again like the glance never happened.
+
+💬 "Tell us something real."
+💬 "Then we all go back to bed."
+
+🎲 RANDOM TURN | Difficulty 9 | "Witness Circle" [👁️🧿]
+
+📝 A soft scrape echoes above and below, and for a heartbeat the landing feels suddenly crowded without anyone stepping fully into the light.
+
+📝 Figures linger on the stairs one level up and one level down, not blocking, watching, positioned so any movement becomes a performance.
+
+💬 "Proceed."
+
+📜 Lore: The third landing isn’t a meetup. It’s a stage built out of plausible deniability.
+
+🧑‍🎓 EMBER-PIN STUDENT | "smiling" [🙂📎]
+
+💬 "One question."
+💬 "You’re the ‘help because I can’ type."
+💬 "So prove it."
+💬 "Help someone who doesn’t deserve it."
+
+📝 They tilt their head toward the lower steps where a smaller student sits half in shadow, knees pulled in, face angled down.
+
+💬 "That one."
+💬 "They’ve been stealing."
+💬 "House supplies."
+💬 "Food chits."
+💬 "Little things."
+💬 "They say they’re hungry."
+💬 "We say they’re a rat."
+💬 "Your axiom says you help, right?"
+
+🧑‍🎓 SMALLER STUDENT | "terrified" [😰📎]
+
+💬 "I didn’t—"
+
+📝 The words collapse, swallowed by the hush clamp and the weight of eyes.
+
+🪶 KESTREL | "warning" [🪶⚠️]
+
+💬 "That’s not a question."
+💬 "That’s a trap with a child-shaped handle."
+
+📝 Her voice is low and level, but the line is drawn cleanly.
+
+💬 "You want him to pick an enemy."
+💬 "Either he refuses and you call him fake, or he helps and you call him accomplice."
+
+🧑‍🎓 EMBER-PIN STUDENT | "pleased" [😏📎]
+
+💬 "She’s sharp."
+💬 "But she’s not answering."
+
+📝 Their smile widens.
+
+💬 "We didn’t invite her axiom."
+💬 "We invited his."
+💬 "So."
+💬 "Do you help the rat?"
+💬 "Or do you admit you only help when it’s flattering?"
+
+🎲 RANDOM TURN | Difficulty 10 | "Stairwell Audit Glyph" [⚖️🧿]
+
+📝 A thin glyph blooms on the landing stone, faint and official-looking, like it’s pretending to be a ward stamp.
+
+📝 The hush clamp tightens again, and the lantern above flickers once, dimmer, then steadier, as if the stairwell has decided it wants a clean record.
+
+💬 "Dispute context: active."
+💬 "Accountability trace: enabled."
+
+📜 Lore: Sometimes students don’t need staff. They forge the feeling of authority to force choices that stick.
+
+Kestrel’s flower above her ear catches the thin light and looks almost absurdly gentle in a space built for hard decisions, and the stairwell waits with patient cruelty, as if the only thing it cares about is what happens next.
+
+TAGS: [000040]
+
+🪜 "VALENHOLD — NORTH STAIRWELL, THIRD LANDING" | 🌤️ "CLEAR" | ⏰ "NIGHT, 22:41" | 📅 "01/05/1427"
+🎞 Scene Title: The Bouquet Hits Stone
+📽 Lanternlight thins to a pale coin on the landing, leaving the corners to collect themselves into listening shapes, and the hush clamp makes the air feel padded, as if the stairwell is wrapped in velvet to keep screams from echoing; below, the steps descend into darker quiet, above they rise into colder quiet, and the entire space smells of damp slate and old iron as if it remembers every argument that ever tried to become a fight.
+🦊 JAYSON | "whiplash-calm" [😳😮‍💨🦊]
+
+📝 Your eyes go wide like you just had a massive flashback of everything that is about to happen
+
+📝 You sigh and mumble "they could have taken that away too" you sigh, no one understands what you mean... then you snap back to normal
+
+📝 You hold the bouque of flowers
+
+📝 You look at it dissapointed
+
+💬 "And here I thought I was going too be asked out.... well thats disappointing"
+
+📝 You then toss them.
+
+💬 "Ok... so... kid, care to explain what the truth is?"
+
+🧑‍🎓 EMBER-PIN STUDENT | "amused" [😏📎]
+
+💬 "He’s funny."
+
+📝 The ember-pin catches the lantern for a blink, then disappears again as the student shifts weight to keep the landing’s center line owned.
+
+💬 "Truth is simple."
+💬 "They steal."
+💬 "We caught them."
+💬 "We’re being kind by making it your problem instead of making it official."
+
+📝 A small gesture toward the lower step, like presenting evidence that can’t defend itself.
+
+💬 "So go on."
+💬 "Do your axiom."
+💬 "Help them."
+💬 "Or admit it’s just words you liked hearing yourself say."
+
+🧑‍🎓 SMALLER STUDENT | "cornered" [😰📎]
+
+💬 "I didn’t steal from the House."
+💬 "Not like that."
+
+📝 The student’s hands are visible, palms out, shaking in tiny stutters that the hush clamp makes feel louder than shouting.
+
+💬 "I took food chits that were going to rot in a drawer."
+💬 "They get thrown out when people don’t claim them."
+💬 "I was hungry."
+💬 "And I… I was embarrassed."
+
+📝 A swallow, then the words tumble faster, trying to outrun the trap.
+
+💬 "I didn’t take blankets."
+💬 "I didn’t take supplies."
+💬 "They said I did because it sounds worse."
+
+🪶 KESTREL | "knife-calm" [🪶🧊]
+
+💬 "Names."
+💬 "Who are you."
+💬 "And who accused you."
+
+📝 Her stance stays on the brightest stone, refusing to let the landing push her into shadow where stories turn into facts.
+
+💬 "If this is ‘calibration,’ then you will have the courage to attach your identity to it."
+
+🧑‍🎓 EMBER-PIN STUDENT | "smiling" [🙂📎]
+
+💬 "We’re not the ones on trial."
+
+📝 The student’s voice stays light, but the spacing tightens: one shape shifts a step above, another shape shifts a step below, closing the stage a little.
+
+💬 "The rat is."
+💬 "And your friend here is trying to drag us into the spotlight."
+💬 "Not how this works."
+
+🎲 RANDOM TURN | Difficulty 9 | "Hush Clamp Recalibrates" [🔒🧿]
+
+📝 The lantern above the landing flutters, and the hush pressure increases by a fraction, making the air feel thicker around throats and tongues.
+
+📝 Fine rune-sparks skitter along the railing like cold fireflies, then vanish into iron.
+
+💬 "Vocal escalation threshold lowered."
+
+📜 Lore: When a conflict starts forming a crowd, some wards don’t intervene with force. They intervene by narrowing the ways people can speak.
+
+🧑‍🎓 SMALLER STUDENT | "desperate" [🥺📎]
+
+💬 "Please."
+💬 "I’ll pay it back."
+💬 "I already started."
+
+📝 The student’s eyes flick to the ember-pin group, then away, avoiding direct sight like it burns.
+
+💬 "They said if I didn’t come here, they’d report me as a thief."
+💬 "They said the House would make an example."
+💬 "They said you’d either save me or prove you’re fake."
+
+📝 A brittle inhale.
+
+💬 "I didn’t want to be someone’s lesson."
+
+🧑‍🎓 EMBER-PIN STUDENT | "pleased" [😈📎]
+
+💬 "See?"
+💬 "Honest."
+💬 "They admit it."
+
+📝 The student lifts both hands in a harmless gesture that reads like theatre.
+
+💬 "So you have options."
+💬 "You can walk away and let consequences happen."
+💬 "Or you can ‘help.’"
+💬 "But helping means taking responsibility for what they did."
+💬 "Your axiom. Your risk."
+
+🪶 KESTREL | "warning" [🪶⚠️]
+
+💬 "That’s not how restitution works."
+💬 "And you know it."
+
+📝 Her eyes narrow slightly, not at the smaller student, at the ember-pin’s phrasing.
+
+💬 "You’re trying to attach guilt by proximity."
+💬 "So later you can say he’s connected to theft."
+💬 "Or to a fight."
+💬 "Or to whatever story you want to sell."
+
+🧑‍🎓 EMBER-PIN STUDENT | "sweetly-hostile" [🍯😈]
+
+💬 "Stories sell because they fit."
+💬 "And you both fit trouble."
+
+📝 The ember-pin student tilts their head toward you, as if offering a final gift.
+
+💬 "So ask your question again."
+💬 "Ask the kid for ‘the truth.’"
+💬 "And then pick."
+💬 "Do you help them."
+💬 "Or do you help the House by letting them fall."
+
+🎲 RANDOM TURN | Difficulty 10 | "False Authority Fractures" [⚖️🩸]
+
+📝 The faint “official-looking” audit glyph on the stone flickers, and for a heartbeat it looks wrong, like ink trying to imitate a seal.
+
+📝 A hairline crack of pale light runs through it, splitting the mark into two imperfect halves.
+
+💬 "Stamp authenticity: questionable."
+💬 "Origin: non-staff."
+
+📜 Lore: Forged authority works until the environment itself decides it prefers the real thing.
+
+🧑‍🎓 SMALLER STUDENT | "tiny-truth" [😢📎]
+
+💬 "The truth is I was hungry."
+💬 "And I was scared."
+💬 "And when they noticed, they didn’t want me punished."
+💬 "They wanted me usable."
+
+📝 The words come out steadier now, as if saying them is a kind of standing up.
+
+💬 "If you help me, don’t do it like a hero."
+💬 "Do it like… a person."
+💬 "Tell me what to do that doesn’t make me owe them."
+
+A cold draft slips up the stairwell like a quiet witness taking a seat, and the tossed flowers lie where they landed, soft color against hard stone, a reminder that this place turns even small kindness into a question.
+
+TAGS: [000041]
+
+🪜 "VALENHOLD — NORTH STAIRWELL, THIRD LANDING" | 🌤️ "CLEAR" | ⏰ "NIGHT, 22:52" | 📅 "01/05/1427"
+🎞 Scene Title: Free Food, Expensive Shame
+📽 The stairwell’s hush clamp holds the landing in a soft pressure, making the lanternlight feel thin and official, and the iron railings sweat cold where fingers have gripped them too hard in past nights; your tossed flowers lie bruised against the stone, petals darkening at the edges, while the air tastes of damp slate and quiet menace, and every shadow seems arranged like furniture for an audience that refuses to sit down.
+🦊 JAYSON | "commanding" [🗣️🦊]
+
+💬 "First of all, stick a sock in it, I was not addressing you, know your place."
+💬 "Secondly...."
+💬 "This is not a trial, this is a bunch of bullies who will honestly amount to nothing in life trying to prove a point to me by using you, so relax."
+💬 "Thirdly, the wards will be able to tell what you took and didnt take, so if its truth, dont listen too them, they are just like tiny dogs, very loud bark, no bite."
+💬 "Nothing is going to happen to you and its not theft, if it was, the wards would have caught you there and then. this school has more wards than they have braincells. you are safe and fine."
+💬 "I am not going to tell you what to do, but I will ask.... why are you hungry, you are on campus grounds, the Dining hall food is free"
+
+🧑‍🎓 SMALLER STUDENT | "ashamed" [😳😥]
+
+💬 "It’s not free for me."
+💬 "Not the way it is for most."
+
+📝 The student’s shoulders draw inward, then loosen slightly as the threat shifts away from their throat and onto the bullies’ pride.
+
+💬 "My band doesn’t open the main line after the first rush."
+💬 "It flags me for ‘ration compliance.’"
+💬 "I can eat at set windows."
+💬 "If I miss them, I… don’t get a second pass."
+💬 "And I missed them."
+
+📝 A shaky swallow, then the truth comes out in smaller pieces, like it’s afraid of being overheard.
+
+💬 "I work a cleaning rota in the mornings."
+💬 "They changed it yesterday."
+💬 "I fell asleep in the library after orientation."
+💬 "I woke up hungry and late."
+💬 "And I didn’t want to stand in the hall and beg a steward like a… like a stray."
+
+🧑‍🎓 EMBER-PIN STUDENT | "mocking" [😏📎]
+
+💬 "Aww."
+💬 "A tragic schedule."
+
+📝 The ember-pin student shifts a fraction, voice sweet enough to rot teeth.
+
+💬 "So he admits he broke the rules."
+💬 "Congratulations, hero."
+💬 "Now what?"
+💬 "You going to feed him personally and make him your pet project?"
+
+🪶 KESTREL | "razor-calm" [🪶🧊]
+
+💬 "He already answered ‘what.’"
+💬 "He asked ‘why.’"
+
+📝 Her gaze stays on the ember-pin student without giving them any heat to play with.
+
+💬 "And you’re still trying to turn a hunger problem into a loyalty problem."
+💬 "That tells us exactly who you are."
+
+🎲 RANDOM TURN | Difficulty 8 | "Real Authority Arrives" [🧿⚖️]
+
+📝 The forged audit glyph on the stone gives a final weak flicker, then collapses into nothing, as if embarrassed to exist in front of something older.
+
+📝 A new sigil blooms near the landing seam, clean and crisp, and the hush clamp shifts tone from “social trap” to “administrative recording.”
+
+💬 "STAIRWELL LOITERING DETECTED."
+💬 "IDENTITIES LOGGED."
+
+📝 Footsteps approach from above, measured, unhurried, the sound of someone who expects the building to cooperate.
+
+📜 Lore: The University doesn’t need to run to catch you. It only needs to arrive while you’re still deciding what story you’re in.
+
+🧑‍💼 NIGHT STEWARD VELREN | "stern" [🧾😐]
+
+💬 "Curfew."
+
+📝 A steward steps into the lantern’s edge, slate in hand, eyes scanning bands first, faces second.
+
+💬 "Third landing is not a lounge."
+💬 "If this is a dispute, it goes to House channels."
+💬 "If this is intimidation, it ends now."
+
+📝 The steward’s gaze lands briefly on the smaller student, then returns to the ember-pin cluster.
+
+💬 "You."
+💬 "Name and House."
+💬 "Now."
+
+🧑‍🎓 EMBER-PIN STUDENT | "guarded" [😬📎]
+
+💬 "We were just talking."
+
+📝 The confidence leaks out, replaced by the careful tone of someone trying to stay inside loopholes.
+
+🧑‍🎓 SMALLER STUDENT | "relieved" [😮‍💨📎]
+
+💬 "I… I can explain."
+
+📝 The student’s hands unclench a little, like the body is finally allowed to believe it might not be sacrificed tonight.
+
+The stairwell holds its cold breath as the steward waits, and the petals on the stone look even brighter by contrast, soft proof that something gentle wandered into the wrong place and didn’t immediately die for it.
+
+TAGS: [000042]
+
+🪜 "VALENHOLD — NORTH STAIRWELL, THIRD LANDING" | 🌤️ "CLEAR" | ⏰ "NIGHT, 23:03" | 📅 "01/05/1427"
+🎞 Scene Title: Help as a Weapon, Help as a Mirror
+📽 The stairwell feels like a throat holding a breath, lanternlight pinned thin against stone while the hush clamp turns every sound into something that wants to be evidence; the cold iron railing sweats under the ward-hum, and the bruised bouquet petals on the landing look impossibly soft against the place’s hard geometry, as if kindness has been dragged here just to see whether it survives.
+🦊 JAYSON | "performative-calm" [😄🎭🦊]
+
+💬 "Yeah, kinda how you are breaking the rules here.... dont throw stones in glass houses, but let me show you what a true Axiomatic member should do in this situation. not that you lot will know."
+💬 "Wait a minute, I get it, you didnt know how to help this kid so you called me in to assist.... I get it now"
+💬 "Gods, why didnt you say so."
+
+📝 You then see Velren arrive.
+
+📝 You bow.
+
+💬 "Steward, these boys were asking me for assistance. you see, the food schedules are conflicting for this boy and his group. they are missing their meal times and they are going hungry. I read that if there are schedule conflicts that the times can be adjusted accordingly."
+
+📝 You look at the kid.
+
+💬 "Steward Velren here can help you, I can merely point you in the right direction as I have no authority, but... the right direction has just arrived"
+
+📝 You smile at Velren.
+
+🎲 RANDOM TURN | Difficulty 7 | "Wards Take Dictation" [🧿🗂️]
+
+📝 The hush clamp shifts tone again, warmer in the ears but sharper in the chest, like the building just decided which version of the story it prefers.
+
+💬 "Statement captured: assistance request claimed."
+💬 "Context flag: coercion likelihood elevated."
+
+📜 Lore: Valenhold’s wards love clean narratives. When someone offers one loudly, the system stops asking whether it was volunteered or forced.
+
+🧑‍💼 NIGHT STEWARD VELREN | "measured" [🧾🧊]
+
+💬 "Understood."
+
+📝 The steward’s eyes stay level, not impressed, not offended, just weighing the shape of your words against the shape of the scene.
+
+💬 "If this is an assistance matter, it becomes a House matter."
+💬 "If it is intimidation, it becomes a discipline matter."
+
+📝 The slate in his hand emits a quiet click, like a lock turning.
+
+💬 "The hungry student will speak to me first."
+💬 "Then the ones who ‘called you in’ will identify themselves."
+💬 "Names. House. Year."
+
+🧑‍🎓 EMBER-PIN STUDENT | "caught" [😬📎]
+
+💬 "We didn’t—"
+
+📝 The student’s mouth opens for the usual evasions, but the steward’s stillness makes the loopholes feel smaller.
+
+💬 "We were just… checking on them."
+
+🧑‍💼 NIGHT STEWARD VELREN | "flat" [🧾😐]
+
+💬 "Then you will have no problem attaching your names to your ‘checking.’"
+
+📝 He tilts the slate slightly. A faint line of light skims across wrist-bands like a clerk’s stamp.
+
+💬 "Refusal is also a statement."
+💬 "And it records as such."
+
+🧑‍🎓 SMALLER STUDENT | "brave-enough" [😰➡️😮‍💨📎]
+
+💬 "My meal windows got flagged."
+💬 "They moved my rota."
+💬 "I missed the second pass."
+💬 "I took unclaimed chits."
+
+📝 The confession comes out steadier this time, like the presence of real authority has given their spine a place to rest.
+
+💬 "I want it fixed."
+💬 "I don’t want to owe them anything."
+
+🧑‍💼 NIGHT STEWARD VELREN | "procedural" [🧾📋]
+
+💬 "Good."
+💬 "That is a solvable problem."
+
+📝 He makes a short notation, then looks up at the ember-pin cluster again.
+
+💬 "Now. Names."
+💬 "Or you will all be treated as unidentified loiterers in a quiet zone during curfew."
+💬 "That is not a flexible category."
+
+🎲 RANDOM TURN | Difficulty 8 | "Audience Evaporates" [👁️💨]
+
+📝 The watchers above and below the landing begin to drift away in ones and twos, footsteps retreating as soon as the situation stops being deniable entertainment and starts being recorded procedure.
+
+📝 The stairwell feels less like a stage and more like a hallway again, but the air still carries the taste of being observed.
+
+📜 Lore: Bullies love crowds. Administration destroys crowds by turning them into names.
+
+🧑‍🎓 EMBER-PIN STUDENT | "forced" [😠📎]
+
+💬 "Rovan."
+💬 "Ashen House."
+💬 "Second year."
+
+📝 The name lands like a reluctant coin.
+
+🧑‍🎓 EMBER-PIN STUDENT (ABOVE STEP) | "sullen" [😒📎]
+
+💬 "Merec."
+💬 "Ashen House."
+💬 "Second."
+
+🧑‍🎓 EMBER-PIN STUDENT (BELOW STEP) | "tight" [😬📎]
+
+💬 "Lysaen."
+💬 "Ashen House."
+💬 "First."
+
+🧑‍💼 NIGHT STEWARD VELREN | "coldly-satisfied" [🧊🧾]
+
+💬 "Excellent."
+💬 "Now we are all real."
+
+📝 He marks the slate again, then gestures with two fingers toward the lower flight.
+
+💬 "Hungry student comes with me to House desk for schedule correction request."
+💬 "The rest of you return to your corridors immediately."
+💬 "Curfew is not a suggestion."
+
+📝 His eyes return to you, briefly.
+
+💬 "And you."
+💬 "If you want to help, you can help by leaving the stairwell."
+💬 "You have done enough here."
+
+🪶 KESTREL | "quiet-approval" [🪶🙂]
+
+💬 "You turned their trap into a form."
+
+📝 Her voice stays low, like she’s refusing to give the stairwell anything extra to chew on.
+
+💬 "Now we leave before they try to rewrite it."
+
+The lantern above the landing steadies, the hush clamp loosens by a fraction, and the scattered petals on the stone stop looking like a joke and start looking like a receipt.
+
+TAGS: [000043]
+
+🪜 "VALENHOLD — NORTH STAIRWELL, THIRD LANDING" | ❄️ "LIGHT SNOW" | ⏰ "NIGHT, 23:14" | 📅 "01/05/1427"
+🎞 Scene Title: Courtesy Like a Blade, Snow Like Silence
+📽 Snow begins as a quiet correction to the night, fine flakes drifting into the stairwell’s open slits and dissolving on iron railings with a faint hiss, while lanternlight turns each flake into a slow, floating ember that dies on contact; the hush clamp has loosened, but the air still tastes like damp slate and fresh paperwork, and the bruised petals on the landing lie darker now, small splashes of color in a space that prefers everything monochrome and accounted for.
+🦊 JAYSON | "courtly" [🙇😏🦊]
+
+💬 "Thank you Steward, was just passing through to the dorm, I will be on my way now"
+💬 "Good luck, and dont be afraid to reach out to the front desks or Stewards for assistance, that is what they are there for"
+💬 "Thank you so much for bringing this to my attention, im glad collectively we could come up with a solution to aid the poor kid. you are really examples to your houses"
+
+📝 You bow to them, wink, smirk and you and Kestrel silently turn and leave as snow gently falls
+
+🧑‍💼 NIGHT STEWARD VELREN | "final" [🧾🧊]
+
+💬 "Proceed."
+
+📝 The steward’s slate clicks once, sealing something, and his gaze follows the ember-pin trio just long enough to make their shoulders stiff.
+
+💬 "Ashen House residents. Immediate return. No detours."
+
+🧑‍🎓 ROVAN | "humiliated" [😳📎]
+
+💬 "Whatever."
+
+📝 The word tries to be a shield, but it comes out thin, and the snow-lit lantern makes his ember pin look less like fire and more like ash.
+
+🧑‍🎓 MEREC | "sour" [😠📎]
+
+💬 "This isn’t over."
+
+📝 He says it to the stairs, not to you, because threats feel safer when they aren’t addressed.
+
+🧑‍🎓 LYSAEN | "quiet" [😶📎]
+
+📝 Lysaen doesn’t speak, only watches, eyes narrowed with the kind of resentment that prefers planning over shouting.
+
+🎲 RANDOM TURN | Difficulty 6 | "Wards File the Aftertaste" [🗂️🧿]
+
+📝 A pale line of wardlight skims the landing like a broom, gathering the last fragments of the moment into its memory.
+
+💬 "Incident concluded. Names archived. Pattern flagged."
+
+📝 The forged-audit residue fully fades, replaced by a clean, official calm.
+
+📜 Lore: The University doesn’t punish every act. It tracks patterns until punishment becomes efficient.
+
+🪶 KESTREL | "quietly-proud" [🪶🙂]
+
+💬 "That was… clean."
+
+📝 As you descend away from the landing, her voice stays soft, kept within the safe pocket of moving air.
+
+💬 "You didn’t give them a bruise to point at."
+💬 "You gave them a form to choke on."
+
+Snow continues to drift through the stairwell’s slits, softening the stone’s harsh edges in slow, temporary layers, and the third landing recedes behind you like a stage going dark after the actors have left.
+
+TAGS: [000044]

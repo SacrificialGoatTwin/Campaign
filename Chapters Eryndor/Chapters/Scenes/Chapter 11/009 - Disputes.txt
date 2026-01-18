@@ -1,0 +1,217 @@
+﻿🏛️ "VALENHOLD — VEILED HOUSE FRONT DESK" | ❄️ "LIGHT SNOW" | 🌅 "MORNING, 07:30" | 📅 "02/05/1427"
+🎞 Scene Title: The Desk That Eats Nights
+📽 The front desk sits under bright wardlight that makes everything look clean even when it isn’t, snow-melt ticking off cloaks onto the stone while students flow past in quiet currents toward breakfast; behind the counter, slate-runes glow with orderly impatience, and the Veiled wing’s hum has a crisp, clerical tone, like the building woke up hungry for signatures.
+🦊 JAYSON | "matter-of-fact" [😮‍💨🦊]
+
+💬 "The wench visited me again last night"
+💬 "I threw pillows at her and she left"
+
+📝 You groan and go in, dress and wash your face with the door open, Kestrel there
+
+📝 Wrist band is on all the time
+
+📝 You head out
+
+💬 "Ok, brb,"
+
+📝 You head to the Veiled desk and get there 7:30 on the dot
+
+🪶 KESTREL | "tight" [🪶😐]
+
+📝 She arrives a half-step behind you, posture controlled, eyes scanning the desk area like it’s a room full of tripwires disguised as smiles.
+
+💬 "Keep it short."
+💬 "Keep it factual."
+💬 "Let them talk themselves into boxes."
+
+🧾 VEILED DESK STEWARD | "professional" [🧾😐]
+
+📝 A steward behind the counter lifts a slate, the motion smooth with practiced boredom.
+
+💬 "Room Thirteen. Present."
+💬 "Wristband forward."
+
+📝 A thin line of wardlight sweeps your band, then pauses as if rereading a line it doesn’t like.
+
+💬 "You were logged in a quiet zone dispute at 22:52."
+💬 "Resolved by Night Steward Velren."
+💬 "Three Ashen residents identified."
+💬 "No physical escalation recorded."
+
+📝 The steward’s eyes lift, then drop back to the slate.
+
+💬 "Second flag."
+💬 "Anomalous visitation marker at 03:42 and 03:54."
+💬 "Hostility spike recorded."
+💬 "Dorm wardline described the presence as ‘non-resident, non-staff.’"
+
+📝 A pause, clinical.
+
+💬 "Explain."
+
+🎲 RANDOM TURN | Difficulty 6 | "Ashen House Walks In" [🔥📎]
+
+📝 The lobby air shifts as three students enter in a tight cluster, faces set, ember-pins catching the wardlight like sparks that refuse to go out; they don’t approach the Veiled desk directly, but they hover close enough to be seen, close enough to be part of the morning’s paperwork whether anyone wants them to be.
+
+📜 Lore: Consequences in Valenhold don’t arrive like thunder. They arrive like witnesses.
+
+🧾 VEILED DESK STEWARD | "flat" [🧾🧊]
+
+💬 "Before you answer, understand procedure."
+💬 "This is not an interrogation."
+💬 "This is classification."
+💬 "We sort events into ‘student conflict,’ ‘ward anomaly,’ or ‘external incursion.’"
+💬 "Misclassification wastes staff time."
+
+📝 The steward turns the slate slightly so you can see three headings, each with empty boxes beside them.
+
+💬 "Did you invite anything into your room."
+💬 "Did you perform any ritual act."
+💬 "Did you ingest any substance that alters perception."
+💬 "Did you experience a dream you believed was real."
+💬 "Or did you witness an actual presence in waking reality."
+
+🪶 KESTREL | "restrained" [🪶⚠️]
+
+💬 "He slept."
+💬 "He woke."
+💬 "He reported it to me immediately."
+
+📝 Her jaw tightens, but her voice stays clean.
+
+💬 "And he is not the kind to whisper for attention."
+
+🧾 VEILED DESK STEWARD | "noted" [🧾📋]
+
+💬 "Companion statement logged."
+
+📝 The steward’s gaze flicks to Kestrel’s band.
+
+💬 "Room Twelve, you may remain, but speak only if asked."
+
+📝 Then back to you, still professional.
+
+💬 "Your answer, Room Thirteen."
+💬 "Choose one box."
+💬 "Student conflict."
+💬 "Ward anomaly."
+💬 "External incursion."
+
+🔥📎 ROVAN | "watching" [😠📎]
+
+📝 From the edge of the lobby, Rovan’s stare keeps snagging on you like a thorn on cloth.
+
+💬 "He was up half the night."
+💬 "We heard shouting."
+
+📝 The words are aimed at the desk, but meant to stick to you.
+
+🧾 VEILED DESK STEWARD | "ice-quiet" [🧾🧊]
+
+💬 "Ashen House will not provide commentary at a Veiled desk."
+
+📝 The steward doesn’t look up when saying it, which makes it sharper.
+
+💬 "You have your own counter."
+💬 "Wait."
+
+The wardlight over the desk holds steady, unblinking, and the slate’s three empty boxes feel less like paperwork and more like a fork in a road, the kind that decides what follows you for the rest of the term.
+
+TAGS: [000073]
+
+🏛️ "VALENHOLD — VEILED HOUSE FRONT DESK" | ❄️ "LIGHT SNOW" | 🌅 "MORNING, 07:36" | 📅 "02/05/1427"
+🎞 Scene Title: Three Boxes and a Tired Witness
+📽 Wardlight pools on polished stone like spilled milk, and the desk area has that morning-bureaucracy smell of damp cloaks, ink-slate heat, and snowmelt ticking into a drain; the lobby’s quiet is busy rather than calm, footsteps threading past in practiced lines, while rune-text hovers in crisp strips above the counter, waiting to be turned into permanent categories.
+🦊 JAYSON | "exhausted" [😵🦊]
+
+💬 "Dispute? no, those 3 there asked me to help them with something. in class yesterday we talked about axioms, and mine was I help because I can, they asked me if I can help this other kid, sorry I didnt get his name, which I did help, then Stewart whats his face came in time as he was perfectly timed, and the kid told him what was going on, and then I went to my dorm... there was no despute or argument."
+💬 "As for last night, a goddess that looks like a hobgoblin came and threatened me about a magical world needing my help, I threw pillows at her and she went away..."
+💬 "I dont know... dream probably, I was so tired"
+
+🧾 VEILED DESK STEWARD | "clinical" [🧾🧊]
+
+📝 The steward’s stylus taps once against the slate, not impatient, decisive.
+
+💬 "Understood."
+💬 "Quiet zone event classified as: student contact resulting in staff intervention."
+💬 "Noted: you deny dispute."
+
+📝 The stylus moves again, and two boxes receive clean, bright marks.
+
+💬 "Classification one: Student conflict. Low severity. Closed."
+💬 "Classification two: Ward anomaly. Subtype: sleep-state intrusion."
+
+📝 The steward lifts their eyes, expression unchanged.
+
+💬 "We do not adjudicate ‘goddess.’"
+💬 "We adjudicate: did the dorm wards detect an external incursion or a dream impression."
+💬 "Your report supports dream impression."
+💬 "The wardline supports: anomalous presence marker."
+💬 "Therefore: pending review."
+
+🪶 KESTREL | "restrained" [🪶😐]
+
+📝 Her posture stays still, but her eyes tighten on the steward’s wording like she’s measuring how much it can bite.
+
+💬 "What does ‘pending review’ mean."
+
+🧾 VEILED DESK STEWARD | "procedural" [🧾📋]
+
+💬 "It means you will be seen by a ward-auditor."
+💬 "Briefly."
+💬 "To confirm whether the marker was environmental or personal."
+
+📝 The steward angles the slate, rune-text brightening into a new line.
+
+💬 "Room Thirteen: attend Ward Audit Nook, West Corridor, 08:10."
+💬 "Bring wristband."
+💬 "Arrive alone."
+
+📝 A second line appears beneath it, almost an afterthought but written like law.
+
+💬 "Sleep deficit noted. Recommend breakfast and rest until class."
+
+🔥📎 ROVAN | "eager" [😏📎]
+
+💬 "So he admits he was dreaming."
+
+📝 The comment is tossed like a pebble into a pond, aimed to make ripples.
+
+🧾 VEILED DESK STEWARD | "ice-flat" [🧾😐]
+
+💬 "Ashen House will remain silent in this area."
+
+📝 The steward doesn’t look at Rovan when saying it, which makes it sound like a door being shut.
+
+💬 "Your interviews are not here."
+💬 "Leave or wait outside the Veiled line."
+
+🎲 RANDOM TURN | Difficulty 6 | "The Hungry Student Returns" [🍞🧿]
+
+📝 A smaller student in rumpled house-gray hurries into the lobby clutching a stamped chit-slip, breath fogging in short bursts from the cold.
+
+💬 "Steward Velren said it worked."
+💬 "My band opened the second pass."
+
+📝 The student bows too quickly, then scurries away toward the dining flow, as if afraid gratitude itself might be confiscated.
+
+📜 Lore: Sometimes the University fixes a problem fast, not out of kindness, but because an unsolved problem becomes a rumor with legs.
+
+🧾 VEILED DESK STEWARD | "finalizing" [🧾✅]
+
+📝 The steward presses a final seal onto the slate, and the wardlight above the counter softens by a fraction as if satisfied.
+
+💬 "Room Thirteen: you are not in trouble for the stairwell."
+💬 "Do not return to the third landing after curfew."
+💬 "Do not engage Ashen residents without staff present."
+💬 "Attend the audit."
+
+📝 The steward’s gaze flicks once to Kestrel, then back to you.
+
+💬 "Room Twelve may escort you to breakfast."
+💬 "Room Twelve may not attend the audit."
+
+The lobby’s current pulls onward, students drifting past with trays and schedules and quiet stares, while your wristband holds the new appointment like a hook set into the morning.
+
+TAGS: [000074]
+

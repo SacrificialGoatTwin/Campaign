@@ -1,0 +1,208 @@
+﻿🏛️ "VALENHOLD — ADMIN GALLERY, INNER HALL" | 🌤️ "CLEAR" | ⏰ "EARLY EVENING, 18:09" | 📅 "01/05/1427"
+🎞 Scene Title: Paper Doors and Polite Knives
+📽 Beyond the check-in desk, the Gallery narrows into a corridor of brass rails and frosted lantern sigils that make the air feel scrubbed and official, like breathing through clean linen; ink-scent thickens near a bank of rune-scribes that whisper in tiny clicks, and portrait frames continue in quieter rows, their varnished eyes catching light with a watchfulness that never quite looks like staring until you try not to notice it.
+🦊 JAYSON | "ready" [✅🦊]
+
+📝 You and Kestrel check in and head through.
+
+🧑‍💼 ADMIN CLERK | "efficient" [📋🙂]
+
+💬 "Confirmed."
+💬 "Proceed to Logistics Bay Three."
+💬 "Follow the brass rail. Do not cross the black line."
+
+📝 A small stamp-rune flashes on the slate, then fades, leaving a faint warmth in the air like a sealed envelope.
+
+🪶 KESTREL | "practical" [🪶🧭]
+
+💬 "Bay Three. Keep pace."
+
+📝 She keeps to the rail as if it’s a boundary that can bite, eyes flicking once to the black line painted into the stone.
+
+🧑‍💼 LOGISTICS STEWARD | "polished" [🎩📋]
+
+💬 "New residents."
+💬 "House logistics is simple."
+💬 "You receive access."
+💬 "You receive obligations."
+💬 "You learn the penalties for confusing the two."
+
+📝 The steward gestures toward a row of small pedestals where ward-bands and key-slates rest like neat little promises.
+
+💬 "One at a time. Present slate. Accept band. Confirm dorm route."
+
+🎲 RANDOM TURN | Difficulty 5 | "Anomaly Stamp" [🧿🖋️]
+
+📝 As your entries finalize, the rune-scribe behind the steward emits a single sharper click, and a thin red-gold sigil briefly overlays your confirmation mark before snapping back to normal.
+
+📝 The steward’s smile holds, but his eyes move half a degree, the tiniest recalibration.
+
+💬 "Supplemental note added."
+
+📜 Lore: Valenhold flags certain arrivals for “route guidance,” which is what it calls being quietly watched without causing a scene.
+
+🧑‍💼 LOGISTICS STEWARD | "pleasant" [🙂📋]
+
+💬 "Your orientation packet."
+💬 "Meal windows."
+💬 "Laundry rota."
+💬 "Ward etiquette."
+💬 "Quiet hours."
+💬 "Duel policy summary."
+
+📝 He taps the packet once, then sets it down with the care of someone placing a blade into a sheath.
+
+💬 "House briefings follow in the Annex Hall."
+💬 "If you miss it, you will repeat it."
+💬 "Repetition is not free."
+
+🪶 KESTREL | "dryly-amused" [🪶😑]
+
+💬 "They charge for ignorance."
+
+📝 Her voice stays low, but the edge of humor is real, like a tiny lantern in a long corridor.
+
+🧑‍💼 LOGISTICS STEWARD | "matter-of-fact" [📋🧊]
+
+💬 "Bands are not shackles."
+💬 "They are doors."
+💬 "Remove it, and most doors will treat you as a stranger."
+
+📝 He slides two ward-bands forward, the metal dark with faint rune-flecking that looks like ash caught in oil.
+
+💬 "Confirm receipt."
+
+🎲 RANDOM TURN | Difficulty 3 | "Gallery Breath" [🕯️]
+
+📝 A lantern-sigil dims and brightens once, as if the building took a single controlled breath.
+
+📝 The portrait frames along the corridor settle into perfect stillness, varnish-glare smoothing out like calm water.
+
+📜 Lore: When Valenhold finishes a procedure, the wards relax just enough to make you think it was always this quiet.
+
+The corridor keeps its crisp ink-and-brass scent, and the rail guides the flow onward, as if administration has handed you a map made of rules rather than roads.
+
+TAGS: [000017]
+
+🏛️ "VALENHOLD — LOGISTICS BAY THREE" | 🌤️ "CLEAR" | ⏰ "EARLY EVENING, 18:21" | 📅 "01/05/1427"
+🎞 Scene Title: Doors You Wear
+📽 Lantern sigils hum softly above the pedestals, and their light glances off dark ward-metal in thin, careful highlights, turning each band into a small eclipse cradled in velvet; the air is close with ink, wax-seal heat, and the faint mineral tang of rune-etched brass, while the corridor’s quiet feels staged, like a courtroom that has replaced its judge with paperwork.
+🦊 JAYSON | "easy" [😄🦊]
+
+📝 You chuckle at Kestrel, then confirm the receipt.
+
+🧑‍💼 LOGISTICS STEWARD | "satisfied" [✅📋]
+
+💬 "Receipt confirmed."
+
+📝 The steward’s rune-slate pulses once, and the ward-bands on the pedestal answer with a faint, synchronized glow.
+
+💬 "Wear it on your non-dominant wrist."
+💬 "Do not attempt to mask the band’s signature."
+💬 "If it itches, that is your wards adjusting."
+
+🪶 KESTREL | "matter-of-fact" [🪶🧊]
+
+💬 "Non-dominant. Fine."
+
+📝 She confirms her own receipt without ceremony, then glances once toward the corridor exits, already thinking three steps ahead.
+
+🎲 RANDOM TURN | Difficulty 6 | "Band-Thread Sync" [🧿🧵]
+
+📝 The moment both confirmations register, a thin filament of pale light flickers between the two bands for a heartbeat, then snaps away like a thread cut clean.
+
+📝 A tiny rune-mark appears on the steward’s slate, subtle enough to be missed by anyone not watching for it.
+
+💬 "Pair coherence noted."
+
+📜 Lore: Valenhold tracks not only individuals, but stable pairs, because pairs change outcomes.
+
+🧑‍💼 LOGISTICS STEWARD | "directive" [📋🧊]
+
+💬 "Next."
+💬 "Annex Hall for house briefings."
+💬 "Your route is marked."
+
+📝 A faint arrow of light blooms on the floor just beyond the brass rail, pointing down the inner corridor with polite inevitability.
+
+💬 "Do not deviate unless you enjoy corrective interviews."
+
+The lantern glow steadies, the pedestal lights dim back to neutral, and the corridor’s arrow waits without impatience, as if it knows you will move because schedules are simply another kind of gravity.
+
+TAGS: [000018]
+
+🏛️ "VALENHOLD — LOGISTICS BAY THREE" | 🌤️ "CLEAR" | ⏰ "EARLY EVENING, 18:32" | 📅 "01/05/1427"
+🎞 Scene Title: Which Hand Holds the Door
+📽 The Logistics Bay’s air feels slightly warmer now, as if the wards are satisfied and letting heat return to the stone, while the lantern sigils above the pedestals cast steady pools of light that make every metal edge look deliberate; the brass rail gleams in thin lines like a boundary drawn with a ruler, and the rune-scribe’s quiet clicking gives the room the mood of a clock that’s always on time and never kind.
+🦊 JAYSON | "inquiring" [🤔🦊]
+
+💬 "Sorry, am I able to just keep this on my person, I am ambidextrous"
+💬 "If not, I can just use my left wrist"
+
+🧑‍💼 LOGISTICS STEWARD | "patient" [🙂📋]
+
+💬 "On your person is not acceptable."
+💬 "If it is not visible to the corridor readers, doors treat you as unverified."
+💬 "Ambidextrous is noted."
+💬 "Non-dominant instruction exists to reduce accidental ward-gesture interference, not to constrain your body."
+
+📝 He tilts the slate, and a small diagram flickers: two wrists, two acceptable placements, one crossed-out pocket silhouette.
+
+💬 "Pick a wrist."
+💬 "If dominance changes, the band does not care."
+💬 "If you remove it, the Gallery will."
+
+🎲 RANDOM TURN | Difficulty 3 | "Compliance Ping" [📡]
+
+📝 The band gives a soft, almost imperceptible pulse against the pedestal, like it just acknowledged your question.
+
+📝 A tiny rune on the steward’s slate updates from grey to pale gold.
+
+💬 "User comprehension improved."
+
+📜 Lore: The University rewards questions that reduce future mess, because mess costs time, and time is their true currency.
+
+The floor-arrow remains politely pointed toward the Annex Hall route, and the portraits down the corridor hold their painted stillness as if waiting to see which wrist becomes your key.
+
+TAGS: [000019]
+
+🏛️ "VALENHOLD — INNER CORRIDOR, ROUTE TO ANNEX HALL" | 🌤️ "CLEAR" | ⏰ "EARLY EVENING, 18:41" | 📅 "01/05/1427"
+🎞 Scene Title: Left Wrist, Right Eyes
+📽 The corridor ahead feels longer than it should, not by distance but by attention, with floor-arrow light sliding over stone like a silent usher; lantern sigils tint the air a soft gold that makes dust sparkle briefly before sinking, and the faint scent of varnish and ink follows from the Gallery behind, as though administration has a way of clinging to skin even after you leave its doors.
+🦊 JAYSON | "agreeable" [🙂🦊]
+
+📝 You put it on the left and smile.
+
+💬 "No problem."
+
+📝 You head on through to the next area with Kestrel.
+
+🪶 KESTREL | "quiet" [🪶😐]
+
+💬 "Good."
+
+📝 She matches the corridor’s pace, keeping to the brightest track where the readers can’t pretend they didn’t see you.
+
+💬 "Annex Hall will be crowded."
+💬 "Crowds hide knives and rumors."
+
+🎲 RANDOM TURN | Difficulty 4 | "Route Fork Rewrites" [🧭🧿]
+
+📝 Halfway down the corridor, the floor-arrow hesitates, flickers, then splits into two thinner lines for a heartbeat before one line fades and the remaining line shifts left.
+
+📝 A small rune plaque above an archway warms to life, its letters sharpening as if freshly carved.
+
+💬 "DIVERT: BRIEFING OVERFLOW ACCESS."
+
+📜 Lore: When Valenhold reroutes you, it’s rarely about convenience. It’s about control of who stands next to whom.
+
+🧑‍🎓 PASSING STUDENT | "murmuring" [🤫📎]
+
+💬 "Overflow already?"
+
+📝 The student doesn’t look directly at you, but their pace increases, as if proximity itself might be recorded.
+
+The corridor turns, the lantern light changes angle, and the air ahead carries a new smell: chalk, bodies, and the faint ozone snap of active ward-threads, the unmistakable perfume of a room about to be “informative.”
+
+TAGS: [000020]
+

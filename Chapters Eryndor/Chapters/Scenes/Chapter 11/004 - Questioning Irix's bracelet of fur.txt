@@ -1,0 +1,74 @@
+﻿🏠 "VALENHOLD — VEILED WING LIT ROUTE, RETURN TO COMMONROOM" | 🌤️ "CLEAR" | ⏰ "NIGHT, 20:49" | 📅 "01/05/1427"
+🎞 Scene Title: Counted Limbs, Counted Lessons
+📽 The gold floor-ribbon guides the corridor like a patient river of light, and every lantern sigil above it glows with the careful warmth of something that wants you calm for the sake of the records; stone walls pass in quiet pulses of shadow and amber, carrying the faint smell of ozone and clean linen from the seminar door behind, while the hush ahead thickens into the familiar commonroom atmosphere, soft rugs and low voices waiting like a safer tide.
+🦊 JAYSON | "relieved" [😌🦊]
+
+📝 You side hug Irix while you two walk to the commonroom.
+
+💬 "I was a bit worried there for a bit, but you look mostly intact!"
+💬 "Wings, arms, legs, horns.... all numbers match"
+
+🪽 IRIX | "wry" [😮‍💨🪽]
+
+💬 "They tried to make me flinch."
+💬 "I flinched once."
+💬 "Then I stopped."
+
+📝 She leans into the side hug for a heartbeat, then straightens as if remembering the corridor is always listening.
+
+💬 "They kept talking about ‘containment’ like it’s kindness."
+💬 "It’s… structure."
+💬 "Structure with a smile."
+
+🪶 KESTREL | "quietly-glad" [🪶🙂]
+
+💬 "Structure is fine."
+💬 "Smiles can lie."
+
+📝 She stays on the ribbon, keeping the three of you spaced like you were taught without ever being told.
+
+💬 "Did they mark you?"
+
+🪽 IRIX | "guarded" [😐🪽]
+
+💬 "They marked my file."
+💬 "Not my skin."
+
+📝 Her gaze flicks down to the fur ankle bracelet, then back up, careful.
+
+💬 "They asked why it’s there."
+💬 "I said it’s personal."
+💬 "They said personal is a category, not a shield."
+
+🎲 RANDOM TURN | Difficulty 6 | "Commonroom Net Tightens" [🕸️🧿]
+
+📝 As the three of you cross the commonroom threshold, the rune-plinth gives a soft double-chime and a thin shimmer runs through the ceiling wardlines, like a net being checked for tears.
+
+📝 A few heads lift in reflex, then drop, pretending they were never paying attention at all.
+
+💬 "Group return logged."
+
+📜 Lore: Veiled House treats reunions like data, because data predicts which students become trouble and which become targets.
+
+🧑‍💼 HOUSE STEWARD LORAN | "measured" [📋🙂]
+
+💬 "Welcome back."
+💬 "Commonroom voices."
+💬 "Corridor rules remain corridor rules."
+
+📝 He glances once to Irix’s ankle, once to your wrist band, and then deliberately looks away, choosing neutrality like it’s policy.
+
+💬 "Dinner window is open for thirteen minutes."
+💬 "After that, curfew lanes begin tightening."
+
+🪽 IRIX | "tired" [😪🪽]
+
+💬 "Thirteen minutes."
+
+📝 The number seems to sit on her shoulders for a second.
+
+💬 "Can we just eat something normal?"
+
+The lamplight holds steady, soft and domestic, but the ward-hum underneath it keeps the faint aftertaste of the seminar, a reminder that even safe rooms in Valenhold are safe in the way cages can be clean.
+
+TAGS: [000031]

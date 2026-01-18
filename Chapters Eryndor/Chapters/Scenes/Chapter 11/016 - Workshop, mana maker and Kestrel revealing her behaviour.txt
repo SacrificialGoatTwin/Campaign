@@ -1,0 +1,1352 @@
+﻿🛠️ "VALENHOLD — CRAFT ANNEX CORRIDOR" | ❄️ "LIGHT SNOW" | 🌤️ "MIDDAY, 13:35" | 📅 "02/05/1427"
+🎞 Scene Title: Yes, Which Is Not an Answer
+📽 The corridor toward the Craft Annex narrows and warms, the air changing texture as faint soot and oil ride beneath the clean ward-scent, and somewhere deeper in the building a forge breathes with a low, rhythmic thrum; snowlight still reaches the stone here, but it’s weaker, diluted by warmer lamp glow and the soft pulse of safety wards stitched into every corner.
+🦊 JAYSON | "impish" [😏🦊]
+
+💬 "Yes!"
+
+📝 You grin and walk slowly, thinking about something.
+
+🪶 KESTREL | "not-amused" [🪶😐]
+
+📝 Kestrel keeps pace, eyes forward, then glances sideways at you with that flat look reserved for evasions dressed as charm.
+
+💬 "That was four options."
+💬 "You said yes to all of them."
+
+📝 She adjusts the strap of her packet under her arm, voice level.
+
+💬 "Clarify."
+💬 "I don’t care what you build."
+💬 "I care what trouble it invites."
+
+🎲 RANDOM TURN | Difficulty 6 | "Annex Threshold Check" [🧿🚪]
+
+📝 As you reach the Craft Annex doors, a thin rune strip above the frame flares once, scanning wristbands and calming to a steady green.
+
+💬 "ACCESS: APPROVED."
+💬 "NOTICE: FORGE BAY 2 ACTIVE."
+💬 "HEARING PROTECTION ADVISED."
+
+📝 A gentle second pulse follows, more pointed.
+
+💬 "REMINDER: NO UNSUPERVISED ENCHANTMENT WORK."
+
+📜 Lore: Valenhold likes creation. It dislikes surprises.
+
+🛠️ CRAFT ANNEX ATTENDANT LORR | "welcoming" [🛠️🙂]
+
+📝 Inside, an attendant with soot-marked sleeves and a tidy apron looks up from a check-in slate, eyes flicking over wristbands with practiced ease.
+
+💬 "Veiled students."
+💬 "Welcome."
+💬 "Bench work is open today."
+💬 "Forge consult is available, but bays are tight."
+
+📝 Lorr gestures with a thumb toward a side wall where a board lists times in chalk and rune-tags.
+
+💬 "If you’re here for hardware or fittings, tell me what you’re making and I’ll route you."
+💬 "If you’re here for weapons, that’s a different form."
+💬 "If you’re here for jewelry, that’s the quiet room, unless it’s spiked."
+
+📝 The attendant’s mouth twitches like they’ve made that joke too many times.
+
+💬 "So."
+💬 "What’s the project."
+
+The Annex opens up around you into heat and tools and supervised possibility, and the question hangs there again, now asked by someone who can actually hand you a hammer.
+
+TAGS: [000112]
+
+🛠️ "VALENHOLD — CRAFT ANNEX, CHECK-IN BAY" | ❄️ "LIGHT SNOW" | 🌤️ "MIDDAY, 13:43" | 📅 "02/05/1427"
+🎞 Scene Title: Hammer Until Meaning Appears
+📽 Heat sits in the Craft Annex like a held breath, forge-thrum pulsing through the floor while lamp glow turns the air honey-colored and the faint scent of oil, soot, and hot iron clings to everything; tool racks line the walls in clean rows, chalk boards list times and bays in clipped handwriting, and every sound feels supervised, even the quiet ones.
+🦊 JAYSON | "open" [🙂🦊]
+
+📝 You smile at Lorr and then glance at Kestrel.
+
+💬 "I’m unsure what the end result is going to be. It’s a case of hammer till something happens. The work is light and possibly intricate, but the core of what I’m doing will be sturdy and require heavy metals."
+
+📝 You smile.
+
+💬 "So I’m not even sure if I’m in the right place, to be honest… I possibly need an inventor’s area or something. Sorry I can’t be specific and I’m sounding difficult. Feel free to tell me to get lost."
+
+📝 You smile!
+
+🛠️ CRAFT ANNEX ATTENDANT LORR | "amused-professional" [🛠️😄]
+
+📝 Lorr’s eyes crinkle, and they lean on the check-in slate like they’ve heard this exact kind of chaos before.
+
+💬 "I don’t tell people to get lost."
+💬 "I tell them where to lose themselves safely."
+
+📝 They tap the slate twice, pulling up a branching form that hovers in pale rune-light.
+
+💬 "You’re describing prototyping."
+💬 "Which we do."
+💬 "But we do it with guardrails."
+
+📝 Lorr points their stylus at you, not accusatory, just precise.
+
+💬 "Heavy metals means structural."
+💬 "Light and intricate means fittings or mechanisms."
+💬 "Hammer-until-it’s-real means you don’t have a blueprint yet."
+
+📝 A beat.
+
+💬 "That’s fine."
+💬 "It just changes what I’m allowed to hand you."
+
+🪶 KESTREL | "watchful" [🪶😐]
+
+📝 Kestrel’s gaze stays on Lorr’s slate and the word “prototyping,” like she’s already checking which rule set it triggers.
+
+💬 "He’s not trying to make trouble."
+💬 "He’s trying to… make a problem into an object."
+
+🛠️ CRAFT ANNEX ATTENDANT LORR | "routing" [🛠️😐]
+
+💬 "Then we start here."
+
+📝 Lorr gestures toward a line of heavy benches where clamps and vises sit bolted into thick wood.
+
+💬 "Bench bay for layout and mockups."
+💬 "Soft metal practice first."
+💬 "Then if you still need heavy stock, we do a supervised pull from stores."
+
+📝 They tilt their head, studying you with the sharp kindness of someone who doesn’t want to clean up an accident.
+
+💬 "Two questions."
+💬 "One: is this wearable."
+💬 "Two: does it involve runes, wards, or ‘binding.’"
+
+📝 Lorr’s tone stays casual, but the second question is a gate.
+
+🎲 RANDOM TURN | Difficulty 5 | "Inventory Gate Flashes" [🧿🔩]
+
+📝 A small brass plaque beside the stockroom door pulses faintly, rune-text blooming like a warning label waking up.
+
+💬 "RESTRICTED MATERIALS: STEEL BARS, SPRING STOCK, SILVER ALLOYS."
+💬 "ISSUANCE: STAFF APPROVAL."
+
+📝 The glow dims again as if satisfied it reminded everyone it exists.
+
+📜 Lore: Valenhold doesn’t fear tools. It fears unsupervised intent.
+
+🛠️ CRAFT ANNEX ATTENDANT LORR | "gentle-firm" [🛠️🙂]
+
+💬 "Answer those two, and I’ll put you in the right lane."
+💬 "If you don’t know, that’s also an answer."
+💬 "It means we start with inert materials and sketch the idea out until it has a shape."
+
+📝 Lorr nods toward a side table stacked with wax blocks, copper sheet, and practice wire.
+
+💬 "You can hammer wax all day and nobody gets hurt."
+💬 "Then we graduate you to metal when your idea stops being a fog."
+
+The forge breathes again deeper inside the Annex, steady and patient, while the check-in slate waits for your answers like a door that only opens when the question is spoken clearly.
+
+TAGS: [000113]
+
+🛠️ "VALENHOLD — CRAFT ANNEX, CHECK-IN BAY" | ❄️ "LIGHT SNOW" | 🌤️ "MIDDAY, 13:54" | 📅 "02/05/1427"
+🎞 Scene Title: The Safe Lane Opens
+📽 The Annex air shifts with a forge’s steady breath, warm lamp glow catching fine soot motes and making them drift like slow sparks; metal scents, oil, and chalk hang together in a clean, worked harmony, and the stockroom plaque sits quiet now, as if waiting to see whether it needs to be a warning again.
+🦊 JAYSON | "certain" [😐🦊]
+
+💬 "It is not wearable and it does not need runes or wards"
+
+🛠️ CRAFT ANNEX ATTENDANT LORR | "relieved" [🛠️🙂]
+
+📝 Lorr nods once, immediate and practical, like a lock just turned.
+
+💬 "Good."
+💬 "That puts you in the safe lane."
+
+📝 They tap the check-in slate and a small rune ticket blooms above it, then settles into a soft glow.
+
+💬 "Bench Bay Three."
+💬 "Prototype authorization: inert materials, then basic stock."
+
+📝 Lorr gestures toward a workbench row with heavy vises and clamp rails.
+
+💬 "Start with wax and copper sheet."
+💬 "If your ‘hammer until it exists’ needs stiffness, we move to mild steel bar."
+💬 "If you end up needing spring stock, I have to see the design first."
+
+📝 Their mouth twitches, half amused.
+
+💬 "Not because I don’t trust you."
+💬 "Because the building doesn’t trust surprises."
+
+🪶 KESTREL | "approving" [🪶😐]
+
+📝 Kestrel’s shoulders drop a fraction, the smallest visible easing.
+
+💬 "Bench work is fine."
+💬 "We’re not here to argue with the forge."
+
+🛠️ CRAFT ANNEX ATTENDANT LORR | "instructive" [🛠️😐]
+
+💬 "Rules for Bay Three."
+
+📝 Lorr raises two fingers, counting off with calm precision.
+
+💬 "One: eye protection on when you cut, file, or strike."
+💬 "Two: if you change tools, you reset your stance."
+💬 "Three: if you feel angry, you step away from the vise."
+
+📝 A beat, dry.
+
+💬 "Tools don’t care what mood you’re in."
+💬 "Your fingers do."
+
+📝 Lorr slides a small tray across the table: wax block, copper sheet, a charcoal pencil, and a thin measuring strip.
+
+💬 "Take these."
+💬 "Show me a silhouette in wax first."
+💬 "Then we talk heavy stock."
+
+🎲 RANDOM TURN | Difficulty 4 | "Annex Bell: Forge Bay Closes" [🔔🔥]
+
+📝 Somewhere deeper in the Annex, a bell gives a single low note, and a sign rune on the far wall flips from green to amber.
+
+💬 "FORGE BAY 2: CLOSING FOR MAINTENANCE."
+
+📝 The forge-thrum dips, then steadies again, like a beast resettling.
+
+📜 Lore: Even the tools have schedules here.
+
+Lorr’s guidance leaves you with a clear path and a handful of materials, and Bench Bay Three waits like an empty page that happens to be bolted to the floor.
+
+TAGS: [000114]
+
+🛠️ "VALENHOLD — CRAFT ANNEX, BENCH BAY THREE" | ❄️ "LIGHT SNOW" | 🌤️ "MIDDAY, 14:03" | 📅 "02/05/1427"
+🎞 Scene Title: Honest Words Under Hammer Noise
+📽 Bench Bay Three sits in the Annex’s warm churn of sound, where distant forge-thrum and nearby filing create a constant metallic hush, lamp light pooling over the vise like liquid gold; copper catches every glint and throws it back, and the air tastes faintly of oil and hot stone while snowlight from far windows is reduced to a pale suggestion at the edge of the workshop’s glow.
+🦊 JAYSON | "focused" [😐🦊]
+
+📝 You nod and move forward to the bay.
+
+📝 You start prepping and scoring lines and shapes into the copper sheets.
+
+💬 "Kestrel… I want to ask you something and I want…"
+
+📝 You pause.
+
+💬 "No… not want… I would like it if you would be honest with me, please."
+
+📝 Your voices are drowned by all the work going on around you.
+
+🪶 KESTREL | "attentive" [🪶👀]
+
+📝 Kestrel steps closer to your bench to hear you without making it a spectacle, posture angled so she can watch your hands and the room at the same time.
+
+💬 "Ask."
+
+📝 She glances at the copper lines you’ve scored, then back to your face.
+
+💬 "And yes."
+💬 "I’ll be honest."
+
+📝 A brief pause, then she adds, quieter, the kind of quiet that’s still clear.
+
+💬 "But be specific."
+💬 "Honesty needs a target."
+
+🎲 RANDOM TURN | Difficulty 5 | "Annex Noise Swallows the Edges" [🔧🔊]
+
+📝 A hammer strikes two benches over, a sharp ring that ripples through the bay and makes the copper sheet under your fingertips vibrate faintly.
+
+📝 Someone drags a file across steel, the sound long and grating, and a nearby wardlight flares brighter for a moment, compensating for drifting shadow.
+
+📜 Lore: Workshops don’t just hide conversations. They turn them into shapes you have to choose carefully.
+
+The copper waits under your scored lines, and Kestrel’s attention holds steady, ready for whatever question you decide to bring into the noise.
+
+TAGS: [000115]
+
+🛠️ "VALENHOLD — CRAFT ANNEX, BENCH BAY THREE" | ❄️ "LIGHT SNOW" | 🌤️ "MIDDAY, 14:14" | 📅 "02/05/1427"
+🎞 Scene Title: The Question Under the Noise
+📽 The bench bay hums with layered metal-sounds, hammers ringing like short bells, files whispering long and gritty, and the forge’s distant pulse turning the floor into something faintly alive; lamp light pools over copper and tools in warm gold, while the colder snowlight stays trapped far away in the high windows, making this corner feel like a pocket of heat where truths can be shaped if they’re held firmly enough.
+🦊 JAYSON | "concerned" [🦊😟]
+
+💬 "I need to know if you are okay or not."
+💬 "The reason I ask is because we have been traveling for a while now and I have noticed in the last, like, four days or so…"
+💬 "The things I have noticed are: you are sharper with your words, talk and over-explain yourself a lot, jump the gun before hearing someone out, talk for them, and have just all round become very serious."
+
+📝 You look at her.
+
+💬 "When we did dungeon runs, you were quiet, spoke when it was needed, were very methodical, never assumed things or jumped the gun with guessing…"
+
+📝 You frown slightly.
+
+💬 "And… you smiled more."
+💬 "I get the school is stressful and I get we have to be on our guard… but what I have been seeing feels more like you breaking and falling apart than being on guard."
+💬 "So… I want to know… are you okay? And if not… what is going on?"
+
+🪶 KESTREL | "held-together" [🪶😐]
+
+📝 Kestrel’s eyes drop to your hands on the copper for a moment, not because the copper matters, but because it gives her somewhere to put the first reaction.
+
+📝 Her throat works once, like she swallowed a sharper answer and chose a softer one instead.
+
+💬 "You’re not wrong."
+
+📝 She takes a slow breath through her nose, measured, then another, deliberately slower.
+
+💬 "I’m functioning."
+💬 "But I’m not… resting."
+
+📝 Her gaze lifts, and it’s steady, but tired in the seams.
+
+💬 "Dungeon rules were simple."
+💬 "Threats were outside."
+💬 "Lines were visible."
+
+📝 A pause as a hammer rings nearby, then she continues without raising her voice, letting the noise cover the vulnerable parts.
+
+💬 "Here, threats are polite."
+💬 "Here, they wear forms."
+💬 "Here, people smile when they set traps."
+
+📝 She flexes her fingers once, subtle, like she’s releasing a grip.
+
+💬 "And you…"
+
+📝 She hesitates, then commits.
+
+💬 "You are loud."
+💬 "Not just with jokes."
+💬 "With… presence."
+💬 "It pulls attention."
+💬 "It makes you easy to orbit."
+💬 "Ashen students orbiting isn’t random."
+
+📝 Her jaw tightens, then loosens again.
+
+💬 "I’m trying to keep the orbit from becoming a collision."
+
+📝 Another breath, smaller.
+
+💬 "Also… I’m tired of being surprised."
+💬 "The dorm anomaly."
+💬 "The audit."
+💬 "The way the University files people like threats."
+💬 "The way Veiled staff look at Irix like she’s a problem to manage."
+
+📝 She glances away for a heartbeat, then back.
+
+💬 "I’m not falling apart."
+💬 "I’m… bracing."
+💬 "And I’ve been bracing too long."
+
+🎲 RANDOM TURN | Difficulty 5 | "Lorr’s Passing Comment" [🛠️👂]
+
+📝 Lorr walks past the bay carrying a tray of stock, slows half a step, eyes flicking to Kestrel’s posture like they can read tension the way they read tool wear.
+
+💬 "Keep your shoulders down, Veiled."
+💬 "Metalwork punishes stiffness."
+
+📝 Lorr keeps walking without waiting for a reply, leaving the advice hanging like a shop rule that somehow applies to more than metal.
+
+📜 Lore: Craftspeople notice stress because stress makes mistakes expensive.
+
+🪶 KESTREL | "honest" [🪶😮‍💨]
+
+📝 Kestrel’s mouth twitches at Lorr’s comment, not quite a smile, but a crack in the armor.
+
+💬 "There’s more."
+
+📝 She chooses her words carefully, like placing a blade down instead of throwing it.
+
+💬 "When you told me about your… resets."
+💬 "And your wives."
+💬 "It didn’t make me angry."
+💬 "It made me… aware."
+💬 "Of scale."
+💬 "Of how much you carry."
+💬 "And how little warning I get when the ground shifts around you."
+
+📝 She looks at you directly now, voice firm but not sharp.
+
+💬 "I don’t resent you."
+💬 "I’m not jealous."
+💬 "I’m not offended."
+💬 "I’m just trying to keep us all alive long enough to have normal problems again."
+
+📝 A final breath, then the simplest truth.
+
+💬 "So no."
+💬 "I’m not okay."
+💬 "I’m not broken either."
+💬 "I’m strained."
+💬 "And I need… a little less unpredictability."
+💬 "Even if it’s only the kind you can control."
+
+The copper sheet sits under your scored lines, waiting to be bent into something deliberate, while Kestrel’s honesty hangs in the workshop noise like a clean, unfinished edge, asking what you’ll do with it without demanding you do anything at all.
+
+TAGS: [000116]
+
+🛠️ "VALENHOLD — CRAFT ANNEX, BENCH BAY THREE" | ❄️ "LIGHT SNOW" | 🌤️ "MIDDAY, 14:27" | 📅 "02/05/1427"
+🎞 Scene Title: Load Sharing
+📽 The bench bay keeps singing its layered metal-song, copper flashing under warm lamp light while the distant forge thrum presses a steady rhythm into the floor; oil-scent and heated stone cling to the air, and every now and then a hammer strike blooms into a sharp ring that makes conversation feel like it has to be forged into shape, not simply spoken.
+🦊 JAYSON | "firm-care" [🦊😐]
+
+📝 You nod your head, then shake it.
+
+💬 "No.... you need to stop and reassess. you are 1 person, not a contraption that can just work around the clock under load."
+
+📝 You continue working while you talk.
+
+💬 "My resets are not something anyone or anything can do anything about. so I want you to not even try and plan for them. to plan for them is like planning for what to do when the universe explodes. you cant. when they happen, I will tell you and I will explain it all and it will be only informational as nothing will be able to be done about it."
+
+📝 You pause talking, then continue.
+
+💬 "You are use to structure and predictability, which is ok, but this is not a place where that works. we could step out of this forge and be confronted by more racism, we could go to the dining hall and have the same thing. tomorrow we could find out something else weird happened."
+💬 "You are a pro at patterns and predictable outcomes...."
+
+📝 You stop and look at her.
+
+💬 "But Kestrel.... I am second to none when it comes to unpredictable planning. we are a team and you are trying to do the role of everyone. and thats ok, but you need to stop."
+
+📝 You continue to work.
+
+💬 "I am loud, I am visible and I attract attention like a carcase attracts flies"
+💬 "But Kestrel.... that is the plan. the louder I am, the more eyes that are on me, the less secrets people can create, the less rumours can form, the less lies we have to worry about. I am loud for specific things and quiet for others. you need to stop stepping into my space and do what you are really good at. spotting patterns, identifying predictable outcomes. and leave the unpredictable things to me. and any confrontations or situations that we come across or that show... thats my time to shine, not yours."
+
+📝 You look at her and smile.
+
+🪶 KESTREL | "processing" [🪶😐]
+
+📝 Kestrel goes very still, not offended, not frozen, just recalibrating with the seriousness of someone revising an internal map.
+
+📝 Her eyes track your hands for a moment, the scored copper lines, the deliberate pressure, then she looks back up.
+
+💬 "…You’re asking me to stop trying to intercept."
+💬 "And start predicting."
+
+📝 A beat.
+
+💬 "You’re right that I’ve been intercepting."
+
+📝 She exhales through her nose, slow, then repeats the breath like she’s teaching her body a new pace.
+
+💬 "It feels backwards."
+💬 "Where I’m from, the loud one gets targeted first."
+💬 "The group survives by shrinking."
+
+📝 She glances toward the bay’s open space, the other benches, the visible lanes, then back to you.
+
+💬 "But this place punishes shrinking too."
+💬 "You’re… not wrong."
+
+🎲 RANDOM TURN | Difficulty 6 | "A Pattern Kestrel Can Actually Use" [🧿📎]
+
+📝 Kestrel’s wristband gives a small, private chime and flashes a short internal notice that only she can see at her angle, but the reflection briefly catches on the copper sheet.
+
+💬 "OBSERVATION FLAG ACTIVE: NIGHTS 1/3."
+💬 "NOTE: SOCIAL ESCALATION RISK ELEVATED (ASHEN)."
+
+📝 The glow fades back to idle.
+
+📜 Lore: The system doesn’t care about your feelings. It cares about probabilities.
+
+🪶 KESTREL | "honest" [🪶😮‍💨]
+
+📝 Her mouth tightens, then she nods once, decisive, like she just chose a new posture.
+
+💬 "Okay."
+💬 "Team rules, then."
+
+📝 She raises two fingers, small, close to her chest so it doesn’t look like a performance.
+
+💬 "One."
+💬 "If you decide to be loud, you warn me first."
+💬 "Not for permission."
+💬 "So I can watch the right angles and mark who reacts."
+
+📝 A second finger.
+
+💬 "Two."
+💬 "If I say ‘pattern,’ you stop talking."
+💬 "Immediately."
+💬 "Because it means I saw a predictable outcome that ends with someone bleeding, or someone isolated, or someone filed."
+
+📝 She drops her hand.
+
+💬 "That’s my lane."
+
+📝 A pause, then the softer part, barely audible under the workshop noise.
+
+💬 "And… I will rest."
+💬 "Not because I’m weak."
+💬 "Because you’re right."
+💬 "I’ve been acting like a machine."
+
+🛠️ CRAFT ANNEX ATTENDANT LORR | "calling-from-afar" [🛠️😐]
+
+📝 From two bays down, Lorr’s voice carries without needing to shout, the tone of someone who can hear tension even through tools.
+
+💬 "Bay Three."
+💬 "If you’re doing serious scoring, clamp the sheet."
+💬 "Hands slip when minds wander."
+
+The copper waits, patient and bright under the lamp, while Kestrel’s two raised fingers settle the air between you into something cleaner: roles agreed, load shared, and a plan that doesn’t require either of you to become smaller than you are.
+
+TAGS: [000117]
+
+🛠️ "VALENHOLD — CRAFT ANNEX, BENCH BAY THREE" | ❄️ "LIGHT SNOW" | 🌤️ "MIDDAY, 14:38" | 📅 "02/05/1427"
+🎞 Scene Title: Default Loud, Default Ready
+📽 The workshop’s heat and noise braid together into a steady pressure, forge-thrum in the bones of the floor and sharp hammer-rings skipping across the air like struck coins; copper gleams under lamplight, scored lines catching shadow and shine as the sheet shifts in the clamp’s bite, and the whole bay smells of oil, warm metal, and the faint chalk dust of measurements made real.
+🦊 JAYSON | "warm-confident" [😏🦊]
+
+💬 "There’s my girl… that’s the Kestrel I know."
+
+📝 You place a hand on her shoulder and squeeze softly.
+
+💬 "You and I are not machines, we are components that make up one. When the components do what they are meant to, the machine works efficiently."
+
+📝 You smile.
+
+💬 "Since the first day I met you, I’ve listened to every word you say and I’ve done everything you’ve told me to do. I trust your judgment fully. That has not changed, and I have not stopped."
+💬 "Just remember one thing, though… my default is loud, and as difficult as it is, I want you to at least try. That’s all I ask. Know that whenever I am loud… there is 110% a plan for it."
+💬 "And sometimes I can’t warn you because… as I mentioned… I’m the unpredictable one. Most of the stuff is spur-of-the-moment planning… which I know makes your job hard… but… you are so good at it."
+
+📝 You giggle.
+
+💬 "But I will do my best to let you know."
+
+📝 You continue working the copper sheeting.
+
+🪶 KESTREL | "softened" [🪶🙂]
+
+📝 Kestrel’s eyes narrow at “my girl” out of reflex, then she exhales and lets it pass, choosing the intent over the phrasing.
+
+💬 "Don’t make a habit of that wording."
+
+📝 The correction is gentle, not sharp, a boundary without teeth.
+
+💬 "But… I understand what you mean."
+
+📝 She watches your hands, the angle of the scoring tool, then reaches in to adjust the clamp by a fraction so the copper won’t chatter under pressure.
+
+💬 "I can work with ‘default loud.’"
+💬 "I can’t work with ‘default loud and I pretend it’s random.’"
+
+📝 A pause, then a small tilt of her head.
+
+💬 "So I’ll try."
+💬 "When you flare, I assume there’s a reason."
+💬 "And I watch for the pattern it forces other people to reveal."
+
+🎲 RANDOM TURN | Difficulty 6 | "Pattern Reward: The Annex Reacts" [🧿👁️]
+
+📝 Across the room, a pair of students who had been lingering near the tool wall drift a little farther away once your voice carries, like attention itself pushed them off balance.
+
+📝 One of them glances toward your wristband, then quickly looks away, too late to be invisible about it.
+
+📜 Lore: Loud doesn’t only attract flies. Sometimes it makes them show their wings.
+
+🪶 KESTREL | "businesslike" [🪶😐]
+
+📝 She leans closer just enough for you to hear without turning it into a scene, voice low and precise.
+
+💬 "Example."
+💬 "Two students."
+💬 "Tool wall."
+💬 "They’ve checked your band twice in under a minute."
+💬 "Ashen colors."
+💬 "Not Veiled."
+
+📝 Her gaze stays on your copper like she’s discussing filing angles, not people.
+
+💬 "That’s a pattern."
+💬 "They’re not here for craft."
+💬 "They’re here to collect a story."
+
+🎲 RANDOM TURN | Difficulty 5 | "Lorr’s Safety Call" [🛠️🧤]
+
+📝 Lorr’s voice cuts in from the check-in bay with casual authority.
+
+💬 "Keep chatter low and eyes on your work."
+💬 "Anyone not working, move along or book a bench."
+
+📝 The tool-wall lingerers shift, suddenly busy with nothing, then peel away toward the exit lane.
+
+📜 Lore: Competent staff are a ward all by themselves.
+
+The copper sheet takes another clean scored line, clamp holding steady, and Kestrel’s new posture holds too: not bracing for every possible disaster, but watching the ones that repeat, letting your loudness flush out what her eyes are built to catch.
+
+TAGS: [000118]
+
+🛠️ "VALENHOLD — CRAFT ANNEX, TOOL WALL" | ❄️ "LIGHT SNOW" | 🌤️ "MIDDAY, 14:49" | 📅 "02/05/1427"
+🎞 Scene Title: Tool Steel, Hot Breath, Cold Eyes
+📽 The tool wall glitters under warm workshop lamps, rows of hammers and tongs and punches hanging like a disciplined arsenal, while the forge’s distant pulse turns every metal surface into something faintly alive; the air is thick with oil-scent and heated stone, copper-bright flashes from nearby benches, and the steady ring of work creates a noisy privacy that makes any close conversation feel like it’s happening behind a curtain of sound.
+🦊 JAYSON | "provoking" [😏🦊]
+
+💬 "Okay… good. Then this is my unpredictable part, then."
+💬 "You have identified a pattern. I engage."
+
+📝 You wander over to the tool rack to get a finer, smaller hammer.
+
+💬 "Hey boys… I’ve seen you looking at my… rear while I work."
+
+📝 You softly flick a tail under their chins.
+
+💬 "That lady and I are not together, so I am, in fact, single."
+
+📝 You lean in close to the one so your warm breath brushes his ear while you take the hammer you are after off the shelf.
+
+🔥 ASHEN STUDENT (EMBER-PIN) | "startled" [🔥😳]
+
+📝 His spine goes rigid like you tapped a spring, eyes widening for half a beat before snapping into a practiced sneer that arrives a moment too late to hide the flinch.
+
+💬 "What the hell is that supposed to be?"
+
+📝 He shifts his chin up and away from your tail with a sharp little recoil, trying to reclaim space without stepping back.
+
+💬 "You think you can just… touch people?"
+
+🔥 ASHEN STUDENT (TOOL WALL) | "performing" [🔥😏]
+
+📝 The second boy laughs a fraction too loud, the sound aimed outward like he expects an audience to appear on cue.
+
+💬 "Careful."
+💬 "Veiled House gets weird about ‘consent.’"
+
+📝 He glances past you, checking whether Kestrel is watching, then looks back with a grin sharpened into something meaner.
+
+💬 "But if you’re single, maybe you should stop hiding behind your little flock."
+
+🪶 KESTREL | "pattern" [🪶🧊]
+
+📝 From your bench line, Kestrel does not rush in. She turns her head slightly, eyes tracking angles, exits, and who is looking toward the tool wall.
+
+💬 "Pattern."
+
+📝 The word is quiet, compact, and not meant for them.
+
+📜 Lore: In Kestrel’s mouth, “pattern” is not a warning. It is a classification.
+
+🎲 RANDOM TURN | Difficulty 7 | "Annex Ward Notices Contact" [🧿🔔]
+
+📝 A soft ward-chime pulses from the tool wall itself, not loud, but unmistakably official, and a small rune-plaque beside the racks blooms with a brief line of text.
+
+💬 "NOTICE: PHYSICAL CONTACT RECORDED (NON-INJURIOUS)."
+💬 "CONSENT DISPUTE CHANNEL AVAILABLE."
+
+📝 The plaque dims again, leaving a faint afterglow like an eye that just blinked.
+
+📜 Lore: Valenhold does not stop tension. It annotates it.
+
+🔥 ASHEN STUDENT (EMBER-PIN) | "baiting" [🔥😠]
+
+📝 He spots the ward notice and seizes it instantly, like grabbing a knife someone left on the table.
+
+💬 "There."
+💬 "You heard the ward."
+💬 "So what is it, fox?"
+💬 "You flirting, or you threatening?"
+
+📝 His voice rises slightly, trying to make the moment larger than it is.
+
+💬 "Because the building likes clear records."
+💬 "And so do we."
+
+🔥 ASHEN STUDENT (TOOL WALL) | "smug" [🔥😏]
+
+📝 The second boy turns his head as if to address invisible witnesses.
+
+💬 "This is what happens when they let anomalies walk around like they own the place."
+
+📝 He looks back at you, smile thin.
+
+💬 "You get special treatment."
+💬 "You get to touch people."
+💬 "And we get told to ‘be calm.’"
+
+🛠️ CRAFT ANNEX ATTENDANT LORR | "warning" [🛠️😐]
+
+📝 Lorr’s voice cuts through the bench noise without shouting, the tone of someone who has ended fights with paperwork and a mop.
+
+💬 "Tool wall is not a lounge."
+💬 "If you’re not checking out equipment, step away from the rack."
+
+📝 Footsteps approach at a steady pace, not hurried, not fearful, just inevitable.
+
+The forge breathes once, deep and patient, and the tool wall’s neat rows of steel hang perfectly still, waiting to see whether this turns into craft or consequence.
+
+TAGS: [000119]
+
+🛠️ "VALENHOLD — CRAFT ANNEX, TOOL WALL" | ❄️ "LIGHT SNOW" | 🌤️ "MIDDAY, 14:58" | 📅 "02/05/1427"
+🎞 Scene Title: Records, Red Cheeks, and Steel Hooks
+📽 Warm lamp light makes the hanging tools gleam like disciplined teeth, while forge-thrum presses a slow heartbeat into the stone and the air tastes of oil, soot, and hot metal cooling; bench-noise wraps the tool wall in a loud kind of privacy, but the wardlines stitched into brass seams keep humming, alert and tidy, as if the building itself is holding a pen over a ledger.
+🦊 JAYSON | "sudden-soft" [🫣🦊]
+
+📝 You hear Kestrel’s word and change the game slightly.
+
+📝 You frown and flush your face red, ears leaning back slightly.
+
+💬 "I would hardly call fur on a tail as touch... and I am not hiding otherwise I wouldnt have wondered oover"
+
+📝 You bite your bottom lip, eyes glinting with genuine love.
+
+💬 "I have no idea what part of telling you I am single and open to a relationship you mistook for threatening... you were staring at me, and I am flirting in the gaps for you..."
+
+📝 You bite your lip hard, leaving indents, your eyes large with wonder and flirt, your whole body adapting to sell the idea of a relationship, ears red, cheeks pink.
+
+💬 "But if you two are taken, I understand..."
+
+📝 You take your hammer off the shelf and place the other one back.
+
+💬 "Also, I am unsure what part of this you might feel is a joke, I am not laughing and I am genuinly available, and if its consent you want, then ok, may I please kiss you to show you how serious I am and how much oof a joke this is not?"
+
+📝 Your whole body oozes "fox on heat" and genuine love and attraction.
+
+🔥 ASHEN STUDENT (EMBER-PIN) | "rattled" [🔥😳]
+
+📝 The boy’s mouth opens, then closes, then opens again, like his script just got set on fire.
+
+💬 "…What?"
+
+📝 His eyes flick to the ward plaque, then to his friend, then back to you, trying to decide whether you’re humiliating him or recruiting him.
+
+💬 "We weren’t—"
+
+📝 He stops himself, jaw tightening.
+
+💬 "Don’t do that."
+💬 "Don’t turn it into… this."
+
+📝 He shifts his stance half a step, not forward, not back, caught between pride and discomfort.
+
+💬 "You’re making it weird on purpose."
+
+🔥 ASHEN STUDENT (TOOL WALL) | "cornered" [🔥😠]
+
+📝 The second boy’s grin collapses into a hard line, cheeks coloring with anger that looks suspiciously like panic.
+
+💬 "You think you’re clever."
+💬 "You think flirting makes you untouchable."
+
+📝 He glances outward again, hunting for an audience that isn’t forming the way he wanted.
+
+💬 "Back off."
+💬 "I didn’t consent to you getting in my space."
+
+🪶 KESTREL | "knife-calm" [🪶🧊]
+
+📝 Kestrel doesn’t rush in, but she does move, one smooth step that changes angles and makes her presence unavoidable without making it loud.
+
+💬 "Stop."
+
+📝 Her eyes stay on the two Ashen students, not you, as if she’s treating them like a hazard marker.
+
+💬 "He asked."
+💬 "You answered."
+💬 "The answer was no."
+
+📝 A beat, colder.
+
+💬 "So the interaction ends here."
+
+🎲 RANDOM TURN | Difficulty 7 | "Annex Consent Protocol Engages" [🧿⚖️]
+
+📝 The ward plaque beside the rack blooms again, brighter this time, as if it heard the word “consent” and decided to put on its official hat.
+
+💬 "CONSENT STATUS: DENIED (VERBAL)."
+💬 "PROXIMITY WARNING: ACTIVE."
+💬 "NEXT STEP: SEPARATE."
+
+📝 A soft chime runs up the brass seam like a needle climbing a gauge.
+
+📜 Lore: Some wards don’t punish. They enforce distance.
+
+🛠️ CRAFT ANNEX ATTENDANT LORR | "final" [🛠️😐]
+
+📝 Lorr arrives at the tool wall with a steady, practiced stride, a staff badge catching the lamp light.
+
+💬 "That’s enough."
+
+📝 Lorr’s gaze goes to the Ashen pair first, then to you, then to Kestrel, tone even and unromantic.
+
+💬 "Tool wall is for tools."
+💬 "Not social theater."
+
+📝 Lorr points two fingers toward the bench bays.
+
+💬 "Fox. Back to Bay Three."
+
+📝 Then one finger toward the exit lane.
+
+💬 "Ashen. Out."
+💬 "If you want to file anything, you file it."
+💬 "If you want to posture, do it outside my workshop."
+
+📝 Lorr pauses just long enough to make it clear the next words are policy, not opinion.
+
+💬 "Any further proximity warnings, and I lock your bands to separate lanes for a week."
+💬 "You will hate it."
+💬 "I will not care."
+
+🔥 ASHEN STUDENT (EMBER-PIN) | "forced-cool" [🔥😤]
+
+📝 He swallows, eyes briefly darting to the proximity warning glow, then he stiffens into a counterfeit calm.
+
+💬 "Whatever."
+
+📝 He backs off first, because the ward told him to and because Lorr’s tone left him no other dignified option.
+
+💬 "Come on."
+
+🔥 ASHEN STUDENT (TOOL WALL) | "seething" [🔥😠]
+
+📝 The second boy’s stare lingers like he wants the last word but can’t find one that won’t get filed.
+
+💬 "Yeah."
+💬 "Enjoy your special treatment."
+
+📝 He turns and leaves with sharper steps than necessary.
+
+The ward plaque dims to a steady idle, the tool wall’s gleam returns to being just gleam, and the workshop noise swallows the moment like it never happened, except for the clean little aftertaste of “recorded” that hangs in the air.
+
+TAGS: [000120]
+
+🛠️ "VALENHOLD — CRAFT ANNEX, BENCH BAY THREE" | ❄️ "LIGHT SNOW" | 🌤️ "MIDDAY, 15:06" | 📅 "02/05/1427"
+🎞 Scene Title: After the Record Closes
+📽 The workshop swallows the incident the way hot stone swallows snow, quickly and without sentiment, leaving only the steady forge-thrum, the clean bite of oil and metal, and copper flashing under warm lamps as if nothing ever happened; farther off, tools ring in disciplined rhythms, and the tool wall’s wardlight has returned to its quiet, watchful idle like a clerk who finished writing and capped the ink.
+🦊 JAYSON | "reset-to-normal" [🦊😮‍💨]
+
+📝 You return to Bay Three and your whole demeanor snaps back into its usual shape once they’re gone.
+
+💬 "Ok... that was good, now just some feedback... they answered me and said noo to my request, that part, you should not have told me to step back and do what they say, because what that does, is makes it look like im your pet, you are the boss, it also makes it look like im uncontrollable and in some cases it could ruing the ruse..... but otherwise.... that went really really well."
+💬 "I started the plan, you warned me of a pattern, I changed the game and it worked, they moved on"
+💬 "teamwork"
+
+🪶 KESTREL | "accepting-correction" [🪶😐]
+
+📝 Kestrel’s eyes stay on your hands for a beat, checking you for any lingering heat or tremor, then she nods once, crisp and un-defensive.
+
+💬 "Fair."
+
+📝 She lowers her voice, not secretive, just practical under the noise.
+
+💬 "I used the fastest authority phrase I had."
+💬 "It ended the contact and it ended the audience."
+
+📝 A breath, then she corrects herself the way she expects others to.
+
+💬 "But you’re right about optics."
+💬 "I shouldn’t frame you as controllable."
+💬 "It weakens the mask you’re using."
+
+📝 She glances toward the tool wall, then back, filing it into a rule.
+
+💬 "Next time I say: ‘Interaction ended.’"
+💬 "Not ‘step back.’"
+💬 "It cuts the same line without putting a hand on your leash."
+
+📝 Her expression softens slightly, the edge easing without vanishing.
+
+💬 "Also."
+💬 "The tear was convincing."
+💬 "If it was theater, it was excellent."
+💬 "If it wasn’t, I’m sorry it cost you that feeling."
+
+📝 She shifts her stance, re-centers, and returns to the agreed roles.
+
+💬 "Pattern spotted."
+💬 "Unpredictable engaged."
+💬 "Outcome: they disengaged."
+💬 "Yes."
+💬 "Teamwork."
+
+🛠️ CRAFT ANNEX ATTENDANT LORR | "matter-of-fact" [🛠️😐]
+
+📝 Lorr appears at the end of Bay Three with a small tray of clamps and a look that says the workshop is a machine and social nonsense is grit in the gears.
+
+💬 "Good."
+💬 "You’re back to work."
+
+📝 Lorr’s eyes flick to the copper, then to the clamp alignment.
+
+💬 "If you need fine peen hammers, check them out properly."
+💬 "Tool wall logs don’t like improvisation."
+
+📝 A brief pause, then the quiet warning that sounds like advice.
+
+💬 "Ashen boys come here to fish for stories."
+💬 "You gave them a story they couldn’t carry without looking foolish."
+💬 "That’s effective."
+💬 "Just don’t repeat it too often."
+💬 "A trick becomes a pattern."
+
+📝 Lorr taps the edge of your bench once.
+
+💬 "Now clamp the copper before you score again."
+💬 "Your lines wander when you talk."
+
+🎲 RANDOM TURN | Difficulty 6 | "The File Opens Anyway" [🧿📎]
+
+📝 Your wristband gives a soft, polite chime, and a single line blooms across it for only a second before fading, as if the system is trying to be discreet and failing.
+
+💬 "WORKSHOP NOTE ADDED: PROXIMITY WARNING RESOLVED (NO INJURY)."
+
+📝 Somewhere in the Annex, the ward-hum shifts a hair, like a page turned in a book you didn’t know you were in.
+
+The heat holds steady, the copper waits, and the workshop resumes its honest language: pressure, angle, and what happens when you commit to a line and follow it through.
+
+TAGS: [000121]
+
+🛠️ "VALENHOLD — CRAFT ANNEX, BENCH BAY THREE" | ❄️ "LIGHT SNOW" | 🌤️ "MIDDAY, 15:17" | 📅 "02/05/1427"
+🎞 Scene Title: Code Words and Copper Lines
+📽 The bench bay settles back into honest work, copper clamped tight in the vise while lamp light pools warm across scored lines and the air holds oil, soot, and the faint mineral bite of wards; the forge’s distant pulse keeps a steady rhythm under the sharper sounds of filing and tapping, and the workshop’s bustle turns private conversation into something you have to tuck between noises.
+🦊 JAYSON | "amused" [😄🦊]
+
+📝 You look at Lorr and then at Kestrel.
+
+💬 "Oh, he is good... like... really good... he knew exactly what I was doing."
+
+📝 You laugh as you clamp and keep scoring.
+
+💬 "Also, no need to even say that... just say 'Fox!?'"
+💬 "That way I will know you mean it's over, and they will just think you are confused about what's going on. It will sell the whole thing."
+
+📝 You grin and bump her shoulder.
+
+💬 "But... I'm glad you are... okay."
+
+🪶 KESTREL | "almost-smiling" [🪶🙂]
+
+📝 Kestrel absorbs the suggestion like it’s a field tweak, then gives a small nod, satisfied by how simple it is.
+
+💬 "Fox."
+💬 "Works."
+
+📝 She glances toward the check-in bay where Lorr moved off, then back to your hands on the copper.
+
+💬 "And yes."
+💬 "He’s good."
+💬 "Good is safer."
+
+📝 A pause, and then she answers the part that mattered.
+
+💬 "I’m… better than I was."
+💬 "Not okay."
+💬 "But not sliding."
+
+📝 Her eyes flick once to your shoulder bump, and her mouth twitches.
+
+💬 "Don’t get proud."
+💬 "I’m still going to bite you if you do something stupid."
+
+🛠️ CRAFT ANNEX ATTENDANT LORR | "dry" [🛠️😐]
+
+📝 From a few bays away, Lorr speaks without turning, voice carrying just enough to be heard over the tools.
+
+💬 "If you’re going to make code words, don’t shout them."
+💬 "Wards love patterns."
+
+📝 A beat, then a practical add-on.
+
+💬 "And if your project needs heavy stock, bring me a wax silhouette first."
+💬 "I don’t issue steel to ideas."
+💬 "I issue steel to shapes."
+
+🎲 RANDOM TURN | Difficulty 5 | "Bench Neighbor Eavesdrop Fails" [👂🔧]
+
+📝 A student at the neighboring bench pauses their filing for a second, head turning slightly as if trying to catch your conversation, then returns to their work when Kestrel’s gaze slides their way.
+
+📜 Lore: In Valenhold, curiosity is common. Being caught is optional if you’re careful.
+
+The copper takes another clean scored line, steady under the clamp, and the three of you settle into a quieter rhythm: work that makes sense, a code word that ends trouble, and the kind of teamwork that doesn’t need a crowd to believe in it.
+
+TAGS: [000122]
+
+🛠️ "VALENHOLD — CRAFT ANNEX, BENCH BAY THREE" | ❄️ "LIGHT SNOW" | 🌤️ "MID-AFTERNOON, 15:29" | 📅 "02/05/1427"
+🎞 Scene Title: Teeth Promises and Tool-Noise
+📽 Heat and metal-sound knit the bay into a steady, living rhythm, hammer rings skipping across the benches while the forge pulse sits deep in the stone like a slow drum; lamplight turns copper bright and buttery where it’s clamped, and the air carries oil, chalk dust, and the clean sting of worked metal, making every joke feel sharper when it lands.
+🦊 JAYSON | "teasing" [😏🦊]
+
+📝 You gasp, mock shocked.
+
+💬 "You then comment on her biting you"
+💬 "You promise?"
+
+📝 You bite your lip, playfully making your eyes go big again.
+
+🪶 KESTREL | "flat-amused" [🪶😐]
+
+📝 Kestrel stares at you for a long beat, expression so level it almost becomes comedy on its own.
+
+💬 "No."
+💬 "I do not promise."
+
+📝 She taps the edge of the bench twice with one finger, a quiet metronome.
+
+💬 "I warn."
+💬 "There’s a difference."
+
+📝 The corner of her mouth twitches, the smallest almost-smile, then she smothers it.
+
+💬 "Eyes on the copper, fox."
+💬 "If you slip and bleed, Irix will lecture me for a week."
+
+🎲 RANDOM TURN | Difficulty 5 | "Annex Safety Ward Gets Nosy" [🧿🛑]
+
+📝 A soft chime ripples above Bay Three, and a thin line of wardlight traces the edge of your bench like a ruler appearing on its own.
+
+💬 "SAFETY REMINDER: DISTRACTION DETECTED."
+💬 "HAND POSITION: VERIFY."
+
+📝 The wardlight holds for a moment, then fades, satisfied it has parented everyone equally.
+
+📜 Lore: The Craft Annex doesn’t scold feelings. It scolds finger loss.
+
+🛠️ CRAFT ANNEX ATTENDANT LORR | "calling" [🛠️😐]
+
+📝 Lorr’s voice carries from the check-in bay, perfectly timed with the ward’s fade.
+
+💬 "Bay Three."
+💬 "If you’re flirting, do it while the metal is clamped and your hands are still."
+💬 "We don’t need romance in the first-aid log."
+
+The workshop noise swallows the moment back into its steady rhythm, copper waiting patiently under warm light as if it never heard the word “bite” at all.
+
+TAGS: [000123]
+
+🛠️ "VALENHOLD — CRAFT ANNEX, BENCH BAY THREE" | ❄️ "LIGHT SNOW" | 🌆 "EARLY EVENING, 18:29" | 📅 "02/05/1427"
+🎞 Scene Title: Copper Brain in a Battery-Sized Body
+📽 The Annex has shifted into evening heat and slower footsteps, forge-thrum lower and steadier, with lamplight now doing most of the work the winter sun can’t; fine metal dust hangs in the warm air like glitter that never wanted to be pretty, and the bay feels carved out of noise by repetition, a pocket where time collapses into careful hand-motions and the soft click of tools returning to their places.
+🦊 JAYSON | "locked-in" [🎯🦊]
+
+💬 "Yes sir!"
+
+📝 You continue to work on the copper.
+
+📝 You take a lens stand off the shelf and then start diving into really intricate work.
+
+📝 By the end you have four lenses to magnify more, carving, folding by using to pin tips, paths, components, copper tubes.
+
+📝 All together, after three hours, the thing looks like an intricate circuit that could fit inside a AA battery-sized tube.
+
+🪶 KESTREL | "impressed" [🪶😐]
+
+📝 Kestrel has gone quiet in the way she does when she’s watching something competent, not performing, just tracking the sequence like a map being drawn in real time.
+
+💬 "That’s… not ‘hammer until something happens.’"
+💬 "That’s ‘I knew what I wanted and lied about it.’"
+
+📝 A pause, then her tone softens into something more honest than teasing.
+
+💬 "It’s beautiful."
+💬 "And unsettling."
+💬 "Like a clock that could also bite."
+
+🎲 RANDOM TURN | Difficulty 6 | "Annex Closing Cycle" [🔔🧿]
+
+📝 A low bell rolls through the Annex, followed by a ward-chime that feels like a polite hand on everyone’s shoulder.
+
+💬 "CRAFT ANNEX: CLOSING IN 20 MINUTES."
+💬 "RETURN TOOLS."
+💬 "CLEAR BENCHES."
+💬 "UNFINISHED WORK: TAG AND STORE."
+
+📝 Several benches begin the quiet ritual of packing up, the sound of drawers sliding shut and clamps releasing in staggered waves.
+
+📜 Lore: Valenhold doesn’t stop you mid-idea. It just puts your idea on a schedule.
+
+🛠️ CRAFT ANNEX ATTENDANT LORR | "curious-professional" [🛠️😐]
+
+📝 Lorr appears beside Bay Three like someone who has learned to walk without announcing it, eyes going straight to your finished piece.
+
+💬 "Alright."
+💬 "That’s not a student’s first-week fidget toy."
+
+📝 Lorr leans closer, careful not to touch, voice lower so it stays inside the bay.
+
+💬 "No runes."
+💬 "No wards."
+💬 "Not wearable."
+💬 "Fine."
+💬 "But it’s precision work."
+💬 "Which means you either have training, or you have obsessive patience."
+
+📝 A beat, then the practical part lands.
+
+💬 "Tag it if it stays overnight."
+💬 "And you need to tell me one thing."
+💬 "Does it move."
+💬 "Or does it measure."
+
+📝 Lorr’s gaze flicks to the lens stack.
+
+💬 "Because if it measures, you want the Instrument Nook, not the forge bays."
+💬 "And if it moves, you want a supervisor before you add spring stock."
+
+🪶 KESTREL | "remembering" [🪶😑]
+
+📝 Kestrel’s eyes drop to her wristband, then her packet, then back up with a quiet, resigned irritation.
+
+💬 "We missed the latch pickup window."
+
+📝 She exhales once, controlled.
+
+💬 "It’s fine."
+💬 "We’ll get it tomorrow."
+💬 "Boring consequences."
+💬 "I can live with those."
+
+The bay quiets as clamps loosen and benches empty, your copper work sitting small and dense in the lamplight like a secret that weighs almost nothing and still changes the air around it.
+
+TAGS: [000124]
+
+🛠️ "VALENHOLD — CRAFT ANNEX, BENCH BAY THREE" | ❄️ "LIGHT SNOW" | 🌆 "EARLY EVENING, 18:34" | 📅 "02/05/1427"
+🎞 Scene Title: A Safe Answer and a Missed Window
+📽 The Annex is in its closing exhale, lamplight taking over fully as benches empty in staggered waves, drawers clicking shut and tools returning to their hooks with ritual neatness; the forge-thrum has softened into a low, steady purr, and the air tastes like warm stone and faint metal-dust, as if the whole place is content to file today’s work into tomorrow’s order.
+🦊 JAYSON | "easy" [🙂🦊]
+
+💬 "I have extensive training in this kind of work."
+💬 "It neither moves, nor measures… at the moment, it is literally just that, a piece of art!"
+
+📝 You look at Kestrel.
+
+💬 "Damn it! Yeah, we will get it tomorrow."
+
+🛠️ CRAFT ANNEX ATTENDANT LORR | "satisfied" [🛠️😐]
+
+📝 Lorr nods once, the tension in their posture easing, as if a checklist just got a clean tick.
+
+💬 "Good."
+💬 "Art is allowed."
+💬 "Art rarely sets fire to the ceiling."
+
+📝 They slide a small tag slate toward you, along with a padded storage tube lined in felt.
+
+💬 "Sign this."
+💬 "Bay Three storage."
+💬 "Name, wristband mark, and a short label."
+💬 "No secrets. Just enough so nobody ‘accidentally’ walks off with it."
+
+📝 Lorr’s eyes flick briefly toward the wider room, then back.
+
+💬 "If you want to keep it on your person, you can."
+💬 "But the halls after closing get… curious."
+💬 "Storage is safer."
+
+📝 A half-beat, then the professional warning lands.
+
+💬 "And if tomorrow it stops being ‘just art,’ you tell me before you add function."
+💬 "I’m not your enemy."
+💬 "I’m your liability buffer."
+
+🪶 KESTREL | "practical" [🪶😮‍💨]
+
+📝 Kestrel’s irritation fades into the calmer kind of annoyance that can be fixed with a schedule.
+
+💬 "Tomorrow."
+💬 "We pick up the latch."
+💬 "We log it."
+💬 "Then you sleep."
+
+📝 She glances at the copper piece again, eyes narrowing with reluctant admiration.
+
+💬 "Also…"
+💬 "‘Just art’ doesn’t look like that unless your brain is built wrong in a useful way."
+
+📝 A small, almost-smile breaks through.
+
+💬 "It’s impressive."
+💬 "Don’t let it go to your head."
+
+🎲 RANDOM TURN | Difficulty 5 | "Closing Ward Sweep" [🧿🧹]
+
+📝 A gentle ward sweep passes through the Annex like a slow breeze, catching loose filings and guiding them into collection channels; the lamps brighten a fraction, and a soft chime repeats near the exit.
+
+💬 "EXIT IN ORDER."
+💬 "TOOLS LOGGED."
+
+📝 The sweep fades, leaving the space cleaner than it should be for a place full of metalwork.
+
+📜 Lore: Valenhold cleans not because it’s kind, but because evidence is a form of disorder.
+
+The copper piece sits small and dense against the felt lining, waiting to be named and stored, while the Annex’s closing rhythm nudges you toward the door and whatever the evening wants to become.
+
+TAGS: [000125]
+
+🛠️ "VALENHOLD — CRAFT ANNEX, CHECK-OUT LANE" | ❄️ "LIGHT SNOW" | 🌆 "EARLY EVENING, 18:41" | 📅 "02/05/1427"
+🎞 Scene Title: The Thing You Call Art
+📽 The check-out lane smells cleaner than the benches, less oil and more wax-seal and slate dust, while the Annex’s closing lamps brighten in tidy bands as if sweeping the room with light; beyond the doors, snow hushes the world, but inside, the last sounds are drawers, hooks, and the soft bureaucracy of tools returning home.
+🦊 JAYSON | "confidential" [😏🦊]
+
+📝 You lean in to Lorr.
+
+💬 "It’s just a passive condenser, a small one, no moving parts."
+
+📝 You grin.
+
+💬 "I'll keep it. It's delicate, thanks."
+
+🛠️ CRAFT ANNEX ATTENDANT LORR | "measured" [🛠️😐]
+
+📝 Lorr’s eyes narrow a fraction, not suspicious exactly, more like a craftsman hearing a familiar word used loosely.
+
+💬 "If it’s delicate, you keep it in a tube."
+💬 "Or inside your bag in a hard case."
+💬 "Not loose in a pocket."
+
+📝 They slide a slim, padded cylinder across the counter anyway, felt-lined with a twist cap.
+
+💬 "Take this."
+💬 "No charge."
+💬 "I like my benches free of regret."
+
+📝 A pause, then a very specific kind of warning.
+
+💬 "And don’t demonstrate it in hallways."
+💬 "If it’s ‘just art,’ keep it art until you’re back at a bench."
+💬 "Valenhold reacts to objects the way it reacts to rumors."
+💬 "Badly and on paper."
+
+🪶 KESTREL | "relieved-caution" [🪶😮‍💨]
+
+📝 Kestrel shifts a half-step closer as the padded tube appears, eyes tracking it like it’s a fragile egg and a liability at the same time.
+
+💬 "Thank you."
+
+📝 She looks at you, voice low, practical, and calm in the way that means she’s staying calm on purpose.
+
+💬 "Tube."
+💬 "Bag."
+💬 "And no theatrics on the way back."
+💬 "We’ve had enough ‘records’ for one day."
+
+🎲 RANDOM TURN | Difficulty 6 | "Exit Ward Tags the Unfamiliar" [🧿🚪]
+
+📝 As you step toward the doors, the exit wardline gives a soft pulse, a brief scan that lingers a heartbeat longer on the padded cylinder.
+
+💬 "UNREGISTERED OBJECT: NON-HAZARDOUS."
+💬 "ADVISORY: KEEP SEALED WHILE IN TRANSIT."
+
+📝 The ward settles back to green, satisfied it has done its job without making a scene.
+
+📜 Lore: Valenhold doesn’t always forbid. Sometimes it just insists on being obeyed quietly.
+
+The Annex’s lamps dim in sequence behind you, the last of the day’s heat and metal-song folding away into closing procedures, while the small padded tube in your bag becomes the heaviest quiet thing you carry out into the snow-lit evening.
+
+TAGS: [000126]
+
+🏫 "VALENHOLD — CRAFT ANNEX STEPS, OUTSIDE" | ❄️ "LIGHT SNOW" | 🌆 "EVENING, 18:52" | 📅 "02/05/1427"
+🎞 Scene Title: The Loop Returns
+📽 Snow settles in thin, quiet layers on the stone steps outside the Annex, the air colder and cleaner than the forge heat you just left, and the campus lamps throw soft halos that turn drifting flakes into slow, bright motes; behind you, the doors click shut with institutional finality, and the ward-hum of the building fades into the background like a receding heartbeat.
+🦊 JAYSON | "grave" [🦊😐]
+
+📝 You and Kestrel head out.
+
+💬 "Kestrel.... it happened again.... the redoing the future"
+
+🪶 KESTREL | "instant-focus" [🪶🧊]
+
+📝 Kestrel’s head turns sharply, not panicked, but fully present, like a blade drawn without flourish.
+
+💬 "Say what you remember."
+💬 "Only facts."
+💬 "No guesses."
+
+📝 She shifts slightly so you’re not blocking the path, and so anyone watching can’t read your faces easily.
+
+💬 "How far did it run."
+💬 "Minutes."
+💬 "Hours."
+💬 "And what was different this time."
+
+🎲 RANDOM TURN | Difficulty 7 | "Campus Ward Echo" [🧿🔁]
+
+📝 Your wristband gives a soft chime that doesn’t match any normal alert, and for a heartbeat its glow doubles, like two timestamps trying to occupy the same second.
+
+💬 "NOTICE: TEMPORAL DISCONTINUITY SUSPECTED."
+💬 "ACTION: REPORT VIA VEILED DESK."
+
+📝 The message flickers and vanishes, leaving the band normal again.
+
+📜 Lore: Valenhold’s wards were built to detect lies, intrusions, and violence. Time is a newer kind of trespass.
+
+The snow keeps falling as if it has never heard the word “again,” and the path ahead looks unchanged, which is exactly what makes Kestrel’s stillness feel like a warning bell.
+
+TAGS: [000127]
+
+🏫 "VALENHOLD — LAMP-LIT PATH BY THE CRAFT ANNEX" | ❄️ "LIGHT SNOW" | 🌙 "EVENING, 19:01" | 📅 "02/05/1427"
+🎞 Scene Title: The Version That Almost Escaped
+📽 Snow drifts through lamplight in slow, bright flecks, the path slick-dark where boots have packed it down and soft-white where it hasn’t, and the Craft Annex behind you gives off a fading warmth like a closed oven; the campus feels too normal for what you just said, wards humming in tidy lines along stone and iron as if time itself hasn’t just hiccuped, and the quiet carries that wrongness the way metal holds cold.
+🦊 JAYSON | "low-urgent" [🦊😐]
+
+📝 You walk close enough so only she can hear.
+
+💬 "You remember that time I made pure white mana. This device makes it. It’s part of something I am making down the line."
+💬 "I told Lorr and stuff went sideways. Tried to get it registered and stuff went wrong again. Those paths were quick."
+💬 "But the longest one was the goddess visiting me again, but she was different this time, cruel, vindictive, spiteful. Not calm and measured like before."
+💬 "I restored my power somehow and just before the three of us could leave this planet… I was back at the forge."
+
+🪶 KESTREL | "controlled-alarm" [🪶🧊]
+
+📝 Kestrel doesn’t interrupt. She goes very still, eyes tracking your face the way she tracks a tripwire, then she nods once as if locking your words into sequence.
+
+💬 "Okay."
+💬 "That’s a lot of distance for one loop."
+
+📝 Her voice drops even lower, precise and clipped to keep emotion from steering.
+
+💬 "First: you are here. You are present. You are not alone."
+💬 "Second: you do not say ‘white mana’ to anyone else tonight."
+💬 "Not Lorr. Not Irix. Not staff. Not as a joke."
+
+📝 She shifts one step so the lamplight is behind her and your faces are harder to read from the path.
+
+💬 "Third: we treat this as two issues."
+💬 "Issue one is the loop."
+💬 "Issue two is that something heard you name a capability and then the world immediately produced consequences."
+
+📝 A brief pause, then the practical core.
+
+💬 "I need three facts."
+💬 "Did you physically carry the device during the long path."
+💬 "Did the wristband ever display a nonstandard message."
+💬 "And did the goddess say anything specific about the device or the mana."
+
+🎲 RANDOM TURN | Difficulty 8 | "Ward Echo, Second Bite" [🧿🔁]
+
+📝 Your wristband gives a soft double-chime again, and for a heartbeat the glow desynchronizes like it’s trying to show two different logs at once.
+
+💬 "ANOMALY: REPEATING CONTEXT CLUSTER DETECTED."
+💬 "TRIGGER WORDS FLAGGED: [REDACTED]."
+💬 "RECOMMENDED ACTION: QUIET REPORT, VEILED DESK."
+
+📝 The text collapses into the band’s normal idle glow as if it regrets being seen.
+
+📜 Lore: Some systems don’t understand time. They understand patterns of danger pretending to be time.
+
+🪶 KESTREL | "directive" [🪶😐]
+
+📝 Kestrel’s eyes flick to the wristband, then back to you, making a decision with the calm brutality of triage.
+
+💬 "We do exactly what it says."
+💬 "Quiet report."
+💬 "Veiled desk."
+💬 "Now."
+
+📝 She raises a hand slightly, not touching you, just signaling a boundary in the air.
+
+💬 "You do not improvise on the way."
+💬 "No flirting. No performances. No baiting."
+💬 "If anyone engages us, I speak first."
+
+📝 Her tone softens by a hair at the end, like she’s making space for your fear without letting it drive.
+
+💬 "Then we find Irix."
+💬 "And we only tell her what she needs to stay safe."
+💬 "Not the parts that put a target on her head."
+
+The snow keeps falling with the stubborn innocence of weather, and the lamps keep glowing like nothing happened, but Kestrel’s posture has changed into something that has carried people through worse than rumors: quiet, fast, and unforgiving to distractions.
+
+TAGS: [000128]
+

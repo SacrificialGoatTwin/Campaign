@@ -186,9 +186,53 @@
       "name": "Sael",
       "species": "Felari",
       "notes": "New University starter"
+    },
+    {
+      "name": "Aureliane - Headmistress - AKA Vaeliora Sarn",
+      "species": "Human",
+      "notes": "University Headmistress"
     }
   ],
   "places": {
+    "valenhold_university": [
+      "Arcanum Universitas of Valenhold (The University / The Arcanum)",
+      "Prime Axiom (central spire / command nexus)",
+      "High Convocation Chambers",
+      "Strategic Divination Arrays",
+      "Leyline Command Engine",
+      "Faculty & Doctrine Rings",
+      "War Colleges",
+      "Deep Stacks (archive / vault complex)",
+      "Black Sublevels (restricted/rumored layers)",
+      "Axiomatic House (House precinct)",
+      "Veiled House (House precinct)",
+      "Transcendent House (House precinct)",
+      "Hall Cinder",
+      "Axiomatic Foundations lecture hall (in Hall Cinder)",
+      "Orientation briefing venue (house logistics)",
+      "House logistics briefing area",
+      "Veiled House containment & concealment seminar room (different wing)",
+      "Veiled Desk / Veiled Front Desk",
+      "Audit office (Veiled monitoring / anomaly review)",
+      "Dining Hall",
+      "Library (general stacks)",
+      "Workshop / Forge complex",
+      "Forge Bay 3",
+      "Tool rack area (forge)",
+      "Workshop check-out / exit lane (item flagging point)",
+      "Dorm Blocks (Valenhold housing)",
+      "Block F, Level 4 (suite level)",
+      "Veiled dorm corridor",
+      "Irix’s room (Veiled dorm room)",
+      "Room 12 (Kestrel)",
+      "Room 13 (Jayson)",
+      "Third Landing",
+      "Campus Gardens",
+      "Commonroom",
+      "Connector corridor (post-seminar route)",
+      "Dorm corridor lantern zone (night patrol route)",
+      "Doorframe ward seam / latch wardline (quiet-hours threshold wards)"
+    ],
     "harrowfen": [
       "Harrowfen",
       "Ancient Forest outside Harrowfen",
@@ -208,7 +252,7 @@
       "Westbridge",
       "Westbridge Adventurers’ Guild",
       "Westbridge Guild Branch",
-      "Westbridge Warehouse 9",
+      "Westbridge Warehouse 9"
     ],
     "other_locations": [
       "Watchtower Orchard outside Westbridge",

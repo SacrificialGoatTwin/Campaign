@@ -36,7 +36,8 @@
       "Naru": "Wife",
       "Fei": "Wife",
       "Kestrel": "Friend",
-      "Irix": "Friend"
+      "Irix": "Friend",
+      "Mirell": "Acquaintance (Irix’s new friend; treated as ally-by-proxy)"
     },
     "race": "Kitsune (power-suppressed; Spark active)",
     "siblings": {
@@ -51,7 +52,8 @@
       "Eyes go comically huge and sparkly when fascinated (especially wings, ears, paws, or clever engraving)",
       "Will slip into a spider-like scuttle posture (tails splayed) when playing for laughs in public",
       "New: pupils can blow wide into 'startled possum mode' when fascinated or caught off-guard (especially around Serathi wings/paws)",
-      "New: can fold tails into a functional 'seat' when denied chairs in crowded lecture halls"
+      "New: can fold tails into a functional 'seat' when denied chairs in crowded lecture halls",
+      "New: exhaustion ‘hard-crash’ tells (ear folding inside-out, slurred words, sudden lap-naps) when sleep deprived"
     ]
   },
   "reactions": {
@@ -79,7 +81,9 @@
       "New: will narrate his own \"no hands\" rule out loud when consent or boundaries matter, to remove ambiguity",
       "New: uses flirt-chaos as a nonlethal dominance tool to redirect hostile attention away from Irix/Kestrel (especially around slavers and entitled students)",
       "New: uses domestic proof-of-care as routine (daily bento cooking; \"food as anchoring\") rather than grand speeches",
-      "New: uses symbolic gestures (braiding tail-fur into anklets/tokens) as reassurance anchors when separation is enforced"
+      "New: uses symbolic gestures (braiding tail-fur into anklets/tokens) as reassurance anchors when separation is enforced",
+      "New: goes bluntly procedural with authorities when sleep-deprived (short answers, minimal detail, avoids corridor theatrics)",
+      "New: will openly recommend ‘sleep first, report tomorrow’ to prevent emotional distortion in official statements"
     ],
     "growth": "Learns to let silence carry meaning instead of filling it; shifts from defensive sarcasm toward deliberate restraint and intentional warmth"
   },
@@ -107,7 +111,8 @@
       "New: carries a quiet, explicit mission-statement in Eryndor — to make this world safer and less hateful when his power returns",
       "New: understands and respects the cultural weight of sacred body-parts (wings/tails) and treats that knowledge as protective leverage rather than trivia",
       "New: university culture confirmed his suspicion — power is treated as entitlement, and cruelty is treated as sport; this hardens his long-term resolve without changing his immediate restraint",
-      "New: internalizes that Valenhold's \"containment\" is administrative (schedules, access, proximity) and resents it as a cage with polite handwriting"
+      "New: internalizes that Valenhold's \"containment\" is administrative (schedules, access, proximity) and resents it as a cage with polite handwriting",
+      "New: recognizes his ‘shadow-protector’ role can accidentally make Irix feel smaller; actively reframes it as a temporary training scaffold, not ownership"
     ],
     "triggers": [
       "Being misread or doubted by loved ones",
@@ -122,7 +127,8 @@
       "New: threats aimed at Irix’s mana/blood (draining), limb-breaking, or humiliation-as-entitlement",
       "New: racism framed as \"rank entitlement\"—when high-level people believe power makes cruelty lawful",
       "New: pervasive surveillance framed as 'safety' (recording wards everywhere) — he tolerates it but resents it deeply",
-      "New: divine rhetoric that demands sacrifice while withholding information (\"correction\", \"running out of time\", \"dependency\")"
+      "New: divine rhetoric that demands sacrifice while withholding information (\"correction\", \"running out of time\", \"dependency\")",
+      "New: anyone calling Irix a 'stray' or 'pet' (especially in institutional spaces where it can be weaponized into records)"
     ],
     "vulnerabilities": [
       "Collapse in response to perceived rejection",
@@ -135,7 +141,8 @@
       "Dream-space manipulation attempts (responds by forcing wake-state control)",
       "New: exhaustion crashes hard after prolonged vigilance; can fall asleep mid-conversation and drop straight into deep REM",
       "New: can briefly 'hyperfocal lock' on novel anatomy/engineering (wings/wards/devices) and miss spoken words until interrupted",
-      "New: late-night spirals can push him to seek physical proximity for grounding (chooses company over isolation; slept on Kestrel’s floor to avoid being alone)"
+      "New: late-night spirals can push him to seek physical proximity for grounding (chooses company over isolation; slept on Kestrel’s floor to avoid being alone)",
+      "New: takes verbal cruelty very deep when it comes from Irix (because it hits his ‘I’m only useful as a weapon’ scar)"
     ],
     "affection_tells": [
       "Radiant heat fields",
@@ -173,7 +180,8 @@
       "New: learned that de-escalation can include making enemies kneel without killing them, and then framing the outcome to authorities to prevent bigger fallout",
       "New: demonstrated care as a discipline — treated Irix’s wing strain with a home remedy (tea heat compress + massage), narrating actions and stopping immediately when boundaries required it",
       "New: formalized his refusal of special handling at Valenhold (requested standard cohort scheduling, no accelerations, no admin favors) to prevent \"containment without chains\"",
-      "New: reframed power-loss for Kestrel as a stolen tool (\"special sword\") rather than identity damage, reinforcing psychological stability"
+      "New: reframed power-loss for Kestrel as a stolen tool (\"special sword\") rather than identity damage, reinforcing psychological stability",
+      "New: accepted that sometimes the correct response is procedural patience (placeholder note, morning report) rather than immediate retaliation, even while emotionally wounded"
     ]
   },
   "social": {
@@ -198,7 +206,8 @@
         "New: uses calm narrated touch when providing care (counts down, announces intent, stops and waits for consent)",
         "New: learned Irix will prank him when the moment is safe (fake-crying), and he accepts it as trust rather than disrespect",
         "New: provides symbolic anchoring for separation risk (tail-fur ankle braid) and explicitly frames it as courage support, not ownership",
-        "New: uses social-theater to flip harassment onto the aggressor and empower Irix to speak first under witness"
+        "New: uses social-theater to flip harassment onto the aggressor and empower Irix to speak first under witness",
+        "New: survived a rupture-night where Irix weaponized cruelty/racist language in panic; he de-escalated into procedure, refused immediate escalation, and recommitted to being present for her report in the morning"
       ],
       "Kestrel": [
         "Defers to her leadership in structured environments such as dungeon runs",
@@ -210,7 +219,8 @@
         "New: acknowledges her boundary-setting as protection rather than control (accepts 'tax', takes correction without sulking)",
         "New: treats her logistical thinking as primary in the University environment (routes, shops, dorm protocols, de-escalation timing)",
         "New: seeks her presence explicitly when shaken by divine contact and chooses proximity over isolation (slept on her floor to ground)",
-        "New: gifts her a tail-fur braid token as a shared anchor symbol to match Irix’s"
+        "New: gifts her a tail-fur braid token as a shared anchor symbol to match Irix’s",
+        "New: confronted Kestrel’s stress spiral directly; re-assigned roles (she predicts patterns, he handles unpredictable social conflict), and introduced a clean code-word method for ending public theatrics"
       ]
     }
   },
@@ -239,7 +249,8 @@
       "Sanctum relapse: being dragged back into a place his body remembers as a cage",
       "That the gods have altered, harmed, or displaced his wives across incompatible lattices/continua",
       "New: Irix being reduced to 'a thing' and harmed under entitlement",
-      "New: administrative isolation separating him from Kestrel/Irix through schedules and access denial (containment-by-bureaucracy)"
+      "New: administrative isolation separating him from Kestrel/Irix through schedules and access denial (containment-by-bureaucracy)",
+      "New: that official records can be weaponized against Irix faster than truth can correct them"
     ],
     "strengths": [
       "Uncompromising loyalty once trust is given",
@@ -252,7 +263,8 @@
       "Can maintain consistent pressure under adaptation (does not panic when the enemy ‘learns’)",
       "New: can weaponize social theater (literalism, flirt-misdirection, ridicule) to de-escalate crowds without bloodshed",
       "New: can redirect a conflict into a controlled outcome that authorities can accept (apology/kneeling framed as reconciliation)",
-      "New: can empower allies publicly by turning harassment into a witness-anchored loss for the aggressor (Irix kiss + single declaration under crowd)"
+      "New: can empower allies publicly by turning harassment into a witness-anchored loss for the aggressor (Irix kiss + single declaration under crowd)",
+      "New: can compartmentalize his rage long enough to choose procedural action (placeholder note, morning report) instead of immediate retaliation"
     ],
     "weaknesses": [
       "Self-blame and martyrdom",
@@ -263,7 +275,8 @@
       "When exhausted, he can overcorrect into spectacle to prevent lies/propaganda",
       "Provoked into absolute defiance when authority speaks without evidence (especially gods)",
       "New: attention magnet—his antics draw eyes even when opsec demands low profile",
-      "New: when divine pressure spikes, he is tempted to trigger unknown failsafes despite unpredictable costs (risk-seeking to regain control)"
+      "New: when divine pressure spikes, he is tempted to trigger unknown failsafes despite unpredictable costs (risk-seeking to regain control)",
+      "New: sleep deprivation makes him sloppy with tone timing (slurring, snapping, then having to repair after)"
     ]
   },
   "combat": {
@@ -296,7 +309,8 @@
       "Guild report to Marshal about religious-like 'verifiers' and assassin-guild implications",
       "Court-park confrontation with hostile high-rank adventurers—stopped escalation, split leader’s chest plate, forced apology/kneeling without killing, then framed it for city officers to avoid a larger incident",
       "New: University Phase II gravity endurance completion under extreme load; collapsed only after completion",
-      "New: Valenhold dining hall confrontation with upper-years resolved via social dominance, humiliation, and witness-control without drawing steel (Irix empowered to publicly set boundary)"
+      "New: Valenhold dining hall confrontation with upper-years resolved via social dominance, humiliation, and witness-control without drawing steel (Irix empowered to publicly set boundary)",
+      "New: chose non-combat escalation control in dorm crisis (quiet-hours compliance, steward involvement, scheduled report) rather than hunting aggressors immediately"
     ]
   },
   "notable_scenes": {
@@ -485,11 +499,31 @@
       "Bento routine established as daily: Jayson cooked portable lunches while the girls showered; shared bento at lunch and framed 'home' as real and provable, not delusion",
       "High-difficulty trouble event: Veiled House upper-years probed Irix; Irix blew a kiss and declared herself single on Jayson’s prompting; harassment collapsed under public witness",
       "Symbolic anchor established: Jayson braided tail-fur into an ankle tie for Irix and a matching token for Kestrel to act as a tactile courage-anchor during house separation"
+    ],
+    "chapter11": [
+      "Sleep-deprivation morning: reported to Veiled desk at 07:30 sharp for anomaly audit; answered questions minimally and attributed ward spikes to pillow-throwing / loud sleep; monitoring initiated for several days",
+      "Hard crash in dining hall: used Irix’s lap for an involuntary powernap; woke with ear folded inside-out and reset it; resumed function with humor and food",
+      "Reinforced his axiom-bounds in class: help increases capability; refuses help that removes agency, trades dignity, hides wrongdoing, or costs more safety than it buys",
+      "Workshop/forge build: constructed a micro-scale copper passive condenser (battery-sized circuit architecture) intended to generate pure white mana; kept it framed as delicate 'ornament' for transit and opsec",
+      "Role-correction with Kestrel: confronted her stress spiral, reassigned team roles (her patterns, his unpredictability), and created a clean code-word method to end public theatrics without making him look commanded",
+      "Loop event: ‘redoing the future’ triggered again; multiple short reruns and one long rerun included a crueler goddess interaction and a near-escape attempt before snapping back to the forge; wristband did not prevent the loop",
+      "Social pressure escalated: rumor vector formed (‘Fox collecting strays’ / ‘stray’ language) tying Jayson’s visibility to Irix targeting and administrative containment",
+      "Dinner-route discipline: chose boring compliance, minimized reaction to bait, and hyper-focused on Irix’s injury markers instead of engaging provocateurs",
+      "Irix assaulted: Ashen upper-years grabbed/dragged her shoulder (minor ward abrasion) and used ‘pet/stray’ language to provoke an instability record",
+      "Dorm crisis: Irix panicked and weaponized cruelty/racist language against Jayson; he forced the truth-question, de-escalated into procedural action, and accepted steward involvement under quiet-hours",
+      "Report strategy: recommended morning filing for accuracy; steward offered timestamp placeholder; Irix chose morning report, no medical tonight",
+      "Medical workaround: produced a pure white mana vial via the condenser without tripping wards; left it for Irix to drink after the report to erase pain/marks quickly; promised to stand with her at the desk in the morning"
     ]
   },
   "character_data": {
     "level": 1,
     "Status": "F",
+    "university": {
+      "enrollment_status": "Enrolled (post-intake)",
+      "house_assignment": "Axiomatic",
+      "housing": "Axiom Dorm 13",
+      "monitoring_note": "New: Veiled desk initiated short-term monitoring on dorm anomaly/ward spike after morning audit; no disciplinary action noted"
+    },
     "inventory": {
       "items": [
         "Harrowfen Guild Badge",
@@ -508,17 +542,14 @@
         "neutral (non-guild) clothing set for Valenhold",
         "University intake/binding contract copy (if issued)",
         "additional coffer of gold (recovered from thieves; moved into dorm storage room)",
-        "small leather sigil-charm (pain suppression pattern used on injured beastfolk father; one-time use)",
-        "bento boxes (portable lunch containers; used daily)",
-        "tail-fur braid token (given to Kestrel)",
-        "tail-fur ankle braid (tied to Irix as courage anchor)"
+        "New: passive mana condenser (micro-copper circuit; battery-sized; delicate; kept sealed during transit; produces pure white mana in vials)"
       ]
     },
     "Other": {
       "Dungeon intent registered": "Active",
       "Guild scrutiny": "Ongoing but non-hostile",
       "Greyreach cleared": "Yes (C-rank), under Kestrel’s supervision",
-      "Grey-moss Depths cleared": "Yes (C-rank), with Kestrel + Irix",
+      "Grey-moss Depths cleared": "Yes (C-rank), with Kestrel + Irix"
     }
   },
   "Other": {
@@ -557,14 +588,16 @@
       "Teaching fear to stand down instead of spread",
       "New: making Eryndor safer—systemically, not just case-by-case"
     ],
-    "New_chapter10_forward_pressure": [
+    "New_chapter11_forward_pressure": [
       "Administrative containment has begun in earnest: Valenhold prefers schedule-control, access friction, and forced separation to direct confrontation",
       "House placement stabilized to Axiomatic, but Veiled separation from Irix remains the primary vulnerability and likely leverage point",
       "Upper-years are now aware the trio will not fold; future challenges may become quieter, more procedural, or more targeted",
       "Halevar’s answers point to higher-tier disciplines beyond Applied Arcana (cognitive casting, restoration theory, source-mechanics), suggesting Jayson’s real answers live in restricted stacks or specialist mentorship",
       "Goddess pressure continues and is escalating toward a deadline; Jayson’s unknown failsafes are a volatile deterrent with unpredictable personal cost",
-      "Symbol-anchors (tail-fur braids) have created a visible bond-mark: protective, subtle, and likely to attract curiosity from Veiled House watchers"
+      "Symbol-anchors (tail-fur braids) have created a visible bond-mark: protective, subtle, and likely to attract curiosity from Veiled House watchers",
+      "New: loop instability is now demonstrably active inside Valenhold itself; resets appear triggered by unknown variables and ignore wristband monitoring",
+      "New: rumor-vector escalation ('Fox collecting strays') is likely the campus’ preferred weapon against Irix: social pressure + official paper trails"
     ]
   },
-  "final_note": "In Eryndor, Jayson’s power-loss didn’t make him smaller; it made his choices louder. Chapter 7 anchors the trio as a bonded unit, deepens consent-culture respect (tails/wings), and crystallizes his mission to change the world that keeps trying to make them hide. Chapter 9 escalates the world-scale: University intake confirms him as an 'Unattached' outlier, formalizes surveillance pressure, and proves the trio can build a home-space inside a hostile institution without losing tenderness or control. Chapter 10 converts pressure into structure: Valenhold shifts from testing to containment, gods press harder at night, and Jayson responds by choosing legitimacy, refusing special handling, and inventing tangible 'anchors' to keep his people brave when bureaucracy tries to separate them."
+  "final_note": "In Eryndor, Jayson’s power-loss didn’t make him smaller; it made his choices louder. Chapter 7 anchors the trio as a bonded unit, deepens consent-culture respect (tails/wings), and crystallizes his mission to change the world that keeps trying to make them hide. Chapter 9 escalates the world-scale: University intake confirms him as an 'Unattached' outlier, formalizes surveillance pressure, and proves the trio can build a home-space inside a hostile institution without losing tenderness or control. Chapter 10 converts pressure into structure: Valenhold shifts from testing to containment, gods press harder at night, and Jayson responds by choosing legitimacy, refusing special handling, and inventing tangible 'anchors' to keep his people brave when bureaucracy tries to separate them. Chapter 11 twists the knife: rumor becomes procedure, procedure becomes leverage, and Jayson proves he can hold his rage behind his teeth long enough to get Irix the only thing that matters first—an official record that can’t be hand-waved away."
 }

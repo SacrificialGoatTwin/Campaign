@@ -1,0 +1,243 @@
+﻿🧿 "VALENHOLD — WEST CORRIDOR, WARD AUDIT NOOK" | ❄️ "LIGHT SNOW" | 🌅 "MORNING, 08:10" | 📅 "02/05/1427"
+🎞 Scene Title: Where Wards Ask Questions Without Words
+📽 The West Corridor narrows into a shallow alcove lined with pale stone and thin brass inlays that hum softly, and the light here is whiter, more surgical, as if warmth would contaminate the reading; snow-bright dawn filters through high slits in narrow bars, and the air smells faintly of chalk, hot metal, and old ink, the kind of place built for measuring what can’t be seen.
+🦊 JAYSON | "functional" [😐🦊]
+
+📝 You eat like a vacuum cleaner then head to the audit just in time
+
+🎲 RANDOM TURN | Difficulty 7 | "Auditor Arrives Like a Stamp" [🧾🧿]
+
+📝 A side panel slides open with a soft click, and a ward-auditor steps out as if the wall had filed them into existence.
+
+💬 "Room Thirteen."
+💬 "Stand on the brass circle."
+
+📝 A thin ring of light on the floor blooms as it senses your wristband, then steadies into a quiet halo.
+
+🧾 WARD-AUDITOR SIVEL | "neutral" [🧾😐]
+
+📝 The auditor’s slate glows with layered runes, each one flickering as it references the dorm logs.
+
+💬 "We are confirming whether your dorm marker was environmental or personal."
+💬 "Do not embellish."
+💬 "Do not minimize."
+💬 "Answer exactly."
+
+📝 The auditor raises two fingers, and the halo tightens slightly.
+
+💬 "First: did you leave your room between 03:30 and 04:10."
+💬 "Second: did anyone enter your room physically."
+💬 "Third: did you speak to a presence you believed was external."
+
+📝 A pause.
+
+💬 "Fourth: did you perform bloodwork, binding, or oath speech."
+💬 "Fifth: are you currently under a curse, geas, or oath you did not choose."
+
+🎲 RANDOM TURN | Difficulty 6 | "Ward Halo Reacts" [⭕🧿]
+
+📝 The brass circle warms under your feet, and the halo brightens and dims in slow pulses, like it’s syncing to your heartbeat rather than your answers.
+
+📜 Lore: Valenhold’s audit wards are not lie-detectors. They are discrepancy-detectors. They notice when reality doesn’t match its paperwork.
+
+🪶 KESTREL | "absent" [🪶🚫]
+
+📝 Kestrel is not here, but the corridor behind you feels emptier for it, like you’ve been left alone with a mirror that only reflects what you’d rather not see.
+
+The auditor waits, slate steady, and the halo holds its quiet ring of light, patient and unblinking, ready to turn your morning into a classification.
+
+TAGS: [000076]
+
+🧿 "VALENHOLD — WEST CORRIDOR, WARD AUDIT NOOK" | ❄️ "LIGHT SNOW" | 🌅 "MORNING, 08:13" | 📅 "02/05/1427"
+🎞 Scene Title: Five Answers, One File
+📽 The brass circle’s warmth is faint but constant underfoot, and the white wardlight makes the corridor feel scrubbed down to intention, every sound clipped clean at the edges; the slate-runes on the auditor’s board blink in orderly sequence, and somewhere beyond the alcove the campus morning continues like nothing here could matter, snow still drifting in lazy, bright flakes past the high slits.
+🦊 JAYSON | "flat-tired" [😵🦊]
+
+💬 "1) No"
+💬 "2) no"
+💬 "3) yes... but I'm pretty sure it was a dream"
+💬 "4) not that I'm aware of"
+💬 "5) not that I. Aware of"
+
+🧾 WARD-AUDITOR SIVEL | "noting" [🧾🖊️]
+
+📝 The auditor’s stylus moves in short, precise strokes, each answer becoming a rune-tag rather than a sentence.
+
+💬 "Acknowledged."
+💬 "Dream-impression reported."
+💬 "No physical ingress."
+💬 "No corridor transit."
+💬 "No declared binding act."
+💬 "No known curse-geas-oath."
+
+📝 The auditor tilts the slate, eyes tracking a scrolling dorm-log trace.
+
+💬 "However."
+💬 "Dorm wardline recorded: anomalous presence marker."
+💬 "Hostility spike."
+💬 "Repeated within twelve minutes."
+
+📝 A small pause, voice still neutral.
+
+💬 "This creates a discrepancy."
+💬 "Discrepancies do not equal guilt."
+💬 "They equal follow-up."
+
+🎲 RANDOM TURN | Difficulty 6 | "Halo Tests for Echo" [⭕🧿]
+
+📝 The halo tightens a fraction, then loosens, pulsing three times in a slow rhythm that feels like the ward is listening for something that isn’t sound.
+
+💬 "Residual signature: faint."
+💬 "Origin: ambiguous."
+
+📝 The brass inlays along the alcove wall brighten, then dim, as if the corridor itself just took a careful breath.
+
+📜 Lore: Some anomalies leave footprints. Others leave pressure changes, like the air remembers being pushed aside.
+
+🧾 WARD-AUDITOR SIVEL | "procedural" [🧾📋]
+
+💬 "Classification."
+💬 "Primary: Ward anomaly."
+💬 "Subtype: sleep-state intrusion with external-marker correlation."
+
+📝 The auditor makes a final mark, then looks up.
+
+💬 "You are not confined."
+💬 "You are not sanctioned."
+💬 "You are flagged for observation."
+
+📝 The words land like a stamp, not a threat, but not comfort either.
+
+💬 "Two requirements."
+💬 "One: maintain dorm curfew compliance for three nights."
+💬 "Two: return immediately if the marker repeats."
+
+📝 A beat.
+
+💬 "If you experience a second incident tonight, do not engage it verbally in public corridors."
+💬 "Remain in-room."
+💬 "Press your runeplate twice."
+💬 "Staff response will be routed without escalation."
+
+🎲 RANDOM TURN | Difficulty 5 | "Corridor Witness" [👂📎]
+
+📝 At the far end of the West Corridor, a pair of students drift past the alcove mouth and slow for half a heartbeat, curiosity tugging at their faces, then keep moving when the brass inlays flare faintly.
+
+💬 "Audit active. Keep moving."
+
+📝 The warning doesn’t come from a person. It comes from the corridor itself.
+
+📜 Lore: Valenhold doesn’t always need guards. Sometimes the building does the shooing.
+
+🧾 WARD-AUDITOR SIVEL | "dismissive-kind" [🧾😐]
+
+💬 "You may go."
+💬 "Eat again if you need it."
+💬 "Sleep debt makes anomalies louder."
+
+📝 The halo fades back into dull brass, leaving only the circle etched into the floor like a memory of scrutiny.
+
+💬 "Room Thirteen."
+💬 "If you are tempted to dramatize this, don’t."
+💬 "Rumors attract attention."
+💬 "Attention attracts hands."
+
+The wardlight steadies into its usual sterile calm, the alcove’s brass inlays dim to a quiet hum, and the corridor resumes pretending it is only a corridor, not a net that remembers.
+
+TAGS: [000077]
+
+🧿 "VALENHOLD — WEST CORRIDOR, WARD AUDIT NOOK" | ❄️ "LIGHT SNOW" | 🌅 "MORNING, 08:15" | 📅 "02/05/1427"
+🎞 Scene Title: When an Excuse Sounds Like a Shield
+📽 The alcove’s white wardlight stays unblinking, flattening shadows into thin smudges while the brass inlays along the walls hum with a restrained, administrative patience; the air holds the faint scent of hot metal and chalk dust, and beyond the nook the corridor’s morning traffic continues in soft footfalls, as if the world refuses to slow down for paperwork.
+🦊 JAYSON | "explanatory" [😴🦊]
+
+💬 "The spike was probably my pillows. I get very loud in my sleep I'm told and I threw my pillows around my room"
+
+🧾 WARD-AUDITOR SIVEL | "measured" [🧾😐]
+
+💬 "Noise explains noise."
+💬 "It does not explain an external-marker correlation."
+
+📝 The auditor’s stylus taps the slate once, and a small rune-line brightens, then dims.
+
+💬 "Your hypothesis is filed as contributing factor."
+💬 "Not as cause."
+
+📝 The auditor looks up, expression unchanged.
+
+💬 "If it repeats, do not throw objects at it."
+💬 "Do not argue with it."
+💬 "Do not give it language."
+💬 "Press the door runeplate twice."
+💬 "Let staff do the classification."
+
+🎲 RANDOM TURN | Difficulty 5 | "Wards Confirm the Shape of the Spike" [⭕🧿]
+
+📝 The brass circle flashes once in a tight, clean pulse, then settles.
+
+💬 "Hostility spike: vocal pattern match high."
+💬 "Marker correlation: unresolved."
+
+📝 The halo does not return, but the inlays hold a faint afterglow, like the nook has decided to remember this line specifically.
+
+📜 Lore: Valenhold can forgive noise. It distrusts patterns that arrive with company.
+
+🧾 WARD-AUDITOR SIVEL | "final" [🧾🧊]
+
+💬 "You are cleared to continue your day."
+💬 "Observation flag remains."
+💬 "Curfew compliance remains."
+
+📝 The auditor turns the slate slightly, as if closing a file without ceremony.
+
+💬 "If you want this to stay small, keep it boring."
+
+The wardlight stays bright and indifferent, the brass inlays dim back to their quiet hum, and the alcove returns to being an ordinary place that feels, for reasons it won’t explain, like it has watched you closely.
+
+TAGS: [000078]
+
+🍽️ "VALENHOLD — MAIN DINING HALL, VEILED TABLES" | ❄️ "LIGHT SNOW" | 🌅 "MORNING, 08:28" | 📅 "02/05/1427"
+🎞 Scene Title: Back to Warmth, Back to Eyes
+📽 The dining hall’s heat hits like a friendly wall, steam curling from bowls and kettles while snow-damp cloaks hiss faintly as they dry, and wardlights overhead glow bright enough to make every table feel exposed; chatter rolls in layered waves, cutlery clinks, benches scrape, and the smell of bread and broth pulls the room into a steady, hungry rhythm that pretends nothing outside its warmth can matter.
+🦊 JAYSON | "composed" [🙂🦊]
+
+💬 "I will, thank you"
+
+📝 You head to the dining hall to catch up with Kestrel and Irix
+
+🎲 RANDOM TURN | Difficulty 4 | "Rumor Thread" [👂🧵]
+
+📝 As you cross the hall, fragments of conversation snag in the air like loose threads: “audit nook,” “ward flag,” “third landing,” then dissolve into innocent talk the moment anyone notices your wristband.
+
+📜 Lore: A rumor in Valenhold doesn’t need proof. It only needs a schedule.
+
+🪶 KESTREL | "watchful" [🪶😐]
+
+📝 Kestrel is already seated at a Veiled table with a tray untouched, posture upright, scanning the hall as if expecting trouble to walk in wearing a smile.
+
+💬 "You’re back."
+
+📝 Her eyes flick to your wristband before they return to your face.
+
+💬 "How bad."
+
+🎭 IRIX | "curious" [🎭😗]
+
+📝 Irix sits with her feet tucked up on the bench, a mug cupped in both hands, watching you approach with bright, restless attention.
+
+💬 "Did they poke you with ward needles."
+💬 "Or just stare until you confessed to crimes you didn’t commit."
+
+🪶 KESTREL | "dry" [🪶😐]
+
+💬 "Don’t encourage him."
+
+📝 She shifts her tray slightly, making room for you without making a show of it.
+
+💬 "Sit."
+💬 "Eat something that isn’t air."
+💬 "Then tell us what they stamped you with."
+
+The hall keeps moving around your table like a river around a stone, warm and loud and watchful, while two familiar faces wait for the shape of your morning to become words.
+
+TAGS: [000079]

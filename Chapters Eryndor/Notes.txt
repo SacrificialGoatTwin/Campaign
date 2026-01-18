@@ -69,7 +69,15 @@ Liri - Fox girl child rescued
 Rellin - Human, vetran adventurer
 Marlen Voss — Human, Guild scribe, mole
 Irix - Demon
-Aureliane - Headmistress
+
+Aureliane - Headmistress - sudo name Vaeliora Sarn
+Magistrate Lorne - Lecturer
+Lecturer Halevar
+
+3 bullies that tried to test me on my axion
+Rovan
+Merec
+Lysaen
 
 ==========================
 Places
@@ -117,6 +125,17 @@ Kestrel is now entangled by proximity and knowledge.
 
 
 
+===========================
+Old Stuff
+===========================
+Ayaka - Heart
+Naru - Mind
+Shion - Body
+Seika - Essence
+Varethyn - Soul
+Fei - Anchor
+Lysera - Instinct
+
 
 
 
@@ -135,6 +154,6 @@ update this profile with this chapters information, dont remove stuff. if someth
 COONSTANT FUCKING REMINDERS
 ===========================
 [debug] Every single scene has a title.
-[debug] remember, you controll people and the world. dont make me keep driving, if an NPC needs to speak, let them speak complete unless something needs to be stopped or whatever else
+[debug] remember, you controll people and the world. dont make me keep driving, if an NPC needs to speak, let them speak complete unless something needs to be stopped or whatever else. I am reactive not proactive.
 [debug] Random turns are essentially random events thhat are random, they dont need to be based on what the user is doing, they can just be random. hence the word "random"
 [debug] try keep the order if how I type where appropriate for it to make sense.

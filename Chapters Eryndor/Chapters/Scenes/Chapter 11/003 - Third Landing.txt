@@ -1,0 +1,328 @@
+﻿🏠 "VALENHOLD — DORM COMMONROOM, VEILED HOUSE WING" | 🌤️ "CLEAR" | ⏰ "NIGHT, 20:03" | 📅 "01/05/1427"
+🎞 Scene Title: Keys That Listen
+📽 The dorm commonroom feels like a softer organ inside the University’s harder body, all lamplight and muted stone, with woven rugs that smell faintly of cedar and detergent-sap and walls lined with notice slates that whisper their runes under the surface; outside the tall windows the clear night sits still and star-pricked, but inside, quiet currents of student motion continue in low voices and careful steps, and the wardlines in the ceiling hum like a lullaby that never fully trusts anyone.
+🦊 JAYSON | "practical" [🧳🦊]
+
+📝 You arrive at the dorm and put your bag down.
+
+💬 "Ok, we going to find Irix?"
+
+🪶 KESTREL | "decisive" [🪶🧭]
+
+💬 "Yes."
+💬 "But we do it clean."
+
+📝 She glances once toward the commonroom’s notice slates, then toward a narrow corridor where house-signs hang like small, quiet threats.
+
+💬 "First we check the house board for seminar release times."
+💬 "Then we check if her band pinged the wing readers."
+💬 "If she’s still in session, we wait where we’re visible."
+💬 "If she’s out, we meet her on a lit route."
+
+📝 Her voice stays low, but the cadence is unmistakably “this is how you avoid turning into tomorrow’s rumor.”
+
+🧑‍💼 HOUSE STEWARD LORAN | "welcoming" [🙂📋]
+
+💬 "New residents."
+💬 "Bands visible. Thank you."
+
+📝 A middle-aged steward in dark house livery stands beside a waist-high rune-plinth, smiling like someone paid to be kind and trained to notice everything.
+
+💬 "Commonroom is neutral."
+💬 "Hallways are quiet zones."
+💬 "Door wards are personal."
+💬 "If you argue with a door, the door wins."
+
+📝 He taps the plinth and a small map of the Veiled wing blooms into the air, showing lit routes in soft gold, restricted routes in dull red.
+
+🪶 KESTREL | "controlled" [🪶🧊]
+
+💬 "We’re looking for Irix."
+💬 "Veiled House containment seminar."
+💬 "Do you have a release window?"
+
+📝 She asks like it’s normal, because making it normal is half the battle.
+
+🧑‍💼 HOUSE STEWARD LORAN | "professional" [📋🙂]
+
+💬 "Seminar is still in progress."
+💬 "Expected release between Second and Third Night Bell."
+💬 "Depending on compliance."
+
+📝 His smile remains, but the words “depending on compliance” land with the dull weight of administrative gravity.
+
+💬 "If you are concerned, you may wait in the commonroom."
+💬 "Do not stand in the corridor outside the seminar door."
+💬 "That reads as intimidation."
+💬 "Even when it is worry."
+
+🧑‍🎓 RESIDENT (VEILED HOUSE) | "snide" [😏📎]
+
+💬 "Worry."
+
+📝 A student lounging near the hearth lets the word roll out like a coin they don’t respect, their gaze flicking to your wrist-band and away again.
+
+💬 "New people always call it worry."
+
+📝 A couple of nearby students pretend not to listen while listening with their whole posture.
+
+🪶 KESTREL | "ice-calm" [🪶❄️]
+
+💬 "Good."
+💬 "Then read it correctly."
+
+📝 She doesn’t escalate. She doesn’t retreat. She simply occupies the space like she has every right to be there.
+
+🎲 RANDOM TURN | Difficulty 6 | "Band-Message Leak" [📡🧿]
+
+📝 The rune-plinth gives a soft chiming tick, and a thin line of pale text briefly appears above it, not a full message, more like a system hiccup that someone forgot to hide.
+
+💬 "Containment Seminar: Participant IRIX flagged for ‘adaptive anomaly response’."
+
+📝 The text vanishes almost immediately, but the room has already felt it, like a draft through a door that was supposed to stay shut.
+
+📜 Lore: In Valenhold, even private notes sometimes surface, not by accident, but because systems are built by people with opinions.
+
+🧑‍💼 HOUSE STEWARD LORAN | "tightened" [😐📋]
+
+💬 "That line was not for public display."
+
+📝 His hand moves in a small gesture over the plinth, and the runes settle, blanking themselves like eyes closing.
+
+💬 "You did not see it."
+💬 "And I did not say it."
+
+📝 The words are gentle, but the warning is real.
+
+💬 "Wait here."
+💬 "If she is delayed, I will be informed."
+💬 "If you leave the lit routes, I will also be informed."
+💬 "The wing likes certainty."
+
+🪶 KESTREL | "concerned" [🪶😟]
+
+💬 "Adaptive anomaly response can mean she fought the lesson."
+
+📝 Her gaze flicks toward the corridor map, then returns to you, steadying her voice into something usable.
+
+💬 "Or it can mean she learned faster than they expected."
+💬 "Either way, they noticed."
+💬 "So we don’t add fuel."
+💬 "We stay visible."
+💬 "We stay boring."
+
+📝 She pauses, and the next line comes out like a lock clicking shut.
+
+💬 "And we do not go to any ‘third landing after curfew’ tonight."
+
+🧑‍🎓 RESIDENT (VEILED HOUSE) | "amused" [😈📎]
+
+💬 "Third landing?"
+
+📝 The resident’s smile widens, too interested for coincidence.
+
+💬 "Someone popular already?"
+
+📝 A couple of heads turn. A couple of ears sharpen.
+
+🪶 KESTREL | "warning" [🪶⚠️]
+
+💬 "No."
+💬 "Someone testing boundaries."
+
+📝 She keeps her tone flat, refusing to feed the rumor engine with emotion.
+
+💬 "If you have a hobby, make it knitting."
+💬 "Not baiting newcomers."
+
+🧑‍💼 HOUSE STEWARD LORAN | "firm" [📋🧊]
+
+💬 "Enough."
+
+📝 He doesn’t raise his voice, but the room hears the authority anyway.
+
+💬 "Commonroom is neutral."
+💬 "Make it stay neutral."
+
+📝 The snide resident leans back, posture shifting into “I was never involved,” which is how trouble survives.
+
+🎲 RANDOM TURN | Difficulty 3 | "Night Bell Drift" [🔔🌙]
+
+📝 Somewhere deeper in the wing, a bell note rolls through stone and cloth, soft enough to feel more than hear.
+
+📝 The corridor map’s gold routes brighten a fraction, guiding feet like a gentle hand on the back.
+
+📜 Lore: The Veiled wing uses light as instruction. If you ignore it, the wing assumes you’re choosing consequences on purpose.
+
+The commonroom settles into that uneasy peace that follows a near-argument, where everyone pretends nothing happened while quietly filing it away for later use, and the lamplight keeps burning like patience with a timer hidden inside it.
+
+TAGS: [000027]
+
+🏠 "VALENHOLD — DORM COMMONROOM, VEILED HOUSE WING" | 🌤️ "CLEAR" | ⏰ "NIGHT, 20:14" | 📅 "01/05/1427"
+🎞 Scene Title: The Third Landing Question
+📽 Lamplight puddles in warm pools across rugs and worn stone, and the commonroom’s quiet turns granular, full of little sounds that mean attention: a page stilled mid-turn, a slate-stylus pausing, the faint tick of the rune-plinth cooling after its earlier hiccup; the air smells of cedar, soap, and something faintly metallic from wardlines in the ceiling that hum like a lullaby with teeth, and the shadows near the hallway mouths look just a little too neat, like they were trimmed on purpose.
+🦊 JAYSON | "cheeky" [😏🦊]
+
+📝 You grin and lean into the student.
+
+💬 "So what is third landing? is it like a dating spot or?"
+
+📝 You then look at Kestrel.
+
+💬 "I am not worried about Irix in terms of the school to be honest. she is fine."
+💬 "the fur ankle bracelet... yeah.... its more than an accessory."
+💬 "my fir is linked to me, thats why I dont shed, when fur somes out, its intentional."
+💬 "she is fine, but we will find out when she is out"
+
+🧑‍🎓 RESIDENT (VEILED HOUSE) | "delighted" [😈😂]
+
+💬 "Third landing isn’t a dating spot."
+💬 "It’s a scoreboard."
+
+📝 They lean forward just enough to make it feel like gossip and not a confession, eyes flicking to see who’s listening.
+
+💬 "It’s where people send you when they want to see what you do when nobody official is watching."
+💬 "Sometimes it’s flirting."
+💬 "Sometimes it’s humiliation."
+💬 "Sometimes it’s a fight that pretends it was an accident."
+
+📝 Their smile turns sharper, hungry for your reaction.
+
+💬 "If you show up alone, you’re telling them you can be steered."
+
+🪶 KESTREL | "stern" [🪶⚠️]
+
+💬 "Good answer."
+💬 "Now add the part where the watchers are still watching."
+
+📝 She nods once toward the rune-plinth without looking like she’s nodding toward anything at all.
+
+💬 "This wing measures patterns, not bruises."
+💬 "Third landing after curfew is a test of compliance disguised as bravado."
+
+📝 Her attention shifts back to you, and her voice drops half a shade.
+
+💬 "And about Irix."
+💬 "I believe you."
+💬 "But the wing does not care what you believe."
+💬 "It cares what it can interpret."
+
+🧑‍💼 HOUSE STEWARD LORAN | "controlled" [📋🧊]
+
+💬 "No one is permitted to direct other residents to informal meetings during curfew."
+
+📝 He says it like a rule recited from memory, then softens by a fraction, which in a place like this is practically a hug.
+
+💬 "If you receive notes, you may surrender them for review."
+💬 "If you keep them, that is your choice."
+💬 "But do not treat the stairwells like private rooms."
+💬 "They are monitored corridors with better lighting."
+
+📝 His eyes flick to your left wrist band, then to Kestrel’s.
+
+💬 "Stay on lit routes tonight."
+💬 "Especially if you have already been logged in Hall Cinder."
+
+🎲 RANDOM TURN | Difficulty 6 | "Seminar Release Stutter" [🔔🧿]
+
+📝 The rune-plinth emits a soft triple-tick, faster than normal, and a thin line of text blooms and hesitates as if someone is arguing with it from inside the system.
+
+💬 "Containment Seminar: Session extension approved."
+💬 "Participant release delayed: 14 minutes."
+
+📝 The text steadies, then locks into place with a faint ward-chime that feels like a door clicking shut somewhere deeper in the wing.
+
+📜 Lore: Veiled House doesn’t end lessons on the schedule. It ends them when the lesson stops resisting.
+
+🧑‍🎓 RESIDENT (VEILED HOUSE) | "mocking" [😏🗯️]
+
+💬 "Fourteen minutes."
+💬 "That means someone didn’t pass clean."
+
+📝 They glance toward the corridor like they can hear the seminar through stone.
+
+💬 "Or someone passed too well."
+💬 "Those are the ones the wing keeps longer."
+
+🪶 KESTREL | "protective" [🛡️🪶]
+
+💬 "Fourteen minutes means we wait fourteen minutes."
+
+📝 She shifts her stance so the commonroom’s busiest sightlines are behind her, and the corridor mouths are in front.
+
+💬 "When she comes out, we meet her where the light is."
+💬 "We don’t chase into shadows."
+💬 "We don’t add drama to their paperwork."
+
+📝 Her tone turns matter-of-fact again, the way she gets when she’s managing risk like inventory.
+
+💬 "And if someone asks you to prove you’re brave after curfew, tell them you already proved you’re smart before it."
+
+The commonroom resumes its low murmur, but now it’s a different flavor, less casual, more keyed, as if everyone has quietly agreed that the next fourteen minutes are a small stage and the audience is pretending not to be seated.
+
+TAGS: [000028]
+
+🏠 "VALENHOLD — DORM COMMONROOM, VEILED HOUSE WING" | 🌤️ "CLEAR" | ⏰ "NIGHT, 20:26" | 📅 "01/05/1427"
+🎞 Scene Title: The Soft Hand on the Hard Edge
+📽 The lamplight seems to thicken into honey as the room quiets around a small, human moment, and the ward-hum overhead fades into something more like distant rain than a warning; rugs dull the sharpness of footsteps, cedar and soap mingle with the faint tang of rune-metal, and the commonroom’s corners hold their shadows politely, as if even darkness is trying not to interrupt.
+🦊 JAYSON | "steady" [🫱😌]
+
+📝 You place a firm hand on Kestrel’s forearm and squeeze gently.
+
+💬 "Kestrel.... breath, you have been getting very.... stern for the last few min."
+
+📝 You smile warmly.
+
+💬 "Breath, we are in control and we do not need to advertise that. Just relax please, you are going to burn yourself out"
+
+🪶 KESTREL | "caught" [🪶😮]
+
+📝 For a heartbeat, her posture holds like a drawn bow, then the tension releases in a small, visible drop of her shoulders.
+
+💬 "…You’re right."
+
+📝 She takes a slow breath in through her nose, then out, controlled, like she’s obeying a drill she forgot she knew.
+
+💬 "I heard 'third landing' and my head went to old corridors."
+💬 "Old mistakes."
+
+📝 Her eyes flick to your hand on her forearm, and she doesn’t pull away.
+
+💬 "Thank you."
+💬 "I don’t want to turn you into a problem I have to manage."
+💬 "I want you to be a person next to me."
+
+🧑‍🎓 RESIDENT (VEILED HOUSE) | "watching" [👀📎]
+
+💬 "Aww."
+
+📝 The word is sugared, but the gaze is hungry, the kind that collects emotional tells like trophies.
+
+🪶 KESTREL | "ice-calm" [🪶🧊]
+
+💬 "Neutral room."
+
+📝 She doesn’t look at the resident when she says it, but the warning lands anyway, and the resident’s smile twitches.
+
+🎲 RANDOM TURN | Difficulty 5 | "Seminar Door Chime" [🚪🔔]
+
+📝 From deeper in the wing, a muted chime rolls through the corridor network, softer than a bell, sharper than a footstep.
+
+📝 The rune-plinth in the commonroom flickers and updates in a single clean line.
+
+💬 "Containment Seminar: session complete. Participants released."
+
+📜 Lore: Veiled House announces endings like it announces storms, plainly, without concern for feelings.
+
+🧑‍💼 HOUSE STEWARD LORAN | "prompt" [📋🙂]
+
+💬 "There."
+💬 "Lit route is active."
+
+📝 He gestures toward the corridor map where a gold path brightens, guiding toward the seminar exit like a ribbon of safe intention.
+
+💬 "If you intend to meet her, now is the correct window."
+
+The commonroom’s hush shifts, not breaking, rearranging, and the lamplight keeps its warm steadiness as if to say: you can go, but go with care.
+
+TAGS: [000029]
