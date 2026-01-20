@@ -19,14 +19,16 @@
       "Jayson": {
         "Status": "Friend",
         "Trust": {
-          "Combat": "80%",
-          "Judgement": "55%",
-          "Personal": "40%"
+          "Combat": "82%",
+          "Judgement": "65%",
+          "Personal": "50%"
         },
-        "Love": "25%"
+        "Love": "30%",
+        "notes": "Chapter 12: trust increased after witnessing Jayson's restraint under provocation, his willingness to step back when asked, and his later emotional honesty and repair without trying to 'own' outcomes."
       },
       "Irix": {
-        "Status": "Friend",
+        "Status": "Friend / Acting Guardian",
+        "notes": "Chapter 12: remained with Irix after the assault fallout and dorm-room rupture; assumed practical guardian duties (report planning, safety presence, emotional containment) while still treating Irix as capable."
       },
       "Sael (Felari)": {
         "Status": "Acquaintance (new ally contact)",
@@ -71,7 +73,8 @@
       "institutional_pressure": "Becomes quieter and more precise; reads wards like weather and adjusts to avoid being 'chosen' by attention.",
       "surveillance": "Treats it as an environmental constant; changes behavior rather than arguing with systems.",
       "quiet_hours": "Switches to containment behavior: lowers volume, reduces movement, and forces conflicts into 'tomorrow channels' (desk notes, steward review, time-stamped placeholders).",
-      "rumor_baiting": "Refuses hooks; keeps the group moving and denies spectators a reaction scene."
+      "rumor_baiting": "Refuses hooks; keeps the group moving and denies spectators a reaction scene.",
+      "New: post-incident_routines": "After a rupture, prioritizes food, warmth, and low-stakes normality (dinner, sitting, short instructions) as stabilization before deeper processing."
     }
   },
   "speech": {
@@ -92,7 +95,8 @@
       "Increasingly willing to challenge assumptions directly when new allies are involved",
       "Learning that restraint can coexist with warmth",
       "New: uses dry one-liners as controlled de-escalation under campus hierarchy testing (humor as a shield, not bait).",
-      "New: procedural language under stress (\"facts, not theatre\", \"short sentences\", \"no corridor details\") to protect companions from institutional mislabeling."
+      "New: procedural language under stress (\"facts, not theatre\", \"short sentences\", \"no corridor details\") to protect companions from institutional mislabeling.",
+      "New (Ch12): uses short, directive 'closure cues' (\"Dinner.\", \"Table.\") to end spirals and move the group into safe routines before the next escalation can hook."
     ]
   },
   "emotional": {
@@ -135,7 +139,8 @@
       "Acknowledging emotional responses without retreating from them",
       "Recognizing her role as a stabilizing constant rather than a background observer",
       "New: accepts 'home-space' intimacy (shared suite / gifts / downtime) without rejecting it as softness.",
-      "New: learns to let Jayson carry the unpredictable portion of conflict while she anchors procedure and documentation."
+      "New: learns to let Jayson carry the unpredictable portion of conflict while she anchors procedure and documentation.",
+      "New (Ch12): allows 'lightness' (teasing, shared laughter) as a legitimate recovery tool after violence instead of treating it as denial."
     ]
   },
   "social": {
@@ -158,7 +163,9 @@
         "Functions as his tactical mirror during volatile campus social encounters and scrutiny.",
         "Began actively policing procedural risk around his anomaly: pushed 'no demonstrations in warded residences,' 'keep it sealed,' and 'log it tomorrow,' prioritizing survival inside institutional scrutiny over curiosity.",
         "Received direct feedback from Jayson about her stress-pattern shift (sharper words, over-explaining, jumping ahead); acknowledged it and recalibrated back toward her baseline methodical restraint.",
-        "Adopted a simple verbal abort-cue concept for Jayson's social feints (e.g., a short call like 'Fox!?') to end a ruse cleanly without undermining his autonomy or making him look controlled."
+        "Adopted a simple verbal abort-cue concept for Jayson's social feints (e.g., a short call like 'Fox!?') to end a ruse cleanly without undermining his autonomy or making him look controlled.",
+        "New (Ch12): respected Jayson's withdrawal after Irix demanded distance, treated it as boundary enforcement rather than abandonment, and later held space for his apology-and-repair conversation without forcing either side into a 'verdict'.",
+        "New (Ch12): used dry authority to keep him from escalating flirt-banter in public spaces, redirecting toward basic stability (food, seating, routine) when emotions were raw."
       ],
       "Irix": [
         "Provides calm, predictable presence without probing questions",
@@ -173,7 +180,9 @@
         "Encouraged 'one true sentence' communication during escalation to prevent spirals and reduce ward-triggered consequences.",
         "Committed to remaining with Irix overnight after quiet-hours intervention to keep her regulated and safe.",
         "New: supports Irix’s autonomy around wings and identity without curiosity becoming entitlement",
-        "New: during emotional rupture, forces a return to truth with simple constraints ('pick one sentence') and ends spirals before ward escalation turns into institutional punishment."
+        "New: during emotional rupture, forces a return to truth with simple constraints ('pick one sentence') and ends spirals before ward escalation turns into institutional punishment.",
+        "New (Ch12): after the assault and blame-lashing, stayed present long enough to keep Irix safe, then helped guide Irix toward accountability and repair rather than letting shame become another spiral.",
+        "New (Ch12): accepted Irix choosing warmth and proximity as recovery (staying close, shared dinner) without framing it as weakness or dependency."
       ],
       "New_contacts": {
         "Felari (Sael & Riven)": [
@@ -211,13 +220,15 @@
       "Ability to remain composed during intimidation and abduction scenarios",
       "Reads when humor is safer than steel",
       "New: institutional navigation (knowing when silence beats argument, when compliance is tactical, and when to document).",
-      "New: incident framing and recordcraft (language choice, time windows, witness awareness, and minimizing corridor details under quiet-hours)."
+      "New: incident framing and recordcraft (language choice, time windows, witness awareness, and minimizing corridor details under quiet-hours).",
+      "New (Ch12): stabilization craft (moving the group into food/routine/low-stakes normality after a rupture to prevent rebound escalation)."
     ],
     "weaknesses": [
       "Keeps distance by default",
       "Takes on burden alone",
       "Downplays personal injury",
-      "New: can over-assume responsibility for group outcomes under surveillance (attempts to carry everyone’s weight)."
+      "New: can over-assume responsibility for group outcomes under surveillance (attempts to carry everyone’s weight).",
+      "New (Ch12): can become the 'only adult in the room' by habit, taking guardianship so fully it risks sidelining her own recovery needs."
     ]
   },
   "combat": {
@@ -253,7 +264,8 @@
       "Allowed Jayson to take lead during anomaly and threat disclosures while remaining tactically present",
       "New: reinforced consent-first boundaries during Irix wing care; maintained presence as a stabilizer without crowding.",
       "New: validated Jayson’s restraint and method under care-work; encouraged documenting techniques (write it down).",
-      "New: inside Valenhold, treats 'paperwork and wards' as a combat domain: avoids giving opponents clean 'hostile' labels, and redirects conflict into steward-reviewed channels."
+      "New: inside Valenhold, treats 'paperwork and wards' as a combat domain: avoids giving opponents clean 'hostile' labels, and redirects conflict into steward-reviewed channels.",
+      "New (Ch12): treated post-assault reporting and witness/evidence discipline as an extension of combat support; prioritized Irix’s safety and institutional survivability over retaliation."
     ]
   },
   "notable_scenes": {
@@ -385,6 +397,14 @@
       "Redirected escalation into documentation: advocated steward-reviewed channels, incident-note framing, and fact-only bullet points, emphasizing timestamps, location, and identifiers.",
       "Managed quiet-hours consequences when dorm wards escalated and a steward response was triggered; ensured corridor discipline (no details in hall) and stabilized the room long enough for procedural follow-through.",
       "Remained with Irix overnight after the steward check, prioritizing regulation, safety, and report integrity for morning filing."
+    ],
+    "chapter12": [
+      "Witnessed the aftermath of Irix being assaulted by students and the bruising/mark left behind; shifted immediately into guardian-mode rather than spectacle or retaliation.",
+      "Stayed with Irix after she verbally lashed out at Jayson; managed the Marshal/steward presence and helped route the incident into a morning report rather than a corridor escalation.",
+      "Completed the report process with Irix while Jayson waited quietly; maintained procedural discipline and minimized institutional ammunition against Irix.",
+      "Held Irix through the day’s emotional fallout and later facilitated the repair conversation when Irix and Jayson met again (truth-first, no spirals, no performance).",
+      "Accepted the return of humor and intimacy as recovery (shared laughter, teasing boundaries, dinner routine) while keeping the group safe in public spaces.",
+      "Kept Jayson's public behavior contained with short cues and dry authority when emotions were raw; redirected toward dinner and stability instead of letting banter become another social hook."
     ]
   },
   "character_data": {
@@ -422,6 +442,10 @@
     "chapter11_incident_context": {
       "campus_climate": "Rumor pressure increased around Jayson and 'strays' framing; bait attempts escalated in public spaces.",
       "irix_ward_abrasion": "Dorm wards confirmed minor ward abrasion consistent with pressure/drag at the shoulder after a corridor contact/grab; plan set to report via steward channels with calm facts."
+    },
+    "chapter12_incident_context": {
+      "assault_followthrough": "Irix’s injury and the identity indicators mentioned became a formalized reporting thread; Kestrel prioritized procedural safety, witness discipline, and minimizing public escalation.",
+      "guardian_shift": "Kestrel became the explicit day-to-day protective anchor for Irix while maintaining a stable, non-territorial bond with Jayson."
     }
   },
   "future": {
@@ -439,5 +463,6 @@
     "reminder": "Not every fight is won by force"
   },
   "final_note": "By the end of Chapter 7, Kestrel is no longer simply accompanying the anomaly—she is part of the line that keeps things from breaking, choosing presence, restraint, and deliberate trust in a world that rewards neither.",
-  "final_note_addendum_ch11": "By the end of Chapter 11, Kestrel’s restraint evolves into administrative combat: she learns to treat wards, labels, and quiet-hours procedure as terrain. When Irix is harmed and fear turns inward, Kestrel becomes the stabilizing hinge—protecting dignity, preventing escalation that would become institutional ammunition, and turning chaos into a reportable timeline."
+  "final_note_addendum_ch11": "By the end of Chapter 11, Kestrel’s restraint evolves into administrative combat: she learns to treat wards, labels, and quiet-hours procedure as terrain. When Irix is harmed and fear turns inward, Kestrel becomes the stabilizing hinge—protecting dignity, preventing escalation that would become institutional ammunition, and turning chaos into a reportable timeline.",
+  "final_note_addendum_ch12": "By the end of Chapter 12, Kestrel’s role hardens into explicit guardianship for Irix while her bond with Jayson strengthens through boundary-respect and repair. She proves she can hold procedure and tenderness at once: reportcraft in one hand, dinner-routine stability in the other, refusing to let cruelty or rumor turn their trio into easy prey."
 }

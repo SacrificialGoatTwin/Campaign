@@ -15,21 +15,24 @@
     "eyes": "Deep ember-gold with low-light adaptation; reflect faintly when mana is active or emotions spike",
     "skin": "Warm umber with subtle heat undertones; resilient, rarely marked (notable exception: minor ward-abrasion mark at shoulder after corridor grab)",
     "scent": "Faint sulphur and charcoal layered with clean heat",
-    "posture": "Contained and deliberate; constantly aware of exits, walls, and vertical space; posture relaxes measurably when Jayson is present (but can tighten sharply when she feels watched, cornered, or labeled)",
+    "posture": "Contained and deliberate; constantly aware of exits, walls, and vertical space; posture relaxes measurably when Jayson is present (but can tighten sharply when she feels watched, cornered, or labeled). During Chapter 12 reconciliation, demonstrated visible regulation through chosen proximity and shared warmth rather than withdrawal.",
     "relationship": {
       "Kestrel": "Friend",
       "Mirell": "New acquaintance/friend (early campus connection; shared seating/social proximity during meals)",
       "Jayson": {
         "Status": "Close Friend",
         "Trust": {
-          "Combat": "70%",
-          "Judgement": "65%",
-          "Personal": "55%"
+          "Combat": "78%",
+          "Judgement": "75%",
+          "Personal": "70%"
         },
-        "Love": "18%",
+        "Love": "24%",
         "notes": [
           "Chapter 11 strain event: fear and shame triggered a verbal lash-out; later clarified she does not hate him and does not want him gone.",
-          "Feels conflicted: his ‘loud’ protection works, but can also make her feel like she stands in his shadow."
+          "Feels conflicted: his ‘loud’ protection works, but can also make her feel like she stands in his shadow.",
+          "Chapter 12: acknowledged fear-driven assumptions and misdirected cruelty; offered direct apology without conditions.",
+          "Accepted reassurance that she is not a project or dependency, but a friend with independent strength.",
+          "Demonstrated trust by allowing prolonged physical closeness (shared coat warmth) as comfort rather than protection."
         ]
       }
     },
@@ -40,11 +43,7 @@
     "tails": "1 (straight, flexible, non-barbed)",
     "wings": "Bat-like Ashen Serathi wings; highly sensitive membrane; complex joint structure; extremely flexible with defined load limits; prone to joint strain under extreme pressure fields",
     "horns": "Curved, swept-back horns; sensitive but resilient; culturally significant and not ornamental by default",
-    "legs": "Digitigrade with feline-pawed feet; silent tread, strong balance, clawed pads protected by custom footwear",
-    "markings": {
-      "ankle_braid": "Braided fox-fur cord tied around ankle by Jayson; symbolic anchor denoting chosen protection, courage under scrutiny, and reminder of trusted presence when alone",
-      "shoulder_abrasion": "Minor ward-abrasion/pressure-drag mark (top of shoulder) from corridor shove/grab; intended to be documented before treatment"
-    }
+    "legs": "Digitigrade with feline-pawed feet; silent tread, strong balance, clawed pads protected by custom footwear"
   },
   "reactions": {
     "wind": "Instinctively adjusts stance and wing alignment to avoid silhouette exposure",
@@ -66,7 +65,7 @@
       "Avoids personal disclosure unless trust is explicit",
       "During campus conflict, tries to avoid ‘performing’ reactions that become weaponized in records"
     ],
-    "growth": "Demonstrated ability to speak confidently and publicly under pressure; increasing use of humor and direct assertion when boundaries are challenged; beginning to separate anger from cruelty and re-aim it toward true threats"
+    "growth": "Demonstrated ability to speak confidently and publicly under pressure; increasing use of humor and direct assertion when boundaries are challenged; Chapter 12 shows use of humor and play as conscious emotional regulation after repair."
   },
   "emotional": {
     "core_traits": [
@@ -106,7 +105,8 @@
       "Demonstrated confidence independent of immediate physical protection",
       "Accepted encouragement to be visibly brave rather than silently enduring",
       "Experienced pride and satisfaction in self-advocacy",
-      "Chapter 11: admitted fear and conflict openly (does not want to be alone; hates needing help), and apologized for mis-aimed cruelty"
+      "Chapter 11: admitted fear and conflict openly (does not want to be alone; hates needing help), and apologized for mis-aimed cruelty",
+      "Chapter 12: completed a full repair cycle — acknowledged harm, accepted accountability, received reassurance without defensiveness, and re-established trust through choice rather than fear"
     ]
   },
   "social": {
@@ -122,7 +122,8 @@
         "Feels empowered to act independently while carrying his support",
         "Allows playful prompting that reinforces courage rather than dependence",
         "Views him as emotional amplifier for bravery rather than shield alone",
-        "Chapter 11 conflict: fears becoming ‘the reason’ he gets hurt; tries to push him away to protect him, then regrets it"
+        "Chapter 11 conflict: fears becoming ‘the reason’ he gets hurt; tries to push him away to protect him, then regrets it",
+        "Chapter 12: allowed close physical proximity as comfort; engaged in humor and shared laughter as active bonding rather than avoidance"
       ],
       "Kestrel": [
         "Feels safest with Kestrel’s predictability",
@@ -193,7 +194,8 @@
       "Allowed recorded medical wing care without distress",
       "Publicly asserted autonomy during upper-year social intimidation",
       "Demonstrated courage independent of immediate physical protection",
-      "Chapter 11: endured corridor shove/grab and refused to provide aggressors a ‘scene’; sustained minor ward-abrasion mark at shoulder"
+      "Chapter 11: endured corridor shove/grab and refused to provide aggressors a ‘scene’; sustained minor ward-abrasion mark at shoulder",
+      "Chapter 12: followed through with formal reporting process; maintained composure during institutional procedure; re-engaged socially after reconciliation rather than withdrawing"
     ]
   },
   "notable_scenes": {
@@ -250,15 +252,20 @@
       "Demonstrated emotional growth through confidence, humor, and public presence"
     ],
     "chapter11": [
-      "Developed first independent peer connection on campus (Mirell) and tolerated shared public space without withdrawing",
-      "Became target of escalating ‘stray/pet’ narrative tied to Ashen hostility on campus",
-      "After Veiled seminar, was shoved and briefly grabbed in a connector corridor; sustained minor ward-abrasion mark at shoulder",
-      "Chose restraint to deny aggressors the reaction needed to label her ‘unstable’ in records",
-      "Disclosed the corridor incident privately after being confronted about downplaying it",
-      "Under fear and shame, lashed out verbally at Jayson with demeaning language, then later admitted she aimed her teeth at the wrong person",
-      "Stated core conflict: wants safety but fears being trapped in someone’s shadow; hates needing help but does not want to be alone",
-      "Quiet-hours escalation triggered steward response; elected to file a formal incident report in the morning for accuracy (with option for timestamp placeholder)",
-      "Received a pure-mana recovery vial intended to be taken after the report so visible marks can be documented; Jayson committed to attend the morning report with her"
+      "Developed first independent peer connection on campus (Mirell)",
+      "After Veiled seminar, was shoved and briefly grabbed in a connector corridor",
+      "Chose restraint to deny aggressors a usable ‘scene’",
+      "Under fear and shame, lashed out verbally at Jayson",
+      "Admitted mis-aimed cruelty and elected formal reporting process"
+    ],
+    "chapter12": [
+      "Completed formal assault report with Kestrel present",
+      "Engaged in extended reconciliation dialogue with Jayson",
+      "Accepted accountability and offered apology without self-erasure",
+      "Allowed close physical proximity as comfort (shared coat warmth)",
+      "Used humor and shared laughter as emotional regulation",
+      "Reaffirmed friendship on clarified terms of consent and communication",
+      "Ended day in shared public space without hyper-vigilance or withdrawal"
     ]
   },
   "character_data": {
@@ -302,5 +309,5 @@
     ],
     "reminder": "Being seen by the right people is not the same as being exposed."
   },
-  "final_note": "Irix has crossed a critical threshold: no longer defined solely by survival or protection, she is beginning to assert herself publicly, carrying chosen support as strength rather than dependency. Chapter 11 adds a harsher edge to that threshold: she confronted the shame of needing help, mis-aimed her anger, then corrected course by admitting fear, choosing procedure, and committing to document harm rather than silently absorb it."
+  "final_note": "Irix has crossed a critical threshold twice: first by asserting herself publicly, and now by repairing harm caused under fear. Chapter 12 confirms her ability to hold accountability without collapsing into shame, to accept care without surrendering autonomy, and to reframe protection as chosen support rather than imposed shadow."
 }

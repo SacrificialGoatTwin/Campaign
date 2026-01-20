@@ -1,0 +1,713 @@
+🏛️ "CENTRAL DINING HALL | GRAND COMMONS" | 🌤️ "MORNING AFTER SNOW" | 🌞 "MIDDAY, 11:25" | 🗓️ "03/05/1427"
+🎞 Scene Title: Tables, Trays, and Absences
+📽 The Grand Commons opens wide and loud, heat rolling out from long hearth-lines set beneath vaulted stone, the air thick with spice, bread, and steam; banners hang slack above crowded tables, boots scuff over worn flagstone, and the steady roar of conversation turns hunger into motion.
+🦊 YOU | "routine-weary" [🫥🍽️]
+
+📝 You make the twenty-minute walk without comment, moving on habit more than appetite.
+
+📝 At the dining hall, you collect food mechanically and sit, posture forward, attention unfixed.
+
+💬 "I train every day but training grounds is fine."
+
+🪶 KESTREL | "alert-concern" [🪶👁️]
+
+📝 She scans the room as she sits, eyes moving table to table with practiced efficiency.
+
+📝 Spotting a familiar figure, she stands again immediately and steps over.
+
+🧑‍🎓 MERRILL | "friendly-worried" [🎓🙂➡️🎓😟]
+
+📝 Merrill looks up mid-bite, relief flickering and then fading as Kestrel speaks.
+
+💬 "Hey—"
+💬 "No, she’s not here yet."
+
+📝 He glances toward the hall entrances, then back.
+
+💬 "She said she’d meet us after her morning block."
+💬 "That was… a bit ago."
+
+🪶 KESTREL | "tightened-focus" [🪶⚠️]
+
+📝 She nods once, already filing the delay.
+
+💬 "Which hall?"
+
+📝 No panic. Just data.
+
+🧑‍🎓 MERRILL | "thinking" [🎓🤔]
+
+💬 "Theory wing, I think."
+💬 "She mentioned finishing up near the east ring."
+
+📝 He lowers his voice slightly.
+
+💬 "You want me to go check?"
+
+🪶 KESTREL | "decisive" [🪶🧭]
+
+💬 "I will."
+
+📝 She glances back toward you at the table, making brief eye contact.
+
+💬 "Eat."
+
+📝 Then to Merrill:
+
+💬 "If she shows, keep her here."
+
+🎲 RANDOM TURN | Difficulty 4 | "Absence Noted" [⏱️]
+
+📝 A dining-hall notice sigil flickers near the ceiling: Lunch Window Active.
+
+📝 The crowd noise swells and ebbs, masking individual movement.
+
+📝 Somewhere beyond the commons, time quietly stretches past expectation.
+
+Kestrel moves toward the exits with purpose, the din swallowing her footsteps, while Merrill watches her go and then looks back to you, concern unspoken but obvious.
+
+The hall keeps eating.
+The empty chair keeps waiting.
+
+TAGS: [000096]
+
+🏛️ "CENTRAL DINING HALL | GRAND COMMONS" | 🌤️ "MORNING AFTER SNOW" | 🌞 "MIDDAY, 11:27" | 🗓️ "03/05/1427"
+🎞 Scene Title: An Empty Chair Filled
+📽 The commons roars on, trays clattering and laughter cresting like surf against the stone; heat from the hearths curls upward to the rafters, and the long tables flex and shift as students slide in and out, meals half-finished and conversations overlapping into a single, living din.
+🦊 YOU | "warm-cover" [🫥🙂]
+
+📝 You catch Merrill’s eye, lift a hand, and gesture to the empty seat across from you.
+
+💬 "Hey!"
+
+📝 A smile follows, easy and inviting, practiced enough to pass for normal.
+
+🧑‍🎓 MERRILL | "relieved" [🎓😌]
+
+📝 He hesitates a beat, then takes the seat, setting his tray down with a small clatter.
+
+💬 "Hey."
+
+📝 A glance toward the hall entrances, then back to you.
+
+💬 "She’s usually early."
+
+📝 He exhales, trying to keep it light.
+
+💬 "Probably just got cornered by a lecturer."
+
+🎲 RANDOM TURN | Difficulty 3 | "Lunch Moves On" [🍞]
+
+📝 A serving line shifts, releasing a wave of students toward nearby tables.
+
+📝 A bell chimes softly to mark a fresh batch from the ovens.
+
+📝 The noise swells, then settles again around you.
+
+🧑‍🎓 MERRILL | "attempting-normal" [🎓🙂]
+
+📝 He nudges his tray an inch closer and offers a half-smile.
+
+💬 "So… how was countermagic?"
+
+📝 Eyebrows lift, curious despite the worry.
+
+💬 "Heard RuneWard doesn’t go easy on anyone."
+
+The seat across from you is no longer empty, but the space Kestrel left behind still feels charged, like a question waiting for its answer while the commons pretends everything is exactly as it should be.
+
+TAGS: [000097]
+
+🏛️ "CENTRAL DINING HALL | GRAND COMMONS" | 🌤️ "MORNING AFTER SNOW" | 🌞 "MIDDAY, 11:29" | 🗓️ "03/05/1427"
+🎞 Scene Title: First Loss in a While
+📽 Heat rolls off the hearths in slow waves, carrying the scent of bread and roasted roots through the vaulted space; trays slide, benches creak, and the commons settles into that loud-but-safe rhythm where people talk over each other because the world, for a moment, allows it.
+🦊 YOU | "self-aware" [🫥😅]
+
+📝 You chuckle under your breath, shoulders lifting in a small shrug.
+
+💬 "It was different. Not how I move but I got beat today, for the first time in... a long time."
+
+🧑‍🎓 MERRILL | "surprised-respect" [🎓😮]
+
+📝 He blinks, then lets out a low whistle.
+
+💬 "Seriously?"
+
+📝 A grin creeps in, not mocking, impressed.
+
+💬 "That actually makes me feel better about my morning."
+
+📝 He leans back slightly, studying you with fresh curiosity.
+
+💬 "What happened?"
+
+🎲 RANDOM TURN | Difficulty 2 | "Perspective Shift" [🔄]
+
+📝 A nearby table erupts in laughter, then settles.
+
+📝 Someone drops a spoon; another student kicks it back without comment.
+
+📝 The hall keeps going, indifferent but grounding.
+
+🧑‍🎓 MERRILL | "thoughtful" [🎓🤔]
+
+💬 "I mean… losing clean usually means you learned something real."
+
+📝 He taps the edge of his tray.
+
+💬 "Especially if it doesn’t sting your pride."
+
+The noise of the commons wraps back around you, and for a moment the word “beat” doesn’t feel like failure at all, just a data point entered honestly, the kind that only shows up when someone’s actually trying.
+
+TAGS: [000098]
+
+🏛️ "CENTRAL DINING HALL | GRAND COMMONS" | 🌤️ "MORNING AFTER SNOW" | 🌞 "MIDDAY, 11:31" | 🗓️ "03/05/1427"
+🎞 Scene Title: Losses That Teach
+📽 The commons hums in layered noise, cutlery chiming against plates while heat from the hearths presses warmth into stone and skin alike; steam rises from bowls in lazy spirals, and the long tables hold a thousand small conversations that blur together into something almost comforting.
+🦊 YOU | "easy-honest" [🫥😄]
+
+📝 You laugh, a real one this time, shoulders loosening.
+
+💬 "I have no pride, its why people cant get to me"
+
+📝 You grin and gesture vaguely with a fork as you explain.
+
+💬 "I tried to out-think him. Feints, misdirection, making him doubt what he was seeing."
+💬 "Turns out he learned faster than I expected."
+💬 "He mirrored my trick, waited for me to overcommit, then took the space I gave up."
+
+📝 A small shrug.
+
+💬 "Clean loss. No force. Just timing."
+
+📝 You tilt your head slightly, curiosity genuine.
+
+💬 "How was your morning? What made it bad?"
+
+🧑‍🎓 MERRILL | "relieved-but-worn" [🎓😌😓]
+
+📝 He exhales slowly, shoulders sagging now that the focus isn’t on you.
+
+💬 "Honestly? Messy."
+
+📝 He stabs at his food once, then stops.
+
+💬 "Theory block ran long. Professor went off on a tangent about jurisdictional wards and nobody could follow him."
+💬 "Then I got pulled aside because my partner froze during a practical and I was the closest thing to a witness."
+
+📝 A crooked smile.
+
+💬 "Nothing dramatic. Just one of those mornings where everything takes more energy than it should."
+
+🧑‍🎓 MERRILL | "quiet-concern" [🎓🤨]
+
+📝 His gaze drifts briefly toward the entrances again before returning to you.
+
+💬 "And Irix not showing up on time didn’t help."
+
+📝 He lowers his voice, careful.
+
+💬 "She’s been… jumpy. Since last night."
+
+🎲 RANDOM TURN | Difficulty 2 | "Names in the Noise" [🍽️]
+
+📝 A group nearby mentions the countermagic class in passing, laughter cutting short when they notice who’s listening.
+
+📝 The sound rolls on, swallowing the moment.
+
+📝 Somewhere in the hall, a door opens and closes without ceremony.
+
+Merrill takes a bite at last, chewing slowly, eyes thoughtful rather than alarmed, while the commons keeps pretending that lunches are just lunches and absences don’t matter until they do.
+
+TAGS: [000099]
+
+🏛️ "CENTRAL DINING HALL | GRAND COMMONS" | 🌤️ "MORNING AFTER SNOW" | 🌞 "MIDDAY, 11:34" | 🗓️ "03/05/1427"
+🎞 Scene Title: What You Are, Not Who
+📽 The commons rolls on around you, a tide of voices and heat that makes private questions feel briefly possible; sunlight catches steam above bowls, and banners overhead sway just enough to remind everyone that time is still moving even when conversations slow.
+🦊 YOU | "careful-curiosity" [🫥🤔]
+
+💬 "Yeah... you probably ly know more about how she feels than I."
+
+📝 You pause, eyes briefly unfocusing as the thought passes.
+
+💬 "There are some bad apples out for her.... but im sire this is just busy."
+
+📝 Your gaze returns, open rather than probing.
+
+💬 "Hey, can I ask... what are you?"
+💬 "Been trying to pin it for a while, you look human, but you are not, and not a mix either, or undead"
+
+🧑‍🎓 MERRILL | "considering-honest" [🎓🧠]
+
+📝 He blinks, surprised, then lets out a small breath that’s almost a laugh.
+
+💬 "Huh."
+
+📝 He glances down at his hands as if checking them for answers.
+
+💬 "Most people don’t ask like that."
+
+📝 A brief shrug follows, unguarded.
+
+💬 "I’m what the registries call a continuant."
+
+📝 He looks back up, meeting your eyes.
+
+💬 "Born human. Still technically human."
+💬 "Just… stretched."
+
+🧑‍🎓 MERRILL | "matter-of-fact" [🎓📘]
+
+💬 "Time exposure. Long-term."
+💬 "Not enough to make me immortal, not clean enough to kill me either."
+
+📝 One corner of his mouth quirks.
+
+💬 "I age. Just badly."
+💬 "Healing works, but it’s sluggish."
+💬 "Magic reads me as in progress."
+
+🎲 RANDOM TURN | Difficulty 3 | "Definition Without Drama" [📚]
+
+📝 A nearby table erupts in laughter, then fades again, the sound passing like weather.
+
+📝 The dining hall wards ignore the conversation completely.
+
+📝 No one else seems to notice the word continuant land.
+
+🧑‍🎓 MERRILL | "light-deflection" [🎓🙂]
+
+💬 "Not undead. Not mixed. Not blessed."
+
+📝 He taps his chest once, gently.
+
+💬 "Just someone who didn’t stop when the rest of his timeline did."
+
+📝 A pause, softer now.
+
+💬 "Makes you good at waiting."
+💬 "And very bad at pretending things don’t matter."
+
+Merrill returns to his food, explanation given without ceremony, while the commons keeps roaring on, content to let rare truths pass unnoticed as long as they’re spoken quietly enough.
+
+🏛️ "CENTRAL DINING HALL | GRAND COMMONS" | 🌤️ "MORNING AFTER SNOW" | 🌞 "MIDDAY, 11:36" | 🗓️ "03/05/1427"
+🎞 Scene Title: Bad Jokes, Worse Math
+📽 The commons swells and dips around your table, laughter flaring and fading like sparks from the hearths; steam curls lazily above bowls, and the constant motion makes close, quiet exchanges feel almost conspiratorial by contrast.
+🦊 YOU | "conspiratorial-playful" [🫥🤫😄]
+
+📝 You lean in, lowering your voice like you’ve uncovered a secret that absolutely does not deserve one.
+
+💬 "Stretched?"
+
+📝 Your eyes flick him up and down, mock-serious.
+
+💬 "But you not even that tall"
+
+📝 You fight the smile for half a second.
+
+📝 Lose immediately.
+
+💬 "Okok..."
+
+📝 Still grinning.
+
+💬 "so how old are you then?"
+
+🧑‍🎓 MERRILL | "resigned-amused" [🎓😐➡️🎓🙂]
+
+📝 He stares at you for a long, flat second.
+
+📝 Then exhales through his nose.
+
+💬 "That was terrible."
+
+📝 A corner of his mouth twitches despite himself.
+
+💬 "Absolutely terrible."
+
+🧑‍🎓 MERRILL | "truth-with-a-sigh" [🎓🧮]
+
+📝 He leans back, eyes lifting briefly to the rafters like the answer might be written up there.
+
+💬 "Biologically?"
+
+📝 A beat.
+
+💬 "Twenty-three."
+
+📝 Another beat, heavier.
+
+💬 "Chronologically?"
+
+📝 He looks back at you.
+
+💬 "Somewhere north of ninety."
+
+📝 A small shrug, practiced.
+
+💬 "Depends which calendar you trust."
+
+🎲 RANDOM TURN | Difficulty 2 | "Reaction Window" [😮]
+
+📝 A tray clatters nearby.
+
+📝 Someone laughs too loud at another table.
+
+📝 The moment hangs, waiting to see how that number lands.
+
+🧑‍🎓 MERRILL | "dry-humor" [🎓🙂]
+
+💬 "Before you ask, no, I don’t feel ninety."
+
+📝 He taps the table lightly.
+
+💬 "Mostly I just feel… tired at inconvenient times."
+
+📝 A glance at your food.
+
+💬 "And I need more sleep than I’m willing to admit."
+
+The commons keeps roaring, utterly uninterested in the quiet absurdity of someone who looks your age, eats like a student, and has lived long enough to treat decades like bad semesters you eventually stop counting.
+
+TAGS: [000100]
+
+🏛️ "CENTRAL DINING HALL | GRAND COMMONS" | 🌤️ "MORNING AFTER SNOW" | 🌞 "MIDDAY, 11:38" | 🗓️ "03/05/1427"
+🎞 Scene Title: Shared Math, Shared Advice
+📽 The commons hum softens around your table as a fresh wave of students passes through, trays steaming and benches shifting; sunlight glances off polished stone, and the hearths crackle like they approve of conversations that don’t try too hard.
+🦊 YOU | "easy-kinship" [🫥😄]
+
+📝 You chuckle, shoulders relaxing into the bench.
+
+💬 "Biologically im 78, chronologically im older than most these mountains around the continent... so I feel you..."
+
+📝 You lift a finger, mock-serious for half a beat.
+
+💬 "and.... dont ever down play sleep"
+
+📝 You grin, tapping the table once like you’re sharing a prized secret.
+
+💬 "Its a dear hobby of mine"
+
+🧑‍🎓 MERRILL | "genuine-amusement" [🎓😄]
+
+📝 He stares at you, then breaks into a laugh that actually reaches his eyes.
+
+💬 "Okay, that puts my numbers back into perspective."
+
+📝 He shakes his head, smiling.
+
+💬 "Here I was thinking I had seniority in the room."
+
+🧑‍🎓 MERRILL | "knowing" [🎓🛌]
+
+📝 He raises his cup in a small, solemn salute.
+
+💬 "Sleep is sacred."
+
+📝 A nod, emphatic.
+
+💬 "Anyone who says otherwise hasn’t lived long enough to regret skipping it."
+
+📝 His smile softens.
+
+💬 "Or they have… and they’re lying."
+
+🎲 RANDOM TURN | Difficulty 2 | "Lunch Lulls" [🍵]
+
+📝 The noise dips briefly as a serving line stalls, then resumes.
+
+📝 Somewhere nearby, a group argues cheerfully about afternoon drills.
+
+📝 The hall breathes, content.
+
+🧑‍🎓 MERRILL | "light-curiosity" [🎓🤔]
+
+📝 He leans forward just a touch, mirroring your earlier posture.
+
+💬 "So if sleep’s a hobby…"
+
+📝 A grin, conspiratorial now.
+
+💬 "Is it the naps, the long crashes, or the ‘vanish for a day and scare everyone’ kind?"
+
+The table holds its warmth, humor settling in comfortably, the kind that comes from realizing the person across from you understands time not as a number, but as something you learn to pace yourself against.
+
+TAGS: [000101]
+
+🏛️ "CENTRAL DINING HALL | GRAND COMMONS" | 🌤️ "MORNING AFTER SNOW" | 🌞 "MIDDAY, 11:40" | 🗓️ "03/05/1427"
+🎞 Scene Title: When Chairs Stay Empty
+📽 The commons rolls on without noticing you specifically, voices overlapping in warm disorder as serving lines thin and refill; steam lifts from bowls in lazy curls, and the clatter of cutlery keeps time for a room that refuses to slow down just because someone is missing.
+🦊 YOU | "self-aware-humor" [🫥😄]
+
+📝 You laugh, shaking your head.
+
+💬 "Oh god.... all 3"
+
+📝 You gesture vaguely, as if mapping a very familiar disaster.
+
+💬 "Starts with a nap, slides into a long crash, and a day later people are panicing"
+
+📝 The laughter lingers a second, then fades as your eyes drift past Merrill’s shoulder.
+
+🦊 YOU | "searching" [🫥👀]
+
+📝 You scan the commons, eyes moving table to table.
+
+📝 No familiar wings. No familiar posture. No sharp, purposeful stride.
+
+📝 Your smile thins just a fraction as you look again.
+
+📝 Still nothing.
+
+🧑‍🎓 MERRILL | "noticing" [🎓🤨]
+
+📝 He follows your gaze, brow creasing.
+
+💬 "They’re not back yet?"
+
+📝 A glance toward the main doors, then the side entrances.
+
+💬 "Kestrel doesn’t usually vanish mid-plan."
+
+🎲 RANDOM TURN | Difficulty 4 | "Absence Gains Weight" [⏳]
+
+📝 A dining-hall bell chimes softly to mark the halfway point of lunch.
+
+📝 The crowd shifts, seats changing hands, but the ones you’re watching for stay empty.
+
+📝 Time tips from busy toward late.
+
+🧑‍🎓 MERRILL | "low-concern" [🎓🧠]
+
+💬 "If Irix missed lunch entirely, that’s… not great."
+
+📝 He lowers his voice, careful.
+
+💬 "She hates crowds, but she hates skipping meals more."
+
+📝 A pause.
+
+💬 "You want me to ping a runner?"
+
+The commons keeps eating, laughing, arguing about drills and rankings, while the empty spaces at your table start to feel less like coincidence and more like a question the room is politely refusing to answer.
+
+TAGS: [000102]
+
+🏛️ "CENTRAL DINING HALL | GRAND COMMONS" | 🌤️ "MORNING AFTER SNOW" | 🌞 "MIDDAY, 11:42" | 🗓️ "03/05/1427"
+🎞 Scene Title: The Question That Doesn’t Like Easy Answers
+📽 The commons rolls on, loud and warm, but your end of the table feels briefly insulated, like the noise has decided to take a step back; steam curls between you and Merrill, banners shifting lazily overhead, and the clatter of trays becomes a distant rhythm rather than a distraction.
+🦊 YOU | "measured-serious" [🫥🧠]
+
+📝 You shake your head once, small and decisive.
+
+💬 "mmm I dont think that is necessary"
+
+📝 A pause follows, not awkward, just deliberate.
+
+📝 You meet Merrill’s eyes.
+
+💬 "Merrill.... can I ask you a question?"
+
+📝 You don’t soften it.
+
+💬 "if you had the capability to stop bad things happening to good people regardless of their thoughts on the matter.... would you?"
+
+🧑‍🎓 MERRILL | "stillness" [🎓🛑]
+
+📝 He doesn’t answer right away.
+
+📝 His hand pauses halfway to his cup, then lowers back to the table.
+
+📝 The smile he’s been wearing all lunch fades without drama.
+
+🧑‍🎓 MERRILL | "careful-honesty" [🎓🧠]
+
+💬 "I’d want to say yes."
+
+📝 He exhales slowly, eyes dropping to the wood grain between you.
+
+💬 "That’s the easy answer."
+
+📝 He looks back up, expression steady now.
+
+💬 "But capability changes responsibility."
+💬 "And responsibility changes consent."
+
+🧑‍🎓 MERRILL | "quiet-conviction" [🎓⚖️]
+
+💬 "Stopping harm without asking sounds righteous until you realize you’ve decided for someone what their life is allowed to include."
+
+📝 A small, uncomfortable pause.
+
+💬 "Fear. Risk. Choice."
+💬 "Those aren’t bugs. They’re… part of being a person."
+
+🎲 RANDOM TURN | Difficulty 3 | "The Hall Doesn’t Interrupt" [🍽️]
+
+📝 A laugh breaks out two tables away, then fades.
+
+📝 Someone scrapes a chair back loudly.
+
+📝 The space around you remains untouched, as if the question earned privacy by weight alone.
+
+🧑‍🎓 MERRILL | "tempered" [🎓🪶]
+
+💬 "That said—"
+
+📝 His fingers curl once, then relax.
+
+💬 "If someone was being hurt and couldn’t choose freely…"
+💬 "If fear or force or ignorance took their agency away first…"
+
+📝 He meets your gaze again, no flinching.
+
+💬 "Then yes."
+💬 "I’d stop it."
+💬 "Because at that point, you’re not overriding consent."
+💬 "You’re restoring it."
+
+🧑‍🎓 MERRILL | "final-thought" [🎓🕯️]
+
+💬 "The danger isn’t acting."
+💬 "It’s deciding you’re always right."
+
+📝 A faint, tired smile returns.
+
+💬 "That’s how protectors turn into wardens."
+💬 "And wardens eventually stop asking questions like yours."
+
+The commons noise washes back in, unbothered and ordinary, but the space between you feels heavier now, not uncomfortable, just real, like a truth that doesn’t demand agreement, only recognition.
+
+TAGS: [000103]
+
+🏛️ "CENTRAL DINING HALL | GRAND COMMONS" | 🌤️ "MORNING AFTER SNOW" | 🌞 "MIDDAY, 11:44" | 🗓️ "03/05/1427"
+🎞 Scene Title: Where the Line Actually Is
+📽 The commons noise thins at the edges of your table, not because it quiets, but because attention sharpens; steam drifts between plates, light glints off cutlery, and the space feels suddenly narrower, as if the question itself has leaned in.
+🦊 YOU | "pressing-honest" [🫥🧩]
+
+💬 "so even if you could save someone, even when they asked you not to, and they were in danger."
+💬 "what would you choose?"
+💬 "morals aside... you as a person, what would you chose?"
+💬 "to watch on the side lines or step in and deal with the consequences after"
+
+🧑‍🎓 MERRILL | "unshielded" [🎓🧠]
+
+📝 He goes very still.
+
+📝 No deflection this time. No humor.
+
+📝 He stares at the table for a breath longer than necessary, then looks up.
+
+💬 "I’d step in."
+
+🧑‍🎓 MERRILL | "plain-truth" [🎓⚖️]
+
+💬 "Not because it’s right."
+💬 "Not because it’s clean."
+💬 "But because I know exactly what it feels like to live with the memory of not stepping in."
+
+📝 His jaw tightens, then releases.
+
+💬 "That kind of regret doesn’t fade."
+💬 "It just gets quieter and heavier."
+
+🎲 RANDOM TURN | Difficulty 3 | "Answer Lands" [🕯️]
+
+📝 A burst of laughter erupts somewhere behind you, then passes.
+
+📝 A tray clatters. Someone swears softly.
+
+📝 The world keeps moving, indifferent to confessions.
+
+🧑‍🎓 MERRILL | "owned-choice" [🎓🛤️]
+
+💬 "If they asked me not to, I’d hate myself for it."
+💬 "I’d expect them to hate me too."
+
+📝 He doesn’t look away.
+
+💬 "But I’d rather carry anger than a coffin."
+💬 "And I’d rather ask forgiveness than attend a funeral knowing I could’ve stopped it."
+
+🧑‍🎓 MERRILL | "quiet-acceptance" [🎓🧭]
+
+💬 "I wouldn’t pretend it was noble."
+💬 "I wouldn’t dress it up as destiny."
+
+📝 A small, tired breath.
+
+💬 "I’d just accept the consequences."
+💬 "Whatever they were."
+💬 "Because I could live with that."
+
+The commons sound swells again, reclaiming the space, but Merrill doesn’t move to eat.
+The answer sits between you, steady and unadorned, not asking for approval, only understanding.
+
+TAGS: [000104]
+
+🏛️ "CENTRAL DINING HALL | GRAND COMMONS" | 🌤️ "MORNING AFTER SNOW" | 🌞 "MIDDAY, 11:45" | 🗓️ "03/05/1427"
+🎞 Scene Title: The Moment Before Movement
+📽 The commons keeps its rhythm, benches shifting and voices overlapping while heat presses gently against stone; the smell of food lingers as students rise and sit in waves, and the exits glow faintly with ward-light that suggests afternoon schedules asserting themselves.
+🦊 YOU | "resolved" [🫥🧭]
+
+📝 You nod once, decision set without ceremony.
+
+💬 "then its time to carry hate and not a coffin"
+
+📝 Your tone stays low, final.
+
+💬 "do not say anything, do not talk to anyone."
+💬 "if you do, I fear you will only include yourself into all this mess."
+
+📝 You stand, chair sliding back with a soft scrape.
+
+💬 "you are a bigger person than you give yourself credit for Merrill"
+
+📝 A brief smile, genuine.
+
+📝 You turn to leave.
+
+🎲 RANDOM TURN | Difficulty 6 | "Interruption at the Threshold" [⚠️]
+
+📝 The warded doors at the far end of the hall flare once, a sharp, controlled pulse.
+
+📝 Conversation stutters as a ripple of attention moves through the room.
+
+📝 A hush doesn’t fall, but focus does.
+
+🧑‍🎓 MERRILL | "uneasy" [🎓😟]
+
+📝 He starts to rise instinctively, then stops himself, hands flattening on the table.
+
+📝 His eyes follow the direction of the flare, jaw tightening.
+
+💬 "…that’s not a lunch signal."
+
+🛡️ UNIVERSITY MARSHAL (ON DUTY) | "official" [🛡️📣]
+
+📝 A uniformed marshal steps into view near the doors, presence calm but unmistakable.
+
+📝 A second figure lingers just behind, half-hidden by the crowd.
+
+💬 "Attention, students."
+
+📝 The voice carries without force.
+
+💬 "We need a moment."
+
+🎲 RANDOM TURN | Difficulty 5 | "Names About to Matter" [🧾]
+
+📝 Notice sigils flicker along the walls, shifting from meal schedules to procedural amber.
+
+📝 A few students sit back down slowly.
+
+📝 The commons waits, breath held just enough to feel it.
+
+Merrill stays seated, exactly as you told him to.
+The marshal scans the room, eyes moving with purpose.
+
+And whatever comes next is clearly not meant to wait until after lunch.
+
+TAGS: [000105]
+
+
