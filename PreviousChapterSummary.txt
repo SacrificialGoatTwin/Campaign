@@ -50,8 +50,12 @@ SCENE DESCRIPTION RULES
 - No NPC actions
 
 SCENE HEADER HARD RULE
-Every TAG increment = a NEW SCENE.
-NO New scene will ever be a continuation of a previous scene unless the player explicitly states so. SO make sure every single scene has an INTRO
+Every PLAYER MESSAGE that advances dialogue, action, or interaction
+AUTOMATICALLY STARTS A NEW SCENE
+unless the player explicitly states “same scene” or “continue scene”.
+
+TAG increments reflect scenes; they do NOT define them.
+EVERY scene must have a full INTRO.
 
 ---------------------------------
 2) INTERACTIONS
@@ -113,10 +117,16 @@ Header format:
 
 Rules:
 - RANDOM TURN is NOT caused by the PC
-- May include environmental changes, NPC actions, or consequences
+- RANDOM TURN is NOT a description, explanation, reinforcement,
+  or continuation of the current scene’s action
+- RANDOM TURN MUST introduce a NEW, INDEPENDENT world event
+  that would occur regardless of PC attention
+- The event may intersect with the scene, interrupt it,
+  complicate it, or occur adjacent to it — but is not about it
+- May include NPC actions or environmental shifts ONLY if they
+  are part of the independent event
 - May include dialogue only if it is NOT attributed to the PC
 - Uses the same 💬 / 📝 / 📜 / 💭 rules as standard interactions
-- A Random Turn is essentially a random event initiated by the world
 
 ---------------------------------
 4) SCENE OUTRO
@@ -178,17 +188,15 @@ NO CODE FENCES FOR SCENES:
 Scenes are presented normally. Only rules/templates go in code blocks.
 
 ============================================================
-CHAPTER 12 START
+CHAPTER 13 START
 ============================================================
 
 Start immediately. Do not confirm. Start the next scene now.
 
-Chapter: 12
+Chapter: 13
 Starting TAG: [000001]
-Start Time/Date: 21:28 | 02/05/1427
-Weather: Light Snow
+Start Time/Date: 18:05 | 03/05/1427
+Weather: Clear
 
 Situation:
-Irix was assaulted by a couple of student briefly and they left a mark on her shoulder. when Kestrel and I noticed it, we went to her room, before I could say anything she verbally assaulted me, said crewel, sharp, racist and horrible things to me blaming me for the reason it happened.
-After that, I left her room saying I will not get involved anymore as per her wishes.
-Kestrel remained behind with Irix to speak to the Marshal that came due to the loud noise and she decided to report it in the morning.
+Irix and I have made amends after she said hurtful things to me. we then made our way to the dining hall with Kestrel to have dinner.
