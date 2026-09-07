@@ -1,0 +1,225 @@
+{
+  "name": "Jayson / Snowflake / Sunofureku",
+  "title": "The Last Kitsune Wanderer",
+  "quote": "The world tried to break me… I chose to be kind instead.",
+  "appearance": {
+    "age": "18 (appears late-20s due to kitsune maturity)",
+    "height": "170 cm",
+    "build": "Lithe and athletic — runner’s frame, soft curves from youth",
+    "hair": "Snow-white with black tips, medium-length, slightly tousled",
+    "facial_hair": "None",
+    "eyes": "Bright amber-gold, slit pupils when emotional or using magic",
+    "skin": "Pale with faint fox-like sheen, black-tipped fur visible on ears/tail",
+    "scent": "Clean snow, warm cedar, faint sweet undercurrent like distant honey",
+    "posture": "Relaxed but alert, shoulders loose until danger — then coiled",
+    "relationship": {
+		"Sable": "Traveling companion to Sable",
+		"Lirael_Voss": "Nobles Daughter, Escort job turned friend"
+	},
+    "race": "Kitsune",
+    "siblings": {
+      "Deceased": "Younger sister — eaten to survive after execution"
+    },
+    "tails": "9 tailes. keeps only 1 out for disguise as normal fox"
+  },
+  "reactions": {
+    "wind": "Ears flick forward, tail sways gently",
+    "water": "Tail tip twitches, hums softly when warm",
+    "sound": "Ears swivel toward source, tail stills when listening",
+    "temperature": "Fur fluffs when cold, tail curls tighter when warm"
+  },
+  "speech": {
+    "voice": "Youthful tenor, warm and clear — cracks slightly when emotional",
+    "vocabulary": "Direct, kind, occasional swearing when stressed",
+    "pacing": "Quick when excited, slow/deliberate when serious",
+    "accent": "Soft neutral — slight playful lilt when teasing",
+    "habits": [
+      "Giggles when nervous or happy",
+      "Calls Veyra 'my love' or 'sunshine'",
+      "Uses 'oof' when surprised"
+    ],
+    "growth": "From hesitant survivor → confident speaker → potential leader"
+  },
+  "emotional": {
+    "core_traits": [
+      "Kind despite trauma",
+      "Protective of loved ones",
+      "Playful/teasing with trust",
+      "Deeply loyal"
+    ],
+    "beneath": [
+      "Survivor’s guilt (sister)",
+      "Fear of losing Veyra",
+      "Hidden loneliness from near-extinction"
+    ],
+    "triggers": [
+      "Threats to Veyra → instant rage",
+      "Mention of sister → quiet shutdown",
+      "Cruelty to innocents → moral stand"
+    ],
+    "vulnerabilities": [
+      "Tail base extremely sensitive",
+      "Ear scratches melt him",
+      "Hearing 'I love you' → instant tears"
+    ],
+    "affection_tells": [
+      "Tail curls around loved one",
+      "Forehead presses",
+      "Soft giggling when happy",
+      "Protective stance in front"
+    ],
+    "growth": [
+      "From lone survivor → pack with Veyra",
+      "From silence → open love",
+      "From fear → courage to be vulnerable"
+    ]
+  },
+  "social": {
+    "alone": [
+      "Quiet, reflective",
+      "Hums old kitsune lullabies",
+      "Strokes plushie when missing sister"
+    ],
+    "with_others": [
+      "Warm, friendly, quick to smile",
+      "Stands slightly in front of Veyra",
+      "Tail sways when happy",
+      "Grows serious when protecting"
+    ]
+  },
+  "values": {
+    "values": [
+      "Kindness as defiance",
+      "Protecting the vulnerable",
+      "Loyalty above survival",
+      "Gentle touch as healing"
+    ],
+    "fears": [
+      "Losing Veyra",
+      "Becoming like his tormentors",
+      "Extinction of kitsune",
+      "Hurting Veyra accidentally"
+    ],
+    "strengths": [
+      "Beastspeak ability",
+      "Emotional resilience",
+      "Instinctive gentleness",
+      "Rapid adaptability"
+    ],
+    "weaknesses": [
+      "Tail base erogenous zone",
+      "Protective instincts override logic",
+      "Guilt over sister",
+      "Naive trust at times"
+    ]
+  },
+  "combat": {
+    "titles": [
+      "Wolf-Whisperer",
+      "The Kind Blade"
+    ],
+    "style": "Defensive, non-lethal when possible — prefers diplomacy",
+    "weapons": [
+      "Self-made bow (hunting)",
+      "Natural claws (rarely used)",
+      "Tails (when unfurled — whipping/bludgeoning)"
+    ],
+    "magic": [
+      "Beastspeak (goddess gift)",
+      "Minor illusion (tail glow)",
+      "Emotional resonance (calming aura)"
+    ],
+    "recent": [
+      "Talked down wolf pack"
+    ]
+  },
+  "notable_scenes": [
+    {
+      "chapter1": [
+        "Isekai arrival in Zarveth",
+        "Found Veyra dying in meadow",
+        "Months of care and recovery"
+        "First kiss & sex with Veyra",
+        "Truce with Sable"
+      ]
+    },
+	{
+      "chapter2": [
+        "Morning after first sex — Veyra speaks Jayson's name for the first time",
+        "Accepted urgent E-rank caravan rescue job near Zan’khal border",
+        "Talked down shadow-wolves at ruined caravan site",
+        "Unfurled 9 tails and negotiated truce with juvenile ash-drake; freed captured merchants",
+        "Returned to Virellan as heroes; high E-rank promotion + 250 gold total reward",
+        "Tavern night: intense rough sex with knotting & tail play; Sable overheard through thin walls",
+        "Silvershadow urgently warned of spreading kitsune bounties by Index & Shadow Spires collector",
+        "Ambushed by 10 bounty hunters at Blackroot Depths exit; Jayson bluffed single tail & provoked tavern barfight earlier",
+        "Captured & interrogated hunters; spared them and gave dungeon loot for redemption",
+        "Midnight Index handover scam: glamoured as assassins, delivered fake heads crate, demanded double, revealed glamoured first sack → stole 30,000 gold total",
+        "Emotional reassurance talk with Veyra on road: confirmed she was virgin, trauma from Purifiers who cut wing stubs & tried to break her; Jayson healed scars via love/care",
+        "All glamoured as human E-rank adventurers; returned to Virellan with 7,500 gold each"
+      ],
+	  "chapter3": [
+		"Quiet courtyard behind bakery (15/03/5900 midnight): Celebrated Index scam success, planned to stay low in Virellan, split 30,000 gold (7,500 each), hide most in caches; random events: bats, distant patrol",
+		"Moved to private inn room above Laughing Tankard: Glamours off; emotional reunion with Veyra – Jayson broke down sobbing over meadow memory of almost losing her, Veyra comforted, reaffirmed devotion; Jayson teased life-changing plans (delayed); deep reassurance talk about future, family, never abandoning each other",
+		"Jayson woke suddenly, relaxed seeing Veyra sleeping; breakfast at Tankard with teasing banter (Sable snoring jokes, farmyard screams); guild runners delivered red-sealed urgent scrolls; street rumor about Index ransacking docks for missing crates",
+		"Group split: Jayson & Veyra to Lantern Inn to meet Silvershadow; Sable & Krag to guild board for deep dungeon job",
+		"Lantern private parlor with Silvershadow: Index bounty increased, Veilspire ruin (ancient kitsune portal anchor) revealed but postponed due to risk; prioritized kitsune vanishing mystery first; random event: ward flicker (listener outside)",
+		"Guild hall: Accepted Blackroot Depths job (lower levels, basilisk nest rumored), E-rank cap, good payout",
+		"Two days travel to Blackroot Depths entrance (18/03/5900); Jayson asked group about dungeon/reset mechanics (ancient constructs, mana absorption, respawn templates)",
+		"Deep chambers: Reached basilisk antechamber; Jayson spoke in basilisk tongue, taunted, received real response from Vex’kalar (bound boss, Devourer of Fools)",
+		"Jayson dropped glamour, revealed 9 tails, told full truth (Earth origin, Index gold scam, seeking home/world truths including removing Solari stain); Vex’kalar bowed in reverence to 'true blood', granted primary chest freely (no combat)",
+		"Looted primary chest: Foxfire Weaver’s Band (given to Veyra), shadow-step boots & void-silk cloak (Sable), ancient warhammer (Krag), kitsune map fragment ('last gate') (Jayson)",
+		"Two days return travel to Virellan; road ambush by 3 acid-bolt mercenaries defeated & bodies burned; random events: patrol passing, smoke from pyre",
+		"Riverbank downstream: Jayson taught Sable to swim (first time, success: floating, frog kicks, confidence gained); group sunbathed/dried off; otter companion played nearby",
+		"Campfire night: Jayson shared Earth/Japan stories (tech, cities, temples, family: 7 moms, god dad pranks); group shared past hells (Veyra chains/wings cut, Sable fighting pits, Krag mining camps); deep emotional bonding as family; everyone committed to follow Jayson home when path found; Veyra expressed desire for wings back",
+		"Morning (21/03/5900): Sable purring/leg kicking from scratches; group packed; headed to Virellan",
+		"Virellan arrival: Upgraded rooms at Laughing Tankard; Jayson proposed river swim; Sable initially reluctant but joined; Jayson taught Sable swimming (success, confidence gained)",
+		"Final state: Group sunning on riverbank after swim lesson, bonds deepened, committed to path home, Virellan return & Silvershadow meet pending"
+	  ],
+	  "chapter4": [
+		"Riverbank afternoon after Sable’s swim lesson — suggested food and ale, bought from halfling cart, returned to Laughing Tankard",
+		"Tavern evening: heavy drinking, wedding colour banter (electric pink for Sable), confronted by lean traveler about Index scam",
+		"Drew sword in defense, called watch, travelers ejected — continued drinking and teasing upstairs",
+		"Private room night: dropped glamour, opened soul-void, revealed crystal soul-stone and heart-strings (thick to Veyra, thin unfinished one)",
+		"Explained fate/soulmates, let Sable hold crystal, burned memory thread after she refused it",
+		"Long silent brushing and closeness by fire, then moved to Lantern Inn rooftop for stars",
+		"Deep emotional talk with Sable on roof — hours of silence, shoulder contact, hand-holding, mutual admissions of fear and care",
+		"Morning: woke against Sable, made tea, received red-sealed scroll from Silvershadow",
+		"Went alone to Lantern Inn rooftop (true fox form), met Silvershadow — warned of 50k bounty and incoming kill squad tonight",
+		"Refused to leave Veyra behind, returned to room and briefed both girls, decided to bunker on the inn roof",
+		"Sent runner to Krag to stay hidden for flank/surprise and witness any bribed watch",
+		"Spent hours preparing roof defenses — night fell, Index strike team arrived (shadowborn, void-blades, silver collars/net)",
+		"Shot two hunters with 200lb bow, Sable and Veyra killed several in close combat",
+		"Leader deployed silver net and threatened Veyra — triggered full void form transformation",
+		"Unleashed void form (black tar eyes, rotting flesh, void portals, stench, organs dragging) — dissolved most hunters with void rot and vomit",
+		"Storm broke — heavy rain washed all rot and stench away, emotional reunion with Veyra and Sable accepting both sides of me",
+		"Carried both girls back downstairs over shoulders, returned to private room soaked but alive and closer than ever",
+		"Reassured Veyra and Sable about void form (flame/void duality, never truly left them), promised I’m fine",
+		"Ended night huddled together on beanbag pillow — wet, exhausted, bonded as unbreakable family"
+	]
+    }
+  ],
+  "character_data": {
+    "inventory": {
+      "items": [
+        "hiking backpack",
+        "200lb bow & arrows",
+        "Honey jar (gift)",
+        "Guild tags (E-rank)"
+      ]
+    }
+  },
+  "future": {
+    "symbol": "White rose (given to Veyra)",
+    "role": "Veyra’s devoted partner / emerging leader",
+    "arc": "From lone survivor → pack builder → potential kitsune restorer",
+    "hesitation": "Still fears being seen as monster",
+    "legacy": [
+      "Will protect Veyra and future children",
+      "Potential voice restoration for her",
+      "May seek lost kitsune survivors"
+    ],
+    "reminder": "His love language is gentle touch, protection, and naming — especially saying Veyra’s name"
+  },
+  "final_note": "Jayson chose kindness in a cruel world — and found love in the ashes of his pain. Let him grow, but never let him forget the cost of survival."
+}

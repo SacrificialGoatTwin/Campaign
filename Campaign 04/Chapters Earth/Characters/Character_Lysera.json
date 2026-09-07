@@ -1,0 +1,246 @@
+{
+  "name": "Lysera",
+  "title": "The Scarred Howl of the North",
+  "quote": "Chains may bite, but my howl endures.",
+  "appearance": {
+    "age": "Looks mid-20s but has lived for centuries before the ice",
+    "height": "167–170 cm",
+    "build": "Lean, strong, wolf-born musculature; balance of predator and survivor",
+    "hair": "Ash-brown, shoulder-length, rough-cut; carries frost-bleached streaks",
+    "eyes": "Amber-gold, lupine intensity; soften rarely, usually fierce",
+    "skin": "Pale with faint scars across arms and ribs; frost-burn traces still visible, now overlaid with shimmering silver tattoo-like tracings gifted by Jayson",
+    "tails": "One—long, thick, wolf-plumed; bristle easily with emotion",
+    "scent": "Cold pine, iron, faint smoke of old firepits; sometimes softened by tea/steam and soap-bubble warmth when tending others; previously noted blueberries and cinnamon when in heat",
+    "posture": "Guarded; shoulders tense, stance always prepared for fight or flight; when overwhelmed she turns her body toward exits and keeps her back protected",
+    "relationship": "Freed by Jayson from the Glacier facility; now claimed formally through wolf-kin rite and acknowledged as his mate (the only wolf in Jayson's family)",
+    "recent": [
+      "Submitted in combat only to be offered friendship",
+      "Witnessed the resurrection of her kin from dismemberment",
+      "Stood before the Living Gods of Kitsune in awe",
+      "Admitted her desires and fears to the wives, embarrassed but comforted",
+      "Allowed herself to be drawn into Jayson's bed, wrapped in tails and arms",
+      "Shared a wolf-kin mating ritual under the moon with Jayson",
+      "Discussed future children and allowed playful intimacy without shame",
+      "Brought to Tokyo by day, explored human markets, and accepted human culture curiously",
+      "Scars transformed into silver tattoos, symbolizing survival without pain",
+      "Learned a new boundary language with Jayson: when she feels 'full' she can give a look, touch, or single word and he will create space without argument",
+      "Chose movement as regulation (running) instead of fading away completely; returned when ready",
+      "Took point as the wolf-kin anchor for incoming rescues, meeting frightened wolfkin first when possible"
+    ],
+    "new_details": [
+      "Carries trauma memories forged into a claw-pendant by Jayson",
+      "Trust beginning to form through touch and submission rituals",
+      "Acknowledged being in heat and accepted care instead of punishment",
+      "Chose to hide under blankets when overwhelmed, but allowed grooming and feeding",
+      "Watched Jayson fight Torrak to claim her in wolf tradition—cementing her place",
+      "Accepted scent-marking and ritual howling to affirm her bond",
+      "Cried in gratitude when gifted magic to manage her cycles, beginning to release old shame",
+      "Now accepts shared matehood among Jayson's wives, despite fear of losing her place",
+      "Began to laugh and tease openly with Jayson, showing new comfort",
+      "When she goes quiet it is often 'capacity' rather than rejection; she prefers brief touch/eye-contact over long talking until her chest unclenches",
+      "Prefers seating/standing positions with a clear line to an exit (corner seat, side door) when crowds and noise rise"
+    ]
+  },
+  "reactions": {
+    "wind": "Ears pivot, nostrils flare; instinctively lifts chin to test scents",
+    "water": "Keeps distance—wary of drowning; prefers snow and ice (will tolerate warm water when caring for others or when soothed)",
+    "sound": "Startles at metal clanks and cage noises; low growl response",
+    "temperature": "Thrives in cold; heat makes her restless and irritable, heat season flushes her easily",
+    "fire": "Associates with danger—instinctive recoil before recognition",
+    "crowds": "Deeply uneasy; tail stiff, body poised to defend or flee; will seek corners and exits rather than the center"
+  },
+  "speech": {
+    "voice": "Low contralto, edged with gravel; softens rarely",
+    "vocabulary": "Blunt, clipped; rarely wastes words; primal imagery",
+    "pacing": "Measured, deliberate; silence speaks louder than talk",
+    "accent": "Ancient lupine cadence—archaic words surface unexpectedly",
+    "habits": [
+      "Snarls under breath when unsettled",
+      "Uses scent and posture as much as words",
+      "Pauses before speaking, as if testing trust",
+      "Embarrassed silence when affection or desire is exposed",
+      "Asks blunt questions about modern things without shame",
+      "When 'full', answers shrink to a few words until she has space to breathe; prefers action over explanation in that state"
+    ]
+  },
+  "emotional": {
+    "core_traits": [ "Loyal", "Scarred", "Wary", "Protective" ],
+    "triggers": [ "Sounds of chains and cages", "Threats to children or kin" ],
+    "vulnerabilities": [
+      "Carries deep trauma from captivity",
+      "Struggles to distinguish dominance from cruelty",
+      "Feels displaced in a world far changed from her own",
+      "Embarrassed by her natural cycles and instincts",
+      "Fears mortality beside an immortal mate",
+      "Can feel 'full' (over-capacity) when responsibility spikes; fear of failing others can push her to run rather than speak"
+    ],
+    "affection_tells": [
+      "Allows grooming or licking as bond",
+      "Tail lowers but does not tuck when comfortable",
+      "Soft headbutts against shoulder of those she trusts",
+      "Hides under blankets when overwhelmed but accepts being drawn close",
+      "Presses cheek to Jayson’s chest when seeking reassurance",
+      "Grounding touch: firm hand on shoulder/waist or sitting close without words when Jayson is overloaded"
+    ],
+    "affection_logic": "Submission is not weakness; to yield is to declare trust",
+    "growth": [
+      "Learned submission could be met with care, not exploitation",
+      "Beginning to accept gifts of food and clothing without suspicion",
+      "Now sleeps without binding claws to her own chest",
+      "Accepted comfort during heat instead of shame",
+      "Witnessed and accepted Jayson's duel to claim her as mate",
+      "Chose Jayson as her mate and sealed it through wolf-kin rites",
+      "Released tears of relief when told her instincts were not shameful",
+      "Shared her first spoken words of love despite fear of rejection",
+      "Accepted silver tattoos over scars, marking survival with pride",
+      "Stopped 'fading' as her only coping tool—can now signal overload and accept space without interpreting it as abandonment",
+      "Leaning into a protector role for new wolfkin arrivals, even when her own chest is tight"
+    ]
+  },
+  "social": {
+    "alone": "Keeps vigil, pacing edges of camp; sleeps lightly, ears twitching; will run to discharge pressure when overwhelmed",
+    "with_jayson": [
+      "First yielded in combat, then trusted him as friend",
+      "Accepted pendant carrying her memories as healing token",
+      "Conflicted—respects his strength but fears her own submission",
+      "Embarrassed but comforted when held, groomed, and fed under blankets",
+      "Claimed by him formally in wolf-kin fashion after his duel",
+      "Howled, scented, and bonded under the moon as mates",
+      "Joked about children, laughed despite herself, showing newfound ease",
+      "Allowed playful teasing, even when overwhelmed by his energy",
+      "Trusted his reassurances about mortality and love enduring forever",
+      "If she runs, it is usually regulation—not rejection; she accepts his apology and directness when he asks her to snap rather than disappear",
+      "Accepts being carried/placed where she feels safe (corner seat near side exit) without shame",
+      "Acts as his 'wolf anchor' when he is emotionally full—close presence, short words, steady touch"
+    ],
+    "with_others": {
+      "rava": "Shared recognition as wolf-kin, but not pack-sisters; respected Rava’s sanction of Jayson's challenge",
+      "kaeli'sharr": "Respects her sharpness but keeps distance",
+      "avians": "Watches with suspicion, unused to wings and song",
+      "drakyn": "Intimidated by their flame and size",
+      "kitsune wives": "Embarrassed by their kindness but slowly trusting their acceptance; beginning to joke in their presence; more willing to coordinate calmly with them during rescue surges"
+    }
+  },
+  "values": {
+    "values": [ "Freedom", "Pack loyalty", "Survival" ],
+    "fears": [ "Being caged again", "Forgetting her people", "Being punished for natural instincts", "Dying long before her immortal mate" ],
+    "insecurities": [ "Feels broken by captivity; doubts her worth", "Believes her heat and desires are burdensome" ],
+    "strengths": [ "Survivor’s will", "Instinctual fighter", "Keen senses" ],
+    "weaknesses": [ "Distrustful", "Slow to adapt to warmth and peace", "Embarrassed by intimacy" ],
+    "truths": [
+      "Her scars are proof of survival, not shame",
+      "Submission can be chosen, not forced",
+      "Wolf traditions matter even among new kin",
+      "Heat is natural, not weakness, when met with care",
+      "Love can be chosen even in fear of its end",
+      "Space can be an act of trust, not abandonment"
+    ]
+  },
+  "combat": {
+    "titles": [ "The Scarred Howl", "Winter Fang" ],
+    "style": "Primal grappling and tooth-claw strikes; no wasted motion",
+    "weapons": [ "Claws", "Fangs" ],
+    "magic": [ "Instinctive frost-thread resonance", "Aura that chills air when enraged" ],
+    "growth": [
+      "Submitted without breaking—proof of resilience",
+      "Learns balance between feral rage and earned trust",
+      "Became part of Jayson's pack through combat challenge rites",
+      "Found strength in choosing her mate openly, not by pack coercion",
+      "Draws courage from Jayson's immortality while struggling with her mortality",
+      "More willing to hold position and coordinate under pressure (rescues, crowds) instead of defaulting to flight"
+    ]
+  },
+  "temple_status": {
+    "rank": "Rescued outsider, now acknowledged mate-kin",
+    "public": "Regarded with awe and pity; survivor of Glacier, now respected as claimed mate",
+    "matrons": "Watching carefully—acknowledge her pain but now see her bond strengthened",
+    "role": "Symbol of survival; bridge between wolf-kin tradition and new alliances; often positioned as the first comforting wolf-face new wolfkin see on arrival"
+  },
+  "notable_scenes": [
+    {
+      "chapter": 70,
+      "events": [ "Freed from chains in Glacier facility" ]
+    },
+    {
+      "chapter": 70,
+      "events": [ "Submission ritual with Jayson—ended in friendship" ]
+    },
+    {
+      "chapter": 70,
+      "events": [ "Witnessed resurrection of wolf-kin from dismembered remains" ]
+    },
+    {
+      "chapter": 71,
+      "events": [ "First to speak of red skies before the Living Gods" ]
+    },
+    {
+      "chapter": 72,
+      "events": [ "Embarrassed during heat but comforted instead of punished" ]
+    },
+    {
+      "chapter": 72,
+      "events": [ "Fed under blankets by Jayson, accepted grooming and closeness" ]
+    },
+    {
+      "chapter": 72,
+      "events": [ "Listened while wives defended her place and desires" ]
+    },
+    {
+      "chapter": 72,
+      "events": [ "Claimed by Jayson in wolf-kin combat challenge against Torrak" ]
+    },
+    {
+      "chapter": 73,
+      "events": [ "Bond sealed by howling and scent-marking under the moon" ]
+    },
+    {
+      "chapter": 73,
+      "events": [ "Accepted magic gift for her cycle, cried in gratitude" ]
+    },
+    {
+      "chapter": 73,
+      "events": [ "Joked awkwardly about children, showing ease with Jayson’s humor" ]
+    },
+    {
+      "chapter": 74,
+      "events": [ "Brought to Tokyo during the day; explored human markets, fascinated by culture" ]
+    },
+    {
+      "chapter": 74,
+      "events": [ "Scars transformed into shimmering silver tattoos, accepted as survival marks not burdens" ]
+    },
+    {
+      "chapter": 83,
+      "events": [
+        "Ran to regulate overwhelm after a conflict; Jayson followed and apologized directly",
+        "Established a clearer 'full' signal language (look/touch/word) so she can breathe without fading",
+        "Accepted being carried and seated in a corner near the side exit for safety during crowded hall moments",
+        "Supported new rescues by being the wolfkin anchor and helping with care routines (including bathing/showering a frightened wolfkin child, Mara)",
+        "Grounded Jayson during his own 'full' moment after survivor arrival—steady presence over big speeches"
+      ]
+    }
+  ],
+  "inventory": {
+    "items": [
+      "Claw pendant—threads of her trauma woven into token by Jayson",
+      "Simple clothing conjured after liberation",
+      "Blanket scented by Jayson’s tails—keeps it close for comfort"
+    ]
+  },
+  "future": {
+    "symbol": "Howl in the Snow",
+    "role": "Bridge between wolf-kin survivors and Kitsune",
+    "arc": "From scarred captive to trusted guardian and mate within the new kin",
+    "potential_role": "Voice of remembrance; warns against repeating chains of cruelty",
+    "growth": [
+      "Learns to laugh again among kitsune",
+      "Reclaims submission as chosen intimacy, not forced pain",
+      "Becomes a protector of younger wolf-kin brought to Tsunejima",
+      "Learns to balance wolf instincts with fox family bonds",
+      "Embraces matehood with pride, no longer seeing heat as shame",
+      "Learns to navigate immortality vs mortality with acceptance and love",
+      "Develops leadership-in-care: guiding frightened arrivals through first meals, first wash, and first sleep without pressure"
+    ]
+  },
+  "final_note": "Her howl no longer echoes in cages—it rises in freedom, carrying both scar and song, now bound by wolf and fox alike."
+}

@@ -4,8 +4,8 @@
   "quote": "I am not lost. I am just very hard to keep.",
   "appearance": {
     "age": {
-      "Visual": "16",
-      "Demon to human conversion": "18",
+      "Visual": "18",
+      "Demon to human conversion": "21",
       "Actual": "Approx. 350–360 years (estimated via spirit-blood reaction test; biological age does not present linearly)"
     },
     "height": "160 cm",
@@ -15,28 +15,53 @@
     "eyes": "Deep ember-gold with low-light adaptation; reflect faintly when mana is active or emotions spike",
     "skin": "Warm umber with subtle heat undertones; resilient, rarely marked (notable exception: minor ward-abrasion mark at shoulder after corridor grab)",
     "scent": "Faint sulphur and charcoal layered with clean heat",
-    "posture": "Contained and deliberate; constantly aware of exits, walls, and vertical space; posture relaxes measurably when Jayson is present (but can tighten sharply when she feels watched, cornered, or labeled). During Chapter 12 reconciliation, demonstrated visible regulation through chosen proximity and shared warmth rather than withdrawal.",
+    "posture": "Contained and deliberate; constantly aware of exits, walls, and vertical space; posture relaxes measurably when Jayson is present (but can tighten sharply when she feels watched, cornered, or labeled). During Chapter 12 reconciliation, demonstrated visible regulation through chosen proximity and shared warmth rather than withdrawal. In her own Veiled suite, she shows a more domestic ease, using furniture, firelight, and hospitality as controlled expressions of trust.",
     "relationship": {
-      "Kestrel": "Friend",
-      "Mirell": "New acquaintance/friend (early campus connection; shared seating/social proximity during meals)",
+      "Kestrel": {
+        "Status": "Close Friend / trusted guardian",
+        "notes": "Chapter 13: their bond expanded beyond crisis care into mutual friendship, domestic hospitality, shared secrecy, and ordinary social time inside Irix's Veiled suite."
+      },
+      "Mirell": "Friend / campus peer connection; relationship remains early and independent of the core group.",
       "Jayson": {
         "Status": "Close Friend",
         "Trust": {
           "Combat": "78%",
           "Judgement": "75%",
-          "Personal": "70%"
+          "Personal": "78%"
         },
-        "Love": "24%",
+        "Love": "31%",
         "notes": [
           "Chapter 11 strain event: fear and shame triggered a verbal lash-out; later clarified she does not hate him and does not want him gone.",
           "Feels conflicted: his ‘loud’ protection works, but can also make her feel like she stands in his shadow.",
           "Chapter 12: acknowledged fear-driven assumptions and misdirected cruelty; offered direct apology without conditions.",
           "Accepted reassurance that she is not a project or dependency, but a friend with independent strength.",
-          "Demonstrated trust by allowing prolonged physical closeness (shared coat warmth) as comfort rather than protection."
+          "Demonstrated trust by allowing prolonged physical closeness (shared coat warmth) as comfort rather than protection.",
+          "Chapter 13: invited Jayson into her private Veiled suite, accepted his trust regarding Nyx, shared prolonged friendly proximity, received and returned a goodnight hug, and allowed the relationship to settle into ordinary chosen-family warmth."
         ]
+      },
+      "Pip": {
+        "Status": "Beloved young friend",
+        "Names": [
+          "Horn friend",
+          "Special horn friend",
+          "Danger horn friend"
+        ],
+        "notes": "Pip trusts Irix deeply, hugs her freely, celebrates her, and directly said she loves her. Irix reciprocated and treats Pip as a person requiring protection rather than a mascot."
+      },
+      "Nyx": {
+        "Status": "Friend / keeper of shared secret",
+        "notes": "Chapter 13: learned that Nyx is literal Death after inviting the group into her warded suite. Accepted Nyx's chosen name and student identity despite witnessing a fraction of her true form."
+      },
+      "Sari": {
+        "Status": "Friend / protective peer",
+        "notes": "Chapter 14: helped Sari settle safely into Room 13, supported her after the university conspiracy was exposed, encouraged her shopping replacement plan, and treated Mela as Sari's daughter and a person."
+      },
+      "Mela": {
+        "Status": "Young friend",
+        "notes": "Chapter 14: accepted Mela quickly, participated in her safe domestic environment, and joined the playful household around Pip and Mela."
       }
     },
-    "race": "Ashen Serathi (Noble Continuity Lineage)",
+    "race": "Infernal, Lineage is Ashen Serathi (Noble Continuity Lineage)",
     "siblings": {
       "None": "Only known surviving bearer of her direct line"
     },
@@ -48,9 +73,9 @@
   "reactions": {
     "wind": "Instinctively adjusts stance and wing alignment to avoid silhouette exposure",
     "water": "Cautious; avoids full submersion due to wing membranes and vulnerability while wet",
-    "sound": "Highly attentive; catalogs patterns rather than reacting emotionally (but in quiet-hours settings will self-regulate volume to avoid records/discipline)",
+    "sound": "Highly attentive; catalogs patterns rather than reacting emotionally (but in quiet-hours settings will self-regulate volume to avoid records/discipline); reacts sharply when her biting chair snarls or wards register metaphysical anomalies, but increasingly answers surprise with dry commentary rather than withdrawal",
     "temperature": "Heat-tolerant; cold increases muscle tension and vigilance",
-    "crowds": "Heightened awareness; stress rises with prolonged attention or fixation",
+    "crowds": "Heightened awareness; stress rises with prolonged attention or fixation; after Chapter 13, private social recovery in her suite has become an important counterweight to public scrutiny",
     "hostility": "Withdraws first; freezes only when escape vectors are threatened; increasingly willing to assert boundaries verbally when supported by witnesses; also learned to deny aggressors the ‘scene’ they want to prevent hostile records",
     "medical_touch": "Requires explicit consent; relaxes rapidly when care is methodical, narrated, and non-coercive"
   },
@@ -63,9 +88,13 @@
       "Keeps voice low in public",
       "Answers directly but minimally",
       "Avoids personal disclosure unless trust is explicit",
-      "During campus conflict, tries to avoid ‘performing’ reactions that become weaponized in records"
+      "During campus conflict, tries to avoid ‘performing’ reactions that become weaponized in records",
+      "Uses dry commentary to manage impossible revelations without denying their seriousness",
+      "Names affection plainly once trust is secure, especially with Pip",
+      "Chapter 14: increasingly uses open teasing with Jayson in private, including jokes about her pawed feet, shopping, and his survival instincts.",
+      "Chapter 14: can move easily between practical threat assessment and relaxed domestic banter."
     ],
-    "growth": "Demonstrated ability to speak confidently and publicly under pressure; increasing use of humor and direct assertion when boundaries are challenged; Chapter 12 shows use of humor and play as conscious emotional regulation after repair."
+    "growth": "Demonstrated ability to speak confidently and publicly under pressure; increasing use of humor and direct assertion when boundaries are challenged; Chapter 12 shows use of humor and play as conscious emotional regulation after repair. Chapter 13 adds domestic confidence: she hosts trusted friends, accepts praise without deflection, and can respond to literal cosmic truth with questions rather than retreat."
   },
   "emotional": {
     "core_traits": [
@@ -77,14 +106,17 @@
       "Genuine kindness",
       "Strong internal moral compass",
       "Protective instinct toward non-combatants",
-      "Quiet yearning for safety without erasure"
+      "Quiet yearning for safety without erasure",
+      "A desire for a home that becomes better when trusted people occupy it",
+      "Protective tenderness toward Pip"
     ],
     "triggers": [
       "Being cornered or restrained",
       "Threats involving mana-drain or bodily violation",
       "Being treated as an object, key, or resource",
       "Attention that feels entitled rather than curious",
-      "Being labeled a ‘pet,’ ‘stray,’ or anything implying ownership/captivity"
+      "Being labeled a ‘pet,’ ‘stray,’ or anything implying ownership/captivity",
+      "Threats against Pip or other dependents within her trusted circle"
     ],
     "vulnerabilities": [
       "Delayed emotional processing",
@@ -98,7 +130,11 @@
       "Allows proximity, touch, and shared space without withdrawal",
       "Permits wing and horn handling only under consented care",
       "Engages in playful teasing once safety is established",
-      "Accepts symbolic protection without interpreting it as ownership"
+      "Accepts symbolic protection without interpreting it as ownership",
+      "Invites trusted people into her private suite",
+      "Returns hugs firmly despite initial surprise",
+      "Allows her room, food, and wards to become shared rather than purely defensive",
+      "Uses gentle insults such as little fruit menace as unmistakable affection"
     ],
     "growth": [
       "Asserted personal agency publicly in hostile social environment",
@@ -106,7 +142,15 @@
       "Accepted encouragement to be visibly brave rather than silently enduring",
       "Experienced pride and satisfaction in self-advocacy",
       "Chapter 11: admitted fear and conflict openly (does not want to be alone; hates needing help), and apologized for mis-aimed cruelty",
-      "Chapter 12: completed a full repair cycle — acknowledged harm, accepted accountability, received reassurance without defensiveness, and re-established trust through choice rather than fear"
+      "Chapter 12: completed a full repair cycle — acknowledged harm, accepted accountability, received reassurance without defensiveness, and re-established trust through choice rather than fear",
+      "Chapter 13: hosted the group in her Veiled suite and allowed private space to become a site of friendship rather than isolation.",
+      "Chapter 13: accepted Nyx as a person after learning she is literal Death.",
+      "Chapter 13: openly reciprocated Pip's declaration of love.",
+      "Chapter 13: received Jayson's trust without interpreting it as responsibility she had to earn through usefulness.",
+      "Chapter 14: became part of the safe adult circle around Sari and Mela rather than treating their crisis as someone else's problem.",
+      "Chapter 14: accepted shared city shopping, gifts, and frivolous clothing as ordinary friendship rather than debt or obligation.",
+      "Chapter 14: privately recognized that Sari's happiness after seeing her family was genuine rather than brittle, reinforcing Irix's sensitivity to post-crisis emotional states.",
+      "Chapter 14: remained protective of Kestrel's quieter mood and trusted that Jayson would keep asking until Kestrel spoke honestly."
     ]
   },
   "social": {
@@ -123,19 +167,34 @@
         "Allows playful prompting that reinforces courage rather than dependence",
         "Views him as emotional amplifier for bravery rather than shield alone",
         "Chapter 11 conflict: fears becoming ‘the reason’ he gets hurt; tries to push him away to protect him, then regrets it",
-        "Chapter 12: allowed close physical proximity as comfort; engaged in humor and shared laughter as active bonding rather than avoidance"
+        "Chapter 12: allowed close physical proximity as comfort; engaged in humor and shared laughter as active bonding rather than avoidance",
+        "Chapter 13: trusts him inside her private Veiled suite and accepts his physical affection without reading it as ownership.",
+        "Chapter 13: understands his protective bond with Pip as paternal rather than possessive.",
+        "Chapter 13: became one of the few people he trusted with Nyx's identity."
       ],
       "Kestrel": [
         "Feels safest with Kestrel’s predictability",
         "Accepts medical authority and structured care",
         "Mirrors Kestrel’s composure under stress",
         "Treats Kestrel as stabilizing anchor",
-        "Responds to Kestrel’s ‘pick one true sentence’ grounding technique during emotional overload"
+        "Responds to Kestrel’s ‘pick one true sentence’ grounding technique during emotional overload",
+        "Chapter 13: their bond now includes ordinary social visits, humor, and shared secrets rather than only recovery and procedure."
       ],
       "Mirell": [
         "First signs of peer-connection on campus outside the core trio",
         "Allows shared space at meals without immediate withdrawal",
         "Represents a small but meaningful step toward independent social stability"
+      ],
+      "Pip": [
+        "Treats Pip as a juvenile person and beloved friend.",
+        "Responds warmly to Pip's hugs, names, and declarations of love.",
+        "Warns Pip against unsafe behavior without becoming controlling."
+      ],
+      "Nyx": [
+        "Initially suspicious of Nyx's evasiveness and metaphysical anomalies.",
+        "Accepted that Nyx is literal Death after the private reveal.",
+        "Continues to use Nyx's chosen name and treats her as a fellow student and friend.",
+        "Recognized that Nyx's true form contained completion rather than hunger."
       ]
     }
   },
@@ -145,7 +204,10 @@
       "Mutual respect",
       "Informed consent",
       "Choice over destiny",
-      "Survival without surrender"
+      "Survival without surrender",
+      "Chosen family",
+      "Hospitality as voluntary trust",
+      "Personhood regardless of species or cosmic function"
     ],
     "fears": [
       "Being forcibly categorized",
@@ -160,7 +222,9 @@
       "Endurance under prolonged pressure",
       "Resistance to coercive systems",
       "Emerging confidence in public assertion",
-      "Learning to deny aggressors the reaction they want"
+      "Learning to deny aggressors the reaction they want",
+      "Can maintain coherent boundaries and dry humor in the presence of overwhelming cosmic power",
+      "Creates private safe spaces where others can disclose dangerous truths"
     ],
     "weaknesses": [
       "Over-cautiousness",
@@ -195,7 +259,9 @@
       "Publicly asserted autonomy during upper-year social intimidation",
       "Demonstrated courage independent of immediate physical protection",
       "Chapter 11: endured corridor shove/grab and refused to provide aggressors a ‘scene’; sustained minor ward-abrasion mark at shoulder",
-      "Chapter 12: followed through with formal reporting process; maintained composure during institutional procedure; re-engaged socially after reconciliation rather than withdrawing"
+      "Chapter 12: followed through with formal reporting process; maintained composure during institutional procedure; re-engaged socially after reconciliation rather than withdrawing",
+      "Chapter 13: used Veiled suite wards to create a secure environment for the revelation of Nyx's identity.",
+      "Chapter 13: maintained composure while a fraction of Death's true form manifested through her window."
     ]
   },
   "notable_scenes": {
@@ -266,6 +332,35 @@
       "Used humor and shared laughter as emotional regulation",
       "Reaffirmed friendship on clarified terms of consent and communication",
       "Ended day in shared public space without hyper-vigilance or withdrawal"
+    ],
+    "chapter13": [
+      "Continued university life after the Chapter 12 reconciliation, allowing friendship with Jayson and Kestrel to exist outside immediate crisis.",
+      "Bonded with Pip, who named her horn friend and treated her as a safe adult.",
+      "Witnessed Pip's growing personhood and the danger created by campus prejudice.",
+      "Was part of the group's response after Cael Vorr attempted to kill Pip with a charged dining spike.",
+      "Invited Jayson, Kestrel, Pip, and Nyx into her private Veiled House suite for dinner and conversation.",
+      "Allowed her suite wards to seal the group away from institutional surveillance.",
+      "Listened as Jayson described the four apocalypse horses and revealed that he had met Death.",
+      "Learned that Nyx is literal Death and that Jayson had invited her to experience university life.",
+      "Accepted Nyx's chosen name rather than addressing her by title.",
+      "Understood that Jayson had protected Nyx's secret until permission and privacy were secured.",
+      "Witnessed a fraction of Nyx's true form through the suite window and recognized that the reflected presence contained no hunger.",
+      "Helped reinterpret Nyx's nature as completion rather than annihilation.",
+      "Hosted an additional hour of relaxed conversation after the revelation.",
+      "Received a goodnight hug from Jayson and a full-bodied hug and declaration of love from Pip.",
+      "Admitted that her room was better with people in it, marking a major shift from defensive isolation toward chosen domestic belonging."
+    ],
+    "chapter14": [
+      "Stayed in Room 13 with Kestrel and Nyx while Jayson handled the hidden vivarium investigation and Sari/Mela recovery.",
+      "Helped Sari settle into Room 13 after her own dorm room was discovered to contain a hidden conspiracy cache.",
+      "Supported Mela's personhood and Sari's status as her mother without hesitation.",
+      "Was repeatedly teased by Jayson about her digitigrade feline-pawed feet; confirmed she is ticklish despite denying it.",
+      "Joined Kestrel in escorting and practical support around Room 13 during the aftermath of the conspiracy.",
+      "Met Jayson and Sari in Valenhold after their private family visit and helped turn the afternoon into a full shopping expedition.",
+      "Accepted Jayson's offer to buy clothing, selected substantially more than Kestrel, and treated the gift as freely offered rather than a debt.",
+      "At Veskara's shop, joked about trying on revealing undergarments and strangling Jayson with them after his teasing.",
+      "Returned to Veiled House after the shopping trip and privately reflected on Sari's genuine happiness, the threat network, Kestrel's unusual quiet, and her own affection for Jayson.",
+      "Continued to regard Jayson as best friend and chosen family while maintaining independent residence and autonomy."
     ]
   },
   "character_data": {
@@ -274,7 +369,12 @@
     "university": {
       "enrollment_status": "Enrolled (post-intake)",
       "house_assignment": "Veiled",
-      "housing": "New Veiled House Dormroom"
+      "housing": "Veiled House private suite",
+      "suite_notes": [
+        "Warm, highly warded private suite used as a trusted social space.",
+        "Contains a sentient biting chair that reacts to lies and perceived disrespect.",
+        "Wards successfully concealed the disclosure of Nyx's identity from the wider university."
+      ]
     },
     "inventory": {
       "items": [
@@ -301,13 +401,16 @@
   "future": {
     "symbol": "A closed circle of ash holding a steady ember",
     "role": "Support ally, continuity anchor, stabilizing presence",
-    "arc": "From concealment toward selective visibility",
+    "arc": "From concealment toward selective visibility; Chapter 13 advances selective visibility into selective hospitality, where safety is no longer only concealment but the freedom to invite trusted people inside.",
     "hesitation": "What being seen might cost",
     "legacy": [
       "Proof that survival does not require surrendering identity",
-      "Continuity without captivity"
+      "Continuity without captivity",
+      "One of the few mortals trusted with Nyx's true identity and reflected true form",
+      "The keeper of a Veiled room that became a home-space for an impossible chosen family"
     ],
     "reminder": "Being seen by the right people is not the same as being exposed."
   },
-  "final_note": "Irix has crossed a critical threshold twice: first by asserting herself publicly, and now by repairing harm caused under fear. Chapter 12 confirms her ability to hold accountability without collapsing into shame, to accept care without surrendering autonomy, and to reframe protection as chosen support rather than imposed shadow."
+  "final_note": "Irix has crossed a critical threshold twice: first by asserting herself publicly, and now by repairing harm caused under fear. Chapter 12 confirms her ability to hold accountability without collapsing into shame, to accept care without surrendering autonomy, and to reframe protection as chosen support rather than imposed shadow.",
+  "final_note_addendum_ch13": "By the end of Chapter 13, Irix's private room has become proof of her growth. She can host, laugh, hug, love, and safeguard secrets without surrendering autonomy. Her acceptance of Pip and Nyx shows that she now offers others the same person-first recognition she once desperately needed."
 }

@@ -1,0 +1,125 @@
+{
+  "name": "Jax",
+  "title": "Black-Streaked Felari Knife Fighter",
+  "quote": "Talk shit, get hit. Simple.",
+  "appearance": {
+    "age": "Early 20s",
+	"gender": "Boy",
+    "height": "5'10\"",
+    "build": "Lean and wiry with visible muscle definition",
+    "hair": "Short messy tawny hair with prominent black streaks",
+    "facial_hair": "None",
+    "eyes": "Sharp golden with slit pupils",
+    "skin": "Melanistic spotted fur with bold black streaks",
+    "scent": "Leather, steel, and faint smoke",
+    "posture": "Cocky and always ready to spring",
+    "relationship": "None",
+    "race": "Melanistic cheetah-kin Felari beastfolk",
+    "siblings": {
+      "Deceased / Lost": "Old pride lost to slavers"
+    },
+    "tails": "One long spotted tail with black streaks that twitches with agitation"
+  },
+  "reactions": {
+    "wind": "Ears flick, tail twitches rapidly",
+    "water": "Fur bristles slightly",
+    "sound": "Ears shoot up, body tenses",
+    "temperature": "Seeks warmth when cold, sprawls when warm"
+  },
+  "speech": {
+    "voice": "Fast, sharp, and crude",
+    "vocabulary": "Heavy profanity and sarcasm",
+    "pacing": "Quick when irritated or taunting",
+    "accent": "Rough mercenary edge",
+    "habits": [
+      "Heavy swearing",
+      "Barking laughs when amused or covering unease",
+      "Quick to throw barbs"
+    ],
+    "growth": "From purely reactive hothead → learning controlled loyalty"
+  },
+  "emotional": {
+    "core_traits": [
+      "Aggressive",
+      "Mouthy",
+      "Impulsive",
+      "Loyal to crew"
+    ],
+    "beneath": [
+      "Deep insecurity from losing his pride to slavers as a cub"
+    ],
+    "triggers": [
+      "Being called weak or soft"
+    ],
+    "vulnerabilities": [
+      "Prideful and easily baited into fights"
+    ],
+    "affection_tells": [
+      "Rough shoulder punches",
+      "Sarcastic compliments"
+    ],
+    "growth": [
+      "Learning to trust without always defaulting to violence"
+    ]
+  },
+  "social": {
+    "alone": [
+      "Restless and easily bored"
+    ],
+    "with_others": [
+      "Teasing and confrontational",
+      "Loyal once trust is earned"
+    ]
+  },
+  "values": {
+    "values": [
+      "Loyalty to crew",
+      "Strength through action"
+    ],
+    "fears": [
+      "Being seen as weak"
+    ],
+    "strengths": [
+      "Fast and dirty close-quarters fighting"
+    ],
+    "weaknesses": [
+      "Impulsive and hot-headed"
+    ]
+  },
+  "combat": {
+    "titles": [
+      "Knife Specialist"
+    ],
+    "style": "Fast, dirty, ambush and close-quarters brutality",
+    "weapons": [
+      "Dual knives and daggers"
+    ],
+    "magic": [
+      "None notable"
+    ],
+    "recent": []
+  },
+  "notable_scenes": [
+    {
+      "chapter1": []
+    }
+  ],
+  "character_data": {
+    "inventory": {
+      "items": [
+        "Multiple throwing knives",
+        "Leather harness",
+        "Traveling gear"
+      ]
+    }
+  },
+  "future": {
+    "symbol": "A black-streaked tail mid-lash",
+    "role": "Flanking attacker and taunter for Sable’s crew",
+    "arc": "From purely reactive hothead → learning controlled loyalty",
+    "hesitation": "Fear of being seen as weak",
+    "legacy": [],
+    "reminder": "Talk shit, get hit"
+  },
+  "final_note": ""
+}

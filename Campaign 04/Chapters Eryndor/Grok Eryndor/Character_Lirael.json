@@ -1,0 +1,116 @@
+{
+  "name": "Lirael",
+  "title": "Midnight Wolf-kin Scout",
+  "quote": "Trust is earned in blood and survival, not words.",
+  "appearance": {
+    "age": "Young adult wolf-kin",
+    "height": "Average wolf-kin height",
+    "build": "Athletic and agile",
+    "hair": "Not specified",
+    "facial_hair": "",
+    "eyes": "Striking blue",
+    "skin": "Midnight black fur with soft white streaks",
+    "scent": "Forest, fur, and steel",
+    "posture": "Alert and ready, graceful in combat",
+    "relationship": {
+		"Jayson": {
+			"Status": "Wary Adversary / Hostile Suspicion",
+			"Trust": {
+			  "Combat": "30%",
+			  "Judgement": "20%",
+			  "Personal": "15%"
+			},
+			"Love": "0%",
+			"notes": [
+			  "Initial violent confrontation in the ancient forest",
+			  "Brief philosophical exchange before parting ways",
+			  "Still deeply suspicious due to human-like appearance and revealed Kitsune nature",
+			  "Pack loyalty takes precedence over personal connection",
+			  "Attempted binding ritual on Jayson due to fear of his power",
+			  "Confrontational exchanges revealing generational trauma"
+			]
+		}
+	},
+    "race": "Wolf-kin",
+    "siblings": {
+      "None": ""
+    },
+    "tails": "Wolf tail"
+  },
+  "reactions": {
+    "wind": "Not specified",
+    "water": "Not specified",
+    "sound": "Not specified",
+    "temperature": "Not specified"
+  },
+  "speech": {
+    "voice": "Firm and commanding",
+    "vocabulary": "Direct, survival-focused",
+    "pacing": "Sharp and to the point",
+    "accent": "Not specified",
+    "habits": [ "Tail lashing with emotion" ],
+    "growth": "From immediate hostility to cautious acknowledgment (now deepened suspicion after binding attempt)"
+  },
+  "emotional": {
+    "core_traits": [ "Wary", "Protective of pack", "Pragmatic" ],
+    "beneath": [ "Generational pain from human oppression", "Fear of hidden power" ],
+    "triggers": [ "Human-like appearances", "Potential threats to pack", "Revealed Kitsune nature" ],
+    "vulnerabilities": [ "Deep distrust of outsiders", "Guilt over aggressive actions" ],
+    "affection_tells": [ "Rare softening of stance" ],
+    "growth": [ "Brief moments of reluctant respect (strained by confrontation and binding plot)" ]
+  },
+  "social": {
+    "alone": [ "Scouting and patrol leadership" ],
+    "with_others": [
+      "Leads her pack with authority",
+      "Initial confrontation with Jayson",
+      "Confrontational exchanges in Veiled Grove"
+    ]
+  },
+  "values": {
+    "values": [ "Pack survival", "Freedom from chains" ],
+    "fears": [ "Betrayal by outsiders", "Loss of more kin", "Uncontrolled power destroying the Grove" ],
+    "strengths": [ "Combat skill", "Leadership" ],
+    "weaknesses": [ "Deep-seated suspicion", "Overly aggressive defense of the Grove" ]
+  },
+  "combat": {
+    "titles": [ "Wolf-kin Scout Leader" ],
+    "style": "Agile and fierce",
+    "weapons": [ "Claws, spear, bow" ],
+    "magic": [ "None specified" ],
+    "recent": [ "Initial forest encounter with Jayson", "Attempted binding ritual in guest quarters" ]
+  },
+  "notable_scenes": [
+    {
+      "chapter1": [
+        "Initial hostile encounter in ancient forest",
+        "Wary conversation and standoff"
+      ]
+    },
+    {
+      "chapter2": [
+        "Revealed Kitsune nature and confrontational exchanges",
+        "Attempted secret binding ritual on Jayson",
+        "Tense arguments revealing trauma and priorities"
+      ]
+    }
+  ],
+  "character_data": {
+    "inventory": {
+      "items": [
+        "Spear",
+        "Bow",
+        "Scout gear"
+      ]
+    }
+  },
+  "future": {
+    "symbol": "Midnight Howl (strained by doubt)",
+    "role": "Scout leader in Blackthorn Hollow / Veiled Grove liaison",
+    "arc": "From immediate distrust to potential wary ally (deepened suspicion after binding attempt and confrontations)",
+    "hesitation": "Generational trauma with outsiders and fear of hidden power",
+    "legacy": [],
+    "reminder": "Trust must be earned through survival (and actions beyond words)"
+  },
+  "final_note": "Lirael remains a wary but capable leader of her pack, shaped by centuries of oppression but showing brief cracks of respect after encountering Jayson, now deepened by confrontations and her role in the failed binding ritual."
+}

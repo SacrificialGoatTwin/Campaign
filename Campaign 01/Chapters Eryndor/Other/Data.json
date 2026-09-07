@@ -1,0 +1,1255 @@
+{
+  "people": [
+    {
+      "name": "Corren",
+      "species": "Human",
+      "role": "Traveler who helped Jayson reach civilization.",
+      "met": "Chapter 1"
+    },
+    {
+      "name": "Kestrel Thorne / Thrennael",
+      "species": "Half Human / Half Swampfolk",
+      "role": "C-rank adventurer, Jayson's best friend, stabilizer, tactical partner, fellow Axiomatic student, and trusted mediator. In Chapter 14 she supported Sari and Mela, helped manage the conspiracy fallout, and admitted concern that surviving members of the Vaul network may begin targeting witnesses.",
+      "met": "Chapter 1"
+    },
+    {
+      "name": "Lyra Valen",
+      "species": "Vaelir",
+      "role": "Woman displaced by a spatial anomaly.",
+      "met": "Chapter 1"
+    },
+    {
+      "name": "Mara Valen",
+      "species": "Vaelir",
+      "role": "Lyra's kidnapped sister, rescued alive.",
+      "met": "Chapter 1"
+    },
+    {
+      "name": "Tomas",
+      "species": "Human",
+      "role": "Young thief caring for his sick sister.",
+      "met": "Chapter 1"
+    },
+    {
+      "name": "Tomas's sister",
+      "species": "Human",
+      "role": "Sick child whose needs motivated Tomas.",
+      "met": "Chapter 1"
+    },
+    {
+      "name": "Marshal Iven Calder",
+      "species": "Human",
+      "role": "Harrowfen Marshal and recurring civil authority.",
+      "met": "Chapter 1"
+    },
+    {
+      "name": "Marshal Hartrow",
+      "species": "Human",
+      "role": "Guild Marshal and procedural ally.",
+      "met": "Chapter 2"
+    },
+    {
+      "name": "Rellin",
+      "species": "Human",
+      "role": "Veteran adventurer and friendly acquaintance.",
+      "met": "Chapter 2"
+    },
+    {
+      "name": "Liri",
+      "species": "Half Kitsune / Half Fox Beastfolk",
+      "role": "Young Beastfolk girl rescued from traffickers.",
+      "met": "Chapter 2"
+    },
+    {
+      "name": "Marlen Voss",
+      "species": "Human",
+      "role": "Guild scribe exposed as a trafficking-network mole.",
+      "met": "Chapter 2"
+    },
+    {
+      "name": "Mara",
+      "species": "Unspecified",
+      "role": "Liri's mother at Riverford Waystation.",
+      "met": "Chapter 4"
+    },
+    {
+      "name": "Ishen",
+      "species": "Kitsune",
+      "role": "Liri's extraplanar Kitsune father.",
+      "met": "Chapter 4 (learned about)"
+    },
+    {
+      "name": "Elandria",
+      "species": "Goddess",
+      "role": "Goddess tied to Jayson's displacement and increasingly an action-based ally and friend. In Chapter 14 she met Sari and Mela, supported mimic care, joined ordinary group life, and continued repairing her relationship with Jayson.",
+      "met": "Prior to Chapter 1"
+    },
+    {
+      "name": "Irix",
+      "species": "Ashen Serathi",
+      "role": "Continuity-bearer, chosen family, Jayson's best friend, and Veiled House student. In Chapter 14 she supported Sari and Mela, joined the group's domestic and shopping routines, and remained part of the protective circle around Room 13.",
+      "met": "Chapter 5"
+    },
+    {
+      "name": "Rell",
+      "species": "Human",
+      "role": "High-ranked adventurer and University adjunct scout.",
+      "met": "Chapter 7"
+    },
+    {
+      "name": "Riven",
+      "species": "Felari",
+      "role": "Felari Arcanum student and ally.",
+      "met": "Chapter 9"
+    },
+    {
+      "name": "Sael",
+      "species": "Felari",
+      "role": "Felari Arcanum student and ally.",
+      "met": "Chapter 9"
+    },
+    {
+      "name": "Aureliane / Vaeliora Sarn",
+      "species": "High Elf",
+      "role": "Headmistress of the Arcanum Universitas. In Chapter 14 she led the seizure of the hidden vivarium, secured Vaul's archive, arrested implicated conspirators, and ordered Jayson not to independently approach higher suspects while the investigation continues.",
+      "met": "Chapter 10"
+    },
+    {
+      "name": "Magistrate Lorne",
+      "species": "Human",
+      "role": "Axiomatic lecturer teaching civic order and institutional failure.",
+      "met": "Chapter 10"
+    },
+    {
+      "name": "Lecturer Halevar",
+      "species": "Human",
+      "role": "Applied Arcana lecturer who discussed cognitive casting and lost magic.",
+      "met": "Chapter 10"
+    },
+    {
+      "name": "Proctor Vell",
+      "species": "Unspecified",
+      "role": "Hall Cinder proctor overseeing attendance and integrity-ward procedure.",
+      "met": "Chapter 11"
+    },
+    {
+      "name": "Professor Maelor",
+      "species": "Unspecified",
+      "role": "Axiomatic Foundations professor who tested axioms, boundaries, restraint, and escalation control.",
+      "met": "Chapter 11"
+    },
+    {
+      "name": "Night Steward Velren",
+      "species": "Unspecified",
+      "role": "University steward who resolved the Third Landing intimidation incident through formal procedure.",
+      "met": "Chapter 11"
+    },
+    {
+      "name": "Rovan",
+      "species": "Unspecified",
+      "role": "Second-year Ashen student involved in the Third Landing intimidation attempt and later hostility.",
+      "met": "Chapter 11"
+    },
+    {
+      "name": "Merec",
+      "species": "Unspecified",
+      "role": "Second-year Ashen student involved in the Third Landing intimidation attempt.",
+      "met": "Chapter 11"
+    },
+    {
+      "name": "Lysaen",
+      "species": "Unspecified",
+      "role": "First-year Ashen student involved in the Third Landing intimidation attempt.",
+      "met": "Chapter 11"
+    },
+    {
+      "name": "Ward-Auditor Sivel",
+      "species": "Unspecified",
+      "role": "Ward auditor who investigated the anomalous presence detected in Jayson's room.",
+      "met": "Chapter 11"
+    },
+    {
+      "name": "Tessen",
+      "species": "Unspecified",
+      "role": "Ashen student whose Axiomatic exercise exposed a strength-selects worldview.",
+      "met": "Chapter 11"
+    },
+    {
+      "name": "Dalen",
+      "species": "Unspecified",
+      "role": "River student involved in a South Passage intimidation incident observed during class.",
+      "met": "Chapter 11"
+    },
+    {
+      "name": "Hall Stewardess Rima",
+      "species": "Unspecified",
+      "role": "Dining-hall stewardess encountered after Jayson's ward audit.",
+      "met": "Chapter 11"
+    },
+    {
+      "name": "Mirell",
+      "species": "Unspecified",
+      "role": "River House student and Irix's independent friend.",
+      "met": "Chapter 11"
+    },
+    {
+      "name": "Serren",
+      "species": "Unspecified",
+      "role": "Quiet Veiled student who treated Irix kindly during her seminar.",
+      "met": "Chapter 11 (learned about)"
+    },
+    {
+      "name": "Veiled Briefing Steward Elmar",
+      "species": "Unspecified",
+      "role": "Steward who delivered Veiled House logistics, access, reporting, and dorm rules.",
+      "met": "Chapter 11"
+    },
+    {
+      "name": "Craft Annex Attendant Lorr",
+      "species": "Unspecified",
+      "role": "Skilled workshop attendant who supervised Jayson's prototype work and recognized his social maneuvering.",
+      "met": "Chapter 11"
+    },
+    {
+      "name": "Server Adela",
+      "species": "Unspecified",
+      "role": "Dining-hall server encountered during Chapter 11.",
+      "met": "Chapter 11"
+    },
+    {
+      "name": "Steward Renal",
+      "species": "Unspecified",
+      "role": "Veiled steward who responded after the argument in Irix's room and began processing her assault report.",
+      "met": "Chapter 11"
+    },
+    {
+      "name": "Pip",
+      "species": "Orchard Mimic",
+      "role": "Juvenile sapient orchard mimic adopted by Jayson as his daughter. In Chapter 14 she bonded rapidly with Mela, helped teach her language and play, travelled to Sari's family village, received a tiny hero cape, and began growing quickly enough to nearly outgrow her drawer-bed.",
+      "met": "Chapter 13"
+    },
+    {
+      "name": "Nyx / Death",
+      "species": "Primordial Cosmic Entity / Cheetah Felari disguise",
+      "role": "The literal embodiment of Death and one of the Four Riders. In Chapter 14 she supported the vivarium aftermath, explained the difference between delaying a soul and true resurrection, revealed her identity to Sari, and continued living publicly as a university student in Room 14.",
+      "met": "Chapter 13"
+    },
+    {
+      "name": "Taren",
+      "species": "Wolfkin",
+      "role": "Young Wolfkin student subjected to sustained intimidation by other students. Jayson helped and healed him, encouraged his growing connection with Mira, and later introduced them properly to the group.",
+      "met": "Chapter 14"
+    },
+    {
+      "name": "Mira",
+      "species": "Wolfkin",
+      "role": "Confident Wolfkin student close to Taren and possible developing romantic interest. She supported him after his confrontation and later met Jayson's group properly in the market.",
+      "met": "Chapter 14"
+    },
+    {
+      "name": "Cael Vorr",
+      "species": "Unspecified",
+      "role": "Advanced Axiomatic adjudication student who regarded Pip as vermin and deliberately threw a magically charged dining spike at her. Jayson intercepted it and restrained him; Aureliane charged him with attempted murder and related offences.",
+      "met": "Chapter 14"
+    },
+    {
+      "name": "Sari",
+      "species": "Wolfkin",
+      "role": "Young Transcendent House student and Mela's mother. Jayson rescued her from an attempted assault and abduction, later discovered her dorm room had been used as a conspiracy cache because she was considered unlikely to be believed, and temporarily sheltered her in Room 13.",
+      "met": "Chapter 14"
+    },
+    {
+      "name": "Mela",
+      "species": "Orchard Mimic",
+      "role": "Sari's juvenile orchard mimic daughter. Rescued and healed alongside Sari, formally registered as Sari's dependent child and person, and rapidly became close friends with Pip.",
+      "met": "Chapter 14"
+    },
+    {
+      "name": "Adjunct Serik Vaul",
+      "species": "Unspecified",
+      "role": "University adjunct identified as a central figure in the hidden vivarium network involving illegal experiments, altered consent, captive Beastfolk, and juvenile mimics.",
+      "met": "Chapter 14"
+    },
+    {
+      "name": "Lecturer Halven",
+      "species": "Unspecified",
+      "role": "University lecturer connected to the hidden cache in Sari's room and the wider Vaul conspiracy. Jayson baited him into incriminating himself, subdued him, and delivered him to Aureliane.",
+      "met": "Chapter 14"
+    },
+    {
+      "name": "Tomas (University Student)",
+      "species": "Unspecified",
+      "role": "University student caught attempting to recover the conspiracy cache hidden in Sari's dorm room. Captured and handed over to Aureliane. Distinct from the Chapter 1 thief also named Tomas.",
+      "met": "Chapter 14"
+    },
+    {
+      "name": "Veyr",
+      "species": "Unspecified",
+      "role": "University student and accomplice of Tomas who helped attempt to recover the hidden cache from Sari's dorm room.",
+      "met": "Chapter 14"
+    },
+    {
+      "name": "Raska",
+      "species": "Unspecified",
+      "role": "Person identified as a potential target during the wider investigation, leading to discussion of using false location information to expose information leaks.",
+      "met": "Chapter 14"
+    },
+    {
+      "name": "Varr",
+      "species": "Unspecified",
+      "role": "Person involved in the dangerous-animal and underground-channel investigation Jayson assisted with.",
+      "met": "Chapter 14"
+    },
+    {
+      "name": "Sela",
+      "species": "Unspecified",
+      "role": "Person involved in the dangerous-animal and underground-channel investigation alongside Varr.",
+      "met": "Chapter 14"
+    },
+    {
+      "name": "Vaska",
+      "species": "Orc",
+      "role": "Scarred Guilded Path registrar in Valenhold who arranged the portal journey toward Sari's village and defended Sari against racist treatment.",
+      "met": "Chapter 14"
+    },
+    {
+      "name": "Fellan",
+      "species": "Human",
+      "role": "Guilded Path worker who insulted Sari and Mela and treated them with open racial contempt.",
+      "met": "Chapter 14"
+    },
+    {
+      "name": "Borru",
+      "species": "Minotaur",
+      "role": "Guilded Path portal attendant who managed the storm-damaged route toward Kharveth Hollow.",
+      "met": "Chapter 14"
+    },
+    {
+      "name": "Rhuva",
+      "species": "Wolfkin",
+      "role": "Sari's mother and Mela's grandmother. A formidable, affectionate Wolfkin woman and excellent cook who immediately accepted Mela as family.",
+      "met": "Chapter 14"
+    },
+    {
+      "name": "Dhorrek",
+      "species": "Wolfkin",
+      "role": "Sari's father and Mela's grandfather. A quiet timber worker and woodworker with old scars and chronic knee trouble.",
+      "met": "Chapter 14"
+    },
+    {
+      "name": "Keshran",
+      "species": "Wolfkin",
+      "role": "Sari's older brother and Mela's uncle. A teasing trail-runner and village patrolman who helps protect the surrounding foothills.",
+      "met": "Chapter 14"
+    },
+    {
+      "name": "Tovrek",
+      "species": "Wolfkin",
+      "role": "Neighbour from Sari's foothill village who loudly announced Sari's return.",
+      "met": "Chapter 14"
+    },
+    {
+      "name": "Veskara",
+      "species": "Vulpanii",
+      "role": "Vulpanii tailor in Valenhold's Grand Clothiers' Arcade. She outfitted the group, made tiny hero capes for Pip and Mela, recognized Jayson's unusual fox nature, and offered to contact Elder Shaveth about old many-tailed fox-spirit stories.",
+      "met": "Chapter 14"
+    },
+    {
+      "name": "Solstice",
+      "species": "Ancient White Mare",
+      "role": "Nyx's ancient independent companion and the horse associated with Death.",
+      "met": "Chapter 13"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Eryndor",
+      "type": "World",
+      "notes": "Campaign world built over ancient advanced remnants."
+    },
+    {
+      "name": "Ancient Forest outside Harrowfen",
+      "type": "Wilderness",
+      "notes": "Jayson's arrival point."
+    },
+    {
+      "name": "Harrowfen",
+      "type": "City",
+      "notes": "Primary early campaign base."
+    },
+    {
+      "name": "Harrowfen Adventurers' Guild",
+      "type": "Guild",
+      "notes": "Primary Harrowfen Guild branch."
+    },
+    {
+      "name": "Harrowfen Guild Workshops",
+      "type": "Guild workshop complex",
+      "notes": "Crafting and artifact examination site."
+    },
+    {
+      "name": "Harrowfen Baker's Cellar",
+      "type": "Cellar",
+      "notes": "Ratkin refugee encounter site."
+    },
+    {
+      "name": "Harrowfen Tanner's Cellar / Tannery Sublevels",
+      "type": "Underground area",
+      "notes": "Ratkin-associated sublevels."
+    },
+    {
+      "name": "Harrowfen Clinic",
+      "type": "Medical location",
+      "notes": "Harrowfen medical facility."
+    },
+    {
+      "name": "Westbridge",
+      "type": "Settlement",
+      "notes": "Guild and trafficking investigation settlement."
+    },
+    {
+      "name": "Westbridge Adventurers' Guild / Guild Branch",
+      "type": "Guild",
+      "notes": "Westbridge Guild branch."
+    },
+    {
+      "name": "Westbridge Guild Annex",
+      "type": "Guild facility",
+      "notes": "Records and investigation facility."
+    },
+    {
+      "name": "Westbridge Warehouse 9",
+      "type": "Warehouse",
+      "notes": "Mara Valen recovery site."
+    },
+    {
+      "name": "Watchtower Orchard",
+      "type": "Regional location",
+      "notes": "Spatial anomaly site."
+    },
+    {
+      "name": "Planar Rift / Thin Place",
+      "type": "Planar anomaly",
+      "notes": "Space-time anomaly."
+    },
+    {
+      "name": "Sealed Ruins",
+      "type": "Ruins",
+      "notes": "Connected to hidden Watcher systems."
+    },
+    {
+      "name": "Unauthorized Tunnels",
+      "type": "Subterranean infrastructure",
+      "notes": "Ancient underground infrastructure."
+    },
+    {
+      "name": "Old Quarry",
+      "type": "Quarry",
+      "notes": "Listener activity site."
+    },
+    {
+      "name": "Collapsed Culvert",
+      "type": "Underground passage",
+      "notes": "Collapsed escape route."
+    },
+    {
+      "name": "Harrowfen River Ward Inn",
+      "type": "Inn",
+      "notes": "Early accommodation and surveillance site."
+    },
+    {
+      "name": "Harrowfen Bathhouse",
+      "type": "Bathhouse",
+      "notes": "Frequently used public bathhouse."
+    },
+    {
+      "name": "Surveillance Warehouse",
+      "type": "Warehouse",
+      "notes": "Unknown group's monitoring facility."
+    },
+    {
+      "name": "Harrowfen rooftops and streets",
+      "type": "Urban environment",
+      "notes": "Surveillance and encounter routes."
+    },
+    {
+      "name": "Hidden Safe Room",
+      "type": "Safehouse",
+      "notes": "Secure fallback location."
+    },
+    {
+      "name": "Road between Westbridge and Harrowfen",
+      "type": "Road",
+      "notes": "Major regional route."
+    },
+    {
+      "name": "Smuggler Thicket",
+      "type": "Wilderness",
+      "notes": "Trafficker concealment site."
+    },
+    {
+      "name": "Trafficking Exchange Site",
+      "type": "Wilderness meeting point",
+      "notes": "Site where Liri was rescued."
+    },
+    {
+      "name": "Westbridge Inn",
+      "type": "Inn",
+      "notes": "Party accommodation near Westbridge."
+    },
+    {
+      "name": "Westbridge Road Ambush Site",
+      "type": "Roadside",
+      "notes": "Concealed ambush site."
+    },
+    {
+      "name": "Cliffside Cave",
+      "type": "Cave",
+      "notes": "Hostage-threat location."
+    },
+    {
+      "name": "Harrowfen Blacksmith",
+      "type": "Forge",
+      "notes": "Where Jayson built his katana."
+    },
+    {
+      "name": "Harrowfen Market",
+      "type": "Market",
+      "notes": "Main commercial district."
+    },
+    {
+      "name": "Harrowfen Tailor Shop",
+      "type": "Tailor",
+      "notes": "Specializes in non-human anatomy."
+    },
+    {
+      "name": "Harrowfen Candidate / Recruitment Hall",
+      "type": "Public hall",
+      "notes": "University recruitment venue."
+    },
+    {
+      "name": "Harrowfen Town Square",
+      "type": "Urban square",
+      "notes": "Central public square."
+    },
+    {
+      "name": "Harrowfen Grand Inn opposite the Recruitment Hall",
+      "type": "Inn",
+      "notes": "Where Rell identified the party."
+    },
+    {
+      "name": "Harrowfen Court Park",
+      "type": "Urban park",
+      "notes": "High-rank adventurer confrontation site."
+    },
+    {
+      "name": "Harrowfen Spice Lane",
+      "type": "Market street",
+      "notes": "Hostile commercial street."
+    },
+    {
+      "name": "Spice Lane Tavern",
+      "type": "Tavern",
+      "notes": "Busy Spice Lane tavern."
+    },
+    {
+      "name": "River Shrine at Alder Bend",
+      "type": "Shrine",
+      "notes": "Where Kestrel revealed Thrennael."
+    },
+    {
+      "name": "Harrowfen Lower Market / Hostile District",
+      "type": "Urban district",
+      "notes": "Human-dominated hostile district."
+    },
+    {
+      "name": "Lower Market Inn",
+      "type": "Inn",
+      "notes": "Inn in Lower Market."
+    },
+    {
+      "name": "Street outside Lower Market Inn",
+      "type": "Urban street",
+      "notes": "Site of Jayson's patron fight."
+    },
+    {
+      "name": "Final Harrowfen Inn",
+      "type": "Inn",
+      "notes": "Later Harrowfen accommodation."
+    },
+    {
+      "name": "Riverford Waystation",
+      "type": "Hamlet",
+      "notes": "Liri and Mara's home."
+    },
+    {
+      "name": "Rainward Inn",
+      "type": "Inn",
+      "notes": "Used before Greyreach."
+    },
+    {
+      "name": "Greyreach Dungeon",
+      "type": "C-rank dungeon",
+      "notes": "Cleared by Jayson and Kestrel."
+    },
+    {
+      "name": "Greyreach Floor One",
+      "type": "Dungeon floor",
+      "notes": "Combat-heavy first floor."
+    },
+    {
+      "name": "Greyreach Sound-Hunting Chamber",
+      "type": "Dungeon chamber",
+      "notes": "Sound-hunter encounter."
+    },
+    {
+      "name": "Greyreach Floor Two",
+      "type": "Dungeon floor",
+      "notes": "Trap and pressure level."
+    },
+    {
+      "name": "Greyreach Platform Sequence",
+      "type": "Dungeon trap",
+      "notes": "Timing traversal challenge."
+    },
+    {
+      "name": "Greyreach Floor Three",
+      "type": "Dungeon floor",
+      "notes": "Final level."
+    },
+    {
+      "name": "Greyreach Heart Chamber",
+      "type": "Boss chamber",
+      "notes": "Greyreach final chamber."
+    },
+    {
+      "name": "Harrowfen Riverside Storehouse",
+      "type": "Warehouse",
+      "notes": "Site connected to Irix's introduction."
+    },
+    {
+      "name": "Harrowfen Marketward Inn",
+      "type": "Inn",
+      "notes": "Watcher and ancient-system discussions."
+    },
+    {
+      "name": "Deepreach / The Vertical",
+      "type": "Legendary dungeon",
+      "notes": "Possible ancient-system connection."
+    },
+    {
+      "name": "Grey-moss Depths",
+      "type": "C-rank dungeon",
+      "notes": "Cleared by Jayson, Kestrel, and Irix."
+    },
+    {
+      "name": "Grey-moss First Layer",
+      "type": "Dungeon floor",
+      "notes": "Wet cavern level."
+    },
+    {
+      "name": "Grey-moss Flooded Cut",
+      "type": "Dungeon passage",
+      "notes": "Deep flooded route."
+    },
+    {
+      "name": "Grey-moss Second Layer",
+      "type": "Dungeon floor",
+      "notes": "Worked-stone trap level."
+    },
+    {
+      "name": "Grey-moss Third Layer / Anchor Chamber",
+      "type": "Boss chamber",
+      "notes": "Intent-responsive deepest chamber."
+    },
+    {
+      "name": "Harrowfen South Gate",
+      "type": "City gate",
+      "notes": "Southern departure gate."
+    },
+    {
+      "name": "Harrowfen South Road",
+      "type": "Road",
+      "notes": "B-rank and slaver confrontation site."
+    },
+    {
+      "name": "Copper Finch Inn",
+      "type": "Inn",
+      "notes": "Primary late-Harrowfen accommodation."
+    },
+    {
+      "name": "Copper Finch Unregistered Room",
+      "type": "Defensive fallback",
+      "notes": "Secret room used during extraction attack."
+    },
+    {
+      "name": "Copper Finch Upper Passage",
+      "type": "Inn corridor",
+      "notes": "Extraction attack battlefield."
+    },
+    {
+      "name": "University East Annex",
+      "type": "Assessment facility",
+      "notes": "Harrowfen Arcanum screening site."
+    },
+    {
+      "name": "East Annex Waiting Chamber Two",
+      "type": "Waiting chamber",
+      "notes": "Candidate waiting room."
+    },
+    {
+      "name": "East Annex Assessment Room",
+      "type": "Testing chamber",
+      "notes": "Candidate assessment chamber."
+    },
+    {
+      "name": "Inn opposite the East Annex",
+      "type": "Inn",
+      "notes": "Used after assessments."
+    },
+    {
+      "name": "Challenge Ground outside the East Annex Inn",
+      "type": "Duel site",
+      "notes": "Formal challenge area."
+    },
+    {
+      "name": "Road from Harrowfen to Valenhold",
+      "type": "Major road",
+      "notes": "Route to Valenhold."
+    },
+    {
+      "name": "Riverside Glade on the Valenhold Road",
+      "type": "River rest site",
+      "notes": "Travel rest location."
+    },
+    {
+      "name": "Valenhold",
+      "type": "Capital city",
+      "notes": "Capital and home of the Arcanum."
+    },
+    {
+      "name": "Valenhold Outer Gate",
+      "type": "Checkpoint",
+      "notes": "Main capital entrance."
+    },
+    {
+      "name": "Valenhold Inner Approach Road",
+      "type": "Urban road",
+      "notes": "Beastfolk family encounter site."
+    },
+    {
+      "name": "Valenhold Dye-Works Alleys",
+      "type": "Urban alleys",
+      "notes": "Robber tracking route."
+    },
+    {
+      "name": "Valenhold Guild Quarter",
+      "type": "Urban district",
+      "notes": "Capital Guild district."
+    },
+    {
+      "name": "Valenhold Adventurers' Guild",
+      "type": "Guild",
+      "notes": "Capital Guild branch."
+    },
+    {
+      "name": "Valenhold Guild Stabilization Wing",
+      "type": "Medical area",
+      "notes": "Guild treatment wing."
+    },
+    {
+      "name": "Arcanum Universitas of Valenhold",
+      "type": "University",
+      "notes": "Arcane-military institution where Jayson, Kestrel, Irix, Nyx, and Sari currently study. Chapter 14 exposed a hidden internal vivarium network."
+    },
+    {
+      "name": "Arcanum Candidate Check-In",
+      "type": "University intake area",
+      "notes": "Candidate registration area."
+    },
+    {
+      "name": "Quantification Hall / Axiom Hall",
+      "type": "Examination hall",
+      "notes": "Physical, magical, and stability testing."
+    },
+    {
+      "name": "Phase II Endurance Grounds",
+      "type": "Examination ground",
+      "notes": "Suppressed endurance trial."
+    },
+    {
+      "name": "Phase III Combat Field",
+      "type": "Combat complex",
+      "notes": "Applied combat assessment."
+    },
+    {
+      "name": "Phase III Medical Concourse",
+      "type": "Medical area",
+      "notes": "Post-combat recovery area."
+    },
+    {
+      "name": "Phase IV Ethical Examination Chambers",
+      "type": "Examination chambers",
+      "notes": "Ethical reasoning tests."
+    },
+    {
+      "name": "Phase V Mental and Soul Integrity Chambers",
+      "type": "Examination chambers",
+      "notes": "Mental and soul testing."
+    },
+    {
+      "name": "Sorting Rotunda",
+      "type": "House assignment hall",
+      "notes": "Initial House sorting."
+    },
+    {
+      "name": "University Main Quad",
+      "type": "Public grounds",
+      "notes": "Main campus gathering area."
+    },
+    {
+      "name": "University Colonnades",
+      "type": "Walkways",
+      "notes": "Major campus routes."
+    },
+    {
+      "name": "Block F",
+      "type": "University dormitory block",
+      "notes": "Temporary post-intake housing."
+    },
+    {
+      "name": "Block F, Level 4 Suite",
+      "type": "Temporary dormitory suite",
+      "notes": "Former shared suite of Jayson, Kestrel, and Irix."
+    },
+    {
+      "name": "Block F Bathing Rooms",
+      "type": "Bathing facilities",
+      "notes": "Block F bathing facilities."
+    },
+    {
+      "name": "Grand Assembly Hall",
+      "type": "University hall",
+      "notes": "Instructional-cycle assembly and later admissions activity."
+    },
+    {
+      "name": "Interim Wing",
+      "type": "University administrative wing",
+      "notes": "Where Jayson's Unbound status was reviewed and removed."
+    },
+    {
+      "name": "Lecture Hall Theta",
+      "type": "Axiomatic lecture hall",
+      "notes": "Civic order and institutional-failure classes."
+    },
+    {
+      "name": "Lecture Hall Sigma",
+      "type": "University lecture hall",
+      "notes": "Applied Arcana classroom."
+    },
+    {
+      "name": "Axiomatic Orientation Hall",
+      "type": "House orientation hall",
+      "notes": "Axiomatic rules and housing assignments."
+    },
+    {
+      "name": "Axiomatic East Quadrant, Block C",
+      "type": "University dormitory block",
+      "notes": "Current housing block for Jayson, Kestrel, and Nyx."
+    },
+    {
+      "name": "Axiomatic Block C, Room 12",
+      "type": "Dormitory room",
+      "notes": "Kestrel's assigned room. Connected to Jayson through their established three-tap wall check-in."
+    },
+    {
+      "name": "Axiomatic Block C, Room 13",
+      "type": "Dormitory room",
+      "notes": "Jayson's room and Pip's home. In Chapter 14 it became the temporary refuge and home-space for Sari and Mela after Sari's dorm was compromised."
+    },
+    {
+      "name": "Axiomatic Block C, Room 14",
+      "type": "Dormitory room",
+      "notes": "Nyx's assigned room and part of the neighbouring Axiomatic safe cluster."
+    },
+    {
+      "name": "Veiled House Residential Block",
+      "type": "University dormitory",
+      "notes": "Current housing area for Irix."
+    },
+    {
+      "name": "University Library",
+      "type": "Library",
+      "notes": "Used by Jayson to study artifacts and mechanisms."
+    },
+    {
+      "name": "Grand Dining Hall",
+      "type": "University dining hall",
+      "notes": "Major social and meal gathering place."
+    },
+    {
+      "name": "Founders' Grand Refectory",
+      "type": "University dining hall",
+      "notes": "Site where Cael Vorr attempted to murder Pip with a magically charged spike and Headmistress Aureliane personally intervened."
+    },
+    {
+      "name": "Hall Cinder",
+      "type": "Axiomatic lecture hall",
+      "notes": "Location of Professor Maelor's Axiomatic Foundations classes."
+    },
+    {
+      "name": "Third Landing",
+      "type": "University stairwell / quiet zone",
+      "notes": "Site of the Ashen intimidation attempt involving Rovan, Merec, Lysaen, and a hungry student."
+    },
+    {
+      "name": "University Gardens",
+      "type": "Campus gardens",
+      "notes": "Campus gardens used for travel and private conversations."
+    },
+    {
+      "name": "Veiled House Front Desk",
+      "type": "Administrative desk",
+      "notes": "Handled Jayson's anomalous visitation check-in and dorm procedures."
+    },
+    {
+      "name": "Ward Audit Nook / West Corridor",
+      "type": "Ward-audit facility",
+      "notes": "Where Sivel classified Jayson's room event as a sleep-state intrusion with external-marker correlation."
+    },
+    {
+      "name": "Admin Wing / House Logistics Hall",
+      "type": "University administrative facility",
+      "notes": "House logistics, key issuance, dorm rules, and access paperwork."
+    },
+    {
+      "name": "East Walk / Veiled Wing Arcade",
+      "type": "University walkway",
+      "notes": "Seminar-release area where Jayson met Mirell."
+    },
+    {
+      "name": "Veiled House Commonroom Alcove",
+      "type": "House briefing area",
+      "notes": "Site of Elmar's house logistics and facility-access briefing."
+    },
+    {
+      "name": "South Passage",
+      "type": "University corridor",
+      "notes": "Site of Dalen's intimidation incident observed during Maelor's lesson."
+    },
+    {
+      "name": "Craft Annex",
+      "type": "University workshop complex",
+      "notes": "Supervised crafting facility where Jayson began precision prototype work."
+    },
+    {
+      "name": "Craft Annex, Bench Bay Three",
+      "type": "Workshop bay",
+      "notes": "Where Jayson built the small copper passive mana condenser."
+    },
+    {
+      "name": "Connector Corridor near West Stair",
+      "type": "University corridor",
+      "notes": "Where two Ashen students shoved and grabbed Irix after her Veiled seminar."
+    },
+    {
+      "name": "Irix's Veiled Dorm Room",
+      "type": "Dormitory suite",
+      "notes": "Irix's current Veiled House home. Site of the Chapter 11 rupture and, in Chapter 13, the private gathering where Jayson revealed Nyx's identity as Death to Kestrel and Irix."
+    },
+    {
+      "name": "University Sparring Grounds",
+      "type": "Training grounds",
+      "notes": "Open training area used by Jayson for Earth kenjutsu practice."
+    },
+    {
+      "name": "University Communal Bathhouse",
+      "type": "Unisex communal bathhouse",
+      "notes": "Site of the Chapter 12 fox-eating-spider social confrontation."
+    },
+    {
+      "name": "University Central Common Area",
+      "type": "Campus common area",
+      "notes": "Central gathering space used during the Chapter 12 friendship rupture aftermath."
+    },
+    {
+      "name": "University Archives / Lower Stacks",
+      "type": "Archive",
+      "notes": "Where Jayson developed an unidentified major device design."
+    },
+    {
+      "name": "East Gardens Quiet Terrace",
+      "type": "Garden terrace",
+      "notes": "Site where Jayson, Irix, and Kestrel repaired the Chapter 11 friendship rupture."
+    },
+    {
+      "name": "Elandria's Divine Realm",
+      "type": "Divine plane",
+      "notes": "Elandria's private realm outside ordinary university jurisdiction, visited by Jayson in Chapter 13."
+    },
+    {
+      "name": "Elandria's Divine Household",
+      "type": "Divine residence",
+      "notes": "Elandria's unexpectedly domestic home shared with her husband and children."
+    },
+    {
+      "name": "Silver Orchard",
+      "type": "Divine orchard",
+      "notes": "Vast orchard within Elandria's realm containing unusual magical life."
+    },
+    {
+      "name": "Divine Mimic Nursery",
+      "type": "Protected nursery",
+      "notes": "Protected nursery for juvenile mimics where Jayson met and adopted Pip."
+    },
+    {
+      "name": "Elandria's Ancient Stables",
+      "type": "Divine stables",
+      "notes": "Stable complex housing four ancient horses associated with War, Death, Pestilence, and Famine; location where Jayson met Nyx."
+    },
+    {
+      "name": "Old Service Cloister",
+      "type": "University service area",
+      "notes": "Location where Jayson and Pip discovered Sari and Mela being assaulted and abducted."
+    },
+    {
+      "name": "Lower Vivarium",
+      "type": "Hidden university facility",
+      "notes": "Secret four-level facility beneath the western laundry used for illegal experiments, altered consent procedures, captive Beastfolk, and juvenile mimics."
+    },
+    {
+      "name": "Western Laundry",
+      "type": "University service facility",
+      "notes": "University laundry complex concealing access to the hidden Lower Vivarium."
+    },
+    {
+      "name": "Sari's Transcendent Dorm Room",
+      "type": "Dormitory room",
+      "notes": "Sari's former university room. It was deliberately selected as a low-visibility cache site because conspirators assumed a Wolfkin resident would not report irregularities or be believed."
+    },
+    {
+      "name": "Guilded Path Main Hall",
+      "type": "Guild facility",
+      "notes": "Valenhold Guilded Path hall where Vaska arranged travel toward Sari's home region."
+    },
+    {
+      "name": "Kharveth Hollow Portal",
+      "type": "Portal station",
+      "notes": "Storm-damaged Guilded Path portal used during the journey toward Sari's foothill village."
+    },
+    {
+      "name": "Sari's Foothill Village",
+      "type": "Wolfkin village",
+      "notes": "Communal Wolfkin settlement in the northeastern foothills where Rhuva, Dhorrek, Keshran, and other families live."
+    },
+    {
+      "name": "Grand Clothiers' Arcade",
+      "type": "Valenhold market complex",
+      "notes": "Large clothing arcade where the group replaced Sari's compromised wardrobe and shopped together."
+    },
+    {
+      "name": "Veskara's Clothier",
+      "type": "Tailor shop",
+      "notes": "Vulpanii-run clothing shop where Veskara outfitted the group and discussed old stories of many-tailed fox spirits."
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Adventurers' Guild",
+      "role": "Adventurer registration, contracts, investigations, protection, and arbitration."
+    },
+    {
+      "name": "City Marshals / Harrowfen City Guard",
+      "role": "Harrowfen civil law enforcement."
+    },
+    {
+      "name": "University of Magic / Arcanum Universitas of Valenhold",
+      "role": "Arcane-military university controlling advanced magic and training. In Chapter 14 a hidden internal vivarium network involving illegal experimentation, altered consent, Beastfolk captives, juvenile mimics, hidden caches, and implicated faculty was exposed under Headmistress Aureliane's investigation."
+    },
+    {
+      "name": "Axiomatic House",
+      "role": "House focused on order, law, wards, and reality enforcement. Current House of Jayson and Kestrel and primary residential House of Nyx."
+    },
+    {
+      "name": "Transcendent House",
+      "role": "House focused on transformation, ascension, and post-mortal theory; current House of Sari, while Nyx has restricted faculty access through her Triune Scholar charter."
+    },
+    {
+      "name": "Veiled House",
+      "role": "House focused on secrecy, intelligence, concealment, and memory warfare. Current House of Irix; Nyx holds cross-discipline access."
+    },
+    {
+      "name": "Ashen House",
+      "role": "Student affiliation repeatedly associated with hostile upper-years and anti-Beastfolk intimidation."
+    },
+    {
+      "name": "River House",
+      "role": "Student affiliation associated with Mirell and Dalen."
+    },
+    {
+      "name": "Four Riders of the Apocalypse",
+      "role": "Ancient cosmic Riders associated with War, Death, Pestilence, and Famine. Nyx is Death; their four ancient horses are housed within Elandria's divine realm."
+    },
+    {
+      "name": "Unknown Listener Research Group",
+      "role": "Unknown organization exploiting Listeners."
+    },
+    {
+      "name": "Unknown Surveillance / Indexing Group",
+      "role": "Unknown organization profiling Jayson."
+    },
+    {
+      "name": "Watcher Infrastructure",
+      "role": "Ancient Watcher, Anchor, Sentinel, and Hinge network."
+    },
+    {
+      "name": "Beastfolk Trafficking Network",
+      "role": "Criminal Beastfolk trafficking network."
+    },
+    {
+      "name": "Unknown Riverside Network",
+      "role": "Clandestine information and salvage network."
+    },
+    {
+      "name": "Irix's Information Network",
+      "role": "Compartmentalized network associated with Irix."
+    },
+    {
+      "name": "Accord Registrars",
+      "role": "External lineage-verification registry."
+    },
+    {
+      "name": "Unknown Continuity Hunters / Collectors",
+      "role": "Network seeking to capture Irix for her continuity lineage."
+    },
+    {
+      "name": "Guilded Path",
+      "role": "Adventuring and travel organization with a Valenhold hall and portal network. Jayson and Kestrel are members; its portal system was used to reach Sari's home region."
+    },
+    {
+      "name": "Vaul Vivarium Network",
+      "role": "Hidden university conspiracy involving Adjunct Serik Vaul, Lecturer Halven, covert facilities, hidden caches, illegal experimentation, altered consent, captive Beastfolk, and juvenile mimics. Its lower levels have been exposed, but higher participants remain unidentified."
+    },
+    {
+      "name": "Vulpanii Whisper Circles",
+      "role": "Traditional Vulpanii networks of storykeepers, hidden communities, genealogies, migration songs, and old fox-spirit lore. Elder Shaveth is associated with one such circle."
+    }
+  ],
+  "arcs": {
+     "Chapter 1": [
+     "Jayson's wives are missing and separated from him; finding and reuniting with them is his overriding personal goal.",
+     "An unknown surveillance and indexing group is profiling Jayson and developing containment or management contingencies.",
+     "Organized experimentation involving Listeners remains unresolved.",
+     "Watcher entities and their hidden infrastructure remain poorly understood.",
+     "Some hidden structures may be remnants of extremely ancient advanced technology.",
+     "Systemic racism, enslavement, exploitation, kidnapping, and trafficking of Beastfolk remain major threats across Eryndor.",
+     "The Watchtower Orchard planar anomaly, strange lights, and abnormal time effects remain unexplained."
+   ],
+   "Chapter 2": [
+     "Marlen Voss has been exposed as a Guild mole, but investigators are using her to trace the wider trafficking network.",
+     "The full extent of the Beastfolk trafficking network remains unknown.",
+     "Possible corruption or information leakage within the Adventurers' Guild remains unresolved.",
+     "The Westbridge front desk clerk remains a suspicious but unproven lead.",
+     "Liri's home and family remain unresolved, and Jayson intends to help return her safely."
+   ],
+   "Chapter 3": [
+     "The Chapter 3 roadside ambush may connect to the larger surveillance, trafficking, or Guild-related threats.",
+     "Kestrel's hidden past and the identity of Thrennael remain unresolved.",
+     "Jayson continues searching for a way to properly study magic and recover his lost powers.",
+     "Fleas's nature, development, and connection to Jayson's fifth tail remain unexplained."
+   ],
+   "Chapter 4": [
+     "Jayson's distrust of the gods deepens over the forced separation from his wives.",
+     "Liri's half-Kitsune heritage may expose her to an unknown force capable of detecting or hunting Kitsune.",
+     "Fleas is concealing Liri from the unknown force searching for Kitsune.",
+     "Ishen proves that Jayson is not the first extraplanar Kitsune known to have reached Eryndor.",
+     "Eryndor's cosmological state appears fundamentally abnormal, but the cause remains unknown.",
+     "The deeper significance of the Anchor Ring remains unknown."
+   ],
+   "Chapter 5": [
+     "A higher observer beyond gods and Watchers may threaten Jayson's wives if they become directly observable.",
+     "The relationship between the various hidden groups, ambushes, surveillance networks, trafficking operations, and clandestine actors remains unresolved.",
+     "Watchers may be ancient maintenance or enforcement systems operating on obsolete protocols.",
+     "A recovered spider-like device proves that advanced lost technology remains active or in circulation.",
+     "Jayson suspects modern Eryndor sits atop the remains of a far older technologically advanced civilization.",
+     "Possible ancient Earth-Eryndor contact or migration remains unproven.",
+     "Irix's true history, origins, capabilities, and connection to hidden systems remain unknown.",
+     "Deepreach / The Vertical may connect to Eryndor's deepest surviving systems and remains a major long-term objective."
+   ],
+   "Chapter 6": [
+     "Irix's Ashen Serathi lineage and its cultural significance remain incompletely understood.",
+     "Irix is a continuity anchor, but the nature, limits, and purpose of that ability remain unknown.",
+     "A professional network of Continuity Hunters is actively seeking Irix.",
+     "The Copper Finch Observer survived and may report Jayson's warning back to Irix's hunters.",
+     "Jayson has entered Irix's conflict directly by opposing and threatening to pursue those hunting her."
+   ],
+   "Chapter 7": [
+     "The long-term consequences of the Chapter 7 high-rank adventurer confrontation remain unresolved.",
+     "Jayson's Spark abilities Hearthbound and Heatwave remain incompletely explored.",
+     "Jayson's mana-circuit and holographic projection experiments may have major technological and magical implications.",
+     "Jayson's ambient-mana purification method can produce extremely pure mana and remains secret.",
+     "Jayson's presence-damping micro-engraving may function as perceptual omission or practical invisibility.",
+     "The University of Magic becomes an active path toward knowledge, training, and possibly restoring Jayson's power."
+   ],
+   "Chapter 8": [
+     "The University may take special interest in Jayson's abnormal observational ability, restraint, and threat assessment."
+   ],
+   "Chapter 9": [
+     "Jayson's abnormal entrance scores, unresolved magical capacity, and existential stability readings make him an institutional anomaly.",
+     "House assignments risk dividing Jayson, Kestrel, and Irix despite their commitment to remain a unit.",
+     "Riven and Sael may become part of a broader Beastfolk support network within the University.",
+     "University surveillance and ward-based behavioral logging are extensive.",
+     "Jayson's belief-state manipulation may exploit passive truth and intent detection.",
+     "The University libraries and restricted archives may provide answers about magic, lost technology, and Jayson's condition."
+   ],
+   "Chapter 10": [
+     "Cognitive casting may provide a path toward restoring or reconnecting Jayson's lost power.",
+     "Irix may eventually transfer Houses through formal procedures or demonstrated incompatibility.",
+     "Jayson possesses hidden failsafes unknown to the gods; their nature and consequences remain unresolved.",
+     "The goddess's warning about administrative containment and dependency raises questions about University intentions."
+   ],
+   "Chapter 11": [
+     "Jayson is spiritually bound to seven wives through literal heartstrings whose full nature and implications are still being understood.",
+     "Jayson's temporal resets now occur in Eryndor; their trigger, mechanism, and controlling force remain unknown.",
+     "One reset branch proved Jayson's former power can potentially be restored.",
+     "University wards can detect at least some effects of Elandria's dream intrusions.",
+     "Jayson and Elandria's relationship remains damaged by his displacement, his wives' separation, and her continued interference.",
+     "Irix's assault and delayed reporting expose unresolved tensions around autonomy, protection, and when intervention is appropriate.",
+     "Irix is beginning to build independent friendships and support outside Jayson and Kestrel.",
+     "Jayson's passive condenser can produce pure white mana while its true function remains concealed from the University."
+   ],
+   "Chapter 12": [
+     "Jayson has begun a major unrevealed design project in the University Archives."
+   ],
+   "Chapter 13": [
+     "Elandria's private divine realm, household, mimic nursery, and ancient stables reveal a much larger divine ecosystem than previously known.",
+     "Nyx is literal Death, one of the Four Riders, and is living incognito as a university student.",
+     "Nyx's Triune Scholar status raises questions about how much the University and Aureliane understand about her.",
+     "Nyx's true identity must remain tightly contained because wider disclosure could have severe consequences.",
+     "War, Pestilence, and Famine remain largely unknown.",
+     "Pip's growth, language, mimic abilities, legal recognition, and eventual independence remain long-term arcs.",
+     "Pip's existence raises a broader question of mimic personhood and legal recognition.",
+     "The legal and institutional consequences of Cael Vorr's attempted murder of Pip remain unresolved.",
+     "Whether Aureliane can address systemic institutional prejudice rather than only individual offenders remains unresolved.",
+     "Taren's harassment and growing connection with Mira may develop independently.",
+     "Jayson, Kestrel, Irix, Pip, and Nyx are developing into a broader chosen-family unit."
+   ],
+   "Chapter 14": [
+     "Jayson's larger purpose in Eryndor increasingly centers on repairing the world while finding a path back to his power and home.",
+     "Nyx has distinguished delaying a departing soul from true resurrection, leaving the limits of actual resurrection unresolved.",
+     "Mela's rapid development, mimic biology, future abilities, and legal treatment remain active arcs.",
+     "Sari and Mela need a safe long-term living arrangement after Sari's dorm was compromised.",
+     "The Lower Vivarium has been exposed, but the Vaul conspiracy extends to unidentified higher participants.",
+     "Halven, Tomas, Veyr, and other captured conspirators may lead investigators toward higher members of the Vaul network.",
+     "Witnesses connected to the vivarium exposure may become retaliation targets.",
+     "Aureliane has become an investigative ally while restricting Jayson from independently pursuing suspects.",
+     "Aureliane's spatial-folding abilities may provide a future lead toward dimensional travel.",
+     "Veskara's connection to Elder Shaveth may uncover older Vulpanii records of many-tailed fox spirits.",
+     "Old Vulpanii stories may describe an earlier Kitsune or extraplanar fox-man in Eryndor.",
+     "Vulpanii history may provide a cultural and historical bridge to Jayson's Kitsune origins.",
+     "Veskara and Shaveth may provide a second independent line of evidence for earlier Kitsune contact with Eryndor.",
+     "Jayson and Sari's increasingly flirtatious friendship may develop further, though no romance is established.",
+     "Dhorrek's chronic knee problems remain a possible future healing thread."
+   ]
+  }
+}

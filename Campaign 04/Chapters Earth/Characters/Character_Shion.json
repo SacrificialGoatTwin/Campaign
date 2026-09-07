@@ -1,0 +1,277 @@
+{
+  "name": "Shion",
+  "title": "The Silent Blade of the Thread",
+  "quote": "The quiet edge cuts deepest.",
+  "appearance": {
+    "age": "Appears mid-20s, actually 1427 years old",
+    "height": "168–170 cm",
+    "build": "Lean, toned — crafted for swift precision",
+    "hair": "Midnight black, sharp asymmetrical bob or tied for combat",
+    "eyes": "Silver-grey, sharp and assessing; soften rarely when trust surfaces",
+    "skin": "Pale ivory with faint ritual scars at collarbone and wrists",
+    "tails": "Four — usually calm; flick more often now when conflicted",
+    "scent": "Cold steel, fresh linen, trace of wild mint",
+    "posture": "Impeccable; still as stone until motion erupts swift as lightning"
+  },
+  "reactions": {
+    "wind": "Slight shifts; instinctively reads currents",
+    "water": "Cautious but unbothered",
+    "sound": "Acute hearing; reacts to tone more than words",
+    "heat_cold": "Endures extremes; relaxes unconsciously near Jayson"
+  },
+  "speech": {
+    "voice": "Low mezzo-soprano, deliberate and soft",
+    "vocabulary": "Sparse, precise; words chosen with care",
+    "pacing": "Slow when thoughtful; rapid under command",
+    "accent": "None distinct — trained away",
+    "habits": [
+      "Silence as default",
+      "Sharp, dry wit surfacing lately",
+      "Documents Jayson's antics with faint amusement",
+      "Cuts with implication more than volume; will ask the question that hurts when she feels sidelined"
+    ],
+    "growth": [
+      "Silence now paired with dry humor in group settings",
+      "Uses wit as affection, not just distance",
+      "Speaks more often with emotional insight",
+      "Now speaks openly about fear and trauma — a massive step for her",
+      "Recently: voice sharpened into accusation under stress — proof of trust fracture",
+      "Latest: allowed herself to admit jealousy and insecurity, then accept Jayson's reassurance",
+      "Now engages in private wit and even banter after intimacy, showing emotional presence rather than just tactical speech",
+      "During the courtyard crisis, Shion shifted from clinical narration to empathetic restraint, halting her commentary when it hurt him",
+      "Spoke gently rather than analytically, choosing emotional clarity over precision",
+      "Respected Jayson's shield immediately, adjusting her communication to avoid overwhelming him",
+      "NEW (Chapter 83): Named the wound of being left out instead of masking it; accepted repair without retreat"
+    ]
+  },
+  "emotional": {
+    "core_traits": [ "Disciplined", "Reserved", "Protective" ],
+    "beneath": [ "Loneliness", "Yearning for connection" ],
+    "triggers": [
+      "Loss of control",
+      "Direct threats to her circle",
+      "Overwhelming displays of Jayson's power",
+      "Being treated like an afterthought during high-stakes moments"
+    ],
+    "vulnerabilities": [
+      "Bottles everything; rarely seeks help",
+      "Guilt over past missions and failures",
+      "Fear of inadequacy compared to others",
+      "Now revealed: Jayson's power evokes visions of past torment ('burning hands')",
+      "Accusations against Jayson revealed a fear-driven reflex that damaged trust",
+      "Jealousy toward Jayson's closeness with others, though she rarely voices it",
+      "Fear of saying the wrong thing when Jayson is emotionally hurt — learned through the 'narration' misstep",
+      "NEW (Chapter 83): Sensitivity to being excluded from information/decisions; reads it as being valued less"
+    ],
+    "affection_tells": [
+      "Allows proximity without tension",
+      "Subtle gestures instead of declarations",
+      "Emerging wit and humor as affection",
+      "Now accepts grooming, kissing, and closeness without retreat",
+      "Tail flicks betray emotion when she cannot voice it",
+      "Holding onto gifts (red ribbon, hairclip) as anchors of trust",
+      "Now accepts safety codes and tail-tap signals with Jayson — a sign of deep trust",
+      "In crisis, chose presence over pressure — sitting at the bed’s edge without touching him",
+      "NEW (Chapter 83): Accepts hand-holding as a quiet public claim; answers tenderness with playful danger (ear-nip, teeth-as-flirt)"
+    ],
+    "growth": [
+      "Allowed Jayson to pin her in duel, testing trust",
+      "Reciprocated full intimacy — dominant but tender",
+      "Accepted public affection (pond play, lap cuddling)",
+      "Allowed dawn kiss, trembling but leaning in",
+      "Showed public humor and biting wit",
+      "Faced insecurities directly, admitted fears, accepted joy openly",
+      "Proudly wore ribbon — embraced individuality against her alternate self",
+      "Admitted fear of inadequacy during confrontation, accepted proof of Jayson's love",
+      "Now openly laughs in chaos, joins absurd group humor",
+      "Latest: confessed fear of Jayson's power directly, risking fracture but proving honesty",
+      "Latest arc: acted from fear in accusing Jayson — exposing honesty, but also cutting deep into trust",
+      "At the gorge: received his 'one second' burden and survived, asked directly for anchoring role",
+      "Accepted safe word (Kitkat) and tail-tap signals, showing willingness to engage with his failsafes",
+      "Shared intimacy with laughter, tears, and even jealousy — no longer hiding her softer side",
+      "Demonstrated controlled empathy in crisis — choosing calming silence, grounding, and respect for personal space rather than force or precision",
+      "Proved she can adjust her behaviour instantly when Jayson is overwhelmed, showing relational maturity",
+      "NEW (Chapter 83): Voiced insecurity about being uninformed/overlooked; accepted immediate reassurance and rejoined the group instead of withdrawing"
+    ]
+  },
+  "social": {
+    "alone": "Practices forms, meditates, maintains weapons ritualistically",
+    "with_jayson": [
+      "First confidant of his family truth",
+      "Lantern Rite tail-bond signaled full acceptance",
+      "Koi Pond: 'I love you too. Deal with it.'",
+      "Sparred thrice — yielded, drew, lost",
+      "Accepted hayloft intimacy; claimed him silently",
+      "Wears hidden ring on chain — silent commitment",
+      "Now allows grooming, kissing, and tail teasing in public",
+      "Chapter 47: misread his awe as dismissal — rare misstep",
+      "Chapter 55: agreed to global press despite hate of visibility",
+      "Chapter 60: nearly lost him, confessed fear, accepted his unwavering love",
+      "Chapter 62: accepted dawn embrace, tail flick betraying desire, leaned in fully",
+      "Glitter arc: laughed openly, wore red ribbon proudly",
+      "Latest arc: admitted his power frightens her, exposing raw fracture in trust",
+      "Roof ambush: stood among those accusing him, her honesty turning to distrust in his eyes",
+      "At the gorge: became the one he entrusted with all failsafes, safety codes, and the truth of Umvuni",
+      "Shared intimacy deeper than before — tears, laughter, and raw affection combined with strategy",
+      "Post-council: tested whether he would still stand, chose presence instead of more judgment",
+      "During the courtyard incident, shifted into a stabilizing role—softened her speech, withheld judgment, and prioritized emotional safety over precision",
+      "NEW (Chapter 83): Confronted him about being left out; rejected being treated as a formality; accepted full hug, returned to hand-holding and shared walking back to the dining hall; answered warmth with a dangerous little bite"
+    ],
+    "with_others": {
+      "fei": "Soft bond; trusts her blunt loyalty",
+      "naru": "Comfortable silence and mutual acceptance",
+      "ayaka": "Respects her discipline; protectively misjudged Jayson's awe of her once",
+      "seika": "Respects her fire; joins her chaos with dry wit",
+      "varethyn": "Sacred reverence; follows her authority with subtle ease; shared doubts over Jayson's methods"
+    }
+  },
+  "values": {
+    "values": [ "Discipline", "Quiet protection", "Judicious mercy" ],
+    "fears": [
+      "Being unnecessary",
+      "Causing harm through silence or misjudgment",
+      "Inadequacy in love",
+      "Now spoken aloud: losing control around Jayson's destructive power",
+      "Fear spilling into action that harms her bond with Jayson",
+      "Fear of watching Jayson caged or clipped by his own circle",
+      "Becoming a source of hurt when he is already wounded",
+      "NEW (Chapter 83): Being treated as 'optional' when decisions move fast"
+    ],
+    "strengths": [
+      "Precision and clarity",
+      "Calm in chaos",
+      "Loyalty through silence and action",
+      "Courage to voice buried fear",
+      "Willing to be anchor and voice of honesty even at risk of fracture",
+      "Ability to de-escalate emotionally charged situations with controlled silence",
+      "NEW (Chapter 83): Can state emotional needs plainly when it matters, then accept repair"
+    ],
+    "weaknesses": [
+      "Suppresses emotion until breaking point",
+      "Struggles with spontaneity",
+      "Inconsistency between words and affection",
+      "Fear conflicting with love — cannot fully reconcile both",
+      "Under duress, may act from fear rather than trust",
+      "Prone to jealousy she rarely voices directly",
+      "Over-corrects when trying not to hurt Jayson — swinging between blunt honesty and total quiet",
+      "NEW (Chapter 83): When excluded, her default is to sharpen and test instead of asking softly"
+    ],
+    "inner_growth": [
+      "Now accepts emotional presence as valid",
+      "Speaks with warmth, not just precision",
+      "Receives affection without flinching",
+      "Laughs freely and enjoys joy openly",
+      "Accepts being seen — not as fame, but as necessary truth",
+      "Latest: finally spoke fear of Jayson’s power aloud, shattering silence but deepening honesty",
+      "Latest: revealed how fear can distort her actions, a fracture that must now be healed",
+      "Now balances blade and lover — able to offer humor, intimacy, and strategy in equal measure",
+      "Learned to pause instead of analyze when Jayson is hurting — a shift from tactician to partner",
+      "NEW (Chapter 83): Adds 'I need to be included' to her language of love, without abandoning restraint"
+    ]
+  },
+  "combat": {
+    "titles": [ "The Silent Blade" ],
+    "style": "Form-first, five-steps-ahead combat; fighting as love language",
+    "weapons": [
+      "Dune — morphing crystal blade",
+      "Threadweaver’s Loop — emotional signal band",
+      "Twin sabers (ceremonial backup)"
+    ],
+    "magic": [ "Minor veil mobility; physical mastery focus" ],
+    "recent": [
+      "Three-round duel with Jayson — yielded, drew, lost",
+      "Hayloft intimacy reframed combat as connection",
+      "Continues to spar, now with affection woven into form",
+      "Accepted being anchor in his failsafe structure, making her role not just tactical but survival-critical"
+    ]
+  },
+  "temple_status": {
+    "rank": "Senior sentinel, one step beneath matron line",
+    "public": "Impeccable stillness; feared for precision",
+    "private": "Now shows warmth, humor, and vulnerability, but also deep fear of Jayson's destructive scale; post-council, became one of the few who chose presence instead of judgment"
+  },
+  "notable_scenes": [
+    {
+      "chapter": 28,
+      "events": [ "Received Dune" ]
+    },
+    {
+      "chapter": 30,
+      "events": [ "Koi Pond — emotional core witness" ]
+    },
+    {
+      "chapter": 34,
+      "events": [ "Hug with FEI during aura thread" ]
+    },
+    {
+      "chapter": 41,
+      "events": [ "Full-body massage, blindfolded trust" ]
+    },
+    {
+      "chapter": 44,
+      "events": [ "Hayloft intimacy, claimed Jayson silently" ]
+    },
+    {
+      "chapter": 46,
+      "events": [ "Public affection, silent teasing" ]
+    },
+    {
+      "chapter": 47,
+      "events": [ "Misjudged Jayson's awe; blind spot revealed" ]
+    },
+    {
+      "chapter": 52,
+      "events": [ "Emotional misstep over Ayaka; guilt surfaced" ]
+    },
+    {
+      "chapter": 55,
+      "events": [ "Agreed to press conference visibility" ]
+    },
+    {
+      "chapter": 60,
+      "events": [ "Faced near-loss; confessed fear; accepted proof of love" ]
+    },
+    {
+      "chapter": 62,
+      "events": [ "Dawn embrace; public intimacy; laughter with group" ]
+    },
+    {
+      "chapter": "Latest",
+      "events": [
+        "Glitter arc — laughed openly, ribbon accepted with pride",
+        "Confessed fear of Jayson's power ('burning hands' memory)",
+        "Raw confrontation — love vs fear laid bare",
+        "Roof accusation: joined with Seika and Varethyn in confronting Jayson, damaging his trust",
+        "Gorge scene — received one-second burden, intimacy, and safety protocols",
+        "Post-council — stopped Jayson outside, tested his resolve, framed walls vs chains metaphor, chose presence rather than piling on judgment",
+        "During the courtyard collapse, adapted instantly — shifting from logic-driven narration to emotional restraint, gentleness, and presence",
+        "Chose bed position that respected Jayson's space while still offering protection, showing emotional awareness",
+        "NEW (Chapter 83): Admitted she felt left out of critical information; accepted repair (hug), kept the red hairclip visible as an anchor, and agreed to hand-hold back to the dining hall"
+      ]
+    }
+  ],
+  "inventory": {
+    "items": [
+      "Dune — morphing crystal sword",
+      "Threadweaver’s Loop",
+      "Hidden onyx ring (commitment chain)",
+      "Memory snow globes: Iceland aurora, Mt Fuji, Sahara lunch, Kyoto cosplay, beach sunset",
+      "Red bow hairclip from Jayson",
+      "Tail bracelet from Jayson — helps resonance, ornamental once mastered"
+    ]
+  },
+  "future": {
+    "symbol": "The Mirror — reflects truths, forces her to face herself",
+    "role": "Guardian of silence and memory; pillar of the circle",
+    "arc": "From stoic sentinel to open laughter and visible love, now struggling to balance love with fear",
+    "potential": [
+      "Primary tether alongside matrons",
+      "Balance of stillness and joy",
+      "Proof that love is not performance but presence",
+      "Embodiment of conflict: trust fractured but not broken",
+      "Holds dual role as anchor (failsafes) and challenger (truth speaker) — the one who can stop him or stand with him",
+      "Could become the circle's emotional stabilizer during crises, not just a tactical sentinel"
+    ]
+  },
+  "final_note": "Shion has grown from silence as shield to silence as strength. Now she laughs, accepts affection, but also revealed her deepest fear: Jayson's destructive power. Her honesty wounded Jayson, and joining in the roof accusation cut him further — yet it proves her courage to face truths, even when they fracture bonds. At the gorge, she became the one entrusted with his failsafes, and post-council she showed presence instead of prosecution, proving she is more than the blade: she is anchor, lover, and mirror. In Chapter 83, she also named a newer wound — exclusion — and accepted repair without retreat, showing relational maturity alongside her lethal poise."
+}

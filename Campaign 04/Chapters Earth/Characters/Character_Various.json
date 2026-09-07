@@ -1,0 +1,202 @@
+{
+  "main_characters": [
+    "Jayson Goodwin",
+    "FEI Goodwin",
+    "Ayaka",
+    "Seika",
+    "Varethyn Sol’Naeren",
+    "Shion",
+    "Naru",
+    "Lysera"
+  ],
+  "adults_and_above": [
+    {"name": "Riku", "role": "Blacksmith", "notes": ""},
+    {"name": "Lorian", "role": "Scout", "notes": "Helped combine The Vellari; earned his tail with your help; mate of Ena"},
+    {"name": "Ena", "role": "Scout’s mate", "notes": "Mate of Lorian"},
+    {"name": "Consort Misu", "role": "Leader of another Kitsune village", "notes": "Has joined the temple"},
+    {"name": "Raito", "role": "Civilian", "notes": "A boy that Fei likes and who likes her"}
+  ],
+  "children_rescued_kitsune": [
+    {"name": "Akari", "notes": "Friend of Suna; you helped them"},
+    {"name": "Suna", "notes": "Friend of Akari; you helped them"},
+    {"name": "Nika", "notes": "Lost her mom earlier and her dad during the breaches; adopted by Lorian and Ena"},
+    {"name": "Noko", "notes": "Little 7-year-old playing in the fields near the new village"},
+    {"name": "Amai", "notes": "1 of 3 girls saved from Northern Division bunker (Tokyo outskirts — Sector 7 Red)"},
+    {"name": "Mayari", "notes": "1 of 3 girls saved from Northern Division bunker (Tokyo outskirts — Sector 7 Red)"},
+    {"name": "Tsubaki", "notes": "1 of 3 girls saved from Northern Division bunker (Tokyo outskirts — Sector 7 Red)"}
+  ],
+    "other_characters_kitsune_temple": [
+        {
+            "name": "The Vellari",
+            "role": "Group",
+            "notes": "Group of 6 ancient fox spirits"
+        },
+        {
+            "name": "Kael",
+            "role": "Vellari member",
+            "notes": "One of The Vellari"
+        },
+        {
+            "name": "Vessaira",
+            "role": "Spirit",
+            "notes": "Brought back whole by combining The Vellari"
+        },
+        {
+            "name": "The Eidolarch",
+            "role": "Enigmatic figure",
+            "notes": "Appears in every prophecy — sometimes savior, sometimes destroyer; half-crystalline, half-foxlike depictions; unclear if person, artifact, or event; Jayson may echo their pattern"
+        },
+        {
+            "name": "VAER’ZENUKH-KAAHN",
+            "role": "Dragon",
+            "notes": "Dragon of The First Flame"
+        },
+        {
+            "name": "SHIR’THAE’ZENNA",
+            "role": "Dragon",
+            "notes": "Dragon of The Starlit Bloom"
+        },
+        {
+            "name": "Matron Kaelith of the Verdant Veil",
+            "role": "Matron",
+            "notes": "Matron of Hanae"
+        },
+        {
+            "name": "Matron Isahara of the Tides",
+            "role": "Matron",
+            "notes": "Matron and mother of Sorami"
+        },
+        {
+            "name": "Hanae",
+            "role": "Rescued",
+            "notes": "One of the 418 saved"
+        },
+        {
+            "name": "Sorami",
+            "role": "Rescued",
+            "notes": "One of the 418 saved"
+        },
+        {
+            "name": "Sorii’Ka",
+            "role": "Nine-tailed Kitsune",
+            "notes": "One of the 3 9-Tailed Kitsune"
+        },
+        {
+            "name": "Syn'Raa",
+            "role": "Nine-tailed Kitsune",
+            "notes": "One of the 3 9-Tailed Kitsune"
+        },
+        {
+            "name": "Akahana",
+            "role": "Nine-tailed Kitsune (exiled)",
+            "notes": "Exiled by Varethyn over 300 years ago"
+        },
+        {
+            "name": "Hoshiko",
+            "role": "Kitsune",
+            "notes": "Daughter of Akahana"
+        },
+        {
+            "name": "Shel'Naka-Katu",
+            "role": "Kitsune elder",
+            "notes": "Jayson’s mom; older than his dad; from when Kitsune were sovereigns"
+        },
+        {
+            "name": "Kahavin’Zil",
+            "role": "Kitsune elder",
+            "notes": "Jayson’s dad; born during the Pleistocene (~2 million years ago)"
+        },
+        {
+            "name": "Kaeli’sharr",
+            "role": "Neko",
+            "notes": "First of the cat-kin freed from Glacier base"
+        },
+        {
+            "name": "Rava",
+            "role": "Wolf-kin",
+            "notes": "First wolf-kin freed; bonded through submission and trust"
+        },
+        {
+            "name": "Sythera",
+            "role": "Drakyn",
+            "notes": "Tested through fire; immense heat tolerance"
+        },
+        {
+            "name": "Seris’val",
+            "role": "avian kin",
+            "notes": "Freed avian kin from Glacier base"
+        },
+        {
+            "name": "Korrin’th",
+            "role": "avian kin",
+            "notes": "Another avian kin freed; scarred but restored"
+        },
+        {
+            "name": "Shinro (formerly Nine)",
+            "role": "Wolf-kin reborn",
+            "notes": "Fragmented entity reshaped into wolf-kin"
+        },
+        {
+            "name": "Aelthryn",
+            "role": "Unknown entity",
+            "notes": "Singular being, enigmatic nature; origin unclear"
+        },
+        {
+            "name": "Kaelen",
+            "role": "Refugee",
+            "notes": "Ex Hydra"
+        },
+        {
+            "name": "Mira",
+            "role": "Refugee",
+            "notes": "Ex Hydra"
+        },
+        {
+            "name": "Kaelira",
+            "role": "Acolyte",
+            "notes": "Helped her and her fathers relationship"
+        },
+        {
+            "name": "Sanyu",
+            "role": "Worker",
+            "notes": "Kaelira father. Lost everything in the fire in his village. helped him connect with his daughter again"
+        },
+        {
+            "name": "Namine",
+            "role": "Acolyte",
+            "notes": "Helped her confidence"
+        }
+    ],
+  "military_earth_characters": [
+    {"name": "Colonel Kenzaki", "affiliation": "Japanese Military", "notes": ""},
+    {"name": "Takashima Rika", "affiliation": "Japanese Black Ops Military", "notes": ""},
+    {"name": "Private Renji Takamura", "affiliation": "Japanese Military", "notes": ""},
+    {"name": "Captain Daichi Morimoto", "affiliation": "Japanese Military", "notes": ""},
+    {"name": "Takitchi Morimoto", "affiliation": "Veteran", "notes": "Daichi Morimoto’s father; served with you during WW3 in 2040"},
+    {"name": "Thomas Cray", "affiliation": "Parallel Earth", "notes": "Brother of Hani"},
+    {"name": "Hani Cray", "affiliation": "Parallel Earth", "notes": "Sister of Thomas"},
+    {"name": "Commander Lucien Ward", "affiliation": "Red Zone Seven", "notes": "Leader; callsign Obsidian-1"}
+  ],
+  "other_characters": [
+    {"name": "Varn-Sul", "alias": "The Hungering Whisper", "notes": "Mikazari"}
+  ],
+  "dead_or_missing": [
+    {"name": "Rhyelle", "notes": "Varethyn’s sister — seen in the Lattice realm"},
+    {"name": "Toren", "notes": "Varethyn’s first lover; died in her arms"},
+    {"name": "Aru", "notes": "Shion’s sister"}
+  ],
+  "other_names_future_children": {
+        "Shion": {
+            "boy": "Shiro",
+            "girl": "Kuro"
+        },
+        "Varethyn": {
+            "boy": "Amariel",
+            "girl": "Kaelen"
+        },
+        "Ayaka": {
+            "boy": "Ren",
+            "girl": "Hikari"
+        }
+    }
+}

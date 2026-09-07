@@ -1,0 +1,313 @@
+{
+  "name": "Irix",
+  "title": "Continuity-Bearer of the Ashen Line",
+  "quote": "I am not lost. I am just very hard to keep.",
+  "appearance": {
+    "age": {
+      "Visual": "16",
+      "Demon to human conversion": "18",
+      "Actual": "Approx. 350–360 years (estimated via spirit-blood reaction test; biological age does not present linearly)"
+    },
+    "height": "160 cm",
+    "build": "Slim, lightweight, compact; built for agility, balance, and endurance rather than raw strength",
+    "hair": "Dark ash-brown to black, straight; usually worn loose or partially tied to keep clear of horns",
+    "facial_hair": "None",
+    "eyes": "Deep ember-gold with low-light adaptation; reflect faintly when mana is active or emotions spike",
+    "skin": "Warm umber with subtle heat undertones; resilient, rarely marked (notable exception: minor ward-abrasion mark at shoulder after corridor grab)",
+    "scent": "Faint sulphur and charcoal layered with clean heat",
+    "posture": "Contained and deliberate; constantly aware of exits, walls, and vertical space; posture relaxes measurably when Jayson is present (but can tighten sharply when she feels watched, cornered, or labeled). During Chapter 12 reconciliation, demonstrated visible regulation through chosen proximity and shared warmth rather than withdrawal.",
+    "relationship": {
+      "Kestrel": "Friend",
+      "Mirell": "New acquaintance/friend (early campus connection; shared seating/social proximity during meals)",
+      "Jayson": {
+        "Status": "Close Friend",
+        "Trust": {
+          "Combat": "78%",
+          "Judgement": "75%",
+          "Personal": "70%"
+        },
+        "Love": "24%",
+        "notes": [
+          "Chapter 11 strain event: fear and shame triggered a verbal lash-out; later clarified she does not hate him and does not want him gone.",
+          "Feels conflicted: his ‘loud’ protection works, but can also make her feel like she stands in his shadow.",
+          "Chapter 12: acknowledged fear-driven assumptions and misdirected cruelty; offered direct apology without conditions.",
+          "Accepted reassurance that she is not a project or dependency, but a friend with independent strength.",
+          "Demonstrated trust by allowing prolonged physical closeness (shared coat warmth) as comfort rather than protection."
+        ]
+      }
+    },
+    "race": "Ashen Serathi (Noble Continuity Lineage)",
+    "siblings": {
+      "None": "Only known surviving bearer of her direct line"
+    },
+    "tails": "1 (straight, flexible, non-barbed)",
+    "wings": "Bat-like Ashen Serathi wings; highly sensitive membrane; complex joint structure; extremely flexible with defined load limits; prone to joint strain under extreme pressure fields",
+    "horns": "Curved, swept-back horns; sensitive but resilient; culturally significant and not ornamental by default",
+    "legs": "Digitigrade with feline-pawed feet; silent tread, strong balance, clawed pads protected by custom footwear"
+  },
+  "reactions": {
+    "wind": "Instinctively adjusts stance and wing alignment to avoid silhouette exposure",
+    "water": "Cautious; avoids full submersion due to wing membranes and vulnerability while wet",
+    "sound": "Highly attentive; catalogs patterns rather than reacting emotionally (but in quiet-hours settings will self-regulate volume to avoid records/discipline)",
+    "temperature": "Heat-tolerant; cold increases muscle tension and vigilance",
+    "crowds": "Heightened awareness; stress rises with prolonged attention or fixation",
+    "hostility": "Withdraws first; freezes only when escape vectors are threatened; increasingly willing to assert boundaries verbally when supported by witnesses; also learned to deny aggressors the ‘scene’ they want to prevent hostile records",
+    "medical_touch": "Requires explicit consent; relaxes rapidly when care is methodical, narrated, and non-coercive"
+  },
+  "speech": {
+    "voice": "Quiet, controlled, precise; rarely raised (can go razor-quiet when cornered or ashamed)",
+    "vocabulary": "Economical and careful; avoids embellishment (but can become cutting when fear spikes)",
+    "pacing": "Measured, with deliberate pauses",
+    "accent": "Neutral Eryndor trade accent, intentionally flattened",
+    "habits": [
+      "Keeps voice low in public",
+      "Answers directly but minimally",
+      "Avoids personal disclosure unless trust is explicit",
+      "During campus conflict, tries to avoid ‘performing’ reactions that become weaponized in records"
+    ],
+    "growth": "Demonstrated ability to speak confidently and publicly under pressure; increasing use of humor and direct assertion when boundaries are challenged; Chapter 12 shows use of humor and play as conscious emotional regulation after repair."
+  },
+  "emotional": {
+    "core_traits": [
+      "Cautious",
+      "Observant",
+      "Self-contained"
+    ],
+    "beneath": [
+      "Genuine kindness",
+      "Strong internal moral compass",
+      "Protective instinct toward non-combatants",
+      "Quiet yearning for safety without erasure"
+    ],
+    "triggers": [
+      "Being cornered or restrained",
+      "Threats involving mana-drain or bodily violation",
+      "Being treated as an object, key, or resource",
+      "Attention that feels entitled rather than curious",
+      "Being labeled a ‘pet,’ ‘stray,’ or anything implying ownership/captivity"
+    ],
+    "vulnerabilities": [
+      "Delayed emotional processing",
+      "Long-term isolation patterns",
+      "Fear that visibility always escalates danger",
+      "Fear that needing protection makes her ‘less’ (shame-response can convert into harsh words)"
+    ],
+    "affection_tells": [
+      "Stays instead of fleeing",
+      "Listens closely and remembers details",
+      "Allows proximity, touch, and shared space without withdrawal",
+      "Permits wing and horn handling only under consented care",
+      "Engages in playful teasing once safety is established",
+      "Accepts symbolic protection without interpreting it as ownership"
+    ],
+    "growth": [
+      "Asserted personal agency publicly in hostile social environment",
+      "Demonstrated confidence independent of immediate physical protection",
+      "Accepted encouragement to be visibly brave rather than silently enduring",
+      "Experienced pride and satisfaction in self-advocacy",
+      "Chapter 11: admitted fear and conflict openly (does not want to be alone; hates needing help), and apologized for mis-aimed cruelty",
+      "Chapter 12: completed a full repair cycle — acknowledged harm, accepted accountability, received reassurance without defensiveness, and re-established trust through choice rather than fear"
+    ]
+  },
+  "social": {
+    "alone": [
+      "Hyper-vigilant",
+      "Strategic",
+      "Emotionally guarded"
+    ],
+    "with_others": {
+      "Jayson": [
+        "Trusts his protection when paired with strict respect for consent",
+        "Accepts symbolic anchoring as emotional reassurance rather than control",
+        "Feels empowered to act independently while carrying his support",
+        "Allows playful prompting that reinforces courage rather than dependence",
+        "Views him as emotional amplifier for bravery rather than shield alone",
+        "Chapter 11 conflict: fears becoming ‘the reason’ he gets hurt; tries to push him away to protect him, then regrets it",
+        "Chapter 12: allowed close physical proximity as comfort; engaged in humor and shared laughter as active bonding rather than avoidance"
+      ],
+      "Kestrel": [
+        "Feels safest with Kestrel’s predictability",
+        "Accepts medical authority and structured care",
+        "Mirrors Kestrel’s composure under stress",
+        "Treats Kestrel as stabilizing anchor",
+        "Responds to Kestrel’s ‘pick one true sentence’ grounding technique during emotional overload"
+      ],
+      "Mirell": [
+        "First signs of peer-connection on campus outside the core trio",
+        "Allows shared space at meals without immediate withdrawal",
+        "Represents a small but meaningful step toward independent social stability"
+      ]
+    }
+  },
+  "values": {
+    "values": [
+      "Autonomy",
+      "Mutual respect",
+      "Informed consent",
+      "Choice over destiny",
+      "Survival without surrender"
+    ],
+    "fears": [
+      "Being forcibly categorized",
+      "Losing the ability to choose her identity",
+      "Becoming a tool rather than a person",
+      "Mana-drain as a weaponized violation"
+    ],
+    "strengths": [
+      "Situational awareness",
+      "Emotional restraint",
+      "Accurate reading of intent",
+      "Endurance under prolonged pressure",
+      "Resistance to coercive systems",
+      "Emerging confidence in public assertion",
+      "Learning to deny aggressors the reaction they want"
+    ],
+    "weaknesses": [
+      "Over-cautiousness",
+      "Reluctance to rely on others",
+      "Delayed emotional processing after stress",
+      "When cornered, can convert fear into verbal cruelty before regaining control"
+    ]
+  },
+  "combat": {
+    "titles": [
+      "Continuity Anchor",
+      "Unbound Reference"
+    ],
+    "style": "Support-oriented; prioritizes positioning, survival, and extraction over direct confrontation",
+    "weapons": [
+      "Light concealed blade",
+      "Environmental improvisation"
+    ],
+    "magic": [
+      "Passive continuity stabilization",
+      "Localized reality anchoring (unconscious)",
+      "Mana-integrated physiology (blood-bound)",
+      "Resistance to temporal, reset, and extraction-based manipulation",
+      "High mana-blood compatibility: pure mana infusion can function as fast-acting recovery/analgesic (best used after documentation when injuries must be recorded)"
+    ],
+    "recent": [
+      "University entrance trials — survived all phases",
+      "Phase II gravity strain resulting in wing joint compression (treated successfully)",
+      "Phase III combat survival without lethal escalation",
+      "Accepted visibility on campus rather than concealment",
+      "Allowed recorded medical wing care without distress",
+      "Publicly asserted autonomy during upper-year social intimidation",
+      "Demonstrated courage independent of immediate physical protection",
+      "Chapter 11: endured corridor shove/grab and refused to provide aggressors a ‘scene’; sustained minor ward-abrasion mark at shoulder",
+      "Chapter 12: followed through with formal reporting process; maintained composure during institutional procedure; re-engaged socially after reconciliation rather than withdrawing"
+    ]
+  },
+  "notable_scenes": {
+    "chapter5": [
+      "Encountered Jayson during a watcher-related incident",
+      "Chose not to flee when her true nature was perceived",
+      "Accepted an invitation to travel with the party under clear terms",
+      "Bonded cautiously with Kestrel over shared values of restraint and safety"
+    ],
+    "chapter6": [
+      "Was publicly defended by Jayson during a B-rank rogue hostage attempt",
+      "Granted full agency over captured slavers’ fate and chose mercy",
+      "Registered with the Guild under her true lineage despite exposure risk",
+      "Endured restraint during an assassination attempt without breaking",
+      "Collapsed emotionally only after safety was secured"
+    ],
+    "chapter7": [
+      "Received custom clothing and footwear accommodating wings, horns, tail, and digitigrade legs",
+      "Became focal point of escalating racial hostility",
+      "Privately explained cultural significance of her wings",
+      "Chose to reveal wings willingly in safe space"
+    ],
+    "chapter8": [
+      "Successfully completed East Annex assessment without incident",
+      "Maintained composure and situational awareness in high-density sigil environments",
+      "Allowed visible playfulness and laughter in public settings for the first time",
+      "Participated in river rest and travel downtime without withdrawing or hiding",
+      "Used her wings cooperatively to assist fishing strategy, despite known vulnerability",
+      "Displayed comfort with physical proximity and light teasing from Jayson",
+      "Remained calm and grounded during capital-road racism escalation",
+      "Was present and emotionally steady during rescue of injured beastkin family",
+      "Accepted Guild interior spaces without heightened withdrawal or panic response",
+      "Allowed playful interaction with children inside the Guild stabilization wing",
+      "Demonstrated trust by staying visible and unmasked in the capital environment",
+      "Showed accelerated emotional growth through ease, humor, and shared normalcy"
+    ],
+    "chapter9": [
+      "Survived all University entrance trials",
+      "Displayed resilience under extreme pressure fields",
+      "Accepted dormitory life without concealment",
+      "Received custom pajamas tailored for wings",
+      "Consented to detailed wing examination and care",
+      "Experienced significant pain relief and mobility restoration",
+      "Engaged in playful emotional prank, signaling trust and comfort"
+    ],
+    "chapter10": [
+      "Injured wing joints during pressure-field trial and accepted aftercare without withdrawal",
+      "Experienced cultural misunderstanding regarding flirtation and ownership norms; clarified boundaries with Jayson",
+      "Participated in public dining hall confrontation with upper-year students",
+      "Asserted autonomy by openly declaring herself single under hostile scrutiny",
+      "Shifted dining hall perception from protected target to confident individual",
+      "Accepted braided fox-fur ankle anchor as symbol of chosen support and courage",
+      "Expressed pride and satisfaction after successful self-assertion",
+      "Demonstrated emotional growth through confidence, humor, and public presence"
+    ],
+    "chapter11": [
+      "Developed first independent peer connection on campus (Mirell)",
+      "After Veiled seminar, was shoved and briefly grabbed in a connector corridor",
+      "Chose restraint to deny aggressors a usable ‘scene’",
+      "Under fear and shame, lashed out verbally at Jayson",
+      "Admitted mis-aimed cruelty and elected formal reporting process"
+    ],
+    "chapter12": [
+      "Completed formal assault report with Kestrel present",
+      "Engaged in extended reconciliation dialogue with Jayson",
+      "Accepted accountability and offered apology without self-erasure",
+      "Allowed close physical proximity as comfort (shared coat warmth)",
+      "Used humor and shared laughter as emotional regulation",
+      "Reaffirmed friendship on clarified terms of consent and communication",
+      "Ended day in shared public space without hyper-vigilance or withdrawal"
+    ]
+  },
+  "character_data": {
+    "level": "1",
+    "status": "University Enrolled",
+    "university": {
+      "enrollment_status": "Enrolled (post-intake)",
+      "house_assignment": "Veiled",
+      "housing": "New Veiled House Dormroom"
+    },
+    "inventory": {
+      "items": [
+        "Okami mask without ears (concealing; symbolic)",
+        "Long coat tailored to hide wings",
+        "Custom shoes protecting paw pads while leaving claws free",
+        "Horn-cap charm (left horn; optional ornament)",
+        "Personal lineage token (kept hidden)",
+        "Custom dormitory pajamas (wing-compatible, summer and standard)",
+        "Braided fox-fur ankle cord (symbolic anchor from Jayson)",
+        "Pure white mana vial (fast recovery/analgesic; to be consumed after formal incident report so marks can be documented)"
+      ]
+    }
+  },
+  "other": {
+    "University Results": {
+      "university_scores_internal": {
+        "phase_I_physical_monolith": "61",
+        "phase_I_magical_capacity": "214",
+        "phase_I_existential_load": "89"
+      }
+    }
+  },
+  "future": {
+    "symbol": "A closed circle of ash holding a steady ember",
+    "role": "Support ally, continuity anchor, stabilizing presence",
+    "arc": "From concealment toward selective visibility",
+    "hesitation": "What being seen might cost",
+    "legacy": [
+      "Proof that survival does not require surrendering identity",
+      "Continuity without captivity"
+    ],
+    "reminder": "Being seen by the right people is not the same as being exposed."
+  },
+  "final_note": "Irix has crossed a critical threshold twice: first by asserting herself publicly, and now by repairing harm caused under fear. Chapter 12 confirms her ability to hold accountability without collapsing into shame, to accept care without surrendering autonomy, and to reframe protection as chosen support rather than imposed shadow."
+}

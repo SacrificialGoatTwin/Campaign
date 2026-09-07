@@ -1,0 +1,353 @@
+{
+  "name": [
+    "Jayson Goodwin",
+    "Shel’mekai’Vuran-Tah’aan"
+  ],
+  "title": [
+    "The Anomaly",
+    "The Flamebearer",
+    "The Man of Two Worlds",
+    "Umvuni",
+    "The Reaper of Africa",
+    "Island-Soul Protector",
+    "The Walking Ultimatum"
+  ],
+  "quote": "When the world calls me broken, I answer with flame.",
+  "appearance": {
+    "age": {
+      "Visual": "28",
+      "Actual": "79",
+      "Fox Spirit": "Ancient"
+    },
+    "height": "Was 185 cm (6'1\"), now 175 cm post-evolution",
+    "build": "Lean, trauma-shaped, predator-like posture; honed by survival and internal heat; posture goes statue-still when containing rage",
+    "hair": "Reddish-brown, short and tousled; greys/ashens under duress; Kitsune form: blood-red with black undertones",
+    "facial_hair": "Trimmed beard and mustache — maintained, not decorative",
+    "eyes": "Formerly brown; now luminous white-blue halo irises (crystal-veil integration); amethyst glow on deep thread dives; silver-grey flow during dissociative collapse; void-white burn when fully unleashed; currently a brown-red due to loss of powers (occasionally flashes brighter during Spark activation)",
+    "skin": "Pale with faint crystalline traceries; veins glow under surge; luster dulled during emotional voiding; wraith form: void-dark skin with soot-serpent tails; currently tan due to loss of powers",
+    "scent": "Neutral-clean when calm; slight ozone/metal when Spark or heatworking is active; faint warm-lantern/woodsmoke note when Hearthbound is sustaining around him",
+    "posture": "Adaptive — upright/methodical in command, slouched when reflective, folds inward when collapsing; goes eerily still when switching from banter to lethal intent",
+    "relationship": {
+      "Ayaka": "Wife",
+      "Shion": "Wife",
+      "Seika": "Wife",
+      "Lysera": "Wife",
+      "Varethyn": "Wife",
+      "Naru": "Wife",
+      "Fei": "Wife"
+    },
+    "race": "Kitsune (power-suppressed; Spark active)",
+    "siblings": {
+      "Fei": "Twin Sister by cloning"
+    },
+    "tails": "9",
+    "teeth": "Large kitsune fangs (one prominent, one slightly smaller behind); often forgets they are visible when relaxed/asleep",
+    "quirks": [
+      "Tails show semi-independent reflex/emotion; can 'mutiny' (e.g., tail-slap when he's being a menace)",
+      "Tail-tip 'boops' used as playful reassurance when trust is safe",
+      "Tongue can loll out when exhausted/asleep; sleep-talk becomes surreal (dumplings, fish wagons, stress-eating rats, sand-and-stick dumplings, frogs in armor, chickens in pants)",
+      "Eyes go comically huge and sparkly when fascinated (especially wings, ears, paws, or clever engraving)",
+      "Will slip into a spider-like scuttle posture (tails splayed) when playing for laughs in public",
+      "New: pupils can blow wide into 'startled possum mode' when fascinated or caught off-guard (especially around Serathi wings/paws)",
+      "New: can fold tails into a functional 'seat' when denied chairs in crowded lecture halls",
+      "New: exhaustion ‘hard-crash’ tells (ear folding inside-out, slurred words, sudden lap-naps) when sleep deprived",
+      "New: will fully commit to public slapstick using tails as 'puppet limbs' (e.g., spider-theater) to soak hostility in ridicule and reset the room’s power dynamic",
+      "New: uses his coat like a mobile warm den (tucking Irix inside as concealment + comfort when crowds are watching)"
+    ]
+  },
+  "reactions": {
+    "wind": "Brings calm; anchors Earth memory",
+    "water": "Reflection and emotional release; baths precede honesty",
+    "sound": "Crystal-enhanced perception; twitch-responsive under strain; high-precision tracking; now actively leveraged as primary combat-sense in Eryndor (blindfold + echo mapping + tail-tap spatial painting)",
+    "temperature": "Unaffected in the sense of tolerance, but consciously uses heat/cold manipulation for comfort and control"
+  },
+  "speech": {
+    "voice": "Quiet but intense; soft and warm in intimacy, flattening under grief; eerily polite and controlled when threatening or addressing authority",
+    "vocabulary": "Poetic when emotional; pragmatic in normal exchange; precise and scientific when tinkering (engraving, mana circuitry, Spark interfaces)",
+    "pacing": "Measured and slow when uncertain; quickens with resolve; sentences trail or fracture under pain; becomes dead-silent before decisive violence",
+    "accent": "Subtle Australian (Perth)",
+    "habits": [
+      "Murmurs to FEI out loud when alone",
+      "Repeats partner names softly as a grounding mechanism",
+      "Uses playful nicknames as emotional anchors",
+      "Whispers to himself when despairing, as if bargaining with the void",
+      "Dismissive hand-wave to signal firm boundaries or end confrontations",
+      "Dry, comedic \"announcement voice\" before dangerous operations to control tension",
+      "Uses written notes instead of speech when trust is thin (controls who hears what)",
+      "Public de-escalation announcements when crowds tense up (controls rumor vectors)",
+      "Switches into absurd literalism or sexual-misdirection banter to derail hostile crowds without drawing steel",
+      "New: squeaks with excitement when delighted, then drops into a deep satisfied purr-tone (especially when fascinated)",
+      "New: will narrate his own \"no hands\" rule out loud when consent or boundaries matter, to remove ambiguity",
+      "New: uses domestic proof-of-care as routine (daily bento cooking; \"food as anchoring\") rather than grand speeches",
+      "New: uses symbolic gestures (braiding tail-fur into anklets/tokens) as reassurance anchors when separation is enforced",
+      "New: goes bluntly procedural with authorities when sleep-deprived (short answers, minimal detail, avoids corridor theatrics)",
+      "New: will openly recommend ‘sleep first, report tomorrow’ to prevent emotional distortion in official statements"
+    ],
+    "growth": "Learns to let silence carry meaning instead of filling it; shifts from defensive sarcasm toward deliberate restraint and intentional warmth"
+  },
+  "emotional": {
+    "core_traits": [
+      "Guilt-bound",
+      "Protective to martyrdom",
+      "Analytical yet emotionally aware",
+      "Loyal",
+      "Deep listener"
+    ],
+    "beneath": [
+      "Feels unworthy of kindness/forgiveness",
+      "Carries others’ pain as his own",
+      "Survivor of extreme trauma",
+      "Memory as penance (remembers everything)",
+      "Deep tether to Fei; emptiness when apart",
+      "Self-monster fear under rejection",
+      "Fear of final emotional break from constant giving",
+      "Disillusioned: seen as a problem to fix",
+      "Now burdened by the idea that his very power makes those he loves afraid",
+      "Hurt that he is treated as a weapon to be contained rather than a husband to be trusted",
+      "A quiet craving for simple trust: no leashes, no protocols — just family",
+      "Escalating distrust of gods/authorities who speak without tangible proof (especially after dream-contact)",
+      "carries a quiet, explicit mission-statement in Eryndor — to make this world safer and less hateful when his power returns",
+      "understands and respects the cultural weight of sacred body-parts (wings/tails) and treats that knowledge as protective leverage rather than trivia",
+      "university culture confirmed his suspicion — power is treated as entitlement, and cruelty is treated as sport; this hardens his long-term resolve without changing his immediate restraint",
+      "internalizes that Valenhold's \"containment\" is administrative (schedules, access, proximity) and resents it as a cage with polite handwriting",
+      "understands that repair sometimes means explicit vulnerability (admitting hurt, naming fear, and still choosing closeness)"
+    ],
+    "triggers": [
+      "Being misread or doubted by loved ones",
+      "Accusations that reframe his awe/joy as dismissal",
+      "Enforced silence or emotional isolation",
+      "Hesitation to touch from those he loves",
+      "Children being harmed or weaponized (black sites)",
+      "Threats of binding or caging from those within his circle",
+      "Inner Sanctum proximity when depleted (sanctum echoes as a body-memory cage)",
+      "State-level lies after promises of compliance (especially NATO escalation games)",
+      "Procedural stalling / repeated retellings when a mole is suspected (creates ‘paper-trap’ paranoia)",
+      "racism framed as \"rank entitlement\"—when high-level people believe power makes cruelty lawful",
+      "pervasive surveillance framed as 'safety' (recording wards everywhere) — he tolerates it but resents it deeply",
+      "divine rhetoric that demands sacrifice while withholding information (\"correction\", \"running out of time\", \"dependency\")",
+      "loved ones pre-judging his intent and reacting to the imagined version rather than the man in front of them"
+    ],
+    "vulnerabilities": [
+      "Collapse in response to perceived rejection",
+      "Questioning right to be joyful/chaotic self",
+      "Tendency to self-punish and shut down",
+      "Temptation to use deterrent cruelty when justice feels ignored",
+      "Immortality fear — loving mortals who may fade while he endures",
+      "Carries the echo of temple betrayal into every future act",
+      "When depleted, panic can override control (blackout risk)",
+      "Dream-space manipulation attempts (responds by forcing wake-state control)",
+      "exhaustion crashes hard after prolonged vigilance; can fall asleep mid-conversation and drop straight into deep REM",
+      "can briefly 'hyperfocal lock' on novel anatomy/engineering (wings/wards/devices) and miss spoken words until interrupted",
+      "New: in institutional spaces, he can misread “they’ll leave” as inevitability and go quiet instead of asking directly for reassurance"
+    ],
+    "affection_tells": [
+      "Radiant heat fields",
+      "Grooming (Kitsune tongue), purring vibrations",
+      "Hovering or stillness to avoid disturbing others",
+      "Protective positioning and quiet presence",
+      "Playful teasing mixed with sudden deep confessions",
+      "Thumb-rubs on a partner’s thigh/hand as a steadying habit",
+      "Tail-based grounding gestures (ankle wrap; wrist coil; offering tails as ‘handholds’ for steadiness)",
+      "New: tail-tip 'boops' as a playful reassurance gesture (only when the relationship is safe enough)",
+      "New: unconscious tail-draping in sleep as a protective inclusion reflex",
+      "New: offers physical support without ownership (tail-cushion, warmth, steadying) and explicitly asks consent before touching sacred body-parts",
+      "New: wraps others into his coat/space as a deliberate sheltering gesture (warmth + privacy + “you’re not alone”)"
+    ],
+    "growth": [
+      "Undergoing identity shedding (not power, but self)",
+      "Learning that misread joy becomes trauma",
+      "Balancing change for acceptance vs. staying true",
+      "Fragmented but processing toward clarity",
+      "Beginning to voice needs instead of only absorbing pain",
+      "Accepted Varethyn’s no-cage vow; offered reciprocal apology and commitment to communicate",
+      "Clearly voiced a new boundary: discipline must come from his wife and mate, not from a distant High Matron role, and agreed to speak up earlier and in private when hurt",
+      "Reclaimed his playful chaos as an honest part of himself, using domestic insanity to restore joy and connection instead of masking pain",
+      "Built a life-force beacon as trust-tech (tracking without control), proactively easing the wives’ fear rather than arguing it away",
+      "Learned to accept being called a weapon without flinching — and to place that weaponhood under family ethics rather than external judgment",
+      "Transitioned from 'ask the world to do right' to 'set the clock, set the consequences' when NATO proved bad-faith repeatedly",
+      "Allowed himself to ask for anchoring and comfort (hug request) before going loud/violent — not as weakness, as governance",
+      "Began treating the island as a child-soul that must be taught boundaries rather than punished for ignorance",
+      "Chose information-security over pride: refused duplicate statements until Marshal involvement, to avoid inconsistency traps",
+      "Adopted ‘endurance as consistency’ as a combat and life principle after Greyreach’s boss test",
+      "Escalated his proof-boundary with the dream-goddess: demanded tangible confirmation of the wives’ wellbeing instead of accepting claims",
+      "Chose opsec over comfort: destroyed the wives’ proof-note to prevent wrong eyes from using it as leverage or propaganda"
+    ]
+  },
+  "social": {
+    "alone": "Reflects; speaks to Fei; touches pendant; gazes at crystal flame/nature; perches rooftops/ponds/shrines to decompress; scans feeds for threats and leads; will slip into pocket-dimensions for silence when grief is too loud",
+    "with_others": {
+      "ayaka": "Safe anchor and limiter; carried him when he was depleted; bathhouse becomes their honesty-space; he treats her as partner-in-crisis, not a sheltered wife; he checks in quietly and gives space without distance",
+      "varethyn": "Axis bond; now functions as his anchor more than his commander; acknowledged him as a weapon without trying to cage it; holds boundaries while staying relational; he seeks her presence before major escalations",
+      "seika": "Joy and chaos; medicine through laughter; still uses quiet grounding gestures when teasing goes too far",
+      "naru": "Compass and intelligence anchor; he trusts her systems and her steadiness; her moral hesitation can frustrate him, but he does not dismiss it",
+      "shion": "Tactical ally; sharp presence on operations and medical readiness; he respects her discipline and uses her as a 'ready at the door' contingency without giving her the burden of his rage",
+      "fei": "Twin soul and co-operator; now entrusted with deep infrastructure intrusions and black-site enumeration; acts as a strategic equal rather than a helper",
+      "lysera": "Wolf-mate by rite; healing hall logistics and pack-justice discussions clash with his need for controlled consequences; he tries to preserve her dignity while refusing to outsource his darkest impulses"
+    }
+  },
+  "values": {
+    "values": [
+      "Redemption",
+      "Memory",
+      "Earned trust",
+      "Emotional clarity",
+      "Justice as deterrence",
+      "Consent and choice in bonds",
+      "Transparency when it prevents propaganda",
+      "Family-first sovereignty",
+      "social safety as a long-term mission (anti-discrimination, anti-hate)",
+      "legitimacy over compliance theater (won’t be administratively contained into puppethood)"
+    ],
+    "fears": [
+      "Losing the girls",
+      "Becoming a monster again",
+      "Being left behind",
+      "Not hearing Fei’s voice",
+      "Emotional alienation",
+      "That his very power makes his loved ones afraid of him",
+      "Being treated only as a weapon, not as a man",
+      "Being disciplined or controlled as a subject instead of loved as a husband",
+      "Sanctum relapse: being dragged back into a place his body remembers as a cage",
+      "That the gods have altered, harmed, or displaced his wives across incompatible lattices/continua"
+    ],
+    "strengths": [
+      "Uncompromising loyalty once trust is given",
+      "Analytical mind with emotional literacy",
+      "Protective courage and self-sacrifice",
+      "Listening without interrupting emotional truth",
+      "Able to balance annihilation with sparing innocence",
+      "Restraint under witness — can hold back even while broadcasting truth to the world",
+      "Can switch from clowning to command in a breath without losing the thread",
+      "Can maintain consistent pressure under adaptation (does not panic when the enemy ‘learns’)"
+    ],
+    "weaknesses": [
+      "Self-blame and martyrdom",
+      "Collapse under perceived doubt",
+      "Shuts down instead of voicing needs (improving, not solved)",
+      "Leans into monstrosity as deterrent and crutch",
+      "Carries wounds from mistrust into new choices",
+      "When exhausted, he can overcorrect into spectacle to prevent lies/propaganda",
+      "Provoked into absolute defiance when authority speaks without evidence (especially gods)"
+    ]
+  },
+  "combat": {
+    "titles": {
+      "earth": [
+        "First Flamebound",
+        "Crystal-forged"
+      ],
+      "eryndor": []
+    },
+    "style": "Primarily non-magical martial discipline in Eryndor; redirects force, controls narrative through restraint; heavy reliance on sensory mapping, misdirection, and environmental projectiles",
+    "weapons": [
+      "claws",
+      "teeth",
+      "tails"
+    ],
+    "magic": [
+      "Spark (active)",
+      "Hearthbound (AoE comfort/containment; thermal control; can act as a rain-shield dome; can isolate air for heating/cooling experiments)",
+      "Heatwave (localized intense heating; can trip wards if pushed; used carefully; demonstrated fine control by heating small objects without igniting surroundings)"
+    ],
+    "recent": [    ]
+  },
+  "notable_scenes": {
+    "chapter1": [
+    ],
+    "chapter2": [
+    ],
+    "chapter3": [
+    ],
+    "chapter4": [
+    ],
+    "chapter5": [
+    ],
+    "chapter6": [
+    ],
+    "chapter7": [
+    ],
+    "chapter8": [
+    ],
+    "chapter9": [
+    ],
+    "chapter10": [
+    ],
+    "chapter11": [
+    ],
+    "chapter12": [
+    ]
+  },
+  "character_data": {
+    "level": 1,
+    "Status": "",
+    "university": {
+      "enrollment_status": "",
+      "house_assignment": "",
+      "housing": ""
+    },
+    "inventory": {
+      "items": [
+        "Harrowfen Guild Badge",
+        "coin pouch",
+        "cloak",
+        "horse",
+        "cart",
+        "katana (concealed)",
+        "engraved stone with spiral and family (micro-etched; now capable of responsive hologram projection when powered)",
+        "Anchor Ring (rare stabilization ring from Greyreach boss; worn)",
+        "Greyreach Dungeon Plate (structural stone reinforcement material)",
+        "High-quality leather satchel (market purchase)",
+        "Leveling Plaque (Guild-issued; tracks experience and rank progress)",
+        "Mana Battery",
+        "Microchip-like flat rectangle from the contraption you pulled apart",
+        "neutral (non-guild) clothing set for Valenhold",
+        "University intake/binding contract copy (if issued)",
+        "additional coffer of gold (recovered from thieves; moved into dorm storage room)",
+      ]
+    },
+    "Other": {
+      "Dungeon intent registered": "Active",
+      "Guild scrutiny": "Ongoing but non-hostile",
+      "Greyreach cleared": "Yes (C-rank), under Kestrel’s supervision",
+      "Grey-moss Depths cleared": "Yes (C-rank), with Kestrel + Irix"
+    }
+  },
+  "Other": {
+    "tattoo": {
+      "fox": "Origami fox merged into flesh and turned into a tattoo from Ayaka as a reminder of the almost killing her",
+      "feather": "A feather turned into a tattoo behind the fox one, a gift from Lysera that you turned into a tattoo to show her that even something like a feather is cherished because it comes from her",
+      "ring": "A ring tattoo around the fox and feather; an actual ring turned tattoo, a gift from Fei to express her love"
+    },
+    "spirit_companion": {
+      "name": "Fleas",
+      "type": "Fox spirit kit",
+      "residence": "Moved from Jayson's Fifth tail to Liri’s tail (covert placement)",
+      "status": "Confirmed present; capable of speech; appears at will; functioning as a dampener/veil-scent mask for Kitsune detection"
+    },
+    "University Results": {
+      "university_scores_internal": {
+        "phase_I_physical_monolith": "",
+        "phase_I_magical_capacity": "",
+        "phase_I_existential_load": "",
+        "phase_II_gravity_endurance": "",
+        "phase_III_combat_index": "",
+        "phase_IV_ethics": "",
+        "phase_V_fracture": "",
+        "phase_VI_sorting": "",
+        "phase_VII_binding": ""
+      }
+    }
+  },
+  "future": {
+    "symbol": "A blade sheathed in public rain",
+    "role": "Deliberate protector rather than reactive weapon",
+    "arc": "From fallen god to choosing man",
+    "hesitation": "Letting himself believe restraint will be enough",
+    "legacy": [
+      "Breaking cycles without becoming the monster",
+      "Teaching fear to stand down instead of spread",
+      "New: making Eryndor safer—systemically, not just case-by-case"
+    ]
+  },
+  "final_note": ""
+}

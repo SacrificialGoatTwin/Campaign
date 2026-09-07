@@ -1,0 +1,947 @@
+# you asked
+
+message time: 2026-08-01 23:23:24
+
+You grin wide
+Deal...
+You all head to dinner, grab food and sit down out the way
+You get pip some fruit, small piece of meat and some greens with a glass of water
+There we go sweety
+You all chat and eat at another dining hall, one where the headmistress is eating this time
+It doesnt stop the bullshit though and those who do not like beastkin or pip
+[Debug] remember your difficulty and brutality
+[Debug] also remember i am here, you make a lot of things happen but dont give me a chance to act, if something happens towards pip of my friends, I need a chance to react before the consiquence
+
+---
+
+# chatgpt response
+
+acknowledged
+
+# 🍽️ "Founders’ Grand Refectory" | 🌤️ "Clear" | 🌇 "Evening, 17:49" | 📅 "04/05/1427"
+## 🎞 Scene Title: Dinner Beneath the Headmistress
+
+---
+
+### 📽 The Founders’ Grand Refectory rises in three crowded tiers beneath vaulted ribs of black oak and stained crystal, its hundreds of tables packed with students, faculty, House officers, servants, and visiting sponsors while chandeliers burn gold above the ceaseless churn of trays and voices; at the raised central dais, the headmistress eats among senior staff beneath the university crest, close enough to witness the hall yet distant enough that old hatreds still move through the crowd like knives beneath cloth.
+
+---
+
+## 🦊 JAYSON | "pleased" [🦊😁]
+
+* 😁 You grin widely.
+
+> 💬 "Deal..."
+
+* 👣 You all head into the dining hall, collect food, and find a table away from the heaviest traffic.
+
+* 🍎 You prepare Pip a small meal of fruit, greens, and a modest piece of meat with a glass of water.
+
+> 💬 "There we go sweety."
+
+* 🍽️ You settle with Kestrel, Irix, Nyx, and Pip as everyone eats and talks.
+
+---
+
+## 🍎 PIP | "hungry" [🍎😊]
+
+* 🌿 Pip climbs onto the table beside her plate.
+
+* 🍖 She inspects the meat first, then the fruit, then the greens with visible suspicion.
+
+> 💬 "Fruit good."
+
+* 🐾 She takes a bite of meat next.
+
+> 💬 "Meat good."
+
+* 👀 She looks at the greens.
+
+> 💬 "Green..."
+
+---
+
+## 👹 IRIX | "encouraging" [👹🙂]
+
+> 💬 "Green will not betray you."
+
+---
+
+## 🍎 PIP | "uncertain" [🍎🤨]
+
+* 🌿 Pip takes one tiny bite.
+
+> 💬 "Green maybe."
+
+---
+
+## 🧝 KESTREL | "amused" [🧝🙂]
+
+> 💬 "A balanced assessment."
+
+---
+
+## 🐆 NYX | "relaxed" [🐆😏]
+
+* 🍽️ Nyx cuts into her meal while keeping one ear angled toward the hall.
+
+> 💬 "Better food than the admission chamber."
+
+---
+
+## 👹 IRIX | "curious" [👹🧐]
+
+> 💬 "They fed you?"
+
+---
+
+## 🐆 NYX | "dry" [🐆😐]
+
+> 💬 "They offered water."
+
+> 💬 "Then discussed whether I required containment while I drank it."
+
+---
+
+## 🧝 KESTREL | "unsurprised" [🧝😐]
+
+> 💬 "That sounds accurate."
+
+---
+
+## 🎲 RANDOM TURN | Difficulty 6 | "The Headmistress Watches Everything" [👁️🏛️]
+
+* 👑 At the raised dais, the headmistress pauses mid-conversation and looks across the hall.
+
+* 👀 Her gaze moves over Nyx’s three-crested token, Irix’s Veiled insignia, Kestrel’s Axiomatic books, your nine tails, and Pip eating beside the water glass.
+
+* 🍷 A senior professor beside her murmurs something.
+
+* 👑 The headmistress does not answer, but she keeps watching for several seconds before returning to her meal.
+
+---
+
+## 👹 IRIX | "wary" [👹🧐]
+
+* 👀 Irix notices the attention.
+
+> 💬 "We have been inspected."
+
+---
+
+## 🐆 NYX | "unbothered" [🐆🙂]
+
+> 💬 "She is deciding whether this table is a disciplinary problem."
+
+---
+
+## 🧝 KESTREL | "dry" [🧝🙂]
+
+> 💬 "It is."
+
+---
+
+## 🍎 PIP | "helpful" [🍎😊]
+
+> 💬 "Pip table."
+
+---
+
+## 🐆 NYX | "amused" [🐆😏]
+
+> 💬 "Case closed."
+
+---
+
+## 🎲 RANDOM TURN | Difficulty 8 | "Old Hatred Finds a Table" [⚠️🩸]
+
+* 👥 At a nearby table, four senior students in formal university colors have been watching Pip since the group sat down.
+
+* 🧑‍🎓 One human student says something under his breath.
+
+* 🧝 His elven companion laughs without humor.
+
+* 🐂 A massive bull Beastkin seated with them remains silent, jaw tight, while an Axiomatic upper-year beside him rolls a metal dining spike between two fingers.
+
+* 👀 The upper-year looks toward the headmistress’s dais, confirms her attention is elsewhere, and stands.
+
+---
+
+## 🧑‍🎓 CAEL VORR | "contemptuous" [🧑‍🎓😒]
+
+* 👣 Cael approaches the table with two companions behind him.
+
+* 📜 His silver-trimmed uniform marks him as an advanced Axiomatic adjudication student.
+
+> 💬 "Registered dependent or not, that creature does not belong on a dining surface."
+
+* 👀 He looks directly at Pip.
+
+> 💬 "Put it on the floor."
+
+---
+
+## 👹 IRIX | "hostile" [👹🔥]
+
+* 🍴 Irix slowly sets down her fork.
+
+> 💬 "Walk away."
+
+---
+
+## 🧝 KESTREL | "cold" [🧝🧊]
+
+* 📚 Kestrel’s hand rests near the ward-token at her belt.
+
+> 💬 "Her dependent registration permits table access while supervised."
+
+> 💬 "You know that."
+
+---
+
+## 🧑‍🎓 CAEL VORR | "smug" [🧑‍🎓😏]
+
+> 💬 "I know provisional classifications are not persons."
+
+* 👀 His gaze flicks toward Pip’s plate.
+
+> 💬 "And I know people have become far too comfortable pretending vermin can be family."
+
+---
+
+## 🍎 PIP | "uneasy" [🍎😟]
+
+* 🌿 Pip stops chewing.
+
+* 🐾 Two limbs tighten around the edge of her plate.
+
+> 💬 "Pip person."
+
+---
+
+## 🐆 NYX | "dangerously-calm" [🐆🙂]
+
+* 🍽️ Nyx places her knife beside her plate with exquisite care.
+
+> 💬 "You should leave."
+
+---
+
+## 🧑‍🎓 CAEL VORR | "provoking" [🧑‍🎓😠]
+
+* 🫴 Cael lifts the metal dining spike.
+
+> 💬 "Or what?"
+
+* ⚙️ A faint Axiomatic charge crawls across the utensil.
+
+* 👁️ He looks toward the watching tables, clearly aware of his audience.
+
+> 💬 "Perhaps it needs to be tested."
+
+---
+
+## 🎲 RANDOM TURN | Difficulty 9 | "The First Motion" [⚡🍎]
+
+* ⚡ Cael’s wrist snaps forward.
+
+* 🗡️ The charged dining spike leaves his fingers, spinning toward Pip across the short distance between tables.
+
+* 👥 Students nearest the path begin to scream and duck.
+
+* 👑 The headmistress’s head turns sharply from the dais.
+
+---
+
+The metal spike is already in flight, its ward-charge hissing through the crowded hall toward Pip’s small body while every nearby face twists toward the table in sudden horror.
+
+---
+
+TAGS: [000175]
+
+---
+
+# you asked
+
+message time: 2026-08-01 23:31:31
+
+your hand catches the spike as you grab his head, slam it into the table and slam the spike into the table next to his face
+you see that spike? if this was a tavern, or a location outside of this university and you attempted that shit... you would currently be nailed through the ear to this table...
+your hand presses his head firmer to the table
+now her name is pip, and she is my child, and you are going to appologise to her for scaring her and attempting to kill her, and if I dont like your appology, im going to start breaking things off you
+[debug] Chapter 10 talks about the headmistress, what she is like and her name, use chapter 10 as reference for the headmistresses character
+
+---
+
+# chatgpt response
+
+# 🍽️ "Founders’ Grand Refectory" | 🌤️ "Clear" | 🌇 "Evening, 17:51" | 📅 "04/05/1427"
+## 🎞 Scene Title: Power Is Follow-Through
+
+---
+
+### 📽 The packed refectory convulses around the intercepted weapon, benches scraping and voices collapsing into a shocked vacuum while the chandeliers burn steadily above hundreds of frozen faces; on the raised dais, faculty robes become rigid silhouettes against the university crest, and Headmistress Aureliane’s place at the center of them suddenly feels much closer than distance should permit.
+
+---
+
+## 🦊 JAYSON | "lethal" [🦊🔥]
+
+* ✋ Your hand closes around the spinning dining spike before it reaches Pip.
+
+* 🤜 Your other hand seizes Cael by the head and drives his face into the table.
+
+* 💥 Wood cracks beneath his cheek.
+
+* 🗡️ You slam the charged spike into the tabletop beside his face, burying it deep enough to leave the metal quivering beside his ear.
+
+> 💬 "You see that spike? If this was a tavern, or a location outside of this university and you attempted that shit... you would currently be nailed through the ear to this table..."
+
+* ✋ Your hand presses his head more firmly into the wood.
+
+> 💬 "Now her name is Pip, and she is my child, and you are going to apologise to her for scaring her and attempting to kill her, and if I don't like your apology, I'm going to start breaking things off you."
+
+---
+
+## 🧑‍🎓 CAEL VORR | "terrified" [🧑‍🎓😨]
+
+* 🩸 Blood spills from Cael’s split lip and smears beneath his face.
+
+* ⚡ The charge in the buried spike sputters out.
+
+* 🫨 His hands claw once against the table, but he does not attempt to rise.
+
+> 💬 "I..."
+
+* 😰 His eyes flick toward the spike trembling beside his ear.
+
+> 💬 "I didn’t..."
+
+---
+
+## 👹 IRIX | "murderous" [👹🔥]
+
+* 🐾 Irix rises slowly from the bench.
+
+* 🔥 Heat rolls from her horns in visible waves.
+
+> 💬 "Choose the next words very carefully."
+
+* 👁️ Her ember-gold gaze locks onto Cael’s companions.
+
+> 💬 "All of you."
+
+---
+
+## 🧝 KESTREL | "cold" [🧝🧊]
+
+* ✨ Kestrel activates the ward-token at her belt.
+
+* 🔷 A geometric barrier snaps into place around Pip’s section of the table.
+
+> 💬 "Projectile intercepted."
+
+> 💬 "Intent witnessed."
+
+> 💬 "Threat explicitly directed at a registered juvenile dependent."
+
+* 👀 She looks toward the faculty dais.
+
+> 💬 "The hall record will confirm all of it."
+
+---
+
+## 🐆 NYX | "grave-calm" [🐆⚫]
+
+* 🍽️ Nyx remains seated.
+
+* 👁️ Her feline pupils narrow until they resemble cuts in the world.
+
+> 💬 "Apologise."
+
+* 🐾 Her spotted tail lies perfectly still.
+
+> 💬 "Before the fox decides your anatomy is instructional."
+
+---
+
+## 🍎 PIP | "frightened" [🍎😟]
+
+* 🌿 Pip crouches behind the barrier with all six limbs pulled close.
+
+* 👀 Her bead-black eyes remain fixed on the weapon buried beside Cael’s face.
+
+> 💬 "Daa catch."
+
+* 🐾 She clutches the edge of her plate.
+
+> 💬 "Bad man throw."
+
+---
+
+## 🎲 RANDOM TURN | Difficulty 10 | "The Hall Belongs to Aureliane" [❄️⚖️]
+
+* ❄️ The temperature falls by exactly one degree.
+
+* 🔇 Every scream, whisper, scraping chair, and rattling plate in the refectory is pressed into absolute silence.
+
+* 👑 Headmistress Aureliane remains seated for one measured breath.
+
+* 👣 Then she rises.
+
+* 🜂 Space between the dais and the table folds with quiet precision.
+
+* 👑 Aureliane stands beside the table without crossing the intervening floor.
+
+---
+
+## 👑 AURELIANE | "calm" [👑❄️]
+
+* 👁️ Aureliane’s gaze passes first over Pip.
+
+* 🗡️ Then the buried spike.
+
+* 🩸 Then Cael’s face against the cracked table.
+
+* 🦊 Finally, she looks at you.
+
+> 💬 "Do not remove your hand."
+
+* ❄️ Her voice carries without volume.
+
+> 💬 "Not yet."
+
+---
+
+## 🧑‍🎓 CAEL VORR | "panicked" [🧑‍🎓😭]
+
+* 😭 Tears gather in Cael’s eyes.
+
+> 💬 "Headmistress, he assaulted me."
+
+---
+
+## 👑 AURELIANE | "instructional" [👑❄️]
+
+> 💬 "You threw a charged steel implement at a juvenile."
+
+* 👁️ Her gaze finds him with surgical precision.
+
+> 💬 "He interrupted your lesson before it reached its intended subject."
+
+* 🫳 She touches one finger to the table.
+
+* ✨ The hall’s memory wards ignite.
+
+---
+
+## 🎲 RANDOM TURN | Difficulty 9 | "Truth Replayed" [⚖️🗡️]
+
+* 🜂 A translucent reconstruction rises above the table.
+
+* 🧑‍🎓 Cael’s hand is shown charging the spike.
+
+* 🍎 Pip’s position is marked in pale light.
+
+* 📏 The projected trajectory passes directly through the center of her body.
+
+* 📜 Intent markers flare around Cael’s wrist, recording conscious aim, anger, and expectation of injury.
+
+* 👥 The entire dining hall watches the attempt repeat in silence.
+
+---
+
+## 👑 AURELIANE | "matter-of-fact" [👑❄️]
+
+> 💬 "Power is not the willingness to throw a weapon at something smaller than you."
+
+> 💬 "That is cowardice given momentum."
+
+* 👀 Her attention settles on Cael again.
+
+> 💬 "Power is follow-through."
+
+> 💬 "You initiated an action."
+
+> 💬 "You will now experience its consequences."
+
+---
+
+## 🧑‍🎓 CAEL VORR | "broken" [🧑‍🎓😰]
+
+* 🩸 Cael swallows against the table.
+
+> 💬 "Pip..."
+
+* 😖 His voice cracks.
+
+> 💬 "I am sorry."
+
+---
+
+## 🍎 PIP | "uncertain" [🍎😟]
+
+* 🌿 Pip presses closer to the barrier.
+
+> 💬 "Sorry bad."
+
+---
+
+## 👑 AURELIANE | "unmoved" [👑❄️]
+
+> 💬 "She finds it insufficient."
+
+* 👁️ Aureliane tilts her head by a fraction.
+
+> 💬 "So do I."
+
+---
+
+## 🧑‍🎓 CAEL VORR | "desperate" [🧑‍🎓😭]
+
+> 💬 "Pip, I am sorry I called you vermin."
+
+> 💬 "I am sorry I frightened you."
+
+* 😭 His breath shudders.
+
+> 💬 "I threw the spike because I believed nobody important would punish me for hurting you."
+
+> 💬 "I was wrong."
+
+> 💬 "You are a person."
+
+> 💬 "You are his child."
+
+> 💬 "And I tried to kill you."
+
+---
+
+## 🍎 PIP | "hurt" [🍎😢]
+
+* 🌿 Pip’s feelers droop.
+
+> 💬 "No throw Pip."
+
+---
+
+## 🧑‍🎓 CAEL VORR | "submissive" [🧑‍🎓😰]
+
+> 💬 "No."
+
+> 💬 "Never again."
+
+---
+
+## 👑 AURELIANE | "absolute" [👑❄️]
+
+* 👁️ Aureliane looks toward Cael’s three companions.
+
+> 💬 "You watched him charge the weapon."
+
+> 💬 "None of you intervened."
+
+---
+
+## 🐂 BULL BEASTKIN STUDENT | "ashamed" [🐂😔]
+
+* 🐂 The bull Beastkin lowers his head.
+
+> 💬 "Yes, Headmistress."
+
+---
+
+## 🧝 ELVEN STUDENT | "afraid" [🧝😨]
+
+> 💬 "We didn’t know he would throw it."
+
+---
+
+## 👑 AURELIANE | "precise" [👑❄️]
+
+> 💬 "You knew he intended harm."
+
+> 💬 "You merely misjudged the degree."
+
+* ✨ Three restraint sigils appear beneath their feet.
+
+> 💬 "Complicity does not become innocence because the outcome exceeded your courage."
+
+---
+
+## 🎲 RANDOM TURN | Difficulty 9 | "Institutional Follow-Through" [⛓️⚖️]
+
+* ⛓️ Black geometric restraints lock around the wrists and throats of Cael’s companions.
+
+* 🐂 The bull Beastkin does not resist.
+
+* 🧝 The elven student attempts to step backward.
+
+* 💥 The restraint drives her face-first into the stone hard enough to break her nose.
+
+* 🩸 Blood spreads beneath her as wardens approach.
+
+* 🛡️ Cael’s remaining companion raises both hands immediately.
+
+---
+
+## 👑 AURELIANE | "coldly-final" [👑❄️]
+
+> 💬 "Cael Vorr is suspended from all instructional privileges pending tribunal."
+
+> 💬 "Charges will include attempted murder of a registered juvenile dependent, species-targeted violence, reckless magical discharge, and abuse of Axiomatic training."
+
+* 👁️ Her gaze remains on Cael.
+
+> 💬 "His House protections are revoked now."
+
+> 💬 "His family sponsorship is frozen now."
+
+> 💬 "His access to institutional healing will be limited to preservation of life."
+
+* ❄️ Aureliane’s expression does not change.
+
+> 💬 "He wished to learn whether Pip mattered."
+
+> 💬 "He now has his answer."
+
+---
+
+## 👹 IRIX | "satisfied" [👹🔥]
+
+* 👀 Irix watches the wardens close in.
+
+> 💬 "Good."
+
+---
+
+## 🧝 KESTREL | "grimly-relieved" [🧝😐]
+
+* 🔷 Kestrel keeps the barrier around Pip active.
+
+> 💬 "The apology is recorded."
+
+> 💬 "So is the confession."
+
+---
+
+## 🐆 NYX | "quietly-impressed" [🐆🙂]
+
+* 👁️ Nyx studies Aureliane with new interest.
+
+> 💬 "Efficient."
+
+---
+
+## 👑 AURELIANE | "wry" [👑❄️🙂]
+
+* 👀 Aureliane’s eyes flick briefly toward Nyx.
+
+> 💬 "Efficiency is fear with documentation."
+
+* 🦊 Her attention returns to you.
+
+> 💬 "Jayson."
+
+* 🗡️ She glances at the spike beside Cael’s ear.
+
+> 💬 "Your point has been made."
+
+> 💬 "Release him."
+
+* ❄️ A fractional pause follows.
+
+> 💬 "The university will break what remains."
+
+---
+
+Wardens surround the table while Cael lies trembling beneath your hand, Pip remains protected behind Kestrel’s barrier, and the entire refectory learns again that Aureliane does not prevent every cruelty.
+
+She ensures the consequences are remembered.
+
+---
+
+TAGS: [000176]
+
+---
+
+# you asked
+
+message time: 2026-08-01 23:45:10
+
+you bow
+yes headmistress
+you release his head immedietly and pull the spoke out and place it down
+you then go streight to pip and pick her up and comfort her
+you were so brave sweety... you are a big girl
+you nuzzle her
+look at you, daa's little fruit salad
+you grin at her and tickle her and hug her up against your face
+
+---
+
+# chatgpt response
+
+# 🍽️ "Founders’ Grand Refectory" | 🌤️ "Clear" | 🌇 "Evening, 17:54" | 📅 "04/05/1427"
+## 🎞 Scene Title: Daa’s Little Fruit Salad
+
+---
+
+### 📽 The refectory remains locked in the brittle aftermath of violence, its golden chandeliers shining over overturned cups, cracked wood, and the dark geometry of restraint sigils while hundreds of students sit unnaturally still; the smell of hot food now mingles with blood and scorched metal, and at the center of the hall Pip’s small place behind the ward barrier feels like the only warm point in a room suddenly made of judgment.
+
+---
+
+## 🦊 JAYSON | "obedient" [🦊😐]
+
+* 🙇 You bow.
+
+> 💬 "Yes, Headmistress."
+
+* ✋ You release Cael’s head immediately.
+
+* 🗡️ You pull the spike from the table and place it down.
+
+* 👣 You go straight to Pip and pick her up.
+
+* 🤲 You hold her close and comfort her.
+
+> 💬 "You were so brave, sweety... you are a big girl."
+
+* 🦊 You nuzzle her.
+
+> 💬 "Look at you, Daa's little fruit salad."
+
+* 😁 You grin at her.
+
+* 🤗 You tickle her gently and hug her against your face.
+
+---
+
+## 🍎 PIP | "shaken" [🍎🥺]
+
+* 🌿 Pip clings to your cheek with all six limbs.
+
+* 😢 Her leafy feelers tremble as the fear finally finds somewhere safe to go.
+
+> 💬 "Daa catch."
+
+* 🤗 She presses her mossy body against your face.
+
+> 💬 "Daa safe Pip."
+
+* 🍎 The tickling draws a tiny, breathless squeak from her.
+
+> 💬 "Fruit salad!"
+
+* 🌿 Her feelers begin to lift again.
+
+---
+
+## 👹 IRIX | "protective" [👹🔥]
+
+* 🐾 Irix remains standing beside the table, body angled between Pip and the restrained students.
+
+* 🔥 The heat around her horns slowly recedes.
+
+> 💬 "She was brave."
+
+* 👀 Her gaze stays fixed on Cael.
+
+> 💬 "Braver than he was."
+
+---
+
+## 🧝 KESTREL | "steady" [🧝🙂]
+
+* 🔷 Kestrel lowers the barrier only after Pip is secure in your arms.
+
+* ✨ The geometric panes collapse inward and vanish.
+
+> 💬 "The projectile never reached her."
+
+* 👀 She looks directly at Pip.
+
+> 💬 "Daa caught it."
+
+---
+
+## 🍎 PIP | "proud" [🍎🙂]
+
+* 🐾 Pip pats your cheek.
+
+> 💬 "Daa fast."
+
+* 🌿 She turns enough to peer at Kestrel and Irix.
+
+> 💬 "Friends safe?"
+
+---
+
+## 👹 IRIX | "softened" [👹🙂]
+
+> 💬 "Friends are safe."
+
+---
+
+## 🐆 NYX | "grave" [🐆⚫]
+
+* 👣 Nyx rises from her seat and steps closer.
+
+* 👁️ Her gaze rests on Pip rather than the wardens.
+
+> 💬 "And the bad man failed."
+
+* 🫳 She offers one finger toward Pip without touching her.
+
+> 💬 "Completely."
+
+---
+
+## 🍎 PIP | "reassured" [🍎🙂]
+
+* 🐾 Pip reaches out and grips the offered finger.
+
+> 💬 "Pretty cat safe."
+
+---
+
+## 🐆 NYX | "quiet" [🐆🙂]
+
+> 💬 "Very safe."
+
+---
+
+## 🎲 RANDOM TURN | Difficulty 8 | "What the Hall Learns" [⚖️👁️]
+
+* ⛓️ Axiomatic wardens wrench Cael upright.
+
+* 🩸 His face leaves a wet red print on the broken table.
+
+* 🧑‍🎓 He looks once toward Pip before lowering his eyes.
+
+* 👥 Across the hall, several students who had laughed earlier now stare at their plates.
+
+* 🐺 Two Beastkin first-years watch you hold Pip, their expressions caught between disbelief and aching recognition.
+
+* 📜 The refectory’s record wards seal the confession, the trajectory reconstruction, and Aureliane’s ruling into the disciplinary archive.
+
+---
+
+## 👑 AURELIANE | "measured" [👑❄️]
+
+* 👁️ Aureliane watches Pip settle against your face.
+
+> 💬 "Courage is not the absence of fear."
+
+> 💬 "It is surviving long enough to be comforted afterward."
+
+* 👀 Her attention passes over Irix, Kestrel, and Nyx.
+
+> 💬 "Your table acted with speed, restraint, and clarity."
+
+* 🗡️ Her gaze drops briefly to the spike.
+
+> 💬 "Mostly."
+
+---
+
+## 👹 IRIX | "dry" [👹🙂]
+
+> 💬 "He did leave the ear attached."
+
+---
+
+## 🧝 KESTREL | "careful" [🧝😐]
+
+> 💬 "After being instructed."
+
+---
+
+## 👑 AURELIANE | "wry" [👑❄️🙂]
+
+> 💬 "Progress often begins with instruction."
+
+* 👣 She turns toward the wardens.
+
+> 💬 "Remove them."
+
+> 💬 "The hall will continue dinner."
+
+---
+
+## 🛡️ AXIOMATIC WARDEN | "formal" [🛡️😐]
+
+* ⛓️ The lead warden tightens Cael’s restraints.
+
+> 💬 "By order of the Headmistress."
+
+* 👣 The wardens drag Cael and his companions toward the side doors.
+
+---
+
+## 🧑‍🎓 CAEL VORR | "hollow" [🧑‍🎓😶]
+
+* 🩸 Cael stumbles once as he is taken away.
+
+* 👁️ He does not look back again.
+
+---
+
+## 🎲 RANDOM TURN | Difficulty 5 | "Dinner Resumes Poorly" [🍽️🔔]
+
+* 🔔 A single soft chime passes through the chandeliers.
+
+* 👥 Conversation restarts in scattered fragments rather than a full roar.
+
+* 🍴 Cutlery begins moving again.
+
+* 🩸 Servants arrive with sand, cloth, and a replacement table section while avoiding the blood with practiced precision.
+
+* 🐺 A Beastkin server quietly places a fresh plate of fruit beside Pip’s abandoned meal.
+
+---
+
+## 🐺 BEASTKIN SERVER | "gentle" [🐺🙂]
+
+* 🍓 The server keeps her voice low.
+
+> 💬 "For the brave little fruit salad."
+
+* 👣 She moves away before anyone can thank her.
+
+---
+
+## 🍎 PIP | "amazed" [🍎🤩]
+
+* 👀 Pip spots the fresh fruit over your shoulder.
+
+> 💬 "Fruit salad real."
+
+* 🌿 Her feelers rise fully.
+
+---
+
+## 🐆 NYX | "amused" [🐆🙂]
+
+> 💬 "Recovery appears swift."
+
+---
+
+## 👹 IRIX | "relieved" [👹😏]
+
+> 💬 "Fruit remains the answer to life."
+
+---
+
+## 🧝 KESTREL | "warm" [🧝🙂]
+
+> 💬 "Apparently also trauma care."
+
+---
+
+Aureliane returns to the dais as the wardens vanish through the side doors, leaving the hall quieter, bloodier, and newly educated. Against your face, Pip’s trembling eases beneath laughter, warmth, and the discovery that being Daa’s little fruit salad occasionally comes with actual fruit.
+
+---
+
+TAGS: [000177]
+
+---

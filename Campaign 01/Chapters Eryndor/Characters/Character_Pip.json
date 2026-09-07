@@ -1,0 +1,347 @@
+{
+  "name": "Pip",
+  "title": [
+    "Daa's Little Fruit Salad",
+    "The Orchard Menace",
+    "Provisional Person",
+    "Pretty Cat House Oracle",
+    "Fruit Scholar"
+  ],
+  "quote": "Pip person.",
+  "appearance": {
+    "age": {
+      "Life Stage": "Juvenile",
+      "Actual": "Exact age unknown"
+    },
+    "height": "Palm-sized in her current juvenile form",
+    "build": "Small, round, soft-bodied orchard mimic with six velvet root-limbs, a mossy body, leafy feelers, and petal-like teeth",
+    "hair": "None; soft moss and leafy growth cover her body",
+    "facial_hair": "None",
+    "eyes": "Small, glossy bead-black eyes",
+    "skin": "Living moss, soft plant tissue, and flexible root-like limbs",
+    "scent": "Fresh fruit, damp moss, warm soil, leaves, and faint sweetness",
+    "posture": "Usually perched, clinging, crawling, or tucked securely against Jayson; rises proudly on her limbs when declaring personhood or victory",
+    "relationship": {
+      "Jayson": {
+        "Status": "Imprinted parent-child bond",
+        "Notes": "Pip calls him Daa or Fok Daa and considers him her father, protector, home, and safest person. Jayson treats her as his daughter and has accepted full responsibility for her care."
+      },
+      "Irix": {
+        "Status": "Beloved friend and protective adult",
+        "Names": [
+          "Horn friend",
+          "Special horn friend",
+          "Danger horn friend"
+        ],
+        "Notes": "Pip trusts Irix deeply, cheers for her, hugs her, and has openly told her that she loves her."
+      },
+      "Kestrel": {
+        "Status": "Trusted friend and caretaker",
+        "Names": [
+          "Kestrel friend"
+        ],
+        "Notes": "Kestrel helps protect, supervise, feed, and interpret the world for Pip. Pip accepts her as part of her family group."
+      },
+      "Nyx": {
+        "Status": "Trusted divine friend",
+        "Names": [
+          "Pretty cat",
+          "Pretty Death cat",
+          "Big pretty Death",
+          "Big Nyx friend"
+        ],
+        "Notes": "Pip recognizes Nyx's true identity without fear and treats both her Felari disguise and true form as beautiful and safe."
+      },
+      "Elandria": {
+        "Status": "Former divine caretaker",
+        "Notes": "Pip lived within Elandria's protected mimic nursery before choosing to leave with Jayson."
+      },
+      "Other Mimics": {
+        "Status": "Potential kin and friends",
+        "Notes": "Pip immediately recognized another openly displayed orchard mimic as a fruit friend and attempted friendly contact."
+      },
+      "Mela": {
+        "Status": "Young mimic friend / peer",
+        "Names": [
+          "Mela",
+          "Friend"
+        ],
+        "Notes": "Chapter 14: Pip quickly bonded with Mela after Sari and Mela were rescued. She helped teach Mela words, play, fruit-sharing, mimic confidence, and room routines; she proudly accepted a 'big girl' role in looking after her and treated Mela as a person from the start."
+      },
+      "Sari": {
+        "Status": "Trusted Wolfkin adult / Mela's mother",
+        "Notes": "Chapter 14: Pip accepted Sari into Room 13's safe household, interacted with her openly, and helped normalize Mela's personhood and belonging."
+      }
+    },
+    "race": "Juvenile orchard mimic",
+    "siblings": {
+      "None": "No biological or adopted siblings have been established"
+    },
+    "tails": "None"
+  },
+  "reactions": {
+    "wind": "Leafy feelers and soft moss react visibly to air movement; strong wind would be dangerous at her current size and could dislodge her if she is not secured.",
+    "water": "Tolerates bathing with clean water and enjoyed showering with Jayson; requires safe temperatures and should not be exposed to harsh soaps or chemicals.",
+    "sound": "Highly curious about voices, bells, machines, crowds, and unusual noises; sudden violence or weapon sounds can frighten her, while familiar voices calm her quickly.",
+    "temperature": "Enjoys warmth, sunlight, cosy fabric, heated bedding, and protected spaces; vulnerable to extreme cold, open flame, overheating, and unsafe environmental exposure."
+  },
+  "speech": {
+    "voice": "Tiny, bright, simple, and emotionally direct",
+    "vocabulary": "Short phrases built from names, objects, feelings, actions, and repeated important words",
+    "pacing": "Quick and emphatic when excited; slower, smaller, and repetitive when frightened or sleepy",
+    "accent": "No established regional accent; speech reflects early language development",
+    "habits": [
+      "Refers to herself in the third person",
+      "Calls Jayson Daa or Fok Daa",
+      "Repeats words to intensify meaning, especially lots, fruit, good, safe, and again",
+      "Names people through defining traits such as horn friend and pretty cat",
+      "Uses simple declarations such as Pip person, Pip win, and Pip fruit",
+      "Turns complex questions into practical fruit-based conclusions",
+      "Copies phrases and jokes used by trusted adults",
+      "Announces discoveries with literal labels such as nose fruit and shiny bird",
+      "Often answers emotional situations by offering fruit"
+    ],
+    "growth": "Pip's vocabulary expanded rapidly through trust, play, food, danger, and social contact. She progressed from basic naming and needs to declaring personhood, identifying relationships, expressing love, checking whether friends are safe, understanding secrecy, and offering comfort. Chapter 14 accelerated this further: she taught and copied words with Mela, coined and repeated social labels such as Pretty Death and Cow Goddess, understood simple family terms like grandma, and used adventure/hero language during play."
+  },
+  "emotional": {
+    "core_traits": [
+      "Affectionate",
+      "Curious",
+      "Playful",
+      "Food-motivated",
+      "Trusting",
+      "Brave",
+      "Observant",
+      "Social"
+    ],
+    "beneath": [
+      "A strong need for safety and reliable attachment",
+      "Fear of being treated as an object or pest rather than a person",
+      "A developing sense of identity and dignity",
+      "Deep emotional dependence on Jayson as parent and protector",
+      "An instinctive ability to recognize the true nature of powerful beings without adopting adult prejudices"
+    ],
+    "triggers": [
+      "Threats against Jayson or her friends",
+      "Being called vermin, creature, property, or not a person",
+      "Weapons thrown toward her",
+      "Attempts to remove her from safe adults",
+      "Being hidden, classified, or discussed as an object",
+      "Shiny objects that resemble food or treasure",
+      "The sight or smell of fruit"
+    ],
+    "vulnerabilities": [
+      "Extremely small and physically fragile in juvenile form",
+      "Limited understanding of danger, law, prejudice, and deception",
+      "May swallow unsafe shiny objects without supervision",
+      "Can be frightened or injured before she fully understands a threat",
+      "Dependent on adults for food, shelter, temperature control, protection, and social advocacy",
+      "Her provisional legal status leaves her vulnerable to institutional prejudice",
+      "Trusts familiar people readily"
+    ],
+    "affection_tells": [
+      "Clings with all six limbs",
+      "Presses her mossy body against a person's face, neck, or chest",
+      "Offers fruit as comfort",
+      "Pats cheeks",
+      "Hugs beneath the chin",
+      "Uses special personal names",
+      "Repeats love lots and lots",
+      "Sleeps close to trusted people or inside Jayson's hood",
+      "Waves energetically when recognizing a friend",
+      "Checks whether friends are safe after danger"
+    ],
+    "growth": [
+      "Chose Jayson as Daa and left the divine nursery with him",
+      "Learned to state Pip person when her personhood was challenged",
+      "Accepted Kestrel, Irix, and Nyx as members of her trusted group",
+      "Learned that fruit is not the only food she can safely eat",
+      "Survived a targeted attack and recovered through comfort, play, and reassurance",
+      "Expressed love to Jayson and Irix directly",
+      "Became visible proof that orchard mimics can live openly as people",
+      "Helped another student feel safe enough to place their mimic openly on a dining table",
+      "Learned to keep Nyx's identity secret, with mixed success",
+      "Began developing humor, retaliation, imitation, and social confidence",
+      "Chapter 14: accepted Mela immediately as a friend and fellow person, helping her learn words, games, and room routines.",
+      "Chapter 14: accidentally exposed Nyx's identity to Sari by repeatedly calling her Pretty Death, showing that Pip understands secrets imperfectly even when she understands the people involved.",
+      "Chapter 14: participated in repeated hero-play with Mela, including capes, pillow forts, playful rescues, and dramatic declarations.",
+      "Chapter 14: began visibly outgrowing her drawer-den at remarkable speed, nearly filling it by the end of the chapter."
+    ]
+  },
+  "social": {
+    "alone": [
+      "Explores small spaces, soft fabrics, drawers, fruit containers, and interesting objects",
+      "Sleeps curled around her toy",
+      "May investigate shiny objects or food without understanding danger",
+      "Prefers secure nest-like environments such as her open drawer bed"
+    ],
+    "with_others": [
+      "With Jayson, she is openly affectionate, demanding, playful, and completely secure",
+      "With Irix, she is admiring, protective, and eager to celebrate her victories",
+      "With Kestrel, she accepts guidance and practical care",
+      "With Nyx, she behaves without fear and treats divine horror as beauty",
+      "With strangers, she is curious but watches trusted adults for cues",
+      "With other mimics, she immediately seeks friendship",
+      "In crowds, she often rides in Jayson's hood or remains close to his body",
+      "During conflict, she seeks Jayson, asks whether friends are safe, and repeats simple truths to reestablish security",
+      "With Mela, she behaves like an enthusiastic older peer: teaching words, sharing fruit, competing, copying, and turning play into social learning.",
+      "With Sari, she is comfortable enough to joke, sleep nearby, and participate in domestic routines without treating Sari as an outsider."
+    ]
+  },
+  "values": {
+    "values": [
+      "Daa",
+      "Fruit",
+      "Safety",
+      "Personhood",
+      "Friends",
+      "Warmth",
+      "Play",
+      "Being included",
+      "Protecting the group",
+      "Open affection"
+    ],
+    "fears": [
+      "Losing Jayson",
+      "Being harmed or thrown away",
+      "Her friends being hurt",
+      "Being treated as vermin",
+      "Weapons and sudden violence",
+      "Being separated from her safe group"
+    ],
+    "strengths": [
+      "Strong emotional honesty",
+      "Rapid language acquisition",
+      "Remarkable resilience after frightening events",
+      "Instinctive recognition of trustworthy people",
+      "Ability to calm and unite others through innocence and affection",
+      "Small size and natural concealment potential",
+      "Capacity for mimic disguises as she matures",
+      "Unaffected by social rank, divine titles, and intimidating appearances"
+    ],
+    "weaknesses": [
+      "Physically vulnerable",
+      "Easily distracted by fruit and shiny objects",
+      "Limited vocabulary can create accidental revelations",
+      "Little understanding of social manipulation",
+      "Requires constant supervision in dangerous environments",
+      "May interpret complex promises or secrets literally",
+      "Can be impulsive when excited"
+    ]
+  },
+  "combat": {
+    "titles": [
+      "The Orchard Menace",
+      "Daa's Little Fruit Salad",
+      "Defender of Pretty Cat",
+      "Winner of Nose Fruit"
+    ],
+    "style": "Pip is not a trained combatant. Her current responses are clinging, hiding, warning trusted adults, waving limbs, poking, copying playful attacks, and surviving until protected. Her species may later develop disguise, ambush, constriction, or predatory mimic abilities, but these have not yet matured.",
+    "weapons": [
+      "Six small root-limbs",
+      "Petal-like teeth",
+      "Unexpected pokes",
+      "Fruit-based retaliation",
+      "The immediate protective response of Jayson and her wider family"
+    ],
+    "magic": [
+      "Natural mimic biology",
+      "Potential future disguise and size alteration",
+      "Instinctive recognition of concealed divine identity",
+      "Possible orchard-mimic camouflage",
+      "Imprinting and bonding behavior",
+      "Species abilities not yet developed or fully documented"
+    ],
+    "recent": [
+      "Was nearly struck by a thrown metal cup during an earlier attack and survived because Jayson intervened",
+      "Was targeted with a magically charged dining spike by Cael Vorr",
+      "Remained conscious and communicative after the attempted murder",
+      "Identified the attacker as a bad man and confirmed that Daa caught the weapon",
+      "Received elevated university ward protection after the attack",
+      "Recovered through physical comfort, play, fruit, and reassurance",
+      "Inspired another student to reveal their hidden orchard mimic publicly",
+      "Used fruit on Jayson's nose in playful retaliation"
+    ]
+  },
+  "notable_scenes": [
+    {
+      "chapter13": [
+        "Met Jayson inside Elandria's divine mimic nursery and rapidly imprinted on him as Daa.",
+        "Was named Pip after a fruit seed and accepted the name immediately.",
+        "Chose to leave the divine realm with Jayson after he accepted responsibility for her long-term care.",
+        "Entered Eryndor University as Jayson's dependent and was provisionally registered under his paternal bond.",
+        "Objected strongly to being classified as provisionally sapient by declaring Pip person.",
+        "Moved into Jayson's Room 13 and claimed a half-open sock drawer beside his bed as her sleeping den.",
+        "Showered with Jayson using clean water and experienced energetic zoomies afterward.",
+        "Learned that shiny objects are not food after showing interest in jewelry, metal, and gems.",
+        "Ate fruit, greens, cooked meat, and other safe foods while continuing to prioritize fruit above all philosophy.",
+        "Bonded closely with Kestrel and Irix, referring to Irix as horn friend and danger horn friend.",
+        "Watched Irix's Veiled practice and asked whether horn friend won.",
+        "Demanded additional fruit in the western market despite already having a packed fruit container.",
+        "Selected a frost pear as her single market fruit and defended the choice with complete seriousness.",
+        "Declared that she would graduate through fruit class and repeatedly solved complex questions with fruit.",
+        "Recognized Nyx's true identity while everyone else believed her to be Candidate Twenty-Four.",
+        "Won the informal prediction of Nyx's House placement by naming pretty cat house before Nyx received a Triune charter.",
+        "Was accidentally tossed into the air when Jayson celebrated and retained control of her fruit throughout the incident.",
+        "Was targeted by Cael Vorr with a charged dining spike in the Founders' Grand Refectory.",
+        "Watched Jayson catch the weapon and force Cael to confess and apologise.",
+        "Was comforted by Jayson and called Daa's little fruit salad.",
+        "Heard Jayson say that he loved her for the first time and responded that Pip loved Daa lots and lots and lots.",
+        "Offered Jayson fruit when she noticed his sadness.",
+        "Inspired another Beastkin student to place a hidden orchard mimic openly on the table.",
+        "Learned Nyx was Death and treated the revelation as confirmation that pretty cat was also big pretty Death.",
+        "Waved at Nyx's true reflection and received a wave in return.",
+        "Declared the gathered companions a good group forever.",
+        "Told Irix that she loved her before leaving Veiled House for bed.",
+        "Ended the chapter asleep in her drawer-den after telling Jayson that Pip loved Daa lots."
+      ]
+    },
+    {
+      "chapter14": [
+        "Helped welcome Sari and Mela into Room 13 after their rescue from the university conspiracy.",
+        "Bonded rapidly with Mela, teaching her words such as fruit, play, and names while treating her as a friend rather than a specimen.",
+        "Repeatedly called Nyx Pretty Death in front of Sari, eventually contributing to Nyx revealing her true identity to Sari inside Room 13.",
+        "Participated in relaxed domestic evenings with Jayson, Kestrel, Irix, Nyx, Elandria, Sari, and Mela.",
+        "Helped turn Elandria's teasing title into Cow Goddess / Ela Cow, much to Elandria's resignation.",
+        "Joined Jayson and Sari on the trip through the Guilded Path portal to Sari's family village.",
+        "Met Rhuva, Dhorrek, and Keshran and immediately accepted them as part of Mela's family context.",
+        "Called Rhuva Food Grandma after the family meal.",
+        "Received a tiny hero cape in Valenhold and spent the evening playing Hero Pip with Mela.",
+        "Was repeatedly tossed safely onto the bed by Jayson during normal play and demanded more.",
+        "By the end of the chapter had grown so much that her drawer-den was nearly full, indicating unusually rapid juvenile growth."
+      ]
+    }
+  ],
+  "character_data": {
+    "inventory": {
+      "items": [
+        "A small personal toy carried during sleep and travel",
+        "A waxed-paper fruit pouch",
+        "Fruit containers prepared by Jayson",
+        "Soft bedding inside her half-open drawer-den",
+        "Fresh fruit stored near her bed",
+        "University provisional dependent registration",
+        "Elevated ward-protection order issued after the dining hall attack",
+        "Small hero cape purchased in Valenhold during Chapter 14",
+        "Expanded fruit and snack supplies stocked in Room 13 after the market trip"
+      ]
+    }
+  },
+  "future": {
+    "symbol": "A seed carried safely inside a fox's hood",
+    "role": "Emotional heart of the group, adopted daughter of Jayson, living challenge to Eryndor's prejudice, and a bridge between mimics and recognized personhood",
+    "arc": "Pip will grow from a vulnerable juvenile dependent into a self-defining person who chooses her form, identity, relationships, and place in the world. Her development should explore language, mimic abilities, species instincts, legal recognition, independence, and the tension between remaining Jayson's little fruit salad and becoming an adult with her own agency.",
+    "hesitation": "As Pip matures, she may struggle between the safety of remaining close to Daa and the need to explore, take risks, choose a stable form, and define herself beyond being protected.",
+    "legacy": [
+      "The first orchard mimic openly recognized as Jayson's child",
+      "A catalyst for stronger dependent protections at Eryndor",
+      "Proof that beings classified as creatures can possess identity, love, courage, and community",
+      "The small person who waved at Death's true form",
+      "The founder of fruit-based philosophy",
+      "The reason hidden mimics began appearing openly"
+    ],
+    "reminder": "Pip is a juvenile person, not a pet, mascot, prop, or comic object. Her simple speech reflects development, not stupidity. She should remain curious, emotionally perceptive, food-motivated, affectionate, and capable of meaningful choices.",
+    "future_form": "Adult orchard mimics may reach approximately the size of a large housecat, though disguise abilities could allow Pip to appear larger or adopt other forms. Her eventual sex, gender presentation, stable body shape, and chosen identity remain hers to decide."
+  },
+  "final_note": "Pip embodies the campaign's clearest argument that personhood is demonstrated through relationship, choice, memory, fear, courage, and love rather than classification. She is funny because she is literal, curious, and fruit-obsessed, but her emotional importance is real. Her bond with Jayson should remain parental, protective, reciprocal, and central to both characters' growth."
+}

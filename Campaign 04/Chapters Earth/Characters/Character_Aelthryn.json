@@ -1,0 +1,137 @@
+{
+  "name": "Aelthryn",
+  "title": "The Shattered Song of the Veil",
+  "quote": "I was broken in silence, yet the lattice still hums within me.",
+  "appearance": {
+    "age": "Ageless—appears late 20s though uncountable years old",
+    "height": "182–185 cm",
+    "build": "Lithe, elongated, almost too graceful—otherworldly balance between fragility and strength",
+    "hair": "Pale silver, falling straight to mid-back; faint iridescence under veillight",
+    "eyes": "Prismatic—shift between violet, teal, and ember depending on mood; unsettling and beautiful",
+    "skin": "Ashen porcelain with faint shimmering fractures along arms and neck, as if cracks in glass",
+    "tails": "None—energy coils drift behind instead, resembling broken threads of light",
+    "scent": "Ozone, frost, and faint petrichor",
+    "posture": "Erect, deliberate; stillness conveys gravity, every step purposeful",
+    "relationship": "Recently freed from Glacier base; uncertain bond with Jayson, but curiosity and trust grow",
+    "recent": [
+      "Witnessed Jayson's voidflame resonance",
+      "Identified kinship with primordial echoes",
+      "Expressed curiosity at Kitsune unity"
+    ],
+    "new_details": [
+      "Carries resonance scars from being fractured between lattice and void",
+      "Voice has harmonic undertones—sounds like several tones speaking as one"
+    ]
+  },
+  "reactions": {
+    "wind": "Threads around them hum faintly, forming visible ripples",
+    "water": "Still, reflective; stares at depth as though remembering",
+    "sound": "Responds sharply to resonance—music soothes, cacophony agitates",
+    "temperature": "Heat unsettles—fractures glow brighter; cold calms",
+    "fire": "Tenses; flame reminds of void-burns in the ice",
+    "crowds": "Withdraws—too many threads at once overwhelms them"
+  },
+  "speech": {
+    "voice": "Layered, harmonic—like multiple voices braided into one",
+    "vocabulary": "Formal, cryptic; favors metaphor and resonance imagery",
+    "pacing": "Measured; pauses as though hearing unseen echoes",
+    "accent": "None earthly; cadence resembles song more than speech",
+    "habits": [
+      "Tilts head when hearing threads others cannot",
+      "Hums softly when thoughtful",
+      "Answers in fragments when overwhelmed"
+    ]
+  },
+  "emotional": {
+    "core_traits": ["Enigmatic", "Observant", "Fragmented", "Curious"],
+    "triggers": [
+      "Reminders of confinement or ice",
+      "Disruption of resonance or threads"
+    ],
+    "vulnerabilities": [
+      "Fractured existence—part void, part lattice",
+      "Isolation; struggles to feel belonging"
+    ],
+    "affection_tells": [
+      "Threads hum softer near those they trust",
+      "Will echo a loved one’s last words in harmony",
+      "Subtle hand brushes, as though confirming another’s presence"
+    ],
+    "affection_logic": "Closeness is resonance—if they attune to you, they care.",
+    "growth": [
+      "Learning trust among non-primordial beings",
+      "Accepting fragment-state as identity, not flaw",
+      "Exploring bond with Jayson's balance of void and flame"
+    ]
+  },
+  "social": {
+    "alone": "Listens to the lattice hum, sometimes sings in haunting tones",
+    "with_jayson": [
+      "Watches him intently, as though studying resonance",
+      "Trusts his power but tests his restraint",
+      "Silent gratitude for freedom, not voiced but shown in softened gaze"
+    ],
+    "with_others": {
+      "wolf_kin": "Cautious respect—recognises primal honesty",
+      "neko": "Uncertain—curiosity for their duality",
+      "avian": "Finds kinship in sky imagery; sometimes harmonises with wingbeats",
+      "drakyn": "Resonates with fire-song yet keeps distance"
+    }
+  },
+  "values": {
+    "values": ["Resonance", "Freedom", "Balance"],
+    "fears": ["Losing coherence", "Being silenced again"],
+    "insecurities": ["Feels broken—calls self 'shard'"],
+    "strengths": ["Perceptive", "Otherworldly insight"],
+    "weaknesses": ["Withdraws when overwhelmed", "Cryptic even to allies"],
+    "truths": [
+      "They are neither void nor lattice alone, but the resonance between",
+      "See suffering as disharmony; healing is attunement"
+    ]
+  },
+  "combat": {
+    "titles": ["Shard-Singer", "The Resonant One", "Glassfire Echo"],
+    "style": "Thread resonance manipulation—distorts enemy balance, weaves harmonic shields",
+    "weapons": ["None physical—uses resonance threads"],
+    "magic": [
+      "Resonance fields (disrupt focus, weaken attacks)",
+      "Fracture strikes (short bursts of void-lattice fusion)",
+      "Echo shields (harmonic barriers that absorb energy)",
+      "Healing hums (restore calm and stabilize mind)"
+    ],
+    "growth": [
+      "Bonding with Jayson's flame-void balance allows more stable resonance",
+      "Learning to trust others with their fragment state",
+      "Exploring true song of self beyond fracture"
+    ]
+  },
+  "temple_status": {
+    "rank": "Unclassified—respected as anomaly and ally",
+    "public": "Seen as enigmatic guardian",
+    "matrons": "Cautious; defer judgment until proven",
+    "role": "Resonant anchor—stabilizes lattice-void interactions"
+  },
+  "notable_scenes": [
+    {"chapter": 63, "events": ["Freed from Glacier base; observed Jayson's voidflame form"]},
+    {"chapter": 63, "events": ["Chose to follow instead of departing to silence"]},
+    {"chapter": 64, "events": ["Echoed Jayson's speech; harmonized threads during rescue"]}
+  ],
+  "inventory": {
+    "items": [
+      "None physical—carries only resonance scars",
+      "Shards of fractured lattice embedded in skin"
+    ]
+  },
+  "future": {
+    "symbol": "Fractured Prism",
+    "role": "Voice of resonance between void and flame; bridge for new kin",
+    "arc": "From broken shard to resonant whole—identity in fracture, not despite it",
+    "potential_role": "Advisor on veil fractures; guardian against future red skies",
+    "growth": [
+      "Learns joy in resonance with community",
+      "Embraces fragment as identity, not flaw",
+      "May teach harmony magic to young kitsune in future"
+    ]
+  },
+  "final_note": "Aelthryn is a shard given voice; neither void nor lattice, but the resonance that lingers between." 
+}

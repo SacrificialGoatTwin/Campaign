@@ -1,0 +1,140 @@
+{
+  "name": "Rava",
+  "title": "The Wolf Who Remembers Chains",
+  "quote": "I yield not to power, but to trust. I fight not for vengeance, but for kin.",
+  "appearance": {
+    "age": "Looks 24, true age uncertain (frozen for centuries)",
+    "height": "169–172 cm",
+    "build": "Lean and muscular—wolfish endurance with sharp reflexes",
+    "hair": "Ash-brown, thick and slightly wild, reaching mid-back",
+    "eyes": "Pale amber, wolf-bright; shift between piercing glare and hesitant softness",
+    "skin": "Weathered fair, faint scars along ribs and forearms from restraints",
+    "tails": "One—long, plume-like, expressive; bristles easily but softens when calm",
+    "scent": "Musk of pine and cold stone, touched with rain",
+    "posture": "Guarded, often tense; shoulders squared, gaze alert",
+    "relationship": "Freed by Jayson from facility; bond of trust still fragile",
+    "recent": [
+      "Yielded to Jayson in primal submission fight",
+      "Struggled with instinct to attack humans upon release",
+      "Accepted clothing and name exchange as first trust step"
+    ],
+    "new_details": [
+      "Neck claw-pendant forged from her own memories by Jayson",
+      "Respects submission gestures as language of wolves",
+      "Slowly acclimating to Kitsune and temple culture"
+    ]
+  },
+  "reactions": {
+    "wind": "Sniffs constantly; tail flicks against breeze for scents",
+    "water": "Wary of deep water; prefers to lap at streams",
+    "sound": "Hyper-sensitive; ears twitch at even distant noises",
+    "temperature": "Thrives in cold; heat makes her restless",
+    "fire": "Instinctively distrustful; slowly learning safety of flame",
+    "crowds": "On edge; prefers perimeter watching, back to walls"
+  },
+  "speech": {
+    "voice": "Low contralto; rough-edged, steady when calm, guttural when upset",
+    "vocabulary": "Sparse, direct; uses body language more than words",
+    "pacing": "Measured; pauses often as if weighing trust",
+    "accent": "Wolf-kin dialect, softened by Jayson's thread link",
+    "habits": [
+      "Growls under breath when uncertain",
+      "Uses physical gestures before speech",
+      "Sniffs people she doesn’t know to gauge intent"
+    ]
+  },
+  "emotional": {
+    "core_traits": ["Loyal", "Guarded", "Instinct-driven", "Resilient"],
+    "triggers": [
+      "Scent or sound of chains",
+      "Humans in white coats",
+      "Tight, closed spaces"
+    ],
+    "vulnerabilities": [
+      "Haunted by captivity and experiments",
+      "Struggles to trust non-wolf kin fully",
+      "Carries guilt for surviving when others did not"
+    ],
+    "affection_tells": [
+      "Tail curls when beginning to trust",
+      "Head tilts against another’s shoulder for comfort",
+      "Soft nips and licks as submission/friendship gestures"
+    ],
+    "affection_logic": "Submission is her gift of trust—yielding is bonding, not weakness",
+    "growth": [
+      "Learned to yield to Jayson in submission, not fear",
+      "Begun speaking openly about pain instead of lashing out",
+      "Accepts clothing, food, and healing as tokens of belonging"
+    ]
+  },
+  "social": {
+    "alone": "Prefers sitting in sun patches or near trees; tail curled protectively",
+    "with_jayson": [
+      "First true trust was yielding in primal fight",
+      "Allows grooming gestures and accepts food",
+      "Slowly testing touch—closeness without fear"
+    ],
+    "with_others": {
+      "kaeli'sharr": "Cautious respect; feline instincts conflict but bond grows",
+      "lysera": "Pack-bond forming; protective of her fellow wolf-kin",
+      "avians": "Curious distance; watches their wings with fascination",
+      "drakyn": "Wary—heat unsettles her cold-born instincts",
+      "kitsune": "Slow trust; sees them as both saviors and strange kin"
+    }
+  },
+  "values": {
+    "values": ["Pack loyalty", "Freedom", "Truth"],
+    "fears": ["Recapture", "Losing new kin"],
+    "insecurities": ["Believes her instincts make her dangerous"],
+    "strengths": ["Primal resilience", "Acute senses", "Unbending loyalty once earned"],
+    "weaknesses": ["Struggles with impulse control", "Difficulty expressing feelings in words"],
+    "truths": [
+      "Yielding is strength, not weakness",
+      "Her survival is not shame—it is defiance"
+    ]
+  },
+  "combat": {
+    "titles": ["Fangborn", "The Shackled Wolf", "Chainbreaker"],
+    "style": "Primal grappling and claw strikes; favors overpowering momentum",
+    "weapons": ["Claws", "Teeth", "Improvised grips"],
+    "magic": [
+      "Veil-thread instinctual bursts",
+      "Heightened senses that border on precognition"
+    ],
+    "growth": [
+      "Accepted sparring as trust-building",
+      "Begun to channel anger into protective defense, not reckless attack"
+    ]
+  },
+  "temple_status": {
+    "rank": "Newcomer under Jayson's protection",
+    "public": "Regarded with respect and caution",
+    "matrons": "Watching carefully—acknowledge her as saved, not yet woven",
+    "role": "Potential pack-guardian; symbol of cross-kin freedom"
+  },
+  "notable_scenes": [
+    {"chapter": 63, "events": ["First freed from cage—immediate attack and primal fight with Jayson"]},
+    {"chapter": 63, "events": ["Yielded through submission language; accepted clothing and name exchange"]},
+    {"chapter": 64, "events": ["Struggled to hold back from attacking humans; guided by Jayson's restraint"]},
+    {"chapter": 64, "events": ["Granted memory-claw pendant by Jayson to hold trauma without breaking"]}
+  ],
+  "inventory": {
+    "items": [
+      "Claw pendant woven of her own memory threads",
+      "Simple temple-woven clothing, fitted for comfort",
+      "Scraps of bone kept from her bindings—symbol of defiance"
+    ]
+  },
+  "future": {
+    "symbol": "Broken Chain",
+    "role": "Guardian of wolf-kin and bridge between packs and temple",
+    "arc": "From captive fury to trusted protector of kin and allies",
+    "potential_role": "Pack-leader within temple society; voice of those freed from chains",
+    "growth": [
+      "Learning to channel instincts into teaching pups survival and freedom",
+      "Exploring bonds with other kin beyond wolves",
+      "Trust arc with Jayson deepening—sees him as both friend and alpha of spirit, not force"
+    ]
+  },
+  "final_note": "Her submission is not defeat but choice—Rava yields only to trust, and rises for kin."
+}

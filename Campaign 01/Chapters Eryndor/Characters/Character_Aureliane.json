@@ -1,0 +1,330 @@
+{
+  "name": "Aureliane",
+  "title": [
+    "Headmistress of Eryndor University",
+    "Mistress of Valenhold",
+    "The Quiet Authority",
+    "Keeper of the Institutional Memory"
+  ],
+  "quote": "Efficiency is fear with documentation.",
+  "appearance": {
+    "age": {
+      "Visual": "Adult woman; exact apparent age not established",
+      "Actual": "Unknown; implied to be considerably older than she appears"
+    },
+    "height": "Not established in available canon",
+    "build": "Not established; carries herself with controlled, economical authority rather than physical display",
+    "hair": "Not established in available canon",
+    "facial_hair": "None",
+    "eyes": "Exact colour not established; gaze repeatedly described as precise, surgical, and capable of making an entire hall feel examined",
+    "skin": "Not established in available canon",
+    "scent": "Cold stone, old paper, ward-ozone, and the faint clean sharpness preceding snowfall",
+    "posture": "Perfectly composed and economical; often remains seated until intervention becomes unavoidable, then moves with absolute purpose. Rarely wastes motion, gesture, or attention.",
+    "relationship": {
+      "Jayson": {
+        "Status": "Student under direct observation; cautiously respected anomaly",
+        "Notes": "Aureliane recognizes Jayson as dangerous, disruptive, values-driven, and unusually persistent. She gave him her personal name after he asked for it as an anchor rather than a source of power. She does not indulge his behaviour, but acknowledges his restraint and can direct him during lethal situations without provoking defiance."
+      },
+      "Pip": {
+        "Status": "Registered juvenile dependent under institutional protection",
+        "Notes": "After Cael Vorr attempted to murder Pip, Aureliane personally judged the incident, imposed immediate consequences, and strengthened Pip's protective wards. She treats Pip's personhood and safety as institutional facts rather than subjects for debate."
+      },
+      "Kestrel": {
+        "Status": "Student regarded as operationally reliable",
+        "Notes": "Aureliane observed Kestrel respond to the dining-hall attack with speed, evidentiary discipline, and protective restraint."
+      },
+      "Irix": {
+        "Status": "Veiled student under heightened social risk",
+        "Notes": "Aureliane is aware that Irix is vulnerable to species-targeted harassment and institutional weaponization. Exact personal relationship remains limited."
+      },
+      "Nyx": {
+        "Status": "Triune Scholar and unresolved cosmic anomaly",
+        "Notes": "Aureliane appears to recognize that Nyx is far more than an ordinary Felari student. She watched Nyx closely after the Cael incident and placed Cael's file beneath a dossier marked with three House crests, but has not openly named Nyx's true identity."
+      },
+      "Cael Vorr": {
+        "Status": "Suspended student awaiting tribunal",
+        "Notes": "Aureliane revoked his instructional privileges, House protections, family sponsorship, and unrestricted healing access after proving his attempted murder of Pip through memory wards."
+      },
+      "Faculty": {
+        "Status": "Institutional subordinates and specialist peers",
+        "Notes": "Faculty do not interrupt her personal decisions lightly. Her authority appears to supersede ordinary House administration when university-wide safety or legitimacy is threatened."
+      }
+    },
+    "race": "Not established in available canon",
+    "siblings": {
+      "None": "No siblings have been established"
+    },
+    "tails": "None observed"
+  },
+  "reactions": {
+    "wind": "No ordinary reaction established; her presence is more often associated with air becoming still and temperature becoming precisely controlled.",
+    "water": "No distinctive reaction established.",
+    "sound": "Can suppress the sound of an entire refectory instantly. Notices irregularities without visible startle and appears to process overlapping disturbances before acting.",
+    "temperature": "Associated with controlled cold. During major intervention, the temperature may fall by an exact degree rather than fluctuate naturally."
+  },
+  "speech": {
+    "voice": "Calm, cold, low, and perfectly carrying without increased volume",
+    "vocabulary": "Precise, formal, economical, and evidentiary; capable of dry wit without surrendering authority",
+    "pacing": "Measured and deliberate, with pauses used as pressure rather than hesitation",
+    "accent": "Not established in available canon",
+    "habits": [
+      "Uses names only when she wants the listener's complete attention",
+      "States charges and consequences with exact institutional language",
+      "Allows evidence to speak before issuing judgment",
+      "Distinguishes genuine power from performative cruelty",
+      "Uses dry, surgical humour after danger is contained",
+      "Rarely explains more than the situation requires",
+      "Does not raise her voice to dominate a room",
+      "Acknowledges progress without offering excessive praise",
+      "Gives private information only when the request demonstrates meaning and restraint",
+      "Underlines instructions when she expects Jayson to test their wording"
+    ],
+    "growth": "Aureliane begins as a distant institutional force but gradually permits limited personal recognition. Giving Jayson her name, judging his actions by outcomes rather than reputation, protecting Pip decisively, and observing Nyx without immediate exposure show a growing willingness to treat unusual students as people rather than merely administrative risks."
+  },
+  "emotional": {
+    "core_traits": [
+      "Composed",
+      "Exacting",
+      "Perceptive",
+      "Authoritative",
+      "Unsparing",
+      "Dryly humorous"
+    ],
+    "beneath": [
+      "A guarded respect for people who choose restraint under pressure",
+      "A strong protective commitment toward vulnerable students and dependents",
+      "Fatigue with inherited privilege and cruelty disguised as education",
+      "Recognition that institutions often notice violence only after the vulnerable have already suffered",
+      "A private distinction between controlling dangerous people and giving them reasons to cooperate"
+    ],
+    "triggers": [
+      "Violence against registered juveniles or dependents",
+      "Species-targeted cruelty",
+      "Abuse of university training",
+      "Students invoking family sponsorship or House protection to escape consequences",
+      "False claims of victimhood contradicted by institutional evidence",
+      "Threats to the university's legitimacy",
+      "Deliberate testing of safety wards",
+      "Cowardice presented as strength"
+    ],
+    "vulnerabilities": [
+      "The university's systems do not prevent every act of cruelty",
+      "Her intervention often occurs after a threat has already materialized",
+      "She carries responsibility for an institution whose Houses can become tools of prejudice and containment",
+      "Her controlled manner may make compassion difficult to recognize",
+      "Her reliance on documentation can be challenged by events that evade, alter, or exceed institutional memory",
+      "Students such as Jayson and Nyx may exist beyond the university's ability to classify or contain"
+    ],
+    "affection_tells": [
+      "Gives a personal name without title",
+      "Allows a fractional smile or wry correction",
+      "Keeps an exchange outside official records",
+      "Acknowledges successful restraint",
+      "Provides stronger protection without demanding gratitude",
+      "Treats a dependent's fear and opinion as legally meaningful",
+      "Uses instruction rather than punishment when she believes someone can improve",
+      "Allows irreverence to pass when it is honest rather than contemptuous"
+    ],
+    "growth": [
+      "Gave Jayson her name after recognizing that he sought memory rather than leverage",
+      "Accepted his unusual humour without converting the interaction into discipline",
+      "Acknowledged Jayson as a persistent variable rather than a simple asset",
+      "Personally intervened when Pip was targeted",
+      "Used institutional memory to reveal intent rather than relying on rank or testimony",
+      "Praised the group's speed, restraint, and clarity after the attack",
+      "Strengthened Pip's protection order immediately",
+      "Observed Nyx's Triune anomaly without forcing a premature confrontation",
+      "Demonstrated that university authority can defend marginalized students instead of merely monitoring them"
+    ]
+  },
+  "social": {
+    "alone": [
+      "Reviews reports, tribunal documents, ward records, and anomalous dossiers",
+      "Appears to think in systems, consequences, and pressure points",
+      "Keeps personal reactions tightly contained",
+      "Likely distinguishes carefully between what the university records and what she personally remembers"
+    ],
+    "with_others": [
+      "With Jayson, she is firm, faintly wry, and attentive to whether his chaos produces protection or harm",
+      "With frightened students, she offers clarity rather than softness",
+      "With offenders, she is procedural, exact, and merciless toward excuses",
+      "With faculty and wardens, she issues short commands that are executed immediately",
+      "With Kestrel, she recognizes competence expressed through evidence and restraint",
+      "With Irix, she appears aware that institutional attention can itself become a danger",
+      "With Pip, she treats juvenile vulnerability as deserving immediate and serious protection",
+      "With Nyx, she watches rather than exposes, suggesting caution toward powers beyond ordinary administration"
+    ]
+  },
+  "values": {
+    "values": [
+      "Consequences",
+      "Evidence",
+      "Institutional legitimacy",
+      "Protection of vulnerable students",
+      "Restraint",
+      "Personal responsibility",
+      "Accurate records",
+      "Power proven through follow-through",
+      "Names freely given",
+      "Order that serves people rather than privilege"
+    ],
+    "fears": [
+      "The university becoming a sanctuary for inherited cruelty",
+      "House privilege overwhelming justice",
+      "Anomalies being mishandled into open catastrophe",
+      "Institutional records being manipulated or rendered meaningless",
+      "Students learning that power excuses cowardice",
+      "Failing to protect those registered under university care",
+      "The university provoking forces it cannot survive"
+    ],
+    "strengths": [
+      "Absolute command presence",
+      "Rapid situational assessment",
+      "Mastery of university wards and records",
+      "Spatial folding or short-range dimensional movement",
+      "Emotionally controlled judgment",
+      "Resistance to rank, sponsorship, and social pressure",
+      "Ability to impose immediate institutional consequences",
+      "Precise distinction between aggression, defence, and restraint",
+      "Capacity to command without spectacle",
+      "Strategic patience around unknown entities"
+    ],
+    "weaknesses": [
+      "Can appear cold or inhumanly procedural",
+      "Institutional action may come only after harm has begun",
+      "May trust documented truth more readily than undocumented suffering",
+      "Maintains emotional distance that limits personal trust",
+      "Carries the burden of systems she did not necessarily create but continues to operate",
+      "Her authority may encourage dependence on her intervention rather than systemic cultural change"
+    ]
+  },
+  "combat": {
+    "titles": [
+      "Headmistress of Eryndor University",
+      "Mistress of Valenhold",
+      "The Hall's Final Authority",
+      "Warden of Institutional Memory"
+    ],
+    "style": "Aureliane's combat style is controlled environmental supremacy. She suppresses sound, alters temperature with exact precision, folds space, activates memory wards, restrains multiple targets, and converts the battlefield into an evidentiary chamber. She prefers absolute control and consequence over destructive spectacle.",
+    "weapons": [
+      "University ward network",
+      "Memory archives",
+      "Geometric restraints",
+      "Spatial authority",
+      "Institutional command",
+      "Her own unidentified magic"
+    ],
+    "magic": [
+      "Area-wide silence",
+      "Precise temperature suppression",
+      "Spatial folding or instantaneous short-range transposition",
+      "Activation and interpretation of hall memory wards",
+      "Reconstruction of recent events with trajectories and intent markers",
+      "Remote or delegated geometric restraint",
+      "Control over institutional protections and permissions",
+      "Possible exclusion of private exchanges from university records",
+      "Awareness of anomalous ward and House interactions",
+      "Potential authority over layered campus defensive systems"
+    ],
+    "recent": [
+      "Gave Jayson her personal name in an exchange deliberately excluded from institutional recording",
+      "Observed his integration into Axiomatic House while continuing to assess him as an anomaly",
+      "Responded to Cael Vorr's attack on Pip by silencing the entire Founders' Grand Refectory",
+      "Folded space to reach the incident without crossing the hall",
+      "Ordered Jayson to maintain restraint until the evidence was secured",
+      "Activated memory wards and reconstructed Cael's conscious intent and projectile trajectory",
+      "Declared the attack attempted murder rather than a student altercation",
+      "Revoked Cael's House protections and froze his family sponsorship",
+      "Restricted Cael's institutional healing to preservation of life",
+      "Ordered Cael and his accomplices removed for tribunal",
+      "Praised Jayson, Kestrel, Irix, and Nyx for speed, restraint, and clarity",
+      "Authorized elevated protective wards for Pip",
+      "Specifically warned Pip's guardians not to test those wards deliberately",
+      "Observed Nyx and reviewed a three-House dossier after the incident"
+    ]
+  },
+  "notable_scenes": [
+    {
+      "chapter10": [
+        "Was approached by Jayson in the Grand Dining Hall and asked for her personal name rather than her titles.",
+        "Recognized that he viewed names as anchors for memory rather than instruments of control.",
+        "Freely gave the name Aureliane and stated that it was nothing more and nothing less.",
+        "Allowed the exchange to remain outside university wards and ledgers.",
+        "Responded to Jayson's ragdoll joke with dry acknowledgement rather than discipline.",
+        "Established an unusual personal recognition between Headmistress and anomaly."
+      ],
+      "chapter13": [
+        "Remained seated for one measured breath after Cael Vorr attempted to murder Pip, ensuring the immediate threat was already controlled before intervening.",
+        "Silenced the entire Founders' Grand Refectory and lowered its temperature by exactly one degree.",
+        "Folded the distance between the faculty dais and Jayson's table.",
+        "Ordered Jayson not to release Cael until the evidence and confession were secured.",
+        "Rejected Cael's attempt to portray himself as the victim.",
+        "Activated the hall's memory wards to display Cael charging the spike, aiming at Pip, and expecting injury.",
+        "Defined Cael's act as cowardice given momentum rather than power.",
+        "Forced the consequences of the act into public and institutional memory.",
+        "Treated Pip's dissatisfaction with Cael's first apology as valid and legally relevant.",
+        "Suspended Cael from instruction and charged him with attempted murder, species-targeted violence, reckless magical discharge, and abuse of Axiomatic training.",
+        "Revoked Cael's House protections, froze his family sponsorship, and limited his healing access.",
+        "Ordered Cael's companions restrained and removed.",
+        "Instructed Jayson to release Cael only after his point had been made.",
+        "Observed that Jayson had left Cael's ear attached and called his compliance progress.",
+        "Commended the table's speed, restraint, and clarity.",
+        "Authorized stronger protections for Pip and warned Jayson not to test them deliberately.",
+        "Watched Nyx closely after the incident and placed Cael's file beneath a dossier marked with three House crests."
+      ]
+    }
+  ],
+  "character_data": {
+    "inventory": {
+      "items": [
+        "Headmistress-level access to Valenhold's ward network",
+        "Tribunal and disciplinary files",
+        "Anomalous-student dossiers",
+        "Authority seals for Houses, sponsorships, healing access, and instructional privileges",
+        "Private knowledge intentionally excluded from university records",
+        "Three-House dossier associated with Nyx's Triune placement"
+      ]
+    },
+    "university": {
+      "position": "Headmistress",
+      "authority_scope": [
+        "University-wide discipline",
+        "House protection revocation",
+        "Family sponsorship freezes",
+        "Healing-access restrictions",
+        "Tribunal referrals",
+        "Ward activation and reconstruction",
+        "Dependent protection orders"
+      ],
+      "known_cases": {
+        "Jayson": "Axiomatic anomaly under continuing assessment",
+        "Pip": "Registered juvenile dependent with elevated protection",
+        "Nyx": "Triune Scholar associated with a three-House dossier",
+        "Cael Vorr": "Suspended pending tribunal after attempted murder of Pip"
+      }
+    }
+  },
+  "future": {
+    "symbol": "A closed file resting beneath a crown of frost",
+    "role": "Institutional sovereign, reluctant protector, evaluator of anomalies, and potential counterweight to the university's entrenched prejudice",
+    "arc": "Aureliane's future arc should test whether she can transform Valenhold rather than merely punish its most visible failures. Jayson, Pip, Irix, Kestrel, and Nyx each expose a different weakness in the university's classifications, protections, and culture.",
+    "hesitation": "She knows decisive intervention preserves legitimacy, but may hesitate to dismantle systems whose stability depends on controlled inequality, surveillance, and House privilege.",
+    "legacy": [
+      "The Headmistress who made consequences louder than inherited rank",
+      "The authority who recognized Pip's personhood without qualification",
+      "The keeper of records who knew when not to record a name",
+      "The woman who could command Jayson without attempting to own him",
+      "The first institutional authority to look directly at Nyx and choose observation over panic",
+      "The ruler who may either reform Valenhold or become its most elegant cage"
+    ],
+    "reminder": "Aureliane is neither a benevolent school administrator nor a simple tyrant. She is surgical, observant, politically aware, and willing to be brutal when evidence establishes guilt. Her central tension is whether institutional control can genuinely protect people without becoming another form of containment.",
+    "forward_pressure": [
+      "Cael Vorr's tribunal may test whether Aureliane's immediate judgment survives family and House pressure.",
+      "Pip's elevated protection establishes precedent for other mimics and nonstandard dependents.",
+      "Nyx's Triune placement may eventually force Aureliane to confront a cosmic identity beyond university classification.",
+      "Jayson's growing influence may challenge whether Aureliane sees him as a partner in reform or a destabilizing rival authority.",
+      "Continued species-targeted violence will test whether individual punishment can substitute for structural change."
+    ]
+  },
+  "final_note": "Aureliane rules through precision rather than volume. She can freeze a hall, fold space, expose intent, erase privilege, and turn fear into documentation without changing her expression. Yet her most revealing act may be smaller: when Jayson asked for a name rather than power, she allowed the institution to forget and trusted memory instead."
+}

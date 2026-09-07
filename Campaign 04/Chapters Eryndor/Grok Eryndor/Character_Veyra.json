@@ -1,0 +1,119 @@
+{
+  "name": "Veyra",
+  "title": "Emberkin Watcher of Blackthorn Hollow",
+  "quote": "Fire is not just destruction. It can be a gift too.",
+  "appearance": {
+    "age": "Early 20s",
+    "height": "Around 165-170 cm",
+    "build": "Athletic and graceful, toned from patrols and combat",
+    "hair": "Not specified in detail, but fits emberkin aesthetic",
+    "facial_hair": "",
+    "eyes": "Striking golden",
+    "skin": "Deep crimson with glowing runes that pulse with emotion and power",
+    "scent": "Warm embers, faint smoke, and steel",
+    "posture": "Guarded but graceful, always ready",
+    "relationship": {
+	  "Jayson": {
+		"Status": "Close Friend / Watcher (strained by secret involvement)",
+		"Trust": {
+		  "Combat": "70%",
+		  "Judgement": "55%",
+		  "Personal": "60%"
+		},
+		"Love": "20%",
+		"notes": [
+		  "Growing emotional openness through shared fire lessons and stories",
+		  "Deepening trust from vouching for her and honoring the fallen",
+		  "Playful banter and vulnerability shared in private",
+		  "Physical comfort offered during pyre rites",
+		  "Willingness to learn from him regarding fire control",
+		  "Involved in Grove's secret binding plot against Jayson, causing internal conflict",
+		  "Strained friendship due to overheard betrayal"
+		]
+	  }
+	},
+    "race": "Emberkin (fire-touched)",
+    "siblings": {
+      "Kael": "One younger brother, a scout further north"
+    },
+    "tails": "a tail like a demon would have"
+  },
+  "reactions": {
+    "wind": "Not specified",
+    "water": "Not specified",
+    "sound": "Not specified",
+    "temperature": "Thrives in warmth; fire is part of her nature"
+  },
+  "speech": {
+    "voice": "Smooth but guarded",
+    "vocabulary": "Direct, thoughtful, with occasional dry humor",
+    "pacing": "Measured, soft when opening up",
+    "accent": "None distinct",
+    "habits": [ "Tail flicks with emotion", "Traces runes when thinking" ],
+    "growth": "Opening up more, laughing freely, sharing personal stories (now conflicted by secrets)"
+  },
+  "emotional": {
+    "core_traits": [ "Guarded", "Loyal", "Curious" ],
+    "beneath": [ "Loneliness from being the only emberkin", "Desire for connection", "Guilt over involvement in binding plot" ],
+    "triggers": [ "Threats to the pack", "Personal vulnerability" ],
+    "vulnerabilities": [ "Fear of her fire harming others", "Past losses", "Conflict between loyalty to Grove and friendship with Jayson" ],
+    "affection_tells": [ "Small smiles", "Tail curling", "Light touches" ],
+    "growth": [ "Learning to share flame and trust", "Laughing more openly", "Struggling with betrayal guilt" ]
+  },
+  "social": {
+    "alone": [ "Patrols, training, quiet reflection" ],
+    "with_others": [
+      "Wary with most pack members",
+      "Growing friendship with Jayson (now strained)"
+    ]
+  },
+  "values": {
+    "values": [ "Protection of the Hollow", "Control of her fire", "Loyalty" ],
+    "fears": [ "Losing control of her fire", "Betrayal within the pack", "Losing Jayson’s trust" ],
+    "strengths": [ "Combat skill", "Fire control", "Observant" ],
+    "weaknesses": [ "Isolation as the only emberkin", "Internal conflict over Grove loyalty vs personal bonds" ]
+  },
+  "combat": {
+    "titles": [ "Emberkin Watcher" ],
+    "style": "Fluid and precise",
+    "weapons": [ "Claws, staff" ],
+    "magic": [ "Ember fire control and summoning" ],
+    "recent": [ "Patrols and response to slaver ambush", "Involved in secret binding ritual attempt" ]
+  },
+  "notable_scenes": [
+    {
+      "chapter1": [
+        "Initial confrontation in the Hollow. assigned to watch you",
+        "Guarded escort and tavern conversation",
+        "Late-night book copying",
+        "Spar on training grounds",
+        "Response to slaver ambush"
+      ]
+    },
+    {
+      "chapter2": [
+        "Deepening friendship through fire lessons and pyre rites",
+        "Involved in secret Grove binding plot against Jayson",
+        "Overheard conversation revealing betrayal",
+        "Strained confrontation and partial reconciliation attempts"
+      ]
+    }
+  ],
+  "character_data": {
+    "inventory": {
+      "items": [
+        "Practice staff",
+        "Watcher gear"
+      ]
+    }
+  },
+  "future": {
+    "symbol": "Steady Ember (flickering with guilt)",
+    "role": "Watcher and growing friend to Jayson (conflicted by Grove loyalty)",
+    "arc": "From guarded survivor to someone embracing shared fire and connection (now torn by secret duties)",
+    "hesitation": "Fear of her fire and isolation, plus guilt over binding involvement",
+    "legacy": [],
+    "reminder": "Fire can warm as well as burn (and hide secrets)"
+  },
+  "final_note": "Veyra is slowly opening up, learning to see her fire as a gift rather than just a danger through Jayson’s guidance, but her involvement in the Grove's binding plot has created significant internal conflict and strained their friendship."
+}

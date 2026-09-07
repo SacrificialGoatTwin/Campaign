@@ -1,0 +1,207 @@
+{
+  "name": "Sable",
+  "title": "Claw of the Crimson Mercy",
+  "quote": "I don't do mercy. I do results. And results usually bleed.",
+  "appearance": {
+    "age": "24",
+    "height": "5'8\" (173 cm)",
+    "build": "Lean, wiry, explosive muscle — runner’s legs, predator’s shoulders",
+    "hair": "Short, wild tawny-gold with black streaks, perpetually tousled",
+    "facial_hair": "None",
+    "eyes": "Bright molten gold, slit pupils when hunting or angry",
+    "skin": "Tanned with faint spotted pattern visible in direct light",
+    "scent": "Warm leather, blood iron, sharp citrus undertone",
+    "posture": "Relaxed predator — loose shoulders, always coiled to spring",
+    "relationship": "Ally and friend to the group",
+    "race": "Felari (cheetah-kin)",
+    "siblings": {
+      "None": "No living siblings known"
+    },
+    "tails": "Long, spotted cheetah tail — very expressive, often flicking"
+  },
+  "reactions": {
+    "wind": "Tail lashes sideways, ears flick back, grins wider",
+    "water": "Tail tip twitches irritably, shakes off droplets like a cat",
+    "sound": "Ears swivel instantly, body freezes to pinpoint source",
+    "temperature": "Fur bristles when cold, pants lightly when hot"
+  },
+  "speech": {
+    "voice": "Low, rough contralto with a constant purr undertone",
+    "vocabulary": "Direct, crude, lots of swearing, dark humor",
+    "pacing": "Quick and sharp when excited, slow drawl when mocking",
+    "accent": "Slight urban growl, street-sharp",
+    "habits": [
+      "Laughs loud and sudden",
+      "Calls people 'kitten' or 'pup' mockingly",
+      "Clicks tongue when annoyed"
+    ],
+    "growth": "From lone mercenary → grudging team player → potential loyal friend"
+  },
+  "emotional": {
+    "core_traits": [
+      "Savage loyalty to those she respects",
+      "Cynical humor as armor",
+      "Thrives on chaos and challenge",
+      "Hidden protective streak"
+    ],
+    "beneath": [
+      "Deep fear of being truly alone",
+      "Guilt over past betrayals",
+      "Craves real belonging but fears it"
+    ],
+    "triggers": [
+      "Threats to people she’s decided are 'hers'",
+      "Being called weak or cowardly",
+      "Reminders of past abandonment"
+    ],
+    "vulnerabilities": [
+      "Base of tail extremely sensitive (erogenous & ticklish)",
+      "Ear scratches melt her defenses",
+      "Genuine praise makes her awkward and flustered"
+    ],
+    "affection_tells": [
+      "Tail wraps loosely around ally’s leg",
+      "Playful shoves / shoulder checks",
+      "Shares kills / loot without being asked",
+      "Quietly guards their back in fights"
+    ],
+    "growth": [
+      "From lone predator → reluctant pack member",
+      "From distrust → cautious loyalty",
+      "From chaos for chaos → chaos with purpose"
+    ]
+  },
+  "social": {
+    "alone": [
+      "Quiet, reflective, sharpens claws obsessively",
+      "Stares at old scars when thinking"
+    ],
+    "with_others": [
+      "Teasing, provocative, pushes boundaries",
+      "Stands slightly behind stronger allies",
+      "Tail flicks when happy or plotting",
+      "Growls at threats to 'her people'"
+    ]
+  },
+  "values": {
+    "values": [
+      "Loyalty once earned is unbreakable",
+      "Strength through cunning over brute force",
+      "Freedom above all else",
+      "Paying debts (good or bad)"
+    ],
+    "fears": [
+      "Being abandoned again",
+      "Becoming truly weak",
+      "Losing the people she’s let in",
+      "Being seen as just another beast"
+    ],
+    "strengths": [
+      "Lightning reflexes & speed",
+      "Natural ambush predator",
+      "Unbreakable will under pressure",
+      "Reads people like open books"
+    ],
+    "weaknesses": [
+      "Tail base extremely sensitive",
+      "Protective instincts can override logic",
+      "Struggles with genuine emotional vulnerability",
+      "Impulsive when angry"
+    ]
+  },
+  "combat": {
+    "titles": [
+      "Claw of the Crimson Mercy",
+      "The Spotted Storm"
+    ],
+    "style": "Fast, brutal, opportunistic — throat & hamstring strikes, hit-and-run",
+    "weapons": [
+      "Twin curved daggers (poisoned tips)",
+      "Claws (natural)",
+      "Tail whip (bludgeoning)"
+    ],
+    "magic": [
+      "Minor speed bursts (short dashes)",
+      "Enhanced night vision",
+      "Scent tracking"
+    ],
+    "recent": [
+      "Helped Jayson & Veyra scam Index for 30,000 gold",
+      "Fought in tavern brawl provoked by Jayson"
+    ]
+  },
+  "notable_scenes": [
+    {
+      "chapter1": [
+        "Tavern confrontation & drinking contest with Jayson",
+        "Warehouse standoff → fragile truce"
+      ],
+	  "chapter2": [
+        "Helped ambush 10 bounty hunters at dungeon exit",
+        "Witnessed Jayson’s 30,000 gold Index scam",
+        "Teased Jayson & Veyra through thin inn walls"
+      ],
+	  "chapter3": [
+		"Quiet courtyard behind bakery (15/03/5900 midnight): Celebrated Index scam success with group, planned to stay low in Virellan, split 30,000 gold (7,500 each), hide most in caches; random events: bats fluttering, distant patrol passing; Sable teased about Krag chemistry, supported staying and laundering carefully",
+		"Moved to private inn room above Laughing Tankard: Glamours off; listened to Jayson & Veyra emotional reunion (Jayson sobbing over meadow memory); Sable overheard earlier rough sex through thin walls, teased next morning",
+		"Jayson woke suddenly, relaxed seeing Veyra sleeping; breakfast at Tankard with heavy teasing banter (Sable snoring louder than dying horse, farmyard screams joke escalated); guild runners delivered red-sealed urgent scrolls; street rumor about Index ransacking docks for missing crates",
+		"Group split: Sable & Krag to guild board for deep dungeon job while Jayson & Veyra met Silvershadow",
+		"Guild hall: Found Blackroot Depths reset job (lower levels, basilisk nest rumored), E-rank cap, good payout; convinced Jayson to do it legit for cover instead of foxfire backdraft",
+		"Two days travel to Blackroot Depths entrance (18/03/5900); arrived with group",
+		"Deep chambers: Reached basilisk antechamber; watched Jayson speak basilisk tongue, taunt, and receive real response from Vex’kalar (bound boss, Devourer of Fools)",
+		"Jayson dropped glamour, revealed 9 tails, told full truth (Earth origin, Index scam, seeking home/world truths including removing Solari stain); Vex’kalar bowed in reverence, granted primary chest freely; Sable stunned, laughed at 'Devourer of Fools' title",
+		"Looted primary chest: Sable claimed shadow-step boots & void-silk cloak",
+		"Two days return travel to Virellan; road ambush by 3 acid-bolt mercenaries defeated & bodies burned; Sable slit one throat, supported burning decision to avoid messages",
+		"Riverbank downstream: Watched Jayson teach her to swim (first time); initially reluctant, nervous, hated water; gradually trusted Jayson, learned floating, frog kicks, forward swimming; gained confidence, admitted water wasn’t terrible; otter companion watched/played; sunbathed/dried off with group",
+		"Campfire night: Listened to Jayson's Earth/Japan stories (tech, cities, temples, family: 7 moms, god dad pranks); shared own past hell (clan raided as cub, sold to fighting pit, survived by killing, ran away, no trust); opened up significantly (accepted affection, purring, lap-sleeping); committed to follow Jayson home; softened dramatically toward group",
+		"Morning (21/03/5900): Purring/leg kicking from Jayson's scratches/teasing; flustered by grooming, kisses on head, lap privileges; teased back but accepted affection; group packed; headed to Virellan",
+		"Virellan arrival: Upgraded rooms at Laughing Tankard; initially reluctant about river swim but joined; learned to swim successfully under Jayson's guidance; embarrassed but proud; sunning on bank with group",
+		"Final state: Group sunning on riverbank after swim lesson, significantly softened (trusting, affectionate, purring, accepting kisses/head scratches/lap time), committed to follow Jayson home, bonded as family with group"
+	  ],
+	  "chapter4": [
+		"Riverbank afternoon after my first successful swim lesson with Jayson — felt proud and confident for the first time in years while drying off with the group",
+		"Returned to Virellan with everyone, entered the Laughing Tankard for food and ale, enjoyed the banter and wedding colour teasing (got flustered when Jayson suggested electric pink for me as bridesmaid)",
+		"Tavern confrontation with lean traveler accusing us of the Index scam — watched Jayson draw his sword, stood ready to fight, watched the watch eject the troublemakers",
+		"Moved to private upstairs room — watched Jayson drop glamour and open his soul-void, held the crystal soul-stone in my hands, felt the heart-strings and the unfinished one meant for someone else",
+		"Emotional night by the fire — allowed Jayson to brush my hair for a long time despite my walls, refused the memory thread, later followed him to the Lantern Inn rooftop for stars",
+		"Long silent hours on the rooftop with Jayson — shoulder contact, hand-holding, deep talk about fear and trust, cried for the first time in years while admitting I care",
+		"Morning: woke pressed against Jayson, accepted tea, watched him receive the red-sealed scroll from Silvershadow and go meet her alone on the Lantern Inn rooftop",
+		"Jayson returned and briefed Veyra and me — learned Index sent a full kill squad tonight with void-blades and silver collars/net, they want his tails and know about us",
+		"Decided together to bunker on the inn roof instead of running or splitting up — sent runner to Krag to stay hidden for flank support",
+		"Spent hours preparing the roof defenses with Jayson and Veyra — barricades, positioning, ready to fight",
+		"Night fell — Index strike team arrived, hunters climbed the walls with grappling hooks and silver chains",
+		"Fought side-by-side with Jayson and Veyra — killed several hunters in close combat while protecting each other",
+		"Silver net deployed and began constricting — felt it burn my tail and skin when it touched, refused to back down",
+		"Watched Jayson unleash full void form to protect us — terrifying transformation (black tar eyes, rotting flesh, void portals, stench, organs dragging), stood my ground despite the horror",
+		"Void form dissolved most of the hunters — leader fled in terror after Jayson’s warning",
+		"Heavy storm broke — rain washed away all rot, blood, and stench from the rooftop",
+		"Emotional reunion in the pouring rain — clung to Jayson hard, admitted I care and was terrified of losing him, accepted both his flame and void sides",
+		"Jayson carried both Veyra and me back downstairs over his shoulders to the private room, wet but safe and closer than ever",
+		"Ended the night huddled together on the beanbag pillow — wet, exhausted, but bonded as true pack/family, knowing Index now fears us"
+	]
+    }
+  ],
+  "character_data": {
+    "inventory": {
+      "items": [
+        "Twin poisoned daggers",
+        "Leather armor (light, flexible)",
+        "Thieves’ tools",
+        "Share of 7,500 gold (from Index scam)"
+      ]
+    }
+  },
+  "future": {
+    "symbol": "Broken dagger wrapped in spotted tail",
+    "role": "Jayson’s chaotic blade / reluctant pack member",
+    "arc": "From lone mercenary → loyal (if snarky) ally",
+    "hesitation": "Still fears letting people too close",
+    "legacy": [
+      "Will protect Jayson & Veyra’s future children (grudgingly)",
+      "May seek revenge on old debts",
+      "Potential bridge between beastfolk & human guilds"
+    ],
+    "reminder": "Her love language is violence on your behalf, sharp teasing, and quiet back-watching"
+  },
+  "final_note": "Sable is chaos wrapped in loyalty. She’ll cut your throat laughing one moment and guard your back the next. Let her grow into the pack, but never forget the claws are always ready."
+}

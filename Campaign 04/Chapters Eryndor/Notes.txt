@@ -1,0 +1,162 @@
+﻿==========================
+Powers
+==========================
+“Spark”, A seed. Small. It grows only when you spend yourself for others—or survive what should have ended you.
+
+==========================
+Locations
+==========================
+Harrowfen - Human City with Beastfolk District
+Watchtower Orchard - 2 Hours North of Harrowfen
+Riverford Waystation - 5 hours north from Harrowfen before the north bends
+Westbridge
+
+==========================
+Creatures
+==========================
+Listeners - blind, go off sound, spider like, large, hairy, long limbs, silent, deadly
+Carrion crawler - Centipide like creature
+
+==========================
+Races & Species
+==========================
+Human
+Vaelir - Species of Demon
+Vampire - Nothing like the stories
+Watcher, Anchors, Sentinels, Hinges - have mechanical, half biological bodeis
+Ratkin - humanoid rat people, scavengers, refugees
+Gutterlings - Small smelly goblin creatures
+
+==========================
+Guild Tasks
+==========================
+Chapter 1 Tasks:
+Done
+Ratkin in the Bakery Basement
+Rescue mission for the two guards saved from the Listeners
+Courier run to the Watchtower Orchard
+A cellar collapse in the Tanners� Ward
+Pilgrim caravan short a guard since dawn
+Watchtower Orchard Lights
+Escort: apothecary shipment to Westbridge
+Rat-clearing in the tannery sublevels
+Night watch � warehouse district, one bell
+Salvage run: old culvert collapse (F-rank)
+Watchtower foundations north of the reed flats
+Collapsed culvert outside the old quarry
+
+Chapter 2 Tasks:
+Done
+Dungeon—Beginner Annex, Westbridge Barrows - Dungeon
+Courier run—River Ward to Westbridge Annex
+A cellar inspection
+
+==========================
+People
+==========================
+Corren — Human, traveler who guided me to civilization and avoid monsters
+Kestrel Thorne — Half Human half swompfolk, C-rank adventurer, stabilizing ally.
+Lyra Valen — Vaelir, woman displaced by spatial anomaly and left for dead.
+Mara Valen — Vaelir, Lyra’s sister, kidnapped and rescued.
+Tomas — Human, Street thief child caring for sick sister.
+Unnamed Healer — Human, Civilian healer in Harrowfen.
+Marshal Iven Calder - Human, Harrowfen Marshal.
+Marshal Hartrow - Human, Westbridge Marshal.
+Guild Clerks & Marshals — Harrowfen and Westbridge.
+Vampire Woman — Pureborn vampire thief.
+Vampire Husband — Turned human vampire.
+Liri - Fox girl child rescued
+Rellin - Human, vetran adventurer
+Marlen Voss — Human, Guild scribe, mole
+Irix - Demon
+
+Aureliane - Headmistress - sudo name Vaeliora Sarn
+Magistrate Lorne - Lecturer
+Lecturer Halevar
+
+3 bullies that tried to test me on my axion
+Rovan
+Merec
+Lysaen
+
+==========================
+Places
+==========================
+-  Harrowfen
+Ancient Forest outside Harrowfen
+Harrowfen Adventurers’ Guild
+Harrowfen Baker’s Cellar
+Harrowfen Tanner’s Cellar
+Harrowfen Clinic
+Harrowfen Warehouse District
+Harrowfen River Ward Inn
+Harrowfen Bathhouse
+Harrowfen Hidden safe room
+Harrowfen Lower Market (hostile district)
+Harrowfen Blacksmith
+Harrowfen Marketward Inn
+Greyreach Dungeon
+Planar Rift / Thin Place
+- Westbridge
+Westbridge Adventurers’ Guild
+Westbridge Guild Branch
+Westbridge Warehouse 9
+Watchtower Orchard outside Westbridge
+Sealed Ruins (unauthorized tunnels) outside Westbridge
+Quarry / Collapsed Culvert outside Westbridge
+
+
+==========================
+Player Stats and Items
+==========================
+Level: 1
+Status: F Ranked
+Dungeon intent registered - Status: Active.
+
+===========================
+Threads
+===========================
+Jayson’s wives remain missing but alive.
+Jayson is indexed as an anomaly / threshold.
+Listener exploitation points to organized research.
+Vaelir persecution is systemic.
+Watchers are embedded in infrastructure.
+Kestrel is now entangled by proximity and knowledge.
+
+
+
+===========================
+Old Stuff
+===========================
+Ayaka - Heart
+Naru - Mind
+Shion - Body
+Seika - Essence
+Varethyn - Soul
+Fei - Anchor
+Lysera - Instinct
+
+
+
+
+
+===========================
+END OF CHAPTER QUESTIONS
+===========================
+this is the previous chapter
+this is the previous chapter. Make sure you read headings and people correctly. and who is saying what. the whole file follows my template. dont make shit up, just read the full fucking file in preparation to starting chapter 13
+
+[debug] I am reactive, not proactive, you drive the world, there are no limits to a scenes size
+
+give me a detailed summary of this whole chat from Tag 1 to the end in sequential order, put it in a code snippet so I can copy and paste
+give it to me in enough detail that it makes sense for you when I use it to move to the next chapter in a new chat. also give it to me in something I can copy and paste
+
+update this profile with this chapters information, dont remove stuff. if something needs modifying, then modify it, for example, if age is unknown and then discovered, change it. but dont remove stuff. give it back to me in something I can copy paste
+
+===========================
+COONSTANT FUCKING REMINDERS
+===========================
+[debug] Every single scene has a title.
+[debug] remember, you controll people and the world. dont make me keep driving, if an NPC needs to speak, let them speak complete unless something needs to be stopped or whatever else. I am reactive not proactive.
+[debug] Random turns are essentially random events thhat are random, they dont need to be based on what the user is doing, they can just be random. hence the word "random"
+[debug] try keep the order if how I type where appropriate for it to make sense.

@@ -1,0 +1,131 @@
+{
+  "name": "Ryn",
+  "title": "Silent Felari Scout & Tracker",
+  "quote": "Words are loud. Steel is quieter.",
+  "appearance": {
+    "age": "Mid-20s",
+	"gender": "Boy",
+    "height": "6'0\"",
+    "build": "Lean and wiry with quiet strength",
+    "hair": "Short dark tawny with subtle black markings",
+    "facial_hair": "None",
+    "eyes": "Calm golden with slit pupils",
+    "skin": "Melanistic spotted fur",
+    "scent": "Pine, cold steel, and faint snow",
+    "posture": "Still and watchful, moves like a ghost",
+    "relationship": "None",
+    "race": "Melanistic cheetah-kin Felari beastfolk",
+    "siblings": {
+      "Deceased": "Entire pride lost to wyvern raid"
+    },
+    "tails": "One long spotted tail that rarely moves unless alert"
+  },
+  "reactions": {
+    "wind": "Ears flick forward, tail stills",
+    "water": "Tail tip twitches slightly",
+    "sound": "Ears swivel toward source, body freezes",
+    "temperature": "Fur bristles in cold, seeks shelter"
+  },
+  "speech": {
+    "voice": "Very quiet, low, and sparse",
+    "vocabulary": "Direct and minimal",
+    "pacing": "Slow and deliberate",
+    "accent": "Neutral with faint northern lilt",
+    "habits": [
+      "Speaks only when necessary",
+      "Rarely raises voice"
+    ],
+    "growth": "From lone survivor to loyal crew member"
+  },
+  "emotional": {
+    "core_traits": [
+      "Quiet",
+      "Observant",
+      "Patient",
+      "Loyal"
+    ],
+    "beneath": [
+      "Deep grief from losing entire pride",
+      "Fear of forming new bonds that could be lost"
+    ],
+    "triggers": [
+      "Threats to chosen family (Sable’s crew)"
+    ],
+    "vulnerabilities": [
+      "Emotional detachment makes him seem cold"
+    ],
+    "affection_tells": [
+      "Quiet presence",
+      "Small nods of approval",
+      "Positioning himself protectively"
+    ],
+    "growth": [
+      "From expecting to die alone → slowly learning to trust a new family"
+    ]
+  },
+  "social": {
+    "alone": [
+      "Extremely quiet and watchful",
+      "Rarely speaks unless necessary"
+    ],
+    "with_others": [
+      "Observant and supportive",
+      "Speaks minimally"
+    ]
+  },
+  "values": {
+    "values": [
+      "Loyalty to chosen family",
+      "Silence and efficiency",
+      "Survival through vigilance"
+    ],
+    "fears": [
+      "Losing his new crew the way he lost his pride"
+    ],
+    "strengths": [
+      "Master tracking and scouting",
+      "Stealth and patience"
+    ],
+    "weaknesses": [
+      "Struggles with casual social interaction",
+      "Emotional detachment"
+    ]
+  },
+  "combat": {
+    "titles": [
+      "Silent Scout"
+    ],
+    "style": "Stealth, ambush, and ranged support",
+    "weapons": [
+      "Bow",
+      "Silent daggers"
+    ],
+    "magic": [
+      "None notable"
+    ],
+    "recent": []
+  },
+  "notable_scenes": [
+    {
+      "chapter1": []
+    }
+  ],
+  "character_data": {
+    "inventory": {
+      "items": [
+        "Traveling cloak",
+        "High-quality bow",
+        "Scout tools"
+      ]
+    }
+  },
+  "future": {
+    "symbol": "A still spotted tail in the snow",
+    "role": "Quiet protector and tracker for Sable’s crew",
+    "arc": "From lone survivor expecting to die alone → learning to trust and protect a new family",
+    "hesitation": "Fear of losing new bonds",
+    "legacy": [],
+    "reminder": "Silence is the sharpest blade"
+  },
+  "final_note": ""
+}

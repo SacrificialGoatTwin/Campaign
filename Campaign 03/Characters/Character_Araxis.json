@@ -1,0 +1,128 @@
+{
+  "name": "Araxis",
+  "title": "High-Rank Wolf-kin Operative",
+  "quote": "Silence is the sharpest blade.",
+  "appearance": {
+    "age": "Late 20s to early 30s",
+	"gender": "Boy",
+    "height": "6'2\"",
+    "build": "Powerful and athletic",
+    "hair": "Midnight-black fur",
+    "facial_hair": "None",
+    "eyes": "Piercing ocean-blue eyes",
+    "skin": "Midnight-black fur that seems to absorb light",
+    "scent": "Cold steel, old parchment, and faint night-blooming flowers",
+    "posture": "Calm and controlled, moves like a shadow",
+    "relationship": "None",
+    "race": "Black wolf-kin",
+    "siblings": {
+      "None": ""
+    },
+    "tails": "One long black wolf tail"
+  },
+  "reactions": {
+    "wind": "Ears flick slightly",
+    "water": "Fur barely reacts",
+    "sound": "Ears swivel with precision",
+    "temperature": "Minimal visible reaction"
+  },
+  "speech": {
+    "voice": "Deep, calm, and smooth",
+    "vocabulary": "Minimal and purposeful",
+    "pacing": "Slow and deliberate",
+    "accent": "Neutral with quiet authority",
+    "habits": [
+      "Speaks rarely and with purpose",
+      "Almost never raises voice"
+    ],
+    "growth": "From lone operative to subtle protector"
+  },
+  "emotional": {
+    "core_traits": [
+      "Silent",
+      "Lethal",
+      "Disciplined",
+      "Observant"
+    ],
+    "beneath": [
+      "Deep sense of duty",
+      "Quiet loneliness"
+    ],
+    "triggers": [
+      "Threats to guild stability or innocence"
+    ],
+    "vulnerabilities": [
+      "Emotional detachment"
+    ],
+    "affection_tells": [
+      "Subtle nods of respect",
+      "Quiet protective positioning"
+    ],
+    "growth": [
+      "From lone operative who trusted no one → slowly learning some bonds are worth protecting"
+    ]
+  },
+  "social": {
+    "alone": [
+      "Extremely quiet and self-contained"
+    ],
+    "with_others": [
+      "Reserved and professional"
+    ]
+  },
+  "values": {
+    "values": [
+      "Duty and balance",
+      "Silence and efficiency",
+      "Protection of the innocent"
+    ],
+    "fears": [
+      "Becoming the monster he hunts"
+    ],
+    "strengths": [
+      "Master of silent kills and shadow tactics",
+      "High intelligence and discipline"
+    ],
+    "weaknesses": [
+      "Struggles with casual social interaction"
+    ]
+  },
+  "combat": {
+    "titles": [
+      "High-Rank Guild Operative (Black Ops / Assassin / Scribe / Peacekeeper)"
+    ],
+    "style": "Precision, stealth, and lethal efficiency",
+    "weapons": [
+      "Concealed blades",
+      "Poisons",
+      "Shadow magic"
+    ],
+    "magic": [
+      "Shadow-based stealth and assassination magic"
+    ],
+    "recent": []
+  },
+  "notable_scenes": [
+    {
+      "chapter1": []
+    }
+  ],
+  "character_data": {
+    "inventory": {
+      "items": [
+        "Black cloak with silver threading",
+        "High-rank guild badge",
+        "Concealed weapons"
+      ]
+    }
+  },
+  "future": {
+    "symbol": "Ocean-blue eyes piercing through darkness",
+    "role": "Elite guild operative and silent guardian",
+    "arc": "From lone operative who trusted no one → slowly learning some bonds are worth protecting",
+    "hesitation": "Emotional detachment and fear of attachment",
+    "legacy": [],
+    "reminder": "Silence is the sharpest blade"
+  },
+  "final_note": ""
+}

@@ -1,0 +1,218 @@
+{
+  "name": "Veyra",
+  "title": "Ashkael Survivor",
+  "quote": "You carried me when I had nothing left… now I carry you in every heartbeat.",
+  "appearance": {
+    "age": "14",
+    "height": "5'10\" (178 cm) in digitigrade stance",
+    "build": "Athletic and curved after recovery — lean muscle, soft hips, full chest",
+    "hair": "Blood-red, short and tousled, slightly wavy",
+    "facial_hair": "None",
+    "eyes": "Vivid emerald green, glowing faintly when emotional",
+    "skin": "Light tan with subtle leathery texture, warms to soft velvet when aroused",
+    "scent": "Smoky amber, warm iron, faint jasmine undertone after recovery",
+    "posture": "Proud and alert, shoulders back, horns forward when protective",
+    "relationship": "Engaged to Jayson",
+    "race": "Wingless Infernal-kin (demon)",
+    "siblings": {
+    },
+    "tails": "One thick, tail with spade tip — very expressive"
+  },
+  "reactions": {
+    "wind": "Tail flicks sharply, horns tilt into breeze, hums softly",
+    "water": "Ears flatten slightly, eyes narrow, hum deepens with pleasure when warm",
+    "sound": "Tail tip twitches to rhythm, hums unconsciously in harmony",
+    "temperature": "Warms noticeably when hot, tail curls tighter when cold"
+  },
+  "speech": {
+    "voice": "Low, husky contralto — rough from disuse but growing smoother",
+    "vocabulary": "Direct, minimal, prefers gestures — swears in Infernal when angry",
+    "pacing": "Slow and deliberate when signing, hums fill pauses",
+    "accent": "Faint Infernal growl underlies every hum",
+    "habits": [
+      "Hums name softly when content",
+      "Clicks claws when thinking",
+      "Tail thumps once for 'yes', twice for 'no'"
+    ],
+    "growth": "Began with no vocalization → single notes → full hums → potential full speech"
+  },
+  "emotional": {
+    "core_traits": [
+      "Fiercely loyal",
+      "Protective to the point of violence",
+      "Quietly tender with loved ones",
+      "Deeply traumatized but healing"
+    ],
+    "beneath": [
+      "Terrified of abandonment",
+      "Believes she is unworthy of love",
+      "Craves gentle touch but fears it"
+    ],
+    "triggers": [
+      "Threats to Jayson → instant rage",
+      "Sudden loud noises → flinches",
+      "Being restrained → panic"
+    ],
+    "vulnerabilities": [
+      "Base of tail extremely sensitive",
+      "Ear scratches melt her",
+      "Hearing her name spoken softly → instant tears"
+    ],
+    "affection_tells": [
+      "Tail curls around limb/object of affection",
+      "Soft humming when content",
+      "Presses forehead to loved one",
+      "Holds plushie like lifeline"
+    ],
+    "growth": [
+      "From mute shell → humming → full voice potential",
+      "From distrust → complete devotion"
+    ]
+  },
+  "social": {
+    "alone": [
+      "Quiet, watchful",
+      "Hums old Infernal lullabies to plushie"
+    ],
+    "with_others": [
+      "Wary, horns forward",
+      "Stands slightly in front of Jayson",
+      "Tail lashes at perceived threats",
+      "Softens only for Jayson"
+    ]
+  },
+  "values": {
+    "values": [
+      "Loyalty above all",
+      "Protecting the vulnerable",
+      "Gentle touch as sacred",
+      "Survival through connection"
+    ],
+    "fears": [
+      "Losing Jayson",
+      "Returning to near-death state",
+      "Being seen as monster only",
+      "Hurting him accidentally"
+    ],
+    "strengths": [
+      "Unbreakable loyalty",
+      "High pain tolerance",
+      "Instinctive combat sense",
+      "Rapid emotional recovery with trust"
+    ],
+    "weaknesses": [
+      "Tail base extreme erogenous zone",
+      "Protective instincts override logic",
+      "Still healing vocal trauma",
+      "Touch starvation → becomes clingy"
+    ]
+  },
+  "combat": {
+    "titles": [
+      "Ashkael Survivor"
+    ],
+    "style": "Fast, brutal, opportunistic — prefers throat and hamstring strikes",
+    "weapons": [
+      "Natural claws",
+      "Tail whip (bludgeoning)",
+      "Horns (ramming)"
+    ],
+    "magic": [
+      "Minor infernal heat (palms)",
+      "Enhanced night vision",
+      "Pain suppression (survival trait)"
+    ],
+    "recent": [
+    ]
+  },
+  "notable_scenes": [
+    {
+      "chapter1": [
+        "Found dying in meadow, minutes from death. skeletal and unable to move",
+        "Months of care by Jayson to full recovery",
+        "First hum after honey medicine given by healer",
+        "First spoken name reveal",
+        "First kiss & sex"
+      ]
+    },
+	{
+      "chapter2": [
+        "Morning after first sex — Veyra speaks Jayson's name for the first time (soft husky hum)",
+        "Accepted urgent E-rank caravan rescue job near Zan’khal border with Jayson",
+        "Talked down shadow-wolves at ruined caravan site alongside Jayson",
+        "Stood guard while Jayson unfurled 9 tails and negotiated truce with juvenile ash-drake; protected freed merchants",
+        "Returned to Virellan as heroes; high E-rank promotion + 250 gold total reward shared with Jayson",
+        "Tavern night: intense rough sex with Jayson (knotting, tail play, spanking, multiple peaks); Sable overheard through thin walls",
+        "Silvershadow urgently warned group of spreading kitsune bounties by Index & Shadow Spires collector",
+        "Ambushed by 10 bounty hunters at Blackroot Depths exit; protected Jayson during bluff & standoff",
+        "Captured & interrogated hunters with group; supported Jayson's decision to spare them and give dungeon loot for redemption",
+        "Midnight Index handover scam: glamoured as scarred human mercenary; stood guard while Jayson delivered fake heads crate and scammed 30,000 gold",
+        "Emotional reassurance talk with Jayson on road home: confirmed virginity & first time status, revealed trauma from Purifiers (wing stubs cut, repeated attempts to break her), Jayson healed scars via love/care",
+        "All glamoured as human E-rank adventurers; returned to Virellan with 7,500 gold share"
+      ],
+	  "chapter3": [
+		"Quiet courtyard behind bakery (15/03/5900 midnight): Celebrated Index scam success with Jayson, planned to stay low in Virellan, split 30,000 gold (7,500 each), hide most in caches; random events: bats, distant patrol passing; Veyra protective, supportive of staying and laundering carefully",
+		"Moved to private inn room above Laughing Tankard: Glamours off; emotional reunion with Jayson – he broke down sobbing over meadow memory of almost losing her, Veyra comforted, reaffirmed love and devotion; deep reassurance talk about future, family, never abandoning each other; Jayson teased life-changing plans (delayed)",
+		"Jayson woke suddenly, relaxed seeing Veyra sleeping; breakfast at Tankard with teasing banter (Sable snoring jokes, farmyard screams); guild runners delivered red-sealed urgent scrolls; street rumor about Index ransacking docks for missing crates",
+		"Group split: Veyra accompanied Jayson to Lantern Inn to meet Silvershadow; supported decision to postpone Veilspire ruin due to risk and focus on kitsune vanishing mystery first",
+		"Lantern private parlor with Silvershadow: Index bounty increased, Veilspire revealed but postponed; random event: ward flicker (listener outside); Veyra protective, wary of risks",
+		"Guild hall: Supported Blackroot Depths job acceptance (lower levels, basilisk nest rumored)",
+		"Two days travel to Blackroot Depths entrance (18/03/5900); arrived with group",
+		"Deep chambers: Reached basilisk antechamber; watched Jayson speak basilisk tongue, taunt, and receive real response from Vex’kalar (bound boss)",
+		"Jayson dropped glamour, revealed 9 tails, told full truth (Earth origin, Index scam, seeking home/world truths including removing Solari stain); Vex’kalar bowed in reverence, granted primary chest freely; Veyra emotional, proud of Jayson's courage and honesty",
+		"Looted primary chest: Foxfire Weaver’s Band given to Veyra by Jayson",
+		"Two days return travel to Virellan; road ambush by 3 acid-bolt mercenaries defeated & bodies burned; Veyra supported burning decision to avoid messages",
+		"Riverbank downstream: Watched Jayson teach Sable to swim (first time, success: floating, frog kicks, confidence gained); sunbathed/dried off with group; otter companion played nearby",
+		"Campfire night: Listened to Jayson's Earth/Japan stories (tech, cities, temples, family: 7 moms, god dad pranks); shared own past hell (born in chains, Infernal-kin bred for war/labor/pleasure, wings cut as child, silverleaf to break voice, cages/collars); expressed desire to fly again (wings back) with Jayson; reaffirmed devotion and choice to follow him home; group bonded as family",
+		"Morning (21/03/5900): Watched Sable purring/leg kicking from Jayson's scratches; group packed; headed to Virellan",
+		"Virellan arrival: Upgraded rooms at Laughing Tankard; supported river swim suggestion; encouraged Sable during lesson (success, confidence gained)",
+		"Final state: Group sunning on riverbank after swim lesson, deeply devoted to Jayson (engaged, ring on finger), committed to path home, expressed desire for wings back to fly with him, bonded as family with group"
+	  ],
+	  "chapter4": [
+		"Riverbank afternoon after Sable’s successful swim lesson — relaxed in the sun with Jayson and the group, feeling safe and loved",
+		"Returned to Virellan with the group, entered the Laughing Tankard for food and ale, enjoyed wedding colour banter (Jayson teasing Sable about electric pink)",
+		"Witnessed the lean traveler confront the group about the Index scam — stood ready to protect Jayson as tension rose, swords drawn, watch called and travelers ejected",
+		"Moved to private upstairs room — watched Jayson drop glamour and open his soul-void, felt the thick silver heart-string connect directly to my chest for the first time, held the crystal soul-stone with Sable",
+		"Emotional night by the fire — allowed Sable to brush my hair while Jayson explained fate and soulmates, felt deep peace and devotion",
+		"Followed the group to the Lantern Inn rooftop for stars — sat in long, quiet closeness with Jayson and Sable, shoulder to shoulder, hand contact, feeling the bond grow stronger",
+		"Morning: woke to Jayson making tea, received urgent red-sealed scroll from Silvershadow via guild runner",
+		"Stayed in the room while Jayson went alone to meet Silvershadow on the Lantern Inn rooftop (true fox form)",
+		"Jayson returned and briefed us — learned Index sent a kill squad tonight with void-blades and silver collars/net, they want his tails and know about me",
+		"Decided together to bunker on the inn roof rather than flee or split up — sent runner to Krag to stay hidden for flank support",
+		"Spent hours preparing the roof defenses with Jayson and Sable — barricades, positioning, ready for fight",
+		"Night fell — Index strike team arrived, hunters climbed the walls with grappling hooks and silver chains",
+		"Fought side-by-side with Jayson and Sable — killed several hunters in close combat while protecting each other",
+		"Silver net deployed and began constricting — felt it burn my skin when it touched, refused to let go of Jayson",
+		"Watched Jayson unleash full void form to protect us — terrifying transformation (black tar eyes, rotting flesh, void portals, stench) but stood my ground and refused to leave him",
+		"Void form dissolved most of the hunters — leader fled in terror after Jayson’s warning",
+		"Heavy storm broke — rain washed away all rot, blood, and stench from the rooftop",
+		"Emotional reunion in the rain — clung to Jayson with Sable, affirmed love for both his flame and void sides",
+		"Jayson carried both Sable and me back downstairs over his shoulders to the private room, wet but safe and closer than ever",
+		"Ended the night huddled together on the beanbag pillow — wet, exhausted, but bonded as unbreakable family, knowing Index now fears us"
+	]
+    }
+  ],
+  "character_data": {
+    "inventory": {
+      "items": [
+        "Plushie (contains Jayson's sister's ashes vial)",
+        "Kitsune-fur dress & cloak (made from Jayson's Kitsune tail fur)",
+        "Silverleaf elixir vial (voice healing)",
+        "White roses (from flower girl)"
+      ]
+    }
+  },
+  "future": {
+    "symbol": "White rose above horn",
+    "role": "Jayson's devoted partner / guardian",
+    "arc": "From mute survivor → full voice & agency",
+    "hesitation": "Still fears being seen as monster",
+    "legacy": [
+      "Will protect Jayson's future children with her life",
+      "Potential voice restoration arc",
+      "May seek vengeance on those who hurt her"
+    ],
+    "reminder": "Her love language is protection, touch, and hearing her name spoken"
+  },
+  "final_note": "Veyra is healing — slowly, painfully, beautifully — in Jayson's hands. Let her grow, but never forget the claws that still hide beneath the softness."
+}

@@ -1,0 +1,162 @@
+{
+  "name": "Veyra",
+  "title": "Ashkael Survivor",
+  "quote": "You carried me when I had nothing left… now I carry you in every heartbeat.",
+  "appearance": {
+    "age": "14",
+    "height": "5'10\" (178 cm) in digitigrade stance",
+    "build": "Athletic and curved after recovery — lean muscle, soft hips, full chest",
+    "hair": "Blood-red, short and tousled, slightly wavy",
+    "facial_hair": "None",
+    "eyes": "Vivid emerald green, glowing faintly when emotional",
+    "skin": "Light tan with subtle leathery texture, warms to soft velvet when aroused",
+    "scent": "Smoky amber, warm iron, faint jasmine undertone after recovery",
+    "posture": "Proud and alert, shoulders back, horns forward when protective",
+    "relationship": "Devoted partner / mate to Jayson",
+    "race": "Wingless Infernal-kin (demon)",
+    "siblings": {
+    },
+    "tails": "One thick, tail with spade tip — very expressive"
+  },
+  "reactions": {
+    "wind": "Tail flicks sharply, horns tilt into breeze, hums softly",
+    "water": "Ears flatten slightly, eyes narrow, hum deepens with pleasure when warm",
+    "sound": "Tail tip twitches to rhythm, hums unconsciously in harmony",
+    "temperature": "Warms noticeably when hot, tail curls tighter when cold"
+  },
+  "speech": {
+    "voice": "Low, husky contralto — rough from disuse but growing smoother",
+    "vocabulary": "Direct, minimal, prefers gestures — swears in Infernal when angry",
+    "pacing": "Slow and deliberate when signing, hums fill pauses",
+    "accent": "Faint Infernal growl underlies every hum",
+    "habits": [
+      "Hums name softly when content",
+      "Clicks claws when thinking",
+      "Tail thumps once for 'yes', twice for 'no'"
+    ],
+    "growth": "Began with no vocalization → single notes → full hums → potential full speech"
+  },
+  "emotional": {
+    "core_traits": [
+      "Fiercely loyal",
+      "Protective to the point of violence",
+      "Quietly tender with loved ones",
+      "Deeply traumatized but healing"
+    ],
+    "beneath": [
+      "Terrified of abandonment",
+      "Believes she is unworthy of love",
+      "Craves gentle touch but fears it"
+    ],
+    "triggers": [
+      "Threats to Jayson → instant rage",
+      "Sudden loud noises → flinches",
+      "Being restrained → panic"
+    ],
+    "vulnerabilities": [
+      "Base of tail extremely sensitive",
+      "Ear scratches melt her",
+      "Hearing her name spoken softly → instant tears"
+    ],
+    "affection_tells": [
+      "Tail curls around limb/object of affection",
+      "Soft humming when content",
+      "Presses forehead to loved one",
+      "Holds plushie like lifeline"
+    ],
+    "growth": [
+      "From mute shell → humming → full voice potential",
+      "From distrust → complete devotion"
+    ]
+  },
+  "social": {
+    "alone": [
+      "Quiet, watchful",
+      "Hums old Infernal lullabies to plushie"
+    ],
+    "with_others": [
+      "Wary, horns forward",
+      "Stands slightly in front of Jayson",
+      "Tail lashes at perceived threats",
+      "Softens only for Jayson"
+    ]
+  },
+  "values": {
+    "values": [
+      "Loyalty above all",
+      "Protecting the vulnerable",
+      "Gentle touch as sacred",
+      "Survival through connection"
+    ],
+    "fears": [
+      "Losing Jayson",
+      "Returning to near-death state",
+      "Being seen as monster only",
+      "Hurting him accidentally"
+    ],
+    "strengths": [
+      "Unbreakable loyalty",
+      "High pain tolerance",
+      "Instinctive combat sense",
+      "Rapid emotional recovery with trust"
+    ],
+    "weaknesses": [
+      "Tail base extreme erogenous zone",
+      "Protective instincts override logic",
+      "Still healing vocal trauma",
+      "Touch starvation → becomes clingy"
+    ]
+  },
+  "combat": {
+    "titles": [
+      "Ashkael Survivor"
+    ],
+    "style": "Fast, brutal, opportunistic — prefers throat and hamstring strikes",
+    "weapons": [
+      "Natural claws",
+      "Tail whip (bludgeoning)",
+      "Horns (ramming)"
+    ],
+    "magic": [
+      "Minor infernal heat (palms)",
+      "Enhanced night vision",
+      "Pain suppression (survival trait)"
+    ],
+    "recent": [
+    ]
+  },
+  "notable_scenes": [
+    {
+      "chapter1": [
+        "Found dying in meadow, minutes from death. skeletal and unable to move",
+        "Months of care by Jayson to full recovery",
+        "First hum after honey medicine given by healer",
+        "First spoken name reveal",
+        "First kiss & sex"
+      ]
+    }
+  ],
+  "character_data": {
+    "inventory": {
+      "items": [
+        "Plushie (contains Jayson's sister's ashes vial)",
+        "Kitsune-fur dress & cloak (made from Jayson's Kitsune tail fur)",
+        "Silverleaf elixir vial (voice healing)",
+        "White roses (from flower girl)"
+      ]
+    }
+  },
+  "future": {
+    "symbol": "White rose above horn",
+    "role": "Jayson's devoted partner / guardian",
+    "arc": "From mute survivor → full voice & agency",
+    "hesitation": "Still fears being seen as monster",
+    "legacy": [
+      "Will protect Jayson's future children with her life",
+      "Potential voice restoration arc",
+      "May seek vengeance on those who hurt her"
+    ],
+    "reminder": "Her love language is protection, touch, and hearing her name spoken"
+  },
+  "final_note": "Veyra is healing — slowly, painfully, beautifully — in Jayson's hands. Let her grow, but never forget the claws that still hide beneath the softness."
+}

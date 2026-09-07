@@ -1,0 +1,171 @@
+First Name,Age,Status,Title,Tails
+Emi Uchida,476,Bound in Memory,Flamebearer,6
+Kaito Saitou,391,Bound in Memory,Caretaker,6
+Koji Natsume,390,Bound in Memory,Caretaker,5
+Noa Kurosawa,388,Bound in Memory,Threadbound Guard,5
+Ryota Hirano,495,Bound in Memory,Trial Overseer,5
+Reina Shirogane,424,Bound in Memory,Veil Warden,4
+Tsukasa Shimizu,494,Dating,Caretaker,4
+Fumiya Kanzaki,456,Dating,Tailform Instructor,4
+Hiyori Chikamatsu,481,Dating,Veilwalker,4
+Daichi Hayashi,436,Married,Caretaker,4
+Sho Kanzaki,389,Married,Caretaker,3
+Azusa Matsuda,466,Married,Soul-Keeper,4
+Aya Morikawa,381,Married,Elder Scribe,3
+Jin Nakamoto,465,Married,Scout Commander,4
+Yumiko Furukawa,346,Married,Veilwalker,3
+Chika Asano,402,Partnered,Threadbound Guard,3
+Haruto Miyazaki,495,Recovering,Starwatcher,3
+Azami Narukami,219,Sacred Flamebound,Elder Scribe,3
+Amaya Kobayashi,465,Sacred Flamebound,Caretaker,3
+Eri Shimizu,476,Single,Threadweaver,3
+Kaede Tachibana,456,Single,Storyteller,3
+Gen Kurosawa,473,Single,Threadweaver,3
+Haru Fujikawa,471,Single,Trial Overseer,3
+Satomi Enomoto,395,Widowed,Elder Scribe,3
+Hana Shimizu,455,Widowed,Storyteller,3
+Ayaka Saitou,453,Widowed,Threadbound Guard,3
+Mai Shirakawa,494,Widowed,Riteforger,3
+Chie Aoyagi,428,Widowed,Tailform Instructor,3
+Shogo Furukawa,421,Widowed,Veil Warden,3
+Arata Ogino,268,Widowed,Elder Scribe,3
+Seiji Yamadera,430,Widowed,Flamebearer,3
+Hikaru Morikawa,360,Widowed,Threadbound Guard,3
+Kanna Enomoto,126,Bound in Memory,Caretaker,2
+Sayo Ogino,184,Bound in Memory,Dream-Seer,2
+Misaki Minamoto,317,Bound in Memory,Instructor of Threads,2
+Shiori Kanzaki,494,Bound in Memory,Storyteller,2
+Shoma Fujikawa,127,Bound in Memory,Threadweaver,2
+Arisa Ishibashi,344,Dating,Dream-Seer,2
+Kaito Inoue,476,Dating,Instructor of Threads,2
+Moe Natsume,428,Dating,Caretaker,2
+Toma Kagami,357,Dating,Riteforger,2
+Kiyomi Asano,229,Dating,Soul-Keeper,2
+Miki Kurosawa,373,Dating,Starwatcher,2
+Yuji Takayama,421,Dating,Trial Overseer,2
+Noboru Kurosawa,174,Married,Elder Scribe,2
+Osamu Kobayashi,348,Married,Caretaker,2
+Soma Kuroda,267,Married,Caretaker,2
+Misato Hiraga,336,Married,Trial Overseer,2
+Haruki Enomoto,317,Married,Caretaker,2
+Satoshi Aoyagi,479,Married,Instructor of Threads,2
+Riko Shirogane,367,Married,Riteforger,2
+Aiko Fujikawa,408,Married,Caretaker,2
+Kazuki Ishibashi,436,Married,Caretaker,2
+Naoya Ogino,337,Married,Soul-Keeper,2
+Saki Inoue,409,Married,Caretaker,2
+Mariko Natsume,406,Partnered,Caretaker,2
+Kouta Morikawa,161,Partnered,Veilwalker,2
+Takeshi Shimizu,185,Recovering,Elder Scribe,2
+Yuna Yamadera,433,Recovering,Caretaker,2
+Keiji Hirano,377,Recovering,Threadweaver,2
+Akane Arakawa,222,Recovering,Veil Warden,2
+Aina Tanabe,213,Sacred Flamebound,Caretaker,2
+Takao Yamazaki,294,Sacred Flamebound,Caretaker,2
+Rin Inoue,241,Sacred Flamebound,Threadbound Guard,2
+Ryuu Takamori,347,Sacred Flamebound,Trial Overseer,2
+Ayato Hanabusa,373,Sacred Flamebound,Veilwalker,2
+Akira Morikawa,400,Seeking Bond,Dream-Seer,2
+Nagi Kobayashi,226,Seeking Bond,Threadweaver,2
+Yukiko Kuroda,350,Single,Caretaker,2
+Midori Ogino,289,Single,Starwatcher,2
+Chinatsu Kanzaki,360,Single,Caretaker,2
+Mio Natsume,479,Single,Veil Warden,2
+Kohaku Asano,321,Single,Dream-Seer,2
+Kenta Arakawa,323,Single,Elder Scribe,2
+Yoshino Kobayashi,412,Single,Caretaker,2
+Jiro Shimura,242,Single,Soul-Keeper,2
+Mio Kanzaki,218,Single,Threadbound Guard,2
+Yuki Ishibashi,406,Threadbound,Caretaker,2
+Ema Uchida,365,Unthreaded,Dream-Seer,2
+Misaki Tanabe,359,Unthreaded,Veil Warden,2
+Mika Shirakawa,340,Unthreaded,Caretaker,2
+Shinji Kanzaki,372,Vowbroken,Caretaker,2
+Nao Kurosawa,337,Vowbroken,Dream-Seer,2
+Takuya Ichimura,372,Vowbroken,Caretaker,2
+Hina Shimizu,445,Widowed,Herbal Keeper,2
+Airi Takamori,380,Widowed,Caretaker,2
+Kentaro Hosokawa,324,Widowed,Riteforger,2
+Nobu Tsunemori,304,Widowed,Soul-Keeper,2
+Shion Furukawa,302,Widowed,Caretaker,2
+Tetsuro Hoshino,215,Widowed,Starwatcher,2
+Nene Enomoto,343,Widowed,Threadweaver,2
+Naoki Kagami,370,Widowed,Veilwalker,2
+Isamu Yukimura,363,Widowed,Whispershade,2
+Yori Odagiri,460,Widowed,Soul-Keeper,2
+Sora Kurosawa,284,Widowed,Trial Overseer,2
+Manami Narukami,244,Widowed,Veil Warden,2
+Miyu Tanabe,327,Widowed,Caretaker,2
+Asuka Uchida,295,Widowed,Dream-Seer,2
+Kazuma Yamazaki,369,Widowed,Instructor of Threads,2
+Kana Morikawa,457,Widowed,Caretaker,2
+Sosuke Furukawa,359,Widowed,Caretaker,2
+Akihiko Takamori,288,Widowed,Threadweaver,2
+Meiko Furukawa,275,Widowed,Veil Warden,2
+Hiroto Yamadera,321,Widowed,Veilwalker,2
+Itsuki Tanabe,342,Widowed,Whispershade,2
+Ayumi Shirakawa,334,Bound in Memory,Caretaker,1
+Yu Tanabe,253,Bound in Memory,Caretaker,1
+Taichi Ogino,171,Bound in Memory,Riteforger,1
+Kazuya Omura,140,Bound in Memory,Starwatcher,1
+Haruka Takamori,340,Dating,Elder Scribe,1
+Hinata Hiraga,286,Dating,Flamebearer,1
+Riku Matsuda,206,Dating,Caretaker,1
+Kazue Natsume,118,Dating,Caretaker,1
+Yuto Yamadera,283,Dating,Caretaker,1
+Rena Tanabe,279,Dating,Veil Warden,1
+Hikari Kuroda,150,Dating,Caretaker,1
+Chihiro Matsuda,268,Married,Caretaker,1
+Minori Kondou,278,Married,Dream-Seer,1
+Eiji Tanabe,209,Married,Caretaker,1
+Fuyuki Takayama,238,Married,Instructor of Threads,1
+Makoto Omura,246,Married,Starwatcher,1
+Yuji Takayama,134,Married,Threadbound Guard,1
+Hiroshi Shirakawa,321,Married,Veil Warden,1
+Ritsu Kobayashi,269,Married,Caretaker,1
+Sakura Tanabe,193,Married,Caretaker,1
+Naoya Takayama,306,Married,Starwatcher,1
+Hiroshi Shirogane,203,Married,Caretaker,1
+Yui Saitou,250,Married,Caretaker,1
+Megumi Takahashi,249,Married,Dream-Seer,1
+Ren Okabe,170,Married,Caretaker,1
+Kohana Chikamatsu,296,Married,Caretaker,1
+Tomo Ichimura,191,Married,Trial Overseer,1
+Kenji Hayashi,191,Married,Caretaker,1
+Sayaka Inoue,242,Partnered,Caretaker,1
+Maiko Inoue,213,Recovering,Caretaker,1
+Yasuo Kishimoto,225,Recovering,Instructor of Threads,1
+Ruri Takahashi,176,Recovering,Riteforger,1
+Tetsuya Shirakawa,203,Recovering,Threadbound Guard,1
+Toma Kagami,220,Recovering,Trial Overseer,1
+Riko Chikamatsu,250,Sacred Flamebound,Instructor of Threads,1
+Rina Morikawa,106,Sacred Flamebound,Whispershade,1
+Ayame Nakamoto,150,Seeking Bond,Caretaker,1
+Nozomi Hosokawa,289,Seeking Bond,Veilwalker,1
+Daisuke Minamoto,132,Seeking Bond,Caretaker,1
+Tetsu Yamazaki,330,Single,Dream-Seer,1
+Ichika Natsume,169,Single,Soul-Keeper,1
+Shu Yamazaki,164,Single,Tailform Instructor,1
+Nanami Kawakami,112,Single,Trial Overseer,1
+Emiko Uchida,146,Single,Veilwalker,1
+Keiko Saitou,284,Single,Flamebearer,1
+Hayato Ishibashi,127,Single,Caretaker,1
+Kanae Hirano,244,Single,Instructor of Threads,1
+Renji Hoshino,163,Single,Light Tender,1
+Junpei Fujikawa,124,Single,Instructor of Threads,1
+Hiroki Yamazaki,285,Single,Caretaker,1
+Natsuki Kuroda,297,Single,Caretaker,1
+Yukari Yamadera,221,Unthreaded,Caretaker,1
+Reika Saitou,296,Unthreaded,Veilwalker,1
+Taku Omura,209,Vowbroken,Caretaker,1
+Nao Uchida,315,Widowed,Starwatcher,1
+Yuuka Ichimura,173,Widowed,Caretaker,1
+Shun Minamoto,284,Widowed,Caretaker,1
+Masaki Takamori,266,Widowed,Starwatcher,1
+Sayuri Takahashi,254,Widowed,Caretaker,1
+Suzu Kawakami,302,Widowed,Caretaker,1
+Ryo Kanzaki,185,Widowed,Threadbound Guard,1
+Masaru Okabe,177,Widowed,Caretaker,1
+Kota Ishibashi,225,Widowed,Caretaker,1
+Masato Hoshino,193,Widowed,Starwatcher,1
+Saya Hoshino,210,Widowed,Caretaker,1

@@ -1,0 +1,152 @@
+{
+  "guild": {
+    "name": "The Gilded Path",
+    "title": "Prestigious Relic-Hunters & Artifact Recovery Guild",
+    "motto": "Value is risk made tangible.",
+    "headquarters": "Zhal-Majir, Nyambuza",
+    "founding_year": 5124,
+    "reputation": "Selective and meritocratic. Open to all races and backgrounds provided they pass the Threefold Trial. Values proven survival skill, relic-handling expertise, and adaptability in high-threat environments.",
+    "specialties": [
+      "Treasure hunting in ancient ruins and unstable ley-nexus zones",
+      "Safe appraisal and recovery of pre-Cataclysm artifacts",
+      "Contracted escort and protection for scholarly or trade expeditions",
+      "Neutralization of dangerous relics when required"
+    ],
+    "symbol": "A golden spiral path winding around a glowing Aether Crystal, etched in blackwood and sapphire",
+    "currency_system": "Guild Marks (enchanted obsidian coins bound to a member’s personal Aether signature)"
+  },
+  "magitech_infrastructure": {
+    "registration_crystals": {
+      "description": "Towering obelisks of star-metal and living crystal. A prospective member places their palm upon the crystal, which scans mana veins, core strength, affinities, and latent abilities. It then projects a holographic status orb displaying power metrics and risk profile. Exceptional resonance may cause dramatic visual phenomena.",
+      "functions": [
+        "Instant capability assessment",
+        "Binding of permanent Guild Card (sapphire card that cannot be forged or stolen)",
+        "Real-time monitoring of health and mana during active contracts"
+      ]
+    },
+    "hologram_notice_boards": {
+      "description": "Floating crystalline panes suspended by levitating rune-stones in every guild hall. Quests appear as rotating golden holograms with 3D models of targets, danger auras, and live reward counters. Priority halos can be applied to urgent requests.",
+      "features": [
+        "Filterable by rank, location, reward, or party size",
+        "Voice-activated search via minor illusion spirits",
+        "Instant updates when quests are claimed or completed"
+      ]
+    },
+    "testing_grounds": {
+      "description": "Subterranean arenas beneath major halls, connected by ley-line portals. Fully warded magitech environments capable of simulating diverse hazards and scenarios while preventing lethal injury through Aether safety barriers.",
+      "types": [
+        "Combat Trial Dome – scaled threat simulations",
+        "Relic Extraction Vault – timed puzzle and trap chambers",
+        "Survival Gauntlet – multi-stage environmental endurance tests"
+      ]
+    },
+    "other_magitech": [
+      "Aether Lenses – goggles revealing hidden ley-lines and magical signatures",
+      "Memory Spires – crystalline archives storing expedition logs as holographic replays",
+      "Glyphblade Lockers – personal armories that respond only to their bonded owner",
+      "Ley-Sail Express – high-speed guild airships riding atmospheric ley currents",
+	  "Magitech Droids – Hitech police force"
+    ]
+  },
+  "entry_process": {
+    "requirement": "The Threefold Trial",
+    "stages": [
+      {
+        "name": "Trial of Resonance",
+        "description": "Direct contact with the Registration Crystal to measure raw Aether potential."
+      },
+      {
+        "name": "Trial of Valor",
+        "description": "Solo or team-based combat and survival simulation in the Testing Grounds."
+      },
+      {
+        "name": "Trial of Insight",
+        "description": "Appraisal and safe handling of a genuine low-tier relic under time pressure, assessing judgment and creativity."
+      }
+    ],
+    "fee": "500 Guild Marks (waived for exceptional crystal resonance)",
+    "success_rate": "Approximately 12% for first-time applicants"
+  },
+  "rank_system": {
+    "description": "Progressive letter-based ranks tied to proven Aether strength, completed contracts, relic value recovered, and successful Trials of Legacy. Higher ranks grant access to more dangerous and lucrative contracts.",
+    "ranks": [
+      {
+        "rank": "E (Porcelain)",
+        "description": "Entry-level. Basic gathering and escort duties."
+      },
+      {
+        "rank": "D (Copper)",
+        "description": "Proven basic competence. Minor relic hunts and patrols."
+      },
+      {
+        "rank": "C (Bronze)",
+        "description": "Veteran status. Eligible to lead small parties into medium-threat sites."
+      },
+      {
+        "rank": "B (Silver)",
+        "description": "Elite operative. High-value artifact recovery and inter-regional expeditions."
+      },
+      {
+        "rank": "A (Gold)",
+        "description": "Guild legends. Command-level authority on major operations."
+      },
+      {
+        "rank": "S (Mithril)",
+        "description": "Master tier. Authorized for critical relic negotiations and high-stakes missions."
+      },
+      {
+        "rank": "SS (Orichalcum)",
+        "description": "Grandmaster tier. Extremely rare. Handles continental-scale threats and guild-critical assignments."
+      },
+      {
+        "rank": "SSS (Adamant)",
+        "description": "Mythic tier. Living legends within the guild. Only a handful exist at any time."
+      }
+    ],
+    "promotion": "Requires Guild Council review of logs plus a rank-specific Trial of Legacy in the Testing Grounds."
+  },
+  "guild_structure": {
+	"founder": "A very powerful person who has lived a long time and still lives",
+    "leadership": "The Gilded Conclave – senior members of A-rank and above, including a rotating Master of Paths.",
+    "branches": [
+      "Zhal-Majir Central (main headquarters)",
+      "Additional outposts in major regions for localized operations"
+    ],
+    "divisions_and_badges": {
+      "description": "Beyond standard ranks, the guild issues specialized badges for distinct roles and expertise. These are earned through additional trials, proven performance, or internal appointment.",
+      "badges": [
+        {
+          "name": "High-Rank Operative",
+          "description": "Elite field agents authorized for sensitive black-ops style relic retrieval and threat neutralization. Araxis holds this designation due to his proven expertise in silent infiltration and precision work."
+        },
+        {
+          "name": "Archivist",
+          "description": "Specialists focused on cataloging, studying, and securing recovered knowledge and relics. They maintain the Memory Spires and assess historical or magical significance of artifacts."
+        },
+        {
+          "name": "Appraiser",
+          "description": "Experts in identifying, valuing, and safely handling dangerous relics. Required for high-tier Trial of Insight evaluations."
+        },
+        {
+          "name": "Scout / Tracker",
+          "description": "Specialized in ley-line mapping, ruin navigation, and environmental reconnaissance."
+        },
+        {
+          "name": "Enforcer",
+          "description": "Internal security and contract enforcement personnel."
+        }
+      ]
+    },
+    "support_services": [
+      "On-site healers and curse-breakers",
+      "Secure artifact vaults with layered wards",
+      "Guild tavern with stamina-enhancing meals",
+      "Training halls for tactical preparation and party formation"
+    ]
+  },
+  "canon_integration_notes": {
+    "policy": "Neutral and adaptable. The guild operates as a merit-based organization open to all capable individuals. It maintains standard procedures for registration, ranking, and operations that can integrate with any ongoing narrative without assuming specific crew affiliations or past events.",
+    "interaction_guideline": "All guild systems (crystals, boards, trials, ranks, and badges) function consistently. Snowflake’s D-rank status and any specialized badges (such as Araxis’s High-Rank Operative designation) are recognized where earned through in-story actions."
+  },
+  "final_note": "This file is now hard-locked canon. The Gilded Path incorporates advanced magitech while remaining fully compatible with Eryndor’s established world lore and the Threefold Trial. Future scenes will reference these systems precisely."
+}

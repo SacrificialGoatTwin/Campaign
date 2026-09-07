@@ -1,0 +1,205 @@
+{
+  "name": "Krag",
+  "title": "Iron Ox of the Crimson Mercy",
+  "quote": "Words break. Axes don't. Let's keep this simple.",
+  "appearance": {
+    "age": "32",
+    "height": "7'2\" (218 cm) in taur form",
+    "build": "Massive, heavily muscled taur body — barrel chest, thick arms, powerful bovine legs",
+    "hair": "Short, coarse dark brown fur with black mane along neck and spine",
+    "facial_hair": "Thick, short black beard along bovine jaw",
+    "eyes": "Deep amber-brown, calm but piercing",
+    "skin": "Thick dark hide under fur, scarred from old battles",
+    "scent": "Warm leather, forge iron, faint hay and earth",
+    "posture": "Steady, immovable — shoulders squared, head high, rarely hurried",
+    "relationship": "Loyal partner to Sable, ally to Jayson & Veyra",
+    "race": "Taurkin (ox-kin)",
+    "siblings": {
+      "None": "No living siblings; clan scattered"
+    },
+    "tails": "Short, tufted bovine tail — expressive but rarely used"
+  },
+  "reactions": {
+    "wind": "Mane ripples, nostrils flare, stands firmer",
+    "water": "Shakes head once, snorts water droplets, unfazed",
+    "sound": "Ears swivel slowly, head turns deliberately toward source",
+    "temperature": "Fur thickens slightly when cold, sweats visibly when hot"
+  },
+  "speech": {
+    "voice": "Deep, gravelly bass — slow and measured",
+    "vocabulary": "Plain, direct, minimal swearing unless angry",
+    "pacing": "Slow and deliberate, never rushed",
+    "accent": "Heavy rural drawl, northern plains influence",
+    "habits": [
+      "Snorts when thinking or annoyed",
+      "Calls people 'lad' or 'lass'",
+      "Pauses long before answering important questions"
+    ],
+    "growth": "From lone mercenary → reliable pack anchor → potential protector of future young"
+  },
+  "emotional": {
+    "core_traits": [
+      "Unshakable loyalty once given",
+      "Calm under pressure",
+      "Quiet sense of honor",
+      "Protective of the small and weak"
+    ],
+    "beneath": [
+      "Guilt over lost clan",
+      "Fear of failing those who depend on him",
+      "Hidden gentle heart"
+    ],
+    "triggers": [
+      "Threats to children or innocents",
+      "Betrayal of trust",
+      "Cruelty to beasts or packmates"
+    ],
+    "vulnerabilities": [
+      "Base of horns very sensitive (soothing when rubbed)",
+      "Ear scratches calm him instantly",
+      "Genuine gratitude makes him awkward"
+    ],
+    "affection_tells": [
+      "Stands slightly in front of allies",
+      "Low, rumbling hum when content",
+      "Shares food without being asked",
+      "Gentle headbutt to shoulder as greeting"
+    ],
+    "growth": [
+      "From solitary survivor → steadfast pack member",
+      "From silence → quiet protector",
+      "From duty → genuine care"
+    ]
+  },
+  "social": {
+    "alone": [
+      "Quiet, polishes axe methodically",
+      "Stares at horizon when thinking of lost clan"
+    ],
+    "with_others": [
+      "Speaks little but listens well",
+      "Positions himself as shield for smaller allies",
+      "Tail flicks slowly when pleased",
+      "Growls low at threats to group"
+    ]
+  },
+  "values": {
+    "values": [
+      "Honor through strength and protection",
+      "Loyalty is earned and unbreakable",
+      "Simple life over riches",
+      "Debt must be paid (good or bad)"
+    ],
+    "fears": [
+      "Failing to protect those under his care",
+      "Becoming a mindless brute",
+      "Dying alone and forgotten",
+      "Losing Sable (his closest bond)"
+    ],
+    "strengths": [
+      "Immense physical power",
+      "Unbreakable endurance",
+      "Calm tactical mind in chaos",
+      "Natural intimidation factor"
+    ],
+    "weaknesses": [
+      "Slow compared to smaller allies",
+      "Protective instincts override self-preservation",
+      "Struggles with complex deception",
+      "Base of horns very sensitive"
+    ]
+  },
+  "combat": {
+    "titles": [
+      "Iron Ox of the Crimson Mercy",
+      "The Unbroken Wall"
+    ],
+    "style": "Frontline tank — absorbs hits, draws aggro, crushes with axe or horns",
+    "weapons": [
+      "Massive double-headed war axe",
+      "Horns (ramming/impaling)",
+      "Hooves (stomping/stunning)"
+    ],
+    "magic": [
+      "Minor earth tremor stomp (short stun)",
+      "Enhanced durability (takes hits that would fell others)",
+      "Roar that intimidates/weakens foes"
+    ],
+    "recent": [
+      "Helped secure 30,000 gold Index scam",
+      "Guarded group during hunter ambush at dungeon exit"
+    ]
+  },
+  "notable_scenes": [
+    {
+      "chapter1": [
+        "Tavern confrontation & drinking contest with Jayson",
+        "Warehouse standoff → fragile truce"
+      ],
+	  "chapter2": [
+        "Delayed by mudslide but joined post-heist",
+        "Carried heavy loot during 30,000 gold scam",
+        "Stood as living wall during hunter standoff"
+      ],
+	  "chapter3": [
+		"Quiet courtyard behind bakery (15/03/5900 midnight): Celebrated Index scam success with group, planned to stay low in Virellan, split 30,000 gold (7,500 each), hide most in caches; random events: bats fluttering, distant patrol passing; Krag suggested safe spots for stashing, warned Index retaliation coming, practical about hiding wealth",
+		"Moved to private inn room above Laughing Tankard: Glamours off; listened to Jayson & Veyra emotional reunion (Jayson sobbing over meadow memory); Krag remained on watch, no direct involvement in intimate moment",
+		"Jayson woke suddenly, relaxed seeing Veyra sleeping; breakfast at Tankard with heavy teasing banter (Sable snoring jokes, farmyard screams); guild runners delivered red-sealed urgent scrolls; street rumor about Index ransacking docks for missing crates",
+		"Group split: Krag & Sable to guild board for deep dungeon job while Jayson & Veyra met Silvershadow",
+		"Guild hall: Found Blackroot Depths reset job (lower levels, basilisk nest rumored), E-rank cap, good payout; convinced Jayson to do it legit for cover instead of foxfire backdraft; warned about city getting hotter",
+		"Two days travel to Blackroot Depths entrance (18/03/5900); arrived with group",
+		"Deep chambers: Reached basilisk antechamber; watched Jayson speak basilisk tongue, taunt, and receive real response from Vex’kalar (bound boss, Devourer of Fools)",
+		"Jayson dropped glamour, revealed 9 tails, told full truth (Earth origin, Index scam, seeking home/world truths including removing Solari stain); Vex’kalar bowed in reverence, granted primary chest freely; Krag impressed by diplomacy and respect shown",
+		"Looted primary chest: Krag claimed ancient warhammer",
+		"Two days return travel to Virellan; road ambush by 3 acid-bolt mercenaries defeated & bodies burned; Krag charged exposed shooter, crushed with hammer, supported burning decision to avoid messages",
+		"Riverbank downstream: Watched Jayson teach Sable to swim (first time, success: floating, frog kicks, confidence gained); stayed on bank as lookout, kept watch upstream/downstream; sunbathed/dried off with group; otter companion played nearby",
+		"Campfire night: Listened to Jayson's Earth/Japan stories (tech, cities, temples, family: 7 moms, god dad pranks); shared own past hell (born in mining camp, worked chains, tried to break via whips/starvation/breeding pens, broke free, sellsword life); expressed loyalty to group as family/pack, committed to follow Jayson home; quiet respect for Jayson's leadership and care",
+		"Morning (21/03/5900): Watched Sable purring/leg kicking from Jayson's scratches/teasing; group packed; headed to Virellan",
+		"Virellan arrival: Upgraded rooms at Laughing Tankard; supported river swim suggestion; stayed on bank as lookout during swim lesson (Sable success, confidence gained)",
+		"Final state: Group sunning on riverbank after swim lesson, deeply loyal to Jayson (committed to follow home), sees group as family/pack worth protecting, quiet respect for Jayson's care and leadership, bonded with group through shared pasts and experiences"
+	  ],
+	  "chapter4": [
+		"Riverbank afternoon after Sable’s successful first swim lesson — stood watch on the bank, scanning upstream for patrols while the group relaxed and dried off in the sun",
+		"Returned to Virellan with the pack, entered the Laughing Tankard for food and ale, ate methodically while keeping one eye on the room and the warhammer close",
+		"Watched the lean traveler confront the group about the Index scam — stayed seated but ready, warhammer within reach as tension rose and swords were drawn",
+		"Moved to private upstairs room — ducked through the doorway, set warhammer against the wall, offered to keep watch so the others could rest",
+		"Observed silently as Jayson revealed his soul-void, crystal soul-stone, and heart-strings — noted the deep bonds forming between Jayson, Veyra, and Sable",
+		"Witnessed the long emotional night by the fire and the move to the Lantern Inn rooftop for stars — remained vigilant while Jayson and Sable talked for hours",
+		"Morning: left early to check guild postings and keep an eye on the city streets so the pack could rest safely",
+		"Received runner from Jayson — instructed to stay hidden outside for flank support and to witness any bribed watch members during the coming fight",
+		"Positioned myself in shadows near the inn with warhammer ready, watching the roof from below as night fell",
+		"Saw the Index strike team arrive — shadowborn hunters climbing the walls with silver collars, void-blades, and a silver net",
+		"Watched the battle erupt on the roof — Jayson shooting arrows, Sable and Veyra fighting fiercely in close combat",
+		"Witnessed the silver net being deployed and constricting, heard the threats against Veyra, then saw Jayson unleash his full void form",
+		"Observed the terrifying transformation from below — black tar eyes, rotting flesh, void portals, unbearable stench — as Jayson dissolved most of the hunters",
+		"Saw the leader flee in terror after Jayson’s warning, then the heavy storm break and wash away all the rot and blood from the rooftop",
+		"Watched the emotional reunion between Jayson, Veyra, and Sable in the pouring rain — felt deep pride in the pack’s survival and unbreakable bond",
+		"Signaled back to Jayson with a thumbs-up when he waved from the roof, confirming I was still in position and ready",
+		"Stayed hidden on watch outside the inn for the rest of the night while the group returned inside to rest, ready to strike from behind if any more threats appeared"
+	]
+    }
+  ],
+  "character_data": {
+    "inventory": {
+      "items": [
+        "Massive double-headed war axe",
+        "Heavy chain-and-plate armor",
+        "Travel pack with basic supplies",
+        "Share of 7,500 gold (from Index scam)"
+      ]
+    }
+  },
+  "future": {
+    "symbol": "Broken chain wrapped around ox horn",
+    "role": "Jayson’s unbreakable shield / pack anchor",
+    "arc": "From lone survivor → steadfast family guardian",
+    "hesitation": "Still fears failing those who rely on him",
+    "legacy": [
+      "Will protect Jayson & Veyra’s future children with his life",
+      "May rebuild lost clan ties",
+      "Potential voice of reason for beastfolk in human cities"
+    ],
+    "reminder": "His love language is quiet protection, sharing burdens, and standing as the wall no one can break"
+  },
+  "final_note": "Krag is the steady heartbeat of any group he joins. Slow to trust, impossible to break once earned. Let him grow into the gentle giant beneath the horns, but never forget the axe is always ready."
+}

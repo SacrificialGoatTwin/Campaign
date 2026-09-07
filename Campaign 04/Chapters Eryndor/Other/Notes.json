@@ -1,0 +1,286 @@
+{
+  "locations": [
+    {
+      "name": "Harrowfen",
+      "notes": "Human city with Beastfolk district."
+    },
+    {
+      "name": "Watchtower Orchard",
+      "notes": "2 hours north of Harrowfen."
+    },
+    {
+      "name": "Riverford Waystation",
+      "notes": "5 hours north from Harrowfen before the north bends."
+    },
+    {
+      "name": "Westbridge",
+      "notes": ""
+    }
+  ],
+  "creatures": [
+    {
+      "name": "Listeners",
+      "notes": "Blind; hunt by sound; spider-like; large; hairy; long limbs; silent; deadly."
+    },
+    {
+      "name": "Carrion crawler",
+      "notes": "Centipede-like creature."
+    }
+  ],
+  "races_and_species": [
+    {
+      "name": "Human",
+      "notes": ""
+    },
+    {
+      "name": "Vaelir",
+      "notes": "Species of demon."
+    },
+    {
+      "name": "Vampire",
+      "notes": "Nothing like the stories."
+    },
+    {
+      "name": "Watcher",
+      "notes": "Mechanical, half-biological bodies."
+    },
+    {
+      "name": "Anchors",
+      "notes": "Mechanical, half-biological bodies."
+    },
+    {
+      "name": "Sentinels",
+      "notes": "Mechanical, half-biological bodies."
+    },
+    {
+      "name": "Hinges",
+      "notes": "Mechanical, half-biological bodies."
+    },
+    {
+      "name": "Ratkin",
+      "notes": "Humanoid rat people; scavengers; refugees."
+    },
+    {
+      "name": "Gutterlings",
+      "notes": "Small, smelly goblin creatures."
+    },
+    {
+      "name": "Felari",
+      "notes": "Cat like Neko people"
+    }
+  ],
+  "guild_tasks": {
+    "chapter_1": {
+      "status": "Done",
+      "tasks": [
+        "Ratkin in the Bakery Basement",
+        "Rescue mission for the two guards saved from the Listeners",
+        "Courier run to the Watchtower Orchard",
+        "A cellar collapse in the Tanners’ Ward",
+        "Pilgrim caravan short a guard since dawn",
+        "Watchtower Orchard Lights",
+        "Escort: apothecary shipment to Westbridge",
+        "Rat-clearing in the tannery sublevels",
+        "Night watch — warehouse district, one bell",
+        "Salvage run: old culvert collapse (F-rank)",
+        "Watchtower foundations north of the reed flats",
+        "Collapsed culvert outside the old quarry"
+      ]
+    },
+    "chapter_2": {
+      "status": "Done",
+      "tasks": [
+        "Dungeon — Beginner Annex, Westbridge Barrows (Dungeon)",
+        "Courier run — River Ward to Westbridge Annex",
+        "A cellar inspection"
+      ]
+    }
+  },
+  "people": [
+    {
+      "name": "Corren",
+      "species": "Human",
+      "notes": "Traveler who guided me to civilization and helped me avoid monsters."
+    },
+    {
+      "name": "Kestrel Thorne",
+      "species": "Half Human / Half Swampfolk",
+      "notes": "C-rank adventurer; stabilizing ally."
+    },
+    {
+      "name": "Lyra Valen",
+      "species": "Vaelir",
+      "notes": "Woman displaced by spatial anomaly and left for dead."
+    },
+    {
+      "name": "Mara Valen",
+      "species": "Vaelir",
+      "notes": "Lyra’s sister; kidnapped and rescued."
+    },
+    {
+      "name": "Tomas",
+      "species": "Human",
+      "notes": "Street thief child caring for sick sister."
+    },
+    {
+      "name": "Unnamed Healer",
+      "species": "Human",
+      "notes": "Civilian healer in Harrowfen."
+    },
+    {
+      "name": "Marshal Iven Calder",
+      "species": "Human",
+      "notes": "Harrowfen Marshal."
+    },
+    {
+      "name": "Marshal Hartrow",
+      "species": "Human",
+      "notes": "Westbridge Marshal."
+    },
+    {
+      "name": "Guild Clerks & Marshals",
+      "species": "Mixed/Various",
+      "notes": "Guild staff across Harrowfen and Westbridge."
+    },
+    {
+      "name": "Vampire Woman",
+      "species": "Vampire (Pureborn)",
+      "notes": "Thief."
+    },
+    {
+      "name": "Vampire Husband",
+      "species": "Vampire (Turned from Human)",
+      "notes": ""
+    },
+    {
+      "name": "Liri",
+      "species": "Fox girl (child)",
+      "notes": "Rescued."
+    },
+    {
+      "name": "Rellin",
+      "species": "Human",
+      "notes": "Veteran adventurer."
+    },
+    {
+      "name": "Marlen Voss",
+      "species": "Human",
+      "notes": "Guild scribe; mole."
+    },
+    {
+      "name": "Irix",
+      "species": "Demon",
+      "notes": "New companion."
+    },
+    {
+      "name": "Rell",
+      "species": "Human",
+      "notes": "Scout for the university."
+    },
+    {
+      "name": "Riven",
+      "species": "Felari",
+      "notes": "New University starter"
+    },
+    {
+      "name": "Sael",
+      "species": "Felari",
+      "notes": "New University starter"
+    },
+    {
+      "name": "Aureliane - Headmistress - AKA Vaeliora Sarn",
+      "species": "Human",
+      "notes": "University Headmistress"
+    }
+  ],
+  "places": {
+    "valenhold_university": [
+      "Arcanum Universitas of Valenhold (The University / The Arcanum)",
+      "Prime Axiom (central spire / command nexus)",
+      "High Convocation Chambers",
+      "Strategic Divination Arrays",
+      "Leyline Command Engine",
+      "Faculty & Doctrine Rings",
+      "War Colleges",
+      "Deep Stacks (archive / vault complex)",
+      "Black Sublevels (restricted/rumored layers)",
+      "Axiomatic House (House precinct)",
+      "Veiled House (House precinct)",
+      "Transcendent House (House precinct)",
+      "Hall Cinder",
+      "Axiomatic Foundations lecture hall (in Hall Cinder)",
+      "Orientation briefing venue (house logistics)",
+      "House logistics briefing area",
+      "Veiled House containment & concealment seminar room (different wing)",
+      "Veiled Desk / Veiled Front Desk",
+      "Audit office (Veiled monitoring / anomaly review)",
+      "Dining Hall",
+      "Library (general stacks)",
+      "Workshop / Forge complex",
+      "Forge Bay 3",
+      "Tool rack area (forge)",
+      "Workshop check-out / exit lane (item flagging point)",
+      "Dorm Blocks (Valenhold housing)",
+      "Block F, Level 4 (suite level)",
+      "Veiled dorm corridor",
+      "Irix’s room (Veiled dorm room)",
+      "Room 12 (Kestrel)",
+      "Room 13 (Jayson)",
+      "Third Landing",
+      "Campus Gardens",
+      "Commonroom",
+      "Connector corridor (post-seminar route)",
+      "Dorm corridor lantern zone (night patrol route)",
+      "Doorframe ward seam / latch wardline (quiet-hours threshold wards)"
+    ],
+    "harrowfen": [
+      "Harrowfen",
+      "Ancient Forest outside Harrowfen",
+      "Harrowfen Adventurers’ Guild",
+      "Harrowfen Baker’s Cellar",
+      "Harrowfen Tanner’s Cellar",
+      "Harrowfen Clinic",
+      "Harrowfen Warehouse District",
+      "Harrowfen River Ward Inn",
+      "Harrowfen Bathhouse",
+      "Harrowfen Hidden safe room",
+      "Harrowfen Lower Market (hostile district)",
+      "Harrowfen blacksmith",
+      "Harrowfen Marketward Inn"
+    ],
+    "westbridge": [
+      "Westbridge",
+      "Westbridge Adventurers’ Guild",
+      "Westbridge Guild Branch",
+      "Westbridge Warehouse 9"
+    ],
+    "other_locations": [
+      "Watchtower Orchard outside Westbridge",
+      "Sealed Ruins (unauthorized tunnels) outside Westbridge",
+      "Quarry / Collapsed Culvert outside Westbridge",
+      "Greyreach Dungeon",
+      "Planar Rift / Thin Place",
+      "Grey-moss Depths Dungeon"
+    ]
+  },
+  "player_stats_and_items": {
+    "level": 1,
+    "rank": "F",
+    "dungeon_intent_registered": {
+      "status": "Active"
+    }
+  },
+  "threads": [
+    "Jayson’s wives remain missing but alive.",
+    "Jayson is indexed as an anomaly / threshold.",
+    "Listener exploitation points to organized research.",
+    "Vaelir persecution is systemic.",
+    "Watchers are embedded in infrastructure.",
+    "Kestrel is now entangled by proximity and knowledge.",
+    "Irix the demon is now with you",
+    "There are high up and powerful people interested in Irix"
+  ],
+  "game_notes": [
+    "You chose Spark as your first spell"    
+  ]
+}

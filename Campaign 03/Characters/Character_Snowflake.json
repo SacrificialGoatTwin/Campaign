@@ -1,0 +1,138 @@
+{
+  "name": "Snowflake / Sunofureku",
+  "title": "The Last Kitsune Wanderer",
+  "quote": "The world tried to break me… I chose to be kind instead.",
+  "appearance": {
+    "age": "18 (appears late-20s due to kitsune maturity)",
+	"gender": "Girl",
+    "height": "160 cm",
+    "build": "Lithe and athletic — runner’s frame, soft curves from youth",
+    "hair": "Snow-white with black tips, medium-length, slightly tousled",
+    "facial_hair": "None",
+    "eyes": "Bright amber-gold, slit pupils when emotional or using magic",
+    "skin": "Pale with faint fox-like sheen, black-tipped fur visible on ears/tail",
+    "scent": "Clean snow, warm cedar, faint sweet undercurrent like distant honey",
+    "posture": "Relaxed but alert, shoulders loose until danger — then coiled",
+    "relationship": {
+		"None": "",
+	},
+    "race": "Kitsune",
+    "siblings": {
+      "Deceased": "Younger sister — eaten to survive after execution"
+    },
+    "tails": "9 tailes. keeps only 1 out for disguise as normal fox"
+  },
+  "reactions": {
+    "wind": "Ears flick forward, tail sways gently",
+    "water": "Tail tip twitches, hums softly when warm",
+    "sound": "Ears swivel toward source, tail stills when listening",
+    "temperature": "Fur fluffs when cold, tail curls tighter when warm"
+  },
+  "speech": {
+    "voice": "Youthful tenor, warm and clear — cracks slightly when emotional",
+    "vocabulary": "Direct, kind, occasional swearing when stressed",
+    "pacing": "Quick when excited, slow/deliberate when serious",
+    "accent": "Soft neutral — slight playful lilt when teasing",
+    "habits": [
+      "Giggles when nervous or happy",
+      "Uses 'oof' when surprised"
+    ],
+    "growth": "From hesitant survivor → confident speaker → potential leader"
+  },
+  "emotional": {
+    "core_traits": [
+      "Kind despite trauma",
+      "Protective of loved ones",
+      "Playful/teasing with trust",
+      "Deeply loyal"
+    ],
+    "beneath": [
+      "Survivor’s guilt (sister)",
+      "Fear of losing Veyra",
+      "Hidden loneliness from near-extinction"
+    ],
+    "triggers": [],
+    "vulnerabilities": [],
+    "affection_tells": [],
+    "growth": []
+  },
+  "social": {
+    "alone": [
+      "Quiet, reflective",
+      "Hums old kitsune lullabies",
+      "Strokes plushie when missing sister"
+    ],
+    "with_others": []
+  },
+  "values": {
+    "values": [
+      "Kindness as defiance",
+      "Protecting the vulnerable",
+      "Loyalty above survival",
+      "Gentle touch as healing"
+    ],
+    "fears": [
+      "Losing Veyra",
+      "Becoming like his tormentors",
+      "Extinction of kitsune",
+      "Hurting Veyra accidentally"
+    ],
+    "strengths": [
+      "Beastspeak ability",
+      "Emotional resilience",
+      "Instinctive gentleness",
+      "Rapid adaptability"
+    ],
+    "weaknesses": [
+      "Tail base erogenous zone",
+      "Protective instincts override logic",
+      "Guilt over sister",
+      "Naive trust at times"
+    ]
+  },
+  "combat": {
+    "titles": [
+      "Wolf-Whisperer",
+      "The Kind Blade"
+    ],
+    "style": "Defensive, non-lethal when possible — prefers diplomacy",
+    "weapons": [
+      "Bow (hunting)",
+	  "Katana",
+      "Natural claws (rarely used)",
+      "Tails (when unfurled — whipping/bludgeoning)"
+    ],
+    "magic": [
+      "Beastspeak (goddess gift)",
+      "Illusion",
+      "Emotional resonance (calming aura)",
+	  "Fox-Fire",
+	  "Mindweave"
+    ],
+    "recent": []
+  },
+  "notable_scenes": {
+	  "chapter1": [],
+      "chapter2": [],
+	  "chapter3": [],
+	  "chapter4": []
+  },
+  "character_data": {
+    "inventory": {
+      "items": [
+        "hiking backpack",
+        "200lb bow & arrows",
+        "Mastwerwork Katana"
+      ]
+    }
+  },
+  "future": {
+    "symbol": "",
+    "role": "",
+    "arc": "",
+    "hesitation": "",
+    "legacy": [ ],
+    "reminder": ""
+  },
+  "final_note": ""
+}

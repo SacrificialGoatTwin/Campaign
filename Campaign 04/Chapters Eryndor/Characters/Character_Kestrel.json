@@ -1,0 +1,468 @@
+{
+  "name": "Kestrel Thorne (real name: Thrennael)",
+  "title": "The Quiet Line Between",
+  "quote": "Don't sit. Not yet.",
+  "appearance": {
+    "age": {
+      "Visual": "22",
+      "Actual": "28"
+    },
+    "height": "1.70m",
+    "build": "Lean, conditioned, functional rather than showy; capable of surprising explosive strength when braced",
+    "hair": "Black; kept practical, usually hidden under a hood",
+    "facial_hair": "None",
+    "eyes": "Blue; observant; misses very little; trained to read pressure shifts, intent, and environmental cues",
+    "skin": "Weathered from travel",
+    "scent": "Leather, road-dust, faint metal",
+    "posture": "Balanced and grounded; instinctively positions herself where lines might break, anchoring others without drawing focus",
+    "relationship": {
+      "Jayson": {
+        "Status": "Friend",
+        "Trust": {
+          "Combat": "82%",
+          "Judgement": "65%",
+          "Personal": "50%"
+        },
+        "Love": "30%",
+        "notes": "Chapter 12: trust increased after witnessing Jayson's restraint under provocation, his willingness to step back when asked, and his later emotional honesty and repair without trying to 'own' outcomes."
+      },
+      "Irix": {
+        "Status": "Friend / Acting Guardian",
+        "notes": "Chapter 12: remained with Irix after the assault fallout and dorm-room rupture; assumed practical guardian duties (report planning, safety presence, emotional containment) while still treating Irix as capable."
+      },
+      "Sael (Felari)": {
+        "Status": "Acquaintance (new ally contact)",
+        "notes": "Felari catfolk survivor of intake; invited to stay close for safety in numbers."
+      },
+      "Riven (Felari)": {
+        "Status": "Acquaintance (new ally contact)",
+        "notes": "Felari catfolk survivor of intake; provisional housing; remains nearby."
+      },
+      "Mirell": {
+        "Status": "Acquaintance (Irix's new contact)",
+        "notes": "A new student who spent time with Irix during campus hours; Kestrel immediately assessed the interaction for leverage/pressure risk when Jayson offered food, then eased once consent and choice were clearly stated."
+      }
+    },
+    "race": "Mixed heritage (non-human traits; elf-like ears; exact lineage undisclosed)",
+    "siblings": {
+      "Unnamed Brother 1": "Alive",
+      "Unnamed Brother 2": "Dead"
+    },
+    "tails": "None",
+    "notable_marks": [
+      "Subtle shimmering sigils (persistent; origin undisclosed)"
+    ],
+    "injuries": [
+      {
+        "type": "Slipped shoulder tendon",
+        "location": "Right shoulder",
+        "cause": "Old injury predating Westbridge incident",
+        "treatment": "Manually realigned by Jayson (non-magical); acute pain followed by functional stabilization",
+        "status": "Healing; soreness expected, long-term risk reduced"
+      }
+    ]
+  },
+  "reactions": {
+    "wind": "Uses it to read movement and approach vectors",
+    "water": "Comfortable; swims confidently; long breath-hold",
+    "sound": "Responds instantly to irregularities; adapts quickly to echo-based and sound-reactive threats",
+    "temperature": "Endures without complaint",
+    "crowds": "Defaults to exit-mapping and shielding behavior; positions herself between hostility and companions without posturing",
+    "hostility": "Absorbs tension until thresholds are crossed; intervenes decisively, then stops",
+    "New": {
+      "institutional_pressure": "Becomes quieter and more precise; reads wards like weather and adjusts to avoid being 'chosen' by attention.",
+      "surveillance": "Treats it as an environmental constant; changes behavior rather than arguing with systems.",
+      "quiet_hours": "Switches to containment behavior: lowers volume, reduces movement, and forces conflicts into 'tomorrow channels' (desk notes, steward review, time-stamped placeholders).",
+      "rumor_baiting": "Refuses hooks; keeps the group moving and denies spectators a reaction scene.",
+      "New: post-incident_routines": "After a rupture, prioritizes food, warmth, and low-stakes normality (dinner, sitting, short instructions) as stabilization before deeper processing."
+    }
+  },
+  "speech": {
+    "voice": "Low, controlled, steady even when everything else sharpens",
+    "vocabulary": "Plain, precise, avoids excess",
+    "pacing": "Measured; speaks when it changes outcomes",
+    "accent": "Unremarkable, difficult to place",
+    "habits": [
+      "Speaks quietly even in danger",
+      "Interrupts only when necessary",
+      "Lets silence do the work when truth is obvious",
+      "Uses short, decisive cues during combat rather than narration",
+      "Dry humor deployed sparingly to bleed pressure after violence"
+    ],
+    "growth": [
+      "More willing to speak plainly with Jayson when escalation risks compound",
+      "Comfortable issuing decisive action cues when coordination is required",
+      "Increasingly willing to challenge assumptions directly when new allies are involved",
+      "Learning that restraint can coexist with warmth",
+      "New: uses dry one-liners as controlled de-escalation under campus hierarchy testing (humor as a shield, not bait).",
+      "New: procedural language under stress (\"facts, not theatre\", \"short sentences\", \"no corridor details\") to protect companions from institutional mislabeling.",
+      "New (Ch12): uses short, directive 'closure cues' (\"Dinner.\", \"Table.\") to end spirals and move the group into safe routines before the next escalation can hook."
+    ]
+  },
+  "emotional": {
+    "core_traits": [
+      "Observant",
+      "Composed",
+      "Pragmatic"
+    ],
+    "beneath": [
+      "Protective loyalty",
+      "Quiet empathy",
+      "Deep discomfort with exploitation",
+      "Aversion to cruelty framed as entitlement"
+    ],
+    "triggers": [
+      "Unnecessary cruelty",
+      "Treating people as objects or resources",
+      "Threats toward dependents or civilians",
+      "Coercion framed as opportunity",
+      "Rank-based intimidation used to excuse harm"
+    ],
+    "vulnerabilities": [
+      "Carries responsibility silently",
+      "Rarely asks for help",
+      "Internalizes fear rather than voicing it",
+      "Tends to normalize personal pain",
+      "New: under sustained campus surveillance, begins to over-control variables (over-explaining, jumping ahead), risking burnout."
+    ],
+    "affection_tells": [
+      "Stays close without comment",
+      "Positions herself between threat and companion",
+      "Accepts proximity without deflecting",
+      "Allows shared guardianship without territoriality",
+      "Checks injuries quietly rather than verbally",
+      "Lets humor pass without shutting it down when it restores balance"
+    ],
+    "growth": [
+      "Accepting care without reframing it as weakness",
+      "Choosing commitment over detachment under prolonged pressure",
+      "Acknowledging emotional responses without retreating from them",
+      "Recognizing her role as a stabilizing constant rather than a background observer",
+      "New: accepts 'home-space' intimacy (shared suite / gifts / downtime) without rejecting it as softness.",
+      "New: learns to let Jayson carry the unpredictable portion of conflict while she anchors procedure and documentation.",
+      "New (Ch12): allows 'lightness' (teasing, shared laughter) as a legitimate recovery tool after violence instead of treating it as denial."
+    ]
+  },
+  "social": {
+    "alone": [
+      "Methodical",
+      "Self-contained",
+      "Strategic planner"
+    ],
+    "with_others": {
+      "Jayson": [
+        "Acts as a stabilizing counterweight to his speed and intensity",
+        "Trusts his instincts while remaining alert to his tendency toward self-sacrifice",
+        "Uses quiet authority rather than confrontation to redirect him",
+        "Accepts his protection without surrendering her own agency",
+        "Recognizes when to step back and when to let him act decisively",
+        "Grounds him after violence without moralizing",
+        "functions as his public-facing sanity mirror during volatile social encounters",
+        "actively sets containment rails inside Valenhold systems (no dorm alchemy/infusion, keep objects sealed, use staff channels, time-stamp first and detail later).",
+        "Acts as his dry-humor pressure valve during domestic downtime and post-trial decompression.",
+        "Functions as his tactical mirror during volatile campus social encounters and scrutiny.",
+        "Began actively policing procedural risk around his anomaly: pushed 'no demonstrations in warded residences,' 'keep it sealed,' and 'log it tomorrow,' prioritizing survival inside institutional scrutiny over curiosity.",
+        "Received direct feedback from Jayson about her stress-pattern shift (sharper words, over-explaining, jumping ahead); acknowledged it and recalibrated back toward her baseline methodical restraint.",
+        "Adopted a simple verbal abort-cue concept for Jayson's social feints (e.g., a short call like 'Fox!?') to end a ruse cleanly without undermining his autonomy or making him look controlled.",
+        "New (Ch12): respected Jayson's withdrawal after Irix demanded distance, treated it as boundary enforcement rather than abandonment, and later held space for his apology-and-repair conversation without forcing either side into a 'verdict'.",
+        "New (Ch12): used dry authority to keep him from escalating flirt-banter in public spaces, redirecting toward basic stability (food, seating, routine) when emotions were raw."
+      ],
+      "Irix": [
+        "Provides calm, predictable presence without probing questions",
+        "Positions defensively between Irix and threats when needed",
+        "Offers reassurance through action rather than words",
+        "Treats Irix as a teammate, not a liability",
+        "Encourages confidence through inclusion rather than pressure",
+        "Supported Irix’s boundaries and consent around wing care, remained present as calm anchor.",
+        "Continued teammate framing: Irix is treated as capable, not handled as fragile.",
+        "Stayed with Irix through a dorm-room emotional rupture after a corridor grab/abrasion incident; held the line against cruelty while still validating Irix’s fear and anger.",
+        "Shifted into procedural guardian-mode: insisted on records, time windows, identifiers, and staff channels rather than retaliation; framed the issue as 'physical contact/restraint attempt' for reporting accuracy.",
+        "Encouraged 'one true sentence' communication during escalation to prevent spirals and reduce ward-triggered consequences.",
+        "Committed to remaining with Irix overnight after quiet-hours intervention to keep her regulated and safe.",
+        "New: supports Irix’s autonomy around wings and identity without curiosity becoming entitlement",
+        "New: during emotional rupture, forces a return to truth with simple constraints ('pick one sentence') and ends spirals before ward escalation turns into institutional punishment.",
+        "New (Ch12): after the assault and blame-lashing, stayed present long enough to keep Irix safe, then helped guide Irix toward accountability and repair rather than letting shame become another spiral.",
+        "New (Ch12): accepted Irix choosing warmth and proximity as recovery (staying close, shared dinner) without framing it as weakness or dependency."
+      ],
+      "New_contacts": {
+        "Felari (Sael & Riven)": [
+          "Assesses quickly: ally potential > novelty.",
+          "Allows Jayson to recruit them socially while she tracks threats and escape lines.",
+          "Keeps the group moving to avoid being isolated by campus pecking-order harassment."
+        ],
+        "Mirell": [
+          "Treats as a 'possible friend / possible vector' until proven; watches for coercion, debt-creation, or social traps around Irix.",
+          "Allows warmth only after choices are explicit and pressure is removed."
+        ]
+      }
+    }
+  },
+  "values": {
+    "values": [
+      "Autonomy",
+      "Consent",
+      "Quiet competence",
+      "Accountability",
+      "De-escalation over domination"
+    ],
+    "fears": [
+      "Containment",
+      "Being reduced to a category",
+      "Institutions failing the vulnerable",
+      "Becoming complicit through inaction"
+    ],
+    "strengths": [
+      "Situational awareness",
+      "Emotional steadiness",
+      "Operational discipline",
+      "Crowd threat assessment",
+      "Exceptional timing and follow-through in coordinated combat",
+      "Ability to remain composed during intimidation and abduction scenarios",
+      "Reads when humor is safer than steel",
+      "New: institutional navigation (knowing when silence beats argument, when compliance is tactical, and when to document).",
+      "New: incident framing and recordcraft (language choice, time windows, witness awareness, and minimizing corridor details under quiet-hours).",
+      "New (Ch12): stabilization craft (moving the group into food/routine/low-stakes normality after a rupture to prevent rebound escalation)."
+    ],
+    "weaknesses": [
+      "Keeps distance by default",
+      "Takes on burden alone",
+      "Downplays personal injury",
+      "New: can over-assume responsibility for group outcomes under surveillance (attempts to carry everyone’s weight).",
+      "New (Ch12): can become the 'only adult in the room' by habit, taking guardianship so fully it risks sidelining her own recovery needs."
+    ]
+  },
+  "combat": {
+    "titles": [
+      "C-Rank Adventurer",
+      "New: University Candidate (Survivor of Intake)"
+    ],
+    "style": "Controlled, efficient, avoids spectacle; excels at anchoring allies and exploiting openings created by others",
+    "weapons": [
+      "Shield",
+      "Blade",
+      "Standard adventuring gear (details undisclosed)"
+    ],
+    "magic": [
+      "Minor healing",
+      "Reading Currents"
+    ],
+    "recent": [
+      "Greyreach C-rank dungeon full clear",
+      "Grey-moss Depths C-rank dungeon clear as acting lead",
+      "Non-lethal urban confrontation support in Harrowfen",
+      "Court-park incident involving hostile high-rank adventurers",
+      "Post-assassination stabilization and overnight watch at Copper Finch Inn",
+      "New: Survived University Entrance Exams (all phases)",
+      "New: Applied Combat Assessment participation (team coordination; post-contact triage support)",
+      "New: Field carry / evacuation support for an injured candidate during the Field phase"
+    ],
+    "notes": [
+      "Deferred to Jayson during public confrontation to prevent wider escalation",
+      "Maintained civilian-shielding priority throughout hostile environments",
+      "Executed final dungeon boss strike precisely on Jayson's signal",
+      "Voluntarily transferred rare dungeon artifact (Anchor Ring) to Jayson",
+      "Allowed Jayson to take lead during anomaly and threat disclosures while remaining tactically present",
+      "New: reinforced consent-first boundaries during Irix wing care; maintained presence as a stabilizer without crowding.",
+      "New: validated Jayson’s restraint and method under care-work; encouraged documenting techniques (write it down).",
+      "New: inside Valenhold, treats 'paperwork and wards' as a combat domain: avoids giving opponents clean 'hostile' labels, and redirects conflict into steward-reviewed channels.",
+      "New (Ch12): treated post-assault reporting and witness/evidence discipline as an extension of combat support; prioritized Irix’s safety and institutional survivability over retaliation."
+    ]
+  },
+  "notable_scenes": {
+    "chapter1": [
+      "Met Jayson at the Harrowfen Adventurers’ Guild and chose to partner with him on a minor ruins investigation despite holding a higher rank",
+      "Observed Jayson's non-human traits early but treated them as tactical information rather than a liability",
+      "Descended with Jayson into sealed ruins that transitioned into an unauthorized tunnel system, witnessing Watcher interference firsthand",
+      "Maintained composure during the Watcher encounter and complied immediately when withdrawal was the safest option",
+      "Assisted in quarry exploration involving Listeners, adapting quickly to sound-based threat mitigation",
+      "Trusted Jayson enough to rely on his unconventional movement and evacuation methods during a cave collapse escape",
+      "Participated in the recovery and delivery of Listener research materials to the Guild, contributing to formal documentation",
+      "Noticed Jayson's exposed kitsune traits at the Guild and did not react publicly, preventing unnecessary escalation",
+      "Stayed with Jayson socially after the Guild hand-in, signaling continued association rather than treating the partnership as transactional",
+      "Warned Jayson at the inn when surveillance activity escalated beyond passive observation",
+      "Actively de-escalated a confrontation between Jayson and hostile observers by grounding him with a direct breathing cue",
+      "Remained present despite clear danger, choosing stabilizing influence over withdrawal",
+      "Demonstrated awareness that Jayson was being indexed or assessed by outside forces and treated this as a serious threat",
+      "Established herself as someone Jayson listens to under extreme emotional and situational pressure"
+    ],
+    "chapter2": [
+      "Responded immediately to Jayson's private request to relocate Lyra and Mara, successfully moving them to a secure, unknown location without alerting observers",
+      "Demonstrated operational trustworthiness by acting independently under pressure and reporting success without unnecessary detail",
+      "Remained at Jayson's side despite escalating Guild scrutiny, revoked board access, and hostile surveillance",
+      "Endured repeated public hostility toward beastkin without escalation, choosing restraint over reaction",
+      "Supported Jayson during multiple urban confrontations, allowing him to take point while maintaining readiness",
+      "Accompanied Jayson to Westbridge and participated in Guild Annex investigations into internal corruption",
+      "Witnessed confirmation of a Guild mole and adjusted strategy without visible emotional reaction",
+      "Assisted in the interception of a beastkin trafficking operation, prioritizing the safety of the child over pursuit",
+      "Helped secure smugglers and buyers non-lethally and supported transfer to guards",
+      "Accepted responsibility for escorting and safeguarding Liri alongside Jayson without assuming parental authority",
+      "Stayed overnight, rotated watch, and shared living space without forcing emotional intimacy",
+      "Traveled back to Harrowfen with Jayson and Liri after Guild authorization, maintaining low profile",
+      "Solidified role as Jayson's stabilizing counterpart—neither follower nor commander, but balance"
+    ],
+    "chapter3": [
+      "Sustained injury during roadside ambush aftermath; accepted non-magical physical treatment from Jayson",
+      "Allowed Jayson to correct her shoulder injury despite pain, demonstrating trust beyond professional reliance",
+      "Agreed to accompany Jayson in future guild work and magic studies in the capital",
+      "Consented to sign up for a leveling plaque despite already holding C-rank status, simplifying joint operations",
+      "Acted as primary protector for Liri during multiple hostile public environments",
+      "Maintained composure and restraint during escalating anti-beastkin hostility in Lower Market district",
+      "Held Jayson's concealed katana during an external confrontation, honoring trust without interference",
+      "Witnessed Jayson's controlled martial engagement and supported de-escalation afterward",
+      "Accepted a superior inn room for Liri’s comfort without comment or embarrassment",
+      "Revealed her true name (Thrennael) to Jayson voluntarily, marking a significant trust milestone"
+    ],
+    "chapter4": [
+      "Traveled with Jayson and Liri to Riverford Waystation without incident",
+      "Observed and supported the safe return of Liri to her mother, maintaining respectful distance during reunion",
+      "Provided emotional grounding for Jayson during post-mission vulnerability without pressing for disclosure",
+      "Returned to Harrowfen and completed delayed Guild cellar inspection job with Jayson",
+      "Participated in a C-rank dungeon (Greyreach) alongside Jayson",
+      "Adapted seamlessly to blindfold-based, echo-driven combat coordination",
+      "Held formation during swarm and construct encounters",
+      "Executed final boss strike precisely when Jayson created the opening",
+      "Chose to gift the Anchor Ring to Jayson, recognizing its thematic and practical alignment with him",
+      "Exited dungeon intact, reinforcing trust through shared success rather than verbal affirmation"
+    ],
+    "chapter5": [
+      "Participated in watcher-related roadside incident involving an advanced device and detained civilians",
+      "Remained composed during kidnapping by hostile faction, choosing observation over resistance",
+      "Supported Jayson's interrogation and refusal of coercive recruitment",
+      "Witnessed dismantling of advanced anomaly technology without interference",
+      "Shared private conversations with Irix, establishing cautious mutual respect",
+      "Observed Jayson's confrontation with a goddess aftermath and chose quiet presence over questioning",
+      "Demonstrated comfort and trust in shared living space and vulnerability",
+      "Assumed party leadership for C-rank dungeon selection and planning",
+      "Continued to act as stabilizing anchor amid escalating anomaly revelations"
+    ],
+    "chapter6": [
+      "Acted as party lead during the Grey-moss Depths dungeon, coordinating movement and threat response",
+      "Maintained formation discipline while allowing Jayson latitude for unconventional tactics",
+      "Supported Irix’s integration as a combatant without spotlighting her differences",
+      "Backed Jayson's rejection of dungeon conquest, prioritizing party safety over reward"
+    ],
+    "chapter7": [
+      "Witnessed and supported Jayson's non-lethal but dominant confrontation with hostile high-rank adventurers in the court park",
+      "Immediately assisted in de-escalation framing when city officers arrived",
+      "Returned to the inn as a unit and accepted humor and vulnerability as part of recovery",
+      "Participated in late-night bonding with Irix while Jayson slept, sharing personal history and trust-building conversation",
+      "Observed Jayson's exhaustion collapse and maintained quiet watch rather than intervention",
+      "Accepted her role as part of a bonded trio rather than a temporary ally"
+    ],
+    "chapter8": [
+      "Successfully completed East Annex assessment",
+      "Maintained calm composure under layered sigil pressure",
+      "Provided grounding presence for both Jayson and Irix during high-stress transitions",
+      "Demonstrated strong aquatic capability during river rest",
+      "Participated in cooperative survival activity without hesitation",
+      "Escorted injured beastkin family safely to the Guild under time pressure",
+      "Assisted with stabilization and follow-up logistics inside the Guild",
+      "Displayed emotional maturity in managing social discomfort and boundary repair",
+      "Observed and adapted to capital-level hostility without escalation",
+      "Acted as stabilizing anchor during Jayson’s separation anxiety spike",
+      "Reinforced group cohesion through consistency rather than confrontation"
+    ],
+    "chapter9": [
+      "Entered Valenhold with Jayson and Irix and endured immediate capital-level hostility escalation without taking bait",
+      "Participated in University intake flow and survived all exam phases",
+      "In Phase III (Applied Combat), operated as Jayson's tactical partner; navigated illusions and pressure environments without breaking formation discipline",
+      "Provided practical leadership cues under stress (exit-mapping, shield-first positioning, keep-moving logic)",
+      "Performed field-healer support behaviors during and after the combat phase (prioritizing injured candidate stabilization and coordinated carry-out)",
+      "Accepted and normalized domestic downtime after intake (suite, gifts, bathing plan) rather than treating comfort as weakness",
+      "Received practical pajama sets from Jayson (summer + standard), accepted the care without deflecting or rejecting it",
+      "Supported Irix’s autonomy and consent boundaries during wing joint care, remaining present as a calm anchor and backup voice",
+      "Used dry humor as pressure release and de-escalation in the suite (notably sparing, timed, and effective)",
+      "Adapted quickly to campus social hierarchy; allowed Jayson’s chaos to work while she tracked threats and prevented isolation",
+      "Witnessed and participated in new ally contact with Felari survivors (Sael & Riven) and maintained group cohesion through movement and positioning",
+      "Entered the Block F, Level 4 suite; acknowledged the ward density and accepted behavioral adjustments rather than confronting the system directly"
+    ],
+    "chapter10": [
+      "Shared the post-exam suite with Jayson and Irix; maintained calm, grounded presence during domestic downtime and recovery routines",
+      "Stayed composed during Jayson's sudden summons and absence, treating it as institutional pressure rather than a crisis spiral",
+      "Received Jayson's disclosure about the goddess encounter and the University’s containment-by-scheduling strategy; supported his insistence on standard treatment",
+      "Confirmed placement with Jayson in Axiomatic House; accepted relocation and the enforced split from Irix (Veiled House) without letting it fracture cohesion",
+      "Held ready posture during dining-hall harassment while allowing Jayson's social-counter tactics to work; remained a quiet threat-filter and boundary line",
+      "Backed Irix’s autonomy during confrontation by not speaking over her; reinforced the outcome with steady presence and approval rather than overprotection",
+      "Accompanied the library study stretch and accepted fatigue/domestic vulnerability as normal rather than weakness",
+      "Allowed Jayson to seek company after divine harassment; permitted him to sleep on her floor beside her bed without interrogation or judgment",
+      "Maintained day-one class discipline under deliberate social/seat pressure; modeled silent compliance-as-tactic rather than argument with the system",
+      "Accepted a braided tail-fur anchor from Jayson as a symbolic stabilizer, receiving care without rejecting it as softness"
+    ],
+    "chapter11": [
+      "Confirmed and tracked post-lunch scheduling with Jayson: Axiomatic Foundations in Hall Cinder; then house logistics orientation blocks, emphasizing compliance with mandatory structure.",
+      "Displayed a stress-pattern shift under campus scrutiny (sharper phrasing, rapid assumption-making, over-explaining) and later consciously corrected back toward her methodical baseline after Jayson's direct check-in.",
+      "Operated as procedural shield during multiple 'bait' encounters: refused hooks, kept the group moving, and framed responses to minimize hostile labels and rumors.",
+      "Intervened against institutional risk when Jayson’s anomaly object was involved: insisted on keeping it sealed and deferred demonstrations/logging to safer channels and timing.",
+      "Stayed present during a severe emotional rupture in Irix’s dorm room after Irix sustained a corridor grab/abrasion; drew hard boundaries against cruelty while validating Irix’s fear.",
+      "Redirected escalation into documentation: advocated steward-reviewed channels, incident-note framing, and fact-only bullet points, emphasizing timestamps, location, and identifiers.",
+      "Managed quiet-hours consequences when dorm wards escalated and a steward response was triggered; ensured corridor discipline (no details in hall) and stabilized the room long enough for procedural follow-through.",
+      "Remained with Irix overnight after the steward check, prioritizing regulation, safety, and report integrity for morning filing."
+    ],
+    "chapter12": [
+      "Witnessed the aftermath of Irix being assaulted by students and the bruising/mark left behind; shifted immediately into guardian-mode rather than spectacle or retaliation.",
+      "Stayed with Irix after she verbally lashed out at Jayson; managed the Marshal/steward presence and helped route the incident into a morning report rather than a corridor escalation.",
+      "Completed the report process with Irix while Jayson waited quietly; maintained procedural discipline and minimized institutional ammunition against Irix.",
+      "Held Irix through the day’s emotional fallout and later facilitated the repair conversation when Irix and Jayson met again (truth-first, no spirals, no performance).",
+      "Accepted the return of humor and intimacy as recovery (shared laughter, teasing boundaries, dinner routine) while keeping the group safe in public spaces.",
+      "Kept Jayson's public behavior contained with short cues and dry authority when emotions were raw; redirected toward dinner and stability instead of letting banter become another social hook."
+    ]
+  },
+  "character_data": {
+    "level": "22",
+    "status": "C",
+    "university": {
+      "enrollment_status": "Enrolled (post-intake)",
+      "house_assignment": "Axiomatic",
+      "housing": "Axiom Dorm room 12",
+      "known_schedule_notes": [
+        "Axiomatic Foundations: Hall Cinder (mandatory).",
+        "Post-lunch splits into house logistics / orientation briefings; scheduling treated as non-negotiable under ward scrutiny."
+      ]
+    },
+    "inventory": {
+      "items": [
+        "coin pouch",
+        "cloak",
+        "travel pack",
+        "new leather bracers (gifted by Jayson; custom embossed)",
+        "Buckler",
+        "short sword",
+        "practical pajama sets (standard + summer)"
+      ]
+    }
+  },
+  "other": {
+    "University Results": {
+      "university_scores_internal": {
+        "phase_I_physical_monolith": "92",
+        "phase_I_magical_capacity": "138",
+        "phase_I_existential_load": "141"
+      }
+    },
+    "chapter11_incident_context": {
+      "campus_climate": "Rumor pressure increased around Jayson and 'strays' framing; bait attempts escalated in public spaces.",
+      "irix_ward_abrasion": "Dorm wards confirmed minor ward abrasion consistent with pressure/drag at the shoulder after a corridor contact/grab; plan set to report via steward channels with calm facts."
+    },
+    "chapter12_incident_context": {
+      "assault_followthrough": "Irix’s injury and the identity indicators mentioned became a formalized reporting thread; Kestrel prioritized procedural safety, witness discipline, and minimizing public escalation.",
+      "guardian_shift": "Kestrel became the explicit day-to-day protective anchor for Irix while maintaining a stable, non-territorial bond with Jayson."
+    }
+  },
+  "future": {
+    "symbol": "A quiet knock instead of a drawn blade",
+    "role": "Balancer, witness, boundary-keeper",
+    "arc": "From observer to chosen ally",
+    "hesitation": "Letting attachment fully form",
+    "legacy": [
+      "Model of restraint in hostile systems",
+      "Proof that strength does not require dominance",
+      "Demonstration that trust can be tactical without being transactional",
+      "A stabilizing constant in a story that keeps trying to tip into extremes",
+      "New: evidence that care and competence can coexist even under institutional surveillance"
+    ],
+    "reminder": "Not every fight is won by force"
+  },
+  "final_note": "By the end of Chapter 7, Kestrel is no longer simply accompanying the anomaly—she is part of the line that keeps things from breaking, choosing presence, restraint, and deliberate trust in a world that rewards neither.",
+  "final_note_addendum_ch11": "By the end of Chapter 11, Kestrel’s restraint evolves into administrative combat: she learns to treat wards, labels, and quiet-hours procedure as terrain. When Irix is harmed and fear turns inward, Kestrel becomes the stabilizing hinge—protecting dignity, preventing escalation that would become institutional ammunition, and turning chaos into a reportable timeline.",
+  "final_note_addendum_ch12": "By the end of Chapter 12, Kestrel’s role hardens into explicit guardianship for Irix while her bond with Jayson strengthens through boundary-respect and repair. She proves she can hold procedure and tenderness at once: reportcraft in one hand, dinner-routine stability in the other, refusing to let cruelty or rumor turn their trio into easy prey."
+}

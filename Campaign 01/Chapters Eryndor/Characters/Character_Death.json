@@ -1,0 +1,390 @@
+{
+  "name": [
+    "Nyx",
+    "Death"
+  ],
+  "title": [
+    "Death",
+    "The Final Rider",
+    "Merciful Finality",
+    "The End That Walks",
+    "Keeper of the Last Threshold",
+    "Candidate 024",
+    "Triune Scholar"
+  ],
+  "quote": "They see endings and assume cruelty. Peace is closer.",
+  "appearance": {
+    "age": {
+      "Visual": "Adult woman in her chosen incarnate forms",
+      "Actual": "Ancient beyond conventional measurement; one Death across multiple universes"
+    },
+    "height": {
+      "Felari Form": "Not precisely established",
+      "True Form": "Vast beyond ordinary scale; only a fraction can be meaningfully reflected inside a mortal room"
+    },
+    "build": {
+      "Felari Form": "Lean, athletic cheetah Felari build",
+      "True Form": "Colossal, horned, and more conceptual than biological"
+    },
+    "hair": {
+      "Felari Form": "Not separately established beneath her feline features",
+      "True Form": "No conventional hair established"
+    },
+    "facial_hair": "None",
+    "eyes": {
+      "Felari Form": "Watchful, confident, and predatory; exact colour not established",
+      "True Form": "Depthless abyssal eyes containing distant, dying lights"
+    },
+    "skin": {
+      "Felari Form": "Cheetah-patterned fur in her current university disguise",
+      "True Form": "A dark, immense silhouette that appears to absorb or contain surrounding light"
+    },
+    "scent": "Usually subtle and difficult to distinguish in Felari form; her true presence carries cold stillness, old roads, extinguished fire, and the clean silence following completion",
+    "posture": {
+      "Felari Form": "Relaxed, confident, and casually dangerous; often leans against walls or hearths as though no room can threaten her",
+      "True Form": "Still, immense, and patient; never hurried because everything reaches her eventually"
+    },
+    "relationship": {
+      "Jayson": {
+        "Status": "Friend, confidant, and disruptive mortal equal",
+        "Notes": "Jayson met Nyx within Elandria's divine realm and responded to her with fascination rather than fear. He helped restore or articulate the merciful aspect of her nature, invited her to experience university life, defended her right to be treated as a person, and later revealed her identity to Kestrel and Irix with her permission."
+      },
+      "Pip": {
+        "Status": "Trusted divine friend",
+        "Names": [
+          "Pretty cat",
+          "Pretty Death cat",
+          "Big pretty Death",
+          "Big Nyx friend"
+        ],
+        "Notes": "Pip recognizes Nyx in both disguise and reflected true form without fear. Nyx responds to her with unusual gentleness and once returned Pip's wave through a true-form reflection."
+      },
+      "Kestrel": {
+        "Status": "Newly trusted friend and university neighbour",
+        "Notes": "Kestrel learned Nyx's identity directly from Jayson with Nyx's permission. She now knows Nyx is literal Death and has agreed to continue treating her by her chosen name."
+      },
+      "Irix": {
+        "Status": "Newly trusted friend",
+        "Notes": "Irix learned Nyx's identity within her warded suite. Despite initial shock, she accepted Nyx without kneeling or fleeing and continues addressing her normally."
+      },
+      "Elandria": {
+        "Status": "Ancient divine acquaintance",
+        "Notes": "Elandria knows Nyx's identity, true nature, temperament, and relationship with Solstice. Their familiarity suggests a long history among divine and cosmic powers."
+      },
+      "Solstice": {
+        "Status": "Ancient companion",
+        "Notes": "Solstice is Nyx's colossal white mare and the horse associated with Death. Nyx does not describe Solstice as property and insists that they travel together rather than one owning the other."
+      },
+      "War": {
+        "Status": "Fellow Rider",
+        "Notes": "One of the Four Riders of the Apocalypse. Exact personal relationship not yet established."
+      },
+      "Pestilence": {
+        "Status": "Fellow Rider",
+        "Notes": "One of the Four Riders of the Apocalypse. Exact personal relationship not yet established."
+      },
+      "Famine": {
+        "Status": "Fellow Rider",
+        "Notes": "One of the Four Riders of the Apocalypse. Exact personal relationship not yet established."
+      },
+      "Sari": {
+        "Status": "Trusted friend / keeper of secret",
+        "Notes": "Chapter 14: after Pip repeatedly called her Pretty Death, Nyx chose to reveal to Sari that she is literal Death. Sari accepted the truth and agreed to keep Nyx's identity private."
+      }
+    },
+    "race": {
+      "True": "Primordial cosmic embodiment of Death",
+      "Current Disguise": "Cheetah Felari"
+    },
+    "siblings": {
+      "None": "No biological siblings established; War, Pestilence, and Famine are fellow Riders rather than confirmed siblings"
+    },
+    "tails": {
+      "Felari Form": "One long cheetah tail",
+      "True Form": "None established"
+    }
+  },
+  "reactions": {
+    "wind": "Ordinary wind has little effect on her beyond moving fur or clothing. In her full presence, air may become unnaturally still, as though motion itself has paused.",
+    "water": "Unaffected by ordinary water and weather; reflections in still or enchanted surfaces may reveal portions of her true form.",
+    "sound": "Can create or accompany profound silence. Animals, insects, pipes, furniture, and even wards may fall quiet when her true nature presses close to the surface.",
+    "temperature": "Does not appear meaningfully affected by mortal heat or cold. Hearths may dim or become cold-burning when her deeper presence manifests."
+  },
+  "speech": {
+    "voice": "Low, composed, confident, and often dryly amused; capable of becoming vast and quiet without increasing volume",
+    "vocabulary": "Precise, direct, ancient, and conversational; avoids unnecessary ceremony despite her cosmic status",
+    "pacing": "Unhurried and deliberate; frequently pauses long enough for others to confront the implications of what she has said",
+    "accent": "Not established in available canon",
+    "habits": [
+      "Uses dry understatement when discussing cosmic or terrifying subjects",
+      "Corrects misconceptions without demanding reverence",
+      "Answers personal questions more honestly than institutional ones",
+      "Refers to Solstice as a companion rather than a possession",
+      "Treats roads, rules, wards, and administrative systems as negotiable inconveniences",
+      "Uses mortal humour with increasing frequency around Jayson and Pip",
+      "Allows silence to carry part of her meaning",
+      "Responds to fear with patience unless it becomes cruelty or disrespect",
+      "Maintains plausible deniability when asked questions before a planned revelation",
+      "Rarely raises her voice because her presence supplies its own authority"
+    ],
+    "growth": "Nyx has shifted from an abstract cosmic certainty into an active participant in ordinary life. Through Jayson, Pip, Kestrel, and Irix, she is experimenting with friendship, education, domestic proximity, humour, and being known by a personal name rather than only by her function."
+  },
+  "emotional": {
+    "core_traits": [
+      "Patient",
+      "Confident",
+      "Ancient",
+      "Perceptive",
+      "Dryly playful",
+      "Dangerous",
+      "Merciful",
+      "Independent"
+    ],
+    "beneath": [
+      "A deep weariness born from witnessing every form of ending",
+      "A desire to be understood as more than terror or annihilation",
+      "Curiosity about lives defined by beginnings, routines, and choices rather than conclusions",
+      "Quiet affection for those who see her without worship or revulsion",
+      "A restored connection to death as peace, completion, and mercy"
+    ],
+    "triggers": [
+      "Attempts to bind, command, own, or reduce her to a tool",
+      "Cruelty disguised as necessity",
+      "Desecration of natural death",
+      "Threats against those she has accepted as companions",
+      "Treating Solstice as property or an ordinary mount",
+      "Arrogant attempts to evade all consequence through necromancy or soul imprisonment",
+      "People confusing death with pointless suffering"
+    ],
+    "vulnerabilities": [
+      "Her cosmic role separates her from ordinary intimacy",
+      "Most beings fear her before learning anything personal about her",
+      "Being one Death across universes may expose her to immense cumulative grief and responsibility",
+      "Her true scale cannot fully enter ordinary spaces without disturbing reality",
+      "She is still learning how to participate in relationships without observing them from outside",
+      "Her growing attachment to Jayson, Pip, and their friends creates personal stakes she may not be accustomed to carrying"
+    ],
+    "affection_tells": [
+      "Allows others to use the name Nyx",
+      "Remains nearby without announcing protection",
+      "Uses teasing rather than cosmic intimidation",
+      "Answers questions that she could easily evade",
+      "Shares details about Solstice",
+      "Permits trusted people to glimpse her true form",
+      "Responds gently to Pip",
+      "Accepts invitations into ordinary spaces",
+      "Treats someone as an equal rather than a soul awaiting collection",
+      "Uses a person's joke or phrase later as though privately keeping it"
+    ],
+    "growth": [
+      "Allowed Jayson to see her as a person rather than only an embodiment",
+      "Accepted the concept of Merciful Finality as central to her nature",
+      "Agreed to experience mortal university life",
+      "Entered Eryndor University as Candidate 024",
+      "Accepted a Triune Scholar placement spanning Axiomatic, Veiled, and restricted Transcendent study",
+      "Chose Room 14 beside Jayson and Kestrel",
+      "Permitted Jayson to tell Kestrel and Irix her identity",
+      "Displayed a fraction of her true form for trusted friends",
+      "Allowed herself to be praised as beautiful and peaceful",
+      "Began forming a social identity distinct from her cosmic office",
+      "Chapter 14: explained to Sari that she is literal Death, not a death mage or local spirit, and clarified that she guides those who have already crossed rather than hunting the living.",
+      "Chapter 14: participated comfortably in Room 13 domestic life, shopping, teasing, tea, and friendship while maintaining her Felari student identity in public.",
+      "Chapter 14: told Jayson that if a soul had not truly crossed she could wait, and if a person were truly dead, returning them would be resurrection; if it could be done without destroying them and he asked, she would try."
+    ]
+  },
+  "social": {
+    "alone": [
+      "Exists comfortably within profound silence",
+      "May observe countless endings across worlds simultaneously",
+      "Travels with Solstice along roads that may be physical, spiritual, temporal, or conceptual",
+      "Does not require ordinary sleep, though she may rest or imitate mortal routines",
+      "Appears contemplative rather than lonely, but her interest in university suggests solitude has become insufficient"
+    ],
+    "with_others": [
+      "With Jayson, she is amused, candid, and unusually tolerant of irreverence",
+      "With Pip, she is gentle, protective, and willing to simplify without condescension",
+      "With Kestrel, she respects careful intelligence and direct questions",
+      "With Irix, she responds well to suspicion that becomes honest acceptance",
+      "With Elandria, she behaves as an ancient peer rather than subordinate or superior",
+      "With strangers, she prefers to remain Nyx the Felari student until revelation becomes necessary",
+      "With worshippers or frightened mortals, she does not appear to seek reverence",
+      "With Solstice, she behaves as one half of an ancient partnership"
+    ]
+  },
+  "values": {
+    "values": [
+      "Natural endings",
+      "Mercy",
+      "Completion",
+      "Freedom",
+      "Personal names",
+      "Chosen companionship",
+      "Honest curiosity",
+      "Consequences",
+      "Dignity in death",
+      "Lives being allowed to matter before they end"
+    ],
+    "fears": [
+      "Becoming nothing more than annihilation",
+      "Losing the merciful meaning of her role",
+      "Endings being corrupted into endless torment or imprisonment",
+      "Her attachments being used against those she cares for",
+      "Being worshipped, feared, or controlled so completely that Nyx disappears beneath Death",
+      "A cosmic imbalance among the Riders"
+    ],
+    "strengths": [
+      "Primordial authority over death",
+      "Existence across multiple universes",
+      "Near-limitless patience",
+      "Exceptional perception of souls, endings, and concealed identities",
+      "Resistance to mortal magic, physical threats, and institutional control",
+      "Ability to move through wards and metaphysical boundaries",
+      "Profound emotional composure",
+      "A presence capable of silencing rooms, systems, and living instincts",
+      "Ancient knowledge of gods, worlds, souls, and apocalypse",
+      "An increasingly strong capacity for mercy"
+    ],
+    "weaknesses": [
+      "Alien perspective on ordinary mortal urgency",
+      "Can be cryptic when a direct answer would cause less panic",
+      "May underestimate the emotional impact of revealing her nature",
+      "Her presence disrupts wards, reflections, temperature, and biological rhythms",
+      "Her cosmic responsibilities may conflict with her personal attachments",
+      "Has little patience for bureaucracy despite voluntarily becoming a student",
+      "Her humour can become unnerving because she speaks from literal experience"
+    ]
+  },
+  "combat": {
+    "titles": [
+      "Death",
+      "The Final Rider",
+      "Merciful Finality",
+      "Keeper of the Last Threshold",
+      "The End That Walks"
+    ],
+    "style": "Nyx does not fight like a conventional warrior. She ends motion, certainty, resistance, and life through direct metaphysical authority. Her preferred style is effortless, economical, and inevitable rather than theatrical. She may allow an opponent opportunities to stop, but once she acts, the encounter is usually already over.",
+    "weapons": [
+      "Her true presence",
+      "Absolute authority over death and dying",
+      "Soul perception",
+      "Conceptual finality",
+      "Solstice as an independent companion in apocalyptic conflict",
+      "Potential Rider armaments not yet established"
+    ],
+    "magic": [
+      "Embodiment of death across universes",
+      "Perception of souls and approaching endings",
+      "Passage through spiritual, planar, and dimensional boundaries",
+      "Suppression or termination of life functions",
+      "Control over silence and stillness",
+      "Manifestation through shadows and reflections",
+      "Partial revelation of a vast true form",
+      "Resistance to mortal wards and classification systems",
+      "Recognition of the dead, dying, immortal, resurrected, and soul-bound",
+      "Possible severance of necromantic bindings",
+      "Ability to reclaim or guide souls",
+      "Cosmic communication with Solstice across sealed spaces",
+      "Presence capable of forcing environmental systems into submission"
+    ],
+    "recent": [
+      "Met Jayson within Elandria's divine stables after he loudly discussed Death's appearance",
+      "Allowed Jayson to approach her with irreverence and attraction rather than destroying him",
+      "Revealed that Nyx is one of her genuine names",
+      "Accepted Jayson's invitation to experience university life",
+      "Entered Eryndor University as Candidate 024 in a cheetah Felari disguise",
+      "Passed or bypassed institutional assessments without openly revealing her identity",
+      "Received a Triune Scholar charter with Axiomatic residence, Veiled cross-discipline access, and restricted Transcendent faculty access",
+      "Moved into Room 14 beside Jayson and Kestrel",
+      "Allowed Pip to call her pretty cat and pretty Death cat",
+      "Permitted Jayson to reveal her identity to Kestrel and Irix",
+      "Displayed a fraction of her true form through Irix's dark window",
+      "Returned Pip's wave through the reflection",
+      "Accepted Jayson's description of her true form as vast, beautiful, and peaceful",
+      "Began participating openly in the group's friendship while remaining incognito to the wider university",
+      "Chapter 14: remained beside Jayson during the vivarium rescue aftermath and accepted his plea in Kitsune that one critically injured Wolfkin woman not be taken 'today'.",
+      "Chapter 14: clarified the boundary between waiting for a not-yet-crossed soul and true resurrection."
+    ]
+  },
+  "notable_scenes": [
+    {
+      "chapter13": [
+        "Was first introduced through Solstice and the four ancient horses kept within Elandria's divine stables.",
+        "Appeared after Jayson loudly and repeatedly discussed Death's appearance and desirability.",
+        "Allowed Jayson to interact with her casually despite Elandria's concern that he might provoke a lethal response.",
+        "Clarified that Solstice was her companion rather than property.",
+        "Showed interest in Jayson's unusual relationship with death, survival, and cosmic forces.",
+        "Accepted the name Nyx as personal, old, real, and freely given.",
+        "Agreed to enter Eryndor University and experience student life as something different.",
+        "Assumed the disguise of a cheetah Felari and entered as Candidate 024.",
+        "Received an unprecedented Triune Scholar placement spanning three Houses or disciplines.",
+        "Was assigned Room 14 beside Jayson's Room 13 and Kestrel's Room 12.",
+        "Formed an immediate bond with Pip, who recognized her true nature without fear.",
+        "Attended dinner and social events while maintaining her identity as an unusual Felari student.",
+        "Agreed that Jayson could reveal her identity to Kestrel and Irix because they were his closest friends.",
+        "Listened while Jayson described Solstice and the other apocalypse horses before revealing that he had met Death.",
+        "Allowed Jayson to disclose that Death's name was Nyx and that he had invited her to university.",
+        "Confirmed that she wanted Kestrel and Irix to continue calling her Nyx.",
+        "Demonstrated the reflection phenomenon through Irix's dark window.",
+        "Revealed a fraction of her vast, horned true form with abyssal eyes and a presence that silenced the room.",
+        "Waved back to Pip through the reflection.",
+        "Explained that her true nature was closer to peace and completion than cruelty.",
+        "Accepted Jayson's declaration that Death had become the life of the group.",
+        "Ended the chapter in Room 14 after being told to exist well tonight."
+      ]
+    },
+    {
+      "chapter14": [
+        "Supported the group during the exposure of a university network abusing Beastfolk and juvenile mimics.",
+        "Stayed with Jayson during the medical aftermath of the hidden vivarium rescue and accepted his request that a critically injured Wolfkin woman not die that day.",
+        "Explained that she can wait when someone has not truly crossed, but that returning someone truly dead is resurrection rather than ordinary death-guidance.",
+        "After Pip repeatedly called her Pretty Death, chose to tell Sari the truth directly inside Room 13.",
+        "Clarified to Sari that she does not kill the living and that she guides those who have already crossed.",
+        "Joined the group's shopping trip in Valenhold while remaining publicly disguised as a cheetah Felari student.",
+        "Continued participating in jokes and domestic life without surrendering the secrecy of her wider identity."
+      ]
+    }
+  ],
+  "character_data": {
+    "inventory": {
+      "items": [
+        "Triune Scholar admissions token",
+        "Axiomatic House Room 14 residence access",
+        "Veiled cross-discipline authorization",
+        "Restricted Transcendent faculty access",
+        "Felari student clothing and disguise",
+        "Ancient companionship bond with Solstice",
+        "Knowledge gathered across countless worlds and endings"
+      ]
+    }
+  },
+  "future": {
+    "symbol": "A white mare waiting at the end of an endless road",
+    "role": "Cosmic embodiment of Death, one of the Four Riders, university student, protector of natural endings, and emerging member of Jayson's chosen family",
+    "arc": "Nyx's arc explores whether Death can participate fully in life without abandoning her purpose. University gives her a place where she may learn, form friendships, experience routine, and become known personally, while future crises will test whether Merciful Finality can coexist with apocalyptic duty.",
+    "hesitation": "Nyx is willing to experience life, but she may hesitate to form deeper attachments because every mortal relationship is one she will eventually be required to end or witness ending.",
+    "legacy": [
+      "The one Death shared across universes",
+      "The Rider who reclaimed mercy as part of finality",
+      "The ancient being who became Candidate 024",
+      "The student in Room 14",
+      "Solstice's eternal travelling companion",
+      "The beautiful shape waiting beyond the final reflection",
+      "The end that chose, briefly, to learn how beginnings feel"
+    ],
+    "reminder": "Nyx is literal Death, not merely a death goddess, necromancer, psychopomp, demon, or local spirit. She should never be reduced to a harmless student, but she should also never become a one-note horror. Her defining tension is that she is terrifying because she is inevitable and beautiful because she is merciful.",
+    "secret_status": {
+      "Knows": [
+        "Jayson",
+        "Pip",
+        "Elandria",
+        "Kestrel",
+        "Irix",
+        "Sari"
+      ],
+      "Public Identity": "Nyx, cheetah Felari and Candidate 024",
+      "University Status": "Triune Scholar residing in Axiomatic House Room 14",
+      "Disclosure Rule": "Her identity should remain secret from the wider university unless Nyx permits or circumstances force a revelation"
+    }
+  },
+  "final_note": "Nyx should feel ancient without becoming emotionally inert. She is the silence after suffering stops, the last hand offered at the end of a road, and the certainty that no prison, tyrant, god, or wound can hold a soul forever. Around Jayson and Pip, that cosmic finality gains humour, curiosity, affection, and a personal name."
+}

@@ -1,0 +1,281 @@
+{
+  "name": "Elandria",
+  "title": [
+    "Goddess of Eryndor",
+    "Keeper of the Divine Hinterland",
+    "Mistress of the Silver Orchard"
+  ],
+  "quote": "I came anyway.",
+  "appearance": {
+    "age": {
+      "Visual": "Adult woman; exact apparent age not established",
+      "Actual": "Ancient; exact age not established"
+    },
+    "height": "Not established in available canon",
+    "build": "Human-presenting divine form; exact build not established",
+    "hair": "Not established in available canon",
+    "facial_hair": "None",
+    "eyes": "Not physically described; highly expressive despite her controlled demeanor",
+    "skin": "Human-presenting; produces luminous golden divine blood",
+    "scent": "Often associated with divine stillness, orchard air, wine, and the strange clean atmosphere of her realm",
+    "posture": "Usually composed, economical, and self-possessed; keeps her hands visible and movements deliberate when attempting to appear non-threatening; straightens instantly when a genuine cosmic danger announces itself",
+    "relationship": {
+      "Jayson": {
+        "Status": "Strained divine connection moving toward reluctant reconciliation",
+        "Notes": "She participated in the actions that displaced him and separated him from his family, making her a focus of his rage. In Chapter 13 she approached socially rather than commandingly, accepted his hostility without retaliation, fulfilled his demand to return four wives safely home, invited him into her private realm, introduced him to her family, and allowed him to take responsibility for Pip."
+      },
+      "Husband": {
+        "Status": "Married",
+        "Notes": "A calm, scholarly man frequently found reading in the household library. Their marriage is comfortable enough to include dry teasing, family jokes, and mutual familiarity."
+      },
+      "Older Child": {
+        "Status": "Daughter",
+        "Notes": "Lives within Elandria's divine household; observant, curious, and comfortable teasing her mother."
+      },
+      "Younger Child": {
+        "Status": "Son",
+        "Notes": "Lives within Elandria's divine household; energetic, candid, and equally willing to expose family jokes."
+      },
+      "Pip": {
+        "Status": "Former divine-nursery dependent",
+        "Notes": "Elandria maintained the nursery in which Pip lived. She allowed Pip to leave with Jayson after confirming his acceptance of the long-term responsibility."
+      },
+      "Nyx": {
+        "Status": "Ancient divine acquaintance",
+        "Notes": "Knows Nyx as the literal embodiment of Death, recognizes Solstice, and is familiar enough with Nyx to discuss her temperament, appearance, relationship status, and likely response to Jayson's behavior."
+      },
+      "Sari": {
+        "Status": "New acquaintance / ally",
+        "Notes": "Chapter 14: met Sari and Mela in Room 13, introduced herself without ceremony, confirmed she had provided mimic starter supplies, and treated Mela as a child/person rather than an object."
+      },
+      "Mela": {
+        "Status": "Protective divine acquaintance",
+        "Notes": "Chapter 14: met Mela after her rescue, assessed her condition gently, accepted fruit from her, and recognized Sari as her mother."
+      }
+    },
+    "race": "Goddess / divine entity",
+    "siblings": {
+      "None": "No siblings have been established in available canon"
+    },
+    "tails": "None"
+  },
+  "reactions": {
+    "wind": "Her divine realm possesses unnaturally still air unless she or another power permits change; she shows little ordinary physical response to wind.",
+    "water": "No distinctive personal reaction established; capable of providing ordinary water within her divine household rather than insisting on divine substitutes.",
+    "sound": "Highly attentive to distant or metaphysically displaced sounds; becomes immediately alert when an unknown ancient voice or cosmic presence carries into her domain.",
+    "temperature": "Appears unaffected by ordinary temperature; reacts to changes as information rather than discomfort."
+  },
+  "speech": {
+    "voice": "Controlled, mature, dry, and usually calm; capable of sounding sober and entirely sincere when stakes become personal",
+    "vocabulary": "Precise and educated without excessive ceremony; shifts easily between divine concepts, domestic practicality, and dry humor",
+    "pacing": "Measured and patient; leaves space for anger without rushing to defend herself; becomes clipped and direct when danger or responsibility demands it",
+    "accent": "Not established in available canon",
+    "habits": [
+      "Uses dry understatement when surrounded by absurdity",
+      "Answers direct questions plainly when concealment is no longer useful",
+      "Keeps her hands open and visible when approaching Jayson during periods of hostility",
+      "Avoids retaliating merely to preserve divine dignity",
+      "Uses domestic hospitality, especially wine and tea, to create less adversarial conversations",
+      "Frequently becomes the exhausted straight-faced observer of Jayson, Nyx, Pip, and her own opinionated household",
+      "Internally comments on embarrassing domestic details while refusing to say them aloud",
+      "Uses warnings that are practical rather than theatrical",
+      "Chapter 14: tolerates irreverent domestic nicknames from trusted company, including the increasingly persistent Cow Goddess / Goddess of Livestock joke, while drawing the line at using it publicly."
+    ],
+    "growth": "Chapter 13 moves her from distant divine authority toward accountability through action. Instead of defending her earlier decisions, she accepts Jayson's hatred, meets a concrete demand by returning his wives home, opens her private life to him, and begins interacting with him as a person rather than a managed variable."
+  },
+  "emotional": {
+    "core_traits": [
+      "Composed",
+      "Patient",
+      "Dryly humorous",
+      "Pragmatic",
+      "Powerful",
+      "Familial"
+    ],
+    "beneath": [
+      "Guilt over the harm caused to Jayson and his family",
+      "A genuine desire to repair damage without demanding immediate forgiveness",
+      "Protectiveness toward her household and nursery dependents",
+      "Loneliness or social isolation implied by how rarely she brings guests home",
+      "A preference for ordinary companionship over divine ceremony when she feels safe"
+    ],
+    "triggers": [
+      "Direct threats against her family or dependents",
+      "Ancient cosmic entities entering or addressing her realm unexpectedly",
+      "The possibility that Jayson’s loved ones remain endangered because of divine interference",
+      "Careless treatment of juvenile mimics",
+      "Her household publicly exposing embarrassing domestic details"
+    ],
+    "vulnerabilities": [
+      "Her authority cannot repair trust by itself",
+      "She has previously treated lives and relationships as pieces within a larger divine problem",
+      "Her explanations can sound like excuses when action is required",
+      "Jayson's hatred reaches her because she knows it is not baseless",
+      "She appears socially awkward when stripped of divine office and placed before her family",
+      "Golden divine blood can be physically drawn and used in powerful rites"
+    ],
+    "affection_tells": [
+      "Arrives socially rather than officially",
+      "Brings mortal wine instead of divine spectacle",
+      "Creates absolute privacy without using it as leverage",
+      "Allows teasing that would be intolerable in a formal divine court",
+      "Introduces someone to her husband, children, home, orchard, stables, and nursery",
+      "Uses practical warnings to keep others safe",
+      "Acts on requests rather than offering another speech",
+      "Lets her controlled expression soften into small, reluctant smiles"
+    ],
+    "growth": [
+      "Accepted Jayson's stated intention to kill her without retaliating",
+      "Acknowledged that he had warned her and that his fury was genuine",
+      "Returned four of Jayson's wives safely to their home universe",
+      "Allowed Jayson to witness her domestic identity as wife and mother",
+      "Permitted Jayson to adopt Pip from the divine mimic nursery",
+      "Began replacing control and explanation with concrete repair",
+      "Showed willingness to endure discomfort without demanding forgiveness as payment",
+      "Chapter 14: continued shifting from distant goddess to ordinary friend in Room 13, accepting the house rule of 'no titles, only friends'.",
+      "Chapter 14: offered mimic-care guidance and supplies to Sari without demanding reverence.",
+      "Chapter 14: became comfortable enough to join the group's city shopping trip and indulge in an unnecessary coat while still maintaining public discretion."
+    ]
+  },
+  "social": {
+    "alone": [
+      "Quietly reflective",
+      "More burdened than her public composure suggests",
+      "Likely to plan corrective actions privately before announcing them",
+      "Comfortable with stillness, wine, books, and the self-governing rhythms of her realm"
+    ],
+    "with_others": [
+      "With Jayson, she absorbs hostility, uses dry humor cautiously, and avoids invoking rank unless necessary",
+      "With her husband, she is familiar, mildly competitive, and vulnerable to domestic teasing",
+      "With her children, she is parental but regularly outmaneuvered by their honesty",
+      "With Pip and the mimic nursery, she is protective, practical, and strict about safety",
+      "With Nyx, she treats Death as an ancient peer rather than an object of worship or terror",
+      "In her own home, she is less a remote goddess and more a tired wife, mother, caretaker, and reluctant host"
+    ]
+  },
+  "values": {
+    "values": [
+      "Family",
+      "Protection of dependents",
+      "Cosmic stability",
+      "Responsibility for consequences",
+      "Privacy",
+      "Action over empty explanation",
+      "Hospitality without coercion",
+      "The preservation of life across worlds"
+    ],
+    "fears": [
+      "Causing irreversible harm while attempting to preserve a larger order",
+      "Jayson's family dying because of divine choices",
+      "Losing the possibility of repairing what she helped break",
+      "Threats reaching her husband, children, nursery, or realm",
+      "Ancient forces acting inside her domain beyond her control"
+    ],
+    "strengths": [
+      "Immense divine authority",
+      "Cross-universal transportation",
+      "Planar access and realm control",
+      "Exceptional emotional composure under direct threats",
+      "Capacity to create perfect privacy beyond university surveillance",
+      "Ability to admit fault through action",
+      "Knowledge of gods, cosmic entities, afterlives, and the Four Riders",
+      "Protective stewardship of rare magical creatures"
+    ],
+    "weaknesses": [
+      "Can become paternalistic and decide what others need without their agreement",
+      "Often communicates after harm rather than before it",
+      "Divine perspective can obscure the personal cost of her decisions",
+      "Uses restraint and composure so heavily that sincerity may be mistaken for manipulation",
+      "Has difficulty defending her dignity against her own family and sentient house",
+      "Repairing trust with Jayson remains dependent on continued action"
+    ]
+  },
+  "combat": {
+    "titles": [
+      "Goddess of Eryndor",
+      "Keeper of the Divine Hinterland",
+      "Planar Sovereign"
+    ],
+    "style": "Not fully demonstrated. Her established behavior suggests overwhelming reality control, spatial authority, isolation of environments, and decisive divine intervention rather than conventional weapon combat. When confronted by Jayson, she deliberately chose not to defend herself or escalate.",
+    "weapons": [
+      "Divine authority",
+      "Her own golden blood as a potent metaphysical substance",
+      "Environmental and planar control"
+    ],
+    "magic": [
+      "Cross-universal teleportation of living beings",
+      "Travel between Eryndor, mortal spaces, and the divine realm",
+      "Absolute privacy fields that bypass or suppress university surveillance wards",
+      "Spatial manifestation inside secured rooms",
+      "Control over access to her divine hinterland",
+      "Maintenance of a sentient divine household and protected mimic nursery",
+      "Divine resilience and immortality",
+      "Knowledge of sealing rites and metaphysical boundaries",
+      "Potential reality alteration on a scale not yet fully displayed"
+    ],
+    "recent": [
+      "Entered Jayson's secured university room without triggering campus wards",
+      "Withstood his direct lethal threat without counterattacking",
+      "Sent four of his wives across universes to their home safely",
+      "Brought Jayson into the realm of the gods",
+      "Allowed him access to her household, family, stables, orchard, and mimic nursery",
+      "Witnessed Jayson meet Nyx and survive the encounter",
+      "Accepted a physical wound from Jayson during a later crisis involving Lysera and Seika",
+      "Her golden blood was used by Jayson to form and close a protective seal"
+    ]
+  },
+  "notable_scenes": [
+    {
+      "chapter13": [
+        "Appeared inside Room 13 with mortal wine and a second glass, seeking a social conversation rather than issuing a divine command.",
+        "Faced Jayson while he threatened to tear out her heart; acknowledged that he had warned her and refused to retaliate.",
+        "Accepted Jayson's demand that his four stranded wives be returned home and completed the transfer safely.",
+        "Took Jayson into her divine realm and revealed an unexpectedly domestic life with a husband, two children, an opinionated sentient house, unusual drapes, a vast orchard, ancient stables, and a mimic nursery.",
+        "Endured relentless teasing from Jayson and her family while becoming visibly less remote and ceremonial.",
+        "Explained the presence of the nursery and allowed Jayson to claim responsibility for Pip after making clear that the decision carried real obligations.",
+        "Introduced Jayson to the four ancient horses connected to War, Death, Pestilence, and Famine.",
+        "Was present when Nyx entered the stable after Jayson loudly discussed Death's appearance and desirability.",
+        "Warned Jayson that biting Nyx without warning could cost him valued body parts.",
+        "Shared tea with Jayson, Nyx, Pip, and her household after the stable confrontation.",
+        "Later fulfilled the most meaningful act of repair so far by ensuring Jayson's wives were home and safe.",
+        "During a later crisis involving Lysera and Seika, was grabbed and wounded by Jayson; her golden blood became part of the ward he used to protect his distant loved ones."
+      ]
+    },
+    {
+      "chapter14": [
+        "Answered Jayson's casual summons to Room 13 after he called her a cow and met Sari and Mela.",
+        "Confirmed that the mimic starter case used for Mela came from her supplies and treated Sari as Mela's mother rather than a handler.",
+        "Accepted Room 13's informal rule that there are no titles among friends.",
+        "Endured Pip and Mela repeatedly calling her Cow Goddess / Ela Cow, eventually allowing Ela as a public shorthand while refusing the livestock title.",
+        "Joined the group in Valenhold after Sari's family visit and bought an elegant coat despite insisting she needed nothing.",
+        "Continued acting as an ally available to the group while maintaining her own family responsibilities and divine obligations."
+      ]
+    }
+  ],
+  "character_data": {
+    "inventory": {
+      "items": [
+        "Mortal wine selected for social visits",
+        "Access to the divine hinterland and its household resources",
+        "Custodianship records and supplies for the mimic nursery",
+        "Knowledge of planar routes and cross-universal destinations",
+        "Stables housing four ancient apocalypse-associated horses"
+      ]
+    }
+  },
+  "future": {
+    "symbol": "A second wineglass left waiting beside a sealed door",
+    "role": "Divine authority undergoing a transition from architect of Jayson's displacement to accountable ally, uneasy friend, and possible bridge between mortal, divine, and multiversal conflicts",
+    "arc": "Elandria must prove that her concern for Jayson and his family is not another form of management. Her redemption, if one is possible, will come through repeated acts of repair, respect for mortal autonomy, and willingness to oppose other divine interests when they threaten those she has already harmed.",
+    "hesitation": "She fears that intervention may cause further damage, yet delay and secrecy have already destroyed much of Jayson's trust.",
+    "legacy": [
+      "The goddess who displaced Jayson and separated his family",
+      "The goddess who eventually sent four wives safely home",
+      "Keeper of a hidden divine household and nursery",
+      "The first divine figure to begin earning back Jayson's trust through action",
+      "A possible mediator between Jayson, Nyx, the Riders, and the wider divine order"
+    ],
+    "reminder": "Elandria is not cold, omniscient, or emotionally untouched. She is immensely powerful, domestically grounded, dryly funny, capable of serious mistakes, and increasingly aware that divine necessity does not erase personal responsibility."
+  },
+  "final_note": "Elandria works best when her divinity and domestic humanity remain in tension. She can move people between universes, silence institutional wards, and host ancient apocalypse steeds, yet she can still be betrayed by her talking house, mocked by her children, embarrassed by her drapes, and forced to confront the fact that repairing one wounded family requires more than cosmic explanations."
+}

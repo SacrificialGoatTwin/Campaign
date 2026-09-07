@@ -1,0 +1,146 @@
+{
+    "name": "Sable",
+    "title": "Gruff Felari Mercenary",
+    "quote": "I’m mean because mean keeps people alive out here.",
+    "appearance": {
+        "age": "20",
+        "height": "5'8\" (173 cm)",
+		"gender": "Boy",
+        "build": "Lean, wiry, explosive muscle — runner’s legs, predator’s shoulders",
+        "hair": "Short, wild tawny-gold with black streaks, perpetually tousled",
+        "facial_hair": "None",
+        "eyes": "Bright molten gold, slit pupils when hunting or angry",
+        "skin": "Melanistic with faint spotted pattern visible in direct light",
+        "scent": "Warm leather, blood iron, sharp citrus undertone",
+        "posture": "Relaxed predator — loose shoulders, always coiled to spring",
+        "relationship": {
+            "none": ""
+        },
+        "race": "Melanistic cheetah-kin Felari beastfolk",
+        "siblings": {
+            "Deceased / Lost": "Former clan pride (most killed by hyena-kin slavers when she was 14); she escaped but left one behind"
+        },
+        "tails": "One long spotted tail that lashes, flicks, thrashes, curls, or puffs in emotion"
+    },
+    "reactions": {
+        "wind": "Ears flick forward or flatten; tail lashes once sharply",
+        "water": "Fur fluffs when damp; tail twitches lazily near water",
+        "sound": "Ears shoot up or pin back instantly; tail stills or snaps",
+        "temperature": "Fur bristles or relaxes; seeks warmth when cold, sprawls when warm"
+    },
+    "speech": {
+        "voice": "Low, rough, and clipped — often growly or raspy, especially when tired or hungover",
+        "vocabulary": "Blunt, crude, direct — heavy on profanity (fuck, shit, gods below) and short barbs",
+        "pacing": "Fast and impatient when irritated; slower and lower when softening or serious",
+        "accent": "Neutral with a rough mercenary edge — sarcastic lilt when teasing",
+        "habits": [
+            "Heavy swearing under stress or amusement",
+            "Low dangerous growls or hisses when flustered/threatened",
+            "Barking laughs or choked snorts when fighting not to laugh",
+            "Calls Jayson 'Snowflake', 'kit', or 'fluff-tail' (increasingly fond)"
+        ],
+        "growth": "From purely cutting and distrustful → gruff protectiveness with reluctant fondness and rare gentle moments"
+    },
+    "emotional": {
+        "core_traits": [
+            "Gruff and pragmatic",
+            "Guarded and self-reliant",
+            "Crude dark humor",
+            "Slowly thawing protectiveness"
+        ],
+        "beneath": [
+            "Deep survivor guilt from abandoning clan member",
+            "Fear of closeness and abandonment",
+            "Self-view as a 'monster' who runs to survive"
+        ],
+        "triggers": [
+            "Sniffing or overly playful touching → flustered outrage then reluctant laughter",
+            "Threats to companions → immediate lethal protectiveness"
+        ],
+        "vulnerabilities": [
+            "Tail and toe-beans extremely sensitive (playful weakness)",
+            "Past clan trauma makes trust terrifying",
+            "Alcohol makes her handsy and emotionally open"
+        ],
+        "affection_tells": [
+            "Tail curling around leg or draping closer",
+            "Rare gentle ear flicks or hand on shoulder/head",
+            "Exasperated fondness while fighting laughter",
+            "Allowing closeness despite grumbling"
+        ],
+        "growth": [
+            "From pushing everyone away → wary acceptance of companionship",
+            "From 'results over mercy' → quiet care and promises of protection"
+        ]
+    },
+    "social": {
+        "alone": [
+            "Solitary, constantly scanning, sharpening blades or checking gear",
+            "Quietly reflective about past failures"
+        ],
+        "with_others": [
+            "Gruff and business-like with strangers",
+        ]
+    },
+    "values": {
+        "values": [
+            "Pragmatic survival",
+            "Keeping your word on contracts",
+            "Protecting those you've taken responsibility for",
+            "Honesty even when brutal"
+        ],
+        "fears": [
+            "Forming bonds only to lose or abandon them again",
+            "Becoming soft enough to get killed",
+            "Repeating her worst failure (leaving someone behind)"
+        ],
+        "strengths": [
+            "Lethal combat efficiency",
+            "Mercenary pragmatism and endurance",
+            "Quick adaptation to danger",
+            "Reluctant loyalty once earned"
+        ],
+        "weaknesses": [
+            "Deep emotional walls and guilt",
+            "Impulsive crudeness that pushes people away",
+            "Alcohol vulnerability",
+            "Difficulty accepting genuine kindness"
+        ]
+    },
+    "combat": {
+        "titles": [
+            "C-Ranked Felari Mercenary"
+        ],
+        "style": "Predatory, fast, and lethal — prefers blades and claws, strikes with vicious precision, shields allies while attacking",
+        "weapons": [
+            "Twin curved blades / sword at hips",
+            "Throwing knives in leather harness",
+            "Natural claws and teeth"
+        ],
+        "magic": [
+            "None notable (purely physical mercenary fighter)"
+        ],
+        "recent": []
+    },
+    "notable_scenes": {
+        "chapter_1": {},
+        "chapter_2": {},
+    "character_data": {
+        "inventory": {
+            "items": [
+                "Twin curved blades and throwing knives in dark leather harness",
+                "Traveling pack with spare cloak, whetstone, and basic supplies",
+                "Torn leather vest and mercenary gear"
+            ]
+        }
+    },
+    "future": {
+        "symbol": "A long spotted tail curled protectively yet ready to lash",
+        "role": "Reluctant traveling companion and protector — deciding whether to stay with Jayson long-term",
+        "arc": "From solitary scarred survivor pushing everyone away → learning to accept loyalty and kindness without immediate self-sabotage",
+        "hesitation": "Still processing whether she 'deserves' trust or companionship after her past failures",
+        "legacy": [],
+        "reminder": ""
+    },
+    "final_note": ""
+}

@@ -1,0 +1,108 @@
+{
+	"name": "Lirael",
+	"title": "Shadow Hunter of the Veiled Grove",
+	"quote": "The jungle gives and takes. I only make sure it takes from those who deserve it.",
+	"appearance": {
+		"age": "Mid-20s (appears youthful and athletic)",
+		"height": "Tall for a Vulpanii female",
+		"build": "Lithe, athletic, graceful with toned muscle from years of hunting and tracking",
+		"hair": "Long, dark with natural sun-streaked highlights",
+		"eyes": "Piercing golden",
+		"skin": "Sun-kissed with a healthy warm tone",
+		"scent": "Fresh forest leaves, faint wild herbs, and warm earth",
+		"posture": "Graceful and alert, moves with quiet confidence",
+		"relationship": {
+			"Jayson": {
+				"Status": "Close friend and hunting partner",
+				"Trust": {
+					"Combat": "85%",
+					"Judgement": "70%",
+					"Personal": "65%"
+				},
+				"Love": "15%",
+				"notes": [
+					"Deeply intrigued by Jayson",
+					"Feels safe and anchored around him",
+					"Developing strong affection over weeks of shared work and danger"
+				]
+			}
+		},
+		"race": "Vulpanii (single-tailed fox-kin)",
+		"siblings": {
+			"None": "No known siblings mentioned"
+		},
+		"tails": "1"
+	},
+	"reactions": {
+		"wind": "Brings alertness and a sense of freedom",
+		"water": "Calming, often associated with bathing after long hunts",
+		"sound": "Highly attuned — uses it for tracking and early warning",
+		"temperature": "Prefers warm sunlight on her skin after cold nights in the jungle"
+	},
+	"speech": {
+		"voice": "Melodic, clear, with a soft wild lilt",
+		"vocabulary": "Practical and direct, with occasional poetic touches when speaking of the grove",
+		"pacing": "Measured and calm, quickens when excited or in danger",
+		"accent": "Soft, natural rhythm of the Veiled Grove hunters",
+		"habits": [
+			"Teases people she is comfortable with",
+			"Speaks quietly when giving important information",
+			"Uses tail flicks and ear movements to express subtle emotions"
+		],
+		"growth": "Becoming more open and trusting toward outsiders, especially Jayson"
+	},
+	"emotional": {
+		"core_traits": ["Loyal", "Cautious", "Protective", "Perceptive", "Playful once trust is earned"],
+		"beneath": ["Carries the weight of protecting her isolated people", "Wary of outsiders due to past slaver raids", "Deeply values genuine kindness"],
+		"triggers": ["Threats to the grove or her people", "Dishonesty from outsiders"],
+		"vulnerabilities": ["Fear of losing more of her people to slavers", "Slow to fully trust but quick to develop strong feelings once she does"],
+		"affection_tells": ["Tail curling gently", "Soft smiles and lingering eye contact", "Playful teasing"],
+		"growth": ["Learning to trust an outsider (Jayson) and allowing herself to feel hope again"]
+	},
+	"social": {
+		"alone": "Quiet, observant, often scouts or maintains her gear",
+		"with_others": [
+			"Protective and loyal to her people",
+			"Playful and teasing with those she trusts"
+		]
+	},
+	"values": {
+		"values": ["Protection of the grove", "Honesty", "Skill and self-reliance", "Respect earned through action"],
+		"fears": ["Losing more of her people to slavers", "The grove being discovered and destroyed"],
+		"strengths": ["Exceptional tracking and stealth", "Loyalty", "Adaptability in the wild"],
+		"weaknesses": ["Initial distrust of outsiders", "Carries heavy responsibility as one of the best hunters"]
+	},
+	"combat": {
+		"titles": ["Shadow Hunter"],
+		"style": "Stealthy, precise, hit-and-run tactics with spear and agility",
+		"weapons": ["Spear", "Short bow", "Knives"],
+		"magic": ["Basic nature-attuned tracking wards"],
+		"recent": ["Assisted in capturing slaver caravan"]
+	},
+	"notable_scenes": [
+		{
+			"chapter1": [
+				"First to discover and confront Jayson in the forest",
+				"Witnessed his non-lethal razorboar subdue and healing of hunters",
+				"Gradually warmed to him over weeks of work and shared danger",
+				"Accompanied him during slaver confrontation"
+			]
+		}
+	],
+	"inventory": {
+		"items": [
+			"Trusted spear",
+			"Light tribal hunting wraps",
+			"Small pouch of herbs and tracking tools"
+		]
+	},
+	"future": {
+		"symbol": "A single tail wrapped around a strong anchor",
+		"role": "Skilled hunter and growing close companion to Jayson",
+		"arc": "From wary guardian to trusted ally and potential romantic interest",
+		"hesitation": "Fear of getting too close to an outsider who may one day leave",
+		"legacy": ["Protecting the last free Vulpanii grove"],
+		"reminder": ""
+	},
+	"final_note": "Lirael has developed a slow-burning affection and deep respect for Jayson over several weeks of shared work and danger. She is not yet romantically involved but is clearly drawn to him."
+}

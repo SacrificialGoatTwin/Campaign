@@ -1,0 +1,126 @@
+{
+  "characters": {
+    "Jayson": "🦊"
+  },
+  "species": {
+    "elves": {
+      "generic": "🧝",
+      "moon_high_elf": "🌙",
+      "wood_jungle_elf": "🌿",
+      "dark_night_elf": "🕷️",
+      "fire_ember_elf": "🔥"
+    },
+    "dwarves": {
+      "standard": "⛏️",
+      "emberforged_dwarf": "🔥",
+      "deep_stone_dwarf": "🪨"
+    },
+    "smallfolk": {
+      "halfling": "🍞",
+      "gnome": "⚙️"
+    },
+    "monstrous": {
+      "orc": "🐗",
+      "goblin": "👺",
+      "ogre": "🦍",
+      "troll": "🪓",
+      "giant": "🗻"
+    },
+    "beastfolk": {
+      "kitsune": "🦊",
+	  "foxfolk": "🦊",
+	  "vulpanii": "🦊",
+      "wolf_dogfolk": "🐺",
+      "catfolk_felari": "🐱",
+      "lionfolk": "🦁",
+      "bearfolk": "🐻",
+      "rabbitfolk": "🐰",
+      "deerfolk_cervine": "🦌",
+      "taurfolk_cowfolk": "🐂",
+      "horsefolk": "🐎",
+      "boarfolk": "🐗",
+      "ratfolk": "🐀",
+      "batfolk": "🦇"
+    },
+    "birdfolk": {
+      "generic": "🐦",
+      "crow_ravenfolk": "🐦‍⬛",
+      "hawk_eaglefolk": "🦅",
+      "owlfolk": "🦉",
+      "phoenixkin": "🐦‍🔥"
+    },
+    "reptilian": {
+      "lizardfolk": "🦎",
+      "dragonkin": "🐲",
+	  "draconic": "🐲",
+      "serathi": "🐍",
+	  "snakefolk": "🐍",
+      "turtlefolk": "🐢",
+      "crocodilefolk": "🐊",
+      "frogfolk": "🐸"
+    },
+    "insectfolk": {
+      "generic": "🪲",
+      "antfolk": "🐜",
+      "beetlefolk": "🪲",
+      "spiderfolk": "🕷️"
+    },
+    "demonic": {
+      "demon": "👹",
+      "high_demon_archdemon": "🔱",
+      "devil_contract_bound": "👿"
+    },
+    "undead": {
+      "vampire": "🧛",
+      "dhampir": "🩸",
+      "werefolk": "🌕",
+      "ghost": "👻",
+      "wraith": "🖤",
+      "lich": "💀",
+      "revenant": "⚰️"
+    },
+    "divine": {
+      "angel": "😇",
+      "fallen_angel": "🪽",
+      "nephilim_half_divine": "✨"
+    },
+    "constructs": {
+      "golem": "🗿",
+      "automaton_construct": "🤖",
+      "homunculus": "🧪",
+      "living_doll": "🪆",
+      "spirit_bound_entity": "🔮"
+    },
+    "elementals": {
+      "generic": "🌪️",
+      "fire_elemental": "🔥",
+      "water_elemental": "🌊",
+      "earth_elemental": "🪨",
+      "air_elemental": "🌬️"
+    },
+    "cosmic": {
+      "shadowborn": "🌑",
+      "lightborn": "🌟",
+      "voidborn": "⚫"
+    },
+    "meta_entities": {
+      "system_world_state": "🎲",
+      "fate_destiny": "🧵",
+      "time_temporal_entity": "⏳",
+      "observer_watcher": "👁️",
+      "god_fragment": "🜂",
+      "unknown_anomalous": "❓"
+    }
+  },
+  "professions": {
+    "scholar_academic": "🎓",
+    "soldier_guard": "⚔️",
+    "authority_speaker": "🎤",
+    "merchant": "💰",
+    "healer": "✚",
+    "assassin": "🗡️"
+  },
+  "rules": [
+	"Profession emojis NEVER replace species emojis. They may only be used when species is unknown or irrelevant."
+  ]
+}
